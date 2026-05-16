@@ -21,12 +21,20 @@ def convert(version: str) -> dict:
     tier_cols = [col for col in reader.fieldnames if col.startswith("Tier ")]
 
     entries = []
+    seen_ids: dict[str, int] = {}
     for row in reader:
         uid = row.get("Unique ID", "").strip()
         parent_id = row.get("Parent ID", "").strip() or None
         name = row.get("Name", "").strip()
         if not uid or not name:
             continue
+
+        # Deduplicate IDs from source data quality issues (e.g. IAB v1.0 has duplicate ID 51)
+        if uid in seen_ids:
+            seen_ids[uid] += 1
+            uid = f"{uid}_{seen_ids[uid]}"
+        else:
+            seen_ids[uid] = 1
 
         path_parts = [row.get(col, "").strip() for col in tier_cols]
         path_parts = [p for p in path_parts if p]

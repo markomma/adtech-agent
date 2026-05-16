@@ -1,0 +1,3510 @@
+{
+  "metadata": {
+    "provider": "iab",
+    "taxonomy_type": "ad_product",
+    "version": "v2.0",
+    "snapshot_date": "2026-05-16",
+    "source_url": "https://raw.githubusercontent.com/InteractiveAdvertisingBureau/Taxonomies/main/Ad%20Product%20Taxonomies/Ad%20Product%20Taxonomy%202.0.tsv",
+    "fetched_at": "2026-05-16T12:29:07Z"
+  },
+  "entries": [
+    {
+      "id": "1000",
+      "parent_id": "1000",
+      "name": "Ad Safety Risk",
+      "full_path": "Ad Safety Risk"
+    },
+    {
+      "id": "1001",
+      "parent_id": null,
+      "name": "Adult Products and Services",
+      "full_path": "Adult Products and Services"
+    },
+    {
+      "id": "1002",
+      "parent_id": null,
+      "name": "Alcohol",
+      "full_path": "Alcohol"
+    },
+    {
+      "id": "1003",
+      "parent_id": "1002",
+      "name": "Bars",
+      "full_path": "Alcohol > Bars"
+    },
+    {
+      "id": "1004",
+      "parent_id": "1002",
+      "name": "Beer",
+      "full_path": "Alcohol > Beer"
+    },
+    {
+      "id": "1005",
+      "parent_id": "1002",
+      "name": "Hard Sodas, Seltzers, Alco Pops",
+      "full_path": "Alcohol > Hard Sodas, Seltzers, Alco Pops"
+    },
+    {
+      "id": "1006",
+      "parent_id": "1002",
+      "name": "Spirits",
+      "full_path": "Alcohol > Spirits"
+    },
+    {
+      "id": "1007",
+      "parent_id": "1002",
+      "name": "Wine",
+      "full_path": "Alcohol > Wine"
+    },
+    {
+      "id": "1008",
+      "parent_id": null,
+      "name": "Culture and Fine Arts",
+      "full_path": "Culture and Fine Arts"
+    },
+    {
+      "id": "1009",
+      "parent_id": "1008",
+      "name": "Museums and Galleries",
+      "full_path": "Culture and Fine Arts > Museums and Galleries"
+    },
+    {
+      "id": "1010",
+      "parent_id": null,
+      "name": "Business and Industrial",
+      "full_path": "Business and Industrial"
+    },
+    {
+      "id": "1011",
+      "parent_id": "1010",
+      "name": "Advertising and Marketing",
+      "full_path": "Business and Industrial > Advertising and Marketing"
+    },
+    {
+      "id": "1012",
+      "parent_id": "1010",
+      "name": "Business Services",
+      "full_path": "Business and Industrial > Business Services"
+    },
+    {
+      "id": "1013",
+      "parent_id": "1012",
+      "name": "Consulting",
+      "full_path": "Business and Industrial > Business Services > Consulting"
+    },
+    {
+      "id": "1014",
+      "parent_id": "1012",
+      "name": "Employee Expense and Time Tracking Services",
+      "full_path": "Business and Industrial > Business Services > Employee Expense and Time Tracking Services"
+    },
+    {
+      "id": "1015",
+      "parent_id": "1012",
+      "name": "Event Planning",
+      "full_path": "Business and Industrial > Business Services > Event Planning"
+    },
+    {
+      "id": "1016",
+      "parent_id": "1012",
+      "name": "Human Resources and Recruiting",
+      "full_path": "Business and Industrial > Business Services > Human Resources and Recruiting"
+    },
+    {
+      "id": "1017",
+      "parent_id": "1012",
+      "name": "Information Technology Services",
+      "full_path": "Business and Industrial > Business Services > Information Technology Services"
+    },
+    {
+      "id": "1018",
+      "parent_id": "1012",
+      "name": "Laundry and Dry Cleaning Services",
+      "full_path": "Business and Industrial > Business Services > Laundry and Dry Cleaning Services"
+    },
+    {
+      "id": "1019",
+      "parent_id": "1012",
+      "name": "Logistics and Delivery",
+      "full_path": "Business and Industrial > Business Services > Logistics and Delivery"
+    },
+    {
+      "id": "1020",
+      "parent_id": "1012",
+      "name": "Office Equipment and Supplies",
+      "full_path": "Business and Industrial > Business Services > Office Equipment and Supplies"
+    },
+    {
+      "id": "1021",
+      "parent_id": "1012",
+      "name": "Photographers",
+      "full_path": "Business and Industrial > Business Services > Photographers"
+    },
+    {
+      "id": "1022",
+      "parent_id": "1012",
+      "name": "Printing/Fax/WiFi Services",
+      "full_path": "Business and Industrial > Business Services > Printing/Fax/WiFi Services"
+    },
+    {
+      "id": "1023",
+      "parent_id": "1012",
+      "name": "Public Relations and Strategic Communication",
+      "full_path": "Business and Industrial > Business Services > Public Relations and Strategic Communication"
+    },
+    {
+      "id": "1024",
+      "parent_id": "1012",
+      "name": "Security and Protection",
+      "full_path": "Business and Industrial > Business Services > Security and Protection"
+    },
+    {
+      "id": "1025",
+      "parent_id": "1012",
+      "name": "Storage Facilities",
+      "full_path": "Business and Industrial > Business Services > Storage Facilities"
+    },
+    {
+      "id": "1026",
+      "parent_id": "1012",
+      "name": "Telecom Services",
+      "full_path": "Business and Industrial > Business Services > Telecom Services"
+    },
+    {
+      "id": "1027",
+      "parent_id": "1012",
+      "name": "Web Hosting and Cloud Computing",
+      "full_path": "Business and Industrial > Business Services > Web Hosting and Cloud Computing"
+    },
+    {
+      "id": "1028",
+      "parent_id": "1010",
+      "name": "Construction",
+      "full_path": "Business and Industrial > Construction"
+    },
+    {
+      "id": "1029",
+      "parent_id": "1010",
+      "name": "Energy Industry",
+      "full_path": "Business and Industrial > Energy Industry"
+    },
+    {
+      "id": "1030",
+      "parent_id": "1029",
+      "name": "Electric Power Industry",
+      "full_path": "Business and Industrial > Energy Industry > Electric Power Industry"
+    },
+    {
+      "id": "1031",
+      "parent_id": "1029",
+      "name": "Energy Services",
+      "full_path": "Business and Industrial > Energy Industry > Energy Services"
+    },
+    {
+      "id": "1032",
+      "parent_id": "1029",
+      "name": "Green Energy",
+      "full_path": "Business and Industrial > Energy Industry > Green Energy"
+    },
+    {
+      "id": "1033",
+      "parent_id": "1029",
+      "name": "Oil, Gas and Consumable Fuels",
+      "full_path": "Business and Industrial > Energy Industry > Oil, Gas and Consumable Fuels"
+    },
+    {
+      "id": "1034",
+      "parent_id": "1010",
+      "name": "Forestry and Logging",
+      "full_path": "Business and Industrial > Forestry and Logging"
+    },
+    {
+      "id": "1035",
+      "parent_id": "1010",
+      "name": "Industrial Storage",
+      "full_path": "Business and Industrial > Industrial Storage"
+    },
+    {
+      "id": "1036",
+      "parent_id": "1010",
+      "name": "Industrials",
+      "full_path": "Business and Industrial > Industrials"
+    },
+    {
+      "id": "1037",
+      "parent_id": "1037",
+      "name": "Aerospace and Defense",
+      "full_path": "Business and Industrial > Industrials > Aerospace and Defense"
+    },
+    {
+      "id": "1038",
+      "parent_id": "1037",
+      "name": "Construction and Engineering",
+      "full_path": "Business and Industrial > Industrials > Construction and Engineering"
+    },
+    {
+      "id": "1039",
+      "parent_id": "1037",
+      "name": "Industrial Conglomerates",
+      "full_path": "Business and Industrial > Industrials > Industrial Conglomerates"
+    },
+    {
+      "id": "1040",
+      "parent_id": "1037",
+      "name": "Trading Companies and Distributors",
+      "full_path": "Business and Industrial > Industrials > Trading Companies and Distributors"
+    },
+    {
+      "id": "1041",
+      "parent_id": "1037",
+      "name": "Transportation",
+      "full_path": "Business and Industrial > Industrials > Transportation"
+    },
+    {
+      "id": "1042",
+      "parent_id": "1010",
+      "name": "Manufacturing",
+      "full_path": "Business and Industrial > Manufacturing"
+    },
+    {
+      "id": "1043",
+      "parent_id": "1010",
+      "name": "Medical and Biotechnology",
+      "full_path": "Business and Industrial > Medical and Biotechnology"
+    },
+    {
+      "id": "1044",
+      "parent_id": "1010",
+      "name": "Mining and Quarrying",
+      "full_path": "Business and Industrial > Mining and Quarrying"
+    },
+    {
+      "id": "1045",
+      "parent_id": "1010",
+      "name": "Science and Laboratory",
+      "full_path": "Business and Industrial > Science and Laboratory"
+    },
+    {
+      "id": "1046",
+      "parent_id": "1010",
+      "name": "Signage",
+      "full_path": "Business and Industrial > Signage"
+    },
+    {
+      "id": "1047",
+      "parent_id": "1010",
+      "name": "Small Business",
+      "full_path": "Business and Industrial > Small Business"
+    },
+    {
+      "id": "1048",
+      "parent_id": "1010",
+      "name": "Waste Disposal and Recycling",
+      "full_path": "Business and Industrial > Waste Disposal and Recycling"
+    },
+    {
+      "id": "1049",
+      "parent_id": null,
+      "name": "Cannabis",
+      "full_path": "Cannabis"
+    },
+    {
+      "id": "1050",
+      "parent_id": "1049",
+      "name": "Cannabis Consumables",
+      "full_path": "Cannabis > Cannabis Consumables"
+    },
+    {
+      "id": "1051",
+      "parent_id": "1050",
+      "name": "Cannabis Drinks",
+      "full_path": "Cannabis > Cannabis Consumables > Cannabis Drinks"
+    },
+    {
+      "id": "1052",
+      "parent_id": "1050",
+      "name": "Cannabis Edibles",
+      "full_path": "Cannabis > Cannabis Consumables > Cannabis Edibles"
+    },
+    {
+      "id": "1053",
+      "parent_id": "1049",
+      "name": "Cannabis Equipment",
+      "full_path": "Cannabis > Cannabis Equipment"
+    },
+    {
+      "id": "1054",
+      "parent_id": "1049",
+      "name": "Cannabis Stores",
+      "full_path": "Cannabis > Cannabis Stores"
+    },
+    {
+      "id": "1055",
+      "parent_id": "1049",
+      "name": "Cannabis Stocks",
+      "full_path": "Cannabis > Cannabis Stocks"
+    },
+    {
+      "id": "1056",
+      "parent_id": "1049",
+      "name": "CBD Consumables",
+      "full_path": "Cannabis > CBD Consumables"
+    },
+    {
+      "id": "1057",
+      "parent_id": "1049",
+      "name": "CBD Topicals",
+      "full_path": "Cannabis > CBD Topicals"
+    },
+    {
+      "id": "1058",
+      "parent_id": null,
+      "name": "Clothing and Accessories",
+      "full_path": "Clothing and Accessories"
+    },
+    {
+      "id": "1059",
+      "parent_id": "1058",
+      "name": "Clothing",
+      "full_path": "Clothing and Accessories > Clothing"
+    },
+    {
+      "id": "1060",
+      "parent_id": "1059",
+      "name": "Children's Clothing",
+      "full_path": "Clothing and Accessories > Clothing > Children's Clothing"
+    },
+    {
+      "id": "1061",
+      "parent_id": "1059",
+      "name": "Maternity Clothing",
+      "full_path": "Clothing and Accessories > Clothing > Maternity Clothing"
+    },
+    {
+      "id": "1062",
+      "parent_id": "1059",
+      "name": "Men's Clothing",
+      "full_path": "Clothing and Accessories > Clothing > Men's Clothing"
+    },
+    {
+      "id": "1063",
+      "parent_id": "1059",
+      "name": "Sportswear",
+      "full_path": "Clothing and Accessories > Clothing > Sportswear"
+    },
+    {
+      "id": "1064",
+      "parent_id": "1059",
+      "name": "Swimwear",
+      "full_path": "Clothing and Accessories > Clothing > Swimwear"
+    },
+    {
+      "id": "1065",
+      "parent_id": "1059",
+      "name": "Underwear and Lingerie",
+      "full_path": "Clothing and Accessories > Clothing > Underwear and Lingerie"
+    },
+    {
+      "id": "1066",
+      "parent_id": "1059",
+      "name": "Wedding Dresses/Bridal Wear/Tuxedos",
+      "full_path": "Clothing and Accessories > Clothing > Wedding Dresses/Bridal Wear/Tuxedos"
+    },
+    {
+      "id": "1067",
+      "parent_id": "1059",
+      "name": "Women's Clothing",
+      "full_path": "Clothing and Accessories > Clothing > Women's Clothing"
+    },
+    {
+      "id": "1068",
+      "parent_id": "1058",
+      "name": "Clothing Accessories",
+      "full_path": "Clothing and Accessories > Clothing Accessories"
+    },
+    {
+      "id": "1069",
+      "parent_id": "1058",
+      "name": "Costumes and Accessories",
+      "full_path": "Clothing and Accessories > Costumes and Accessories"
+    },
+    {
+      "id": "1070",
+      "parent_id": "1058",
+      "name": "Footwear",
+      "full_path": "Clothing and Accessories > Footwear"
+    },
+    {
+      "id": "1071",
+      "parent_id": "1058",
+      "name": "Footwear Accessories",
+      "full_path": "Clothing and Accessories > Footwear Accessories"
+    },
+    {
+      "id": "1072",
+      "parent_id": "1058",
+      "name": "Handbags and Wallets",
+      "full_path": "Clothing and Accessories > Handbags and Wallets"
+    },
+    {
+      "id": "1073",
+      "parent_id": "1058",
+      "name": "Jewelry and Watches",
+      "full_path": "Clothing and Accessories > Jewelry and Watches"
+    },
+    {
+      "id": "1074",
+      "parent_id": "1058",
+      "name": "Sunglasses",
+      "full_path": "Clothing and Accessories > Sunglasses"
+    },
+    {
+      "id": "1075",
+      "parent_id": null,
+      "name": "Collectables and Antiques",
+      "full_path": "Collectables and Antiques"
+    },
+    {
+      "id": "1076",
+      "parent_id": "1075",
+      "name": "Antiques",
+      "full_path": "Collectables and Antiques > Antiques"
+    },
+    {
+      "id": "1077",
+      "parent_id": "1075",
+      "name": "Coins and Paper Money",
+      "full_path": "Collectables and Antiques > Coins and Paper Money"
+    },
+    {
+      "id": "1078",
+      "parent_id": "1075",
+      "name": "Collectibles",
+      "full_path": "Collectables and Antiques > Collectibles"
+    },
+    {
+      "id": "1079",
+      "parent_id": "1075",
+      "name": "Entertainment Memorabilia",
+      "full_path": "Collectables and Antiques > Entertainment Memorabilia"
+    },
+    {
+      "id": "1080",
+      "parent_id": "1075",
+      "name": "Sports Memorabilia and Trading Cards",
+      "full_path": "Collectables and Antiques > Sports Memorabilia and Trading Cards"
+    },
+    {
+      "id": "1081",
+      "parent_id": "1075",
+      "name": "Stamps",
+      "full_path": "Collectables and Antiques > Stamps"
+    },
+    {
+      "id": "1082",
+      "parent_id": null,
+      "name": "Computer Software",
+      "full_path": "Computer Software"
+    },
+    {
+      "id": "1083",
+      "parent_id": "1082",
+      "name": "Browser Extensions",
+      "full_path": "Computer Software > Browser Extensions"
+    },
+    {
+      "id": "1084",
+      "parent_id": "1082",
+      "name": "Downloadable Utilities",
+      "full_path": "Computer Software > Downloadable Utilities"
+    },
+    {
+      "id": "1085",
+      "parent_id": "1082",
+      "name": "Enterprise Computer Software",
+      "full_path": "Computer Software > Enterprise Computer Software"
+    },
+    {
+      "id": "1086",
+      "parent_id": "1082",
+      "name": "Personal Computer Software",
+      "full_path": "Computer Software > Personal Computer Software"
+    },
+    {
+      "id": "1087",
+      "parent_id": "1082",
+      "name": "Toolbars",
+      "full_path": "Computer Software > Toolbars"
+    },
+    {
+      "id": "1088",
+      "parent_id": null,
+      "name": "Cosmetic Services",
+      "full_path": "Cosmetic Services"
+    },
+    {
+      "id": "1089",
+      "parent_id": "1088",
+      "name": "Beauty Salons",
+      "full_path": "Cosmetic Services > Beauty Salons"
+    },
+    {
+      "id": "1090",
+      "parent_id": "1088",
+      "name": "Hair Salons",
+      "full_path": "Cosmetic Services > Hair Salons"
+    },
+    {
+      "id": "1091",
+      "parent_id": "1088",
+      "name": "Hair Removal",
+      "full_path": "Cosmetic Services > Hair Removal"
+    },
+    {
+      "id": "1092",
+      "parent_id": "1088",
+      "name": "Hair Restoration",
+      "full_path": "Cosmetic Services > Hair Restoration"
+    },
+    {
+      "id": "1093",
+      "parent_id": "1088",
+      "name": "Nail Salons",
+      "full_path": "Cosmetic Services > Nail Salons"
+    },
+    {
+      "id": "1094",
+      "parent_id": "1088",
+      "name": "Med Spas",
+      "full_path": "Cosmetic Services > Med Spas"
+    },
+    {
+      "id": "1095",
+      "parent_id": "1088",
+      "name": "Piercing and Tattooing",
+      "full_path": "Cosmetic Services > Piercing and Tattooing"
+    },
+    {
+      "id": "1096",
+      "parent_id": "1088",
+      "name": "Tanning Salons",
+      "full_path": "Cosmetic Services > Tanning Salons"
+    },
+    {
+      "id": "1097",
+      "parent_id": null,
+      "name": "Consumer Electronics",
+      "full_path": "Consumer Electronics"
+    },
+    {
+      "id": "1098",
+      "parent_id": "1097",
+      "name": "Arcade Equipment",
+      "full_path": "Consumer Electronics > Arcade Equipment"
+    },
+    {
+      "id": "1099",
+      "parent_id": "1097",
+      "name": "Camcorders",
+      "full_path": "Consumer Electronics > Camcorders"
+    },
+    {
+      "id": "1100",
+      "parent_id": "1097",
+      "name": "Cameras and Photo",
+      "full_path": "Consumer Electronics > Cameras and Photo"
+    },
+    {
+      "id": "1101",
+      "parent_id": "1100",
+      "name": "Camera and Photo Accessories",
+      "full_path": "Consumer Electronics > Cameras and Photo > Camera and Photo Accessories"
+    },
+    {
+      "id": "1102",
+      "parent_id": "1100",
+      "name": "Cameras",
+      "full_path": "Consumer Electronics > Cameras and Photo > Cameras"
+    },
+    {
+      "id": "1103",
+      "parent_id": "1100",
+      "name": "Photo Applications",
+      "full_path": "Consumer Electronics > Cameras and Photo > Photo Applications"
+    },
+    {
+      "id": "1104",
+      "parent_id": "1097",
+      "name": "Circuit Boards and Components",
+      "full_path": "Consumer Electronics > Circuit Boards and Components"
+    },
+    {
+      "id": "1105",
+      "parent_id": "1097",
+      "name": "Communications Electronics",
+      "full_path": "Consumer Electronics > Communications Electronics"
+    },
+    {
+      "id": "1106",
+      "parent_id": "1097",
+      "name": "Computers",
+      "full_path": "Consumer Electronics > Computers"
+    },
+    {
+      "id": "1107",
+      "parent_id": "1106",
+      "name": "Laptops",
+      "full_path": "Consumer Electronics > Computers > Laptops"
+    },
+    {
+      "id": "1108",
+      "parent_id": "1106",
+      "name": "Desktops",
+      "full_path": "Consumer Electronics > Computers > Desktops"
+    },
+    {
+      "id": "1109",
+      "parent_id": "1097",
+      "name": "E-Readers",
+      "full_path": "Consumer Electronics > E-Readers"
+    },
+    {
+      "id": "1110",
+      "parent_id": "1097",
+      "name": "Electronics Accessories",
+      "full_path": "Consumer Electronics > Electronics Accessories"
+    },
+    {
+      "id": "1111",
+      "parent_id": "1097",
+      "name": "Headphones",
+      "full_path": "Consumer Electronics > Headphones"
+    },
+    {
+      "id": "1112",
+      "parent_id": "1097",
+      "name": "Home Theater Systems",
+      "full_path": "Consumer Electronics > Home Theater Systems"
+    },
+    {
+      "id": "1113",
+      "parent_id": "1097",
+      "name": "Marine Electronics",
+      "full_path": "Consumer Electronics > Marine Electronics"
+    },
+    {
+      "id": "1114",
+      "parent_id": "1097",
+      "name": "Mobile Phones and Accessories",
+      "full_path": "Consumer Electronics > Mobile Phones and Accessories"
+    },
+    {
+      "id": "1115",
+      "parent_id": "1097",
+      "name": "Networking",
+      "full_path": "Consumer Electronics > Networking"
+    },
+    {
+      "id": "1116",
+      "parent_id": "1097",
+      "name": "Printers/Copiers/Scanners/Fax",
+      "full_path": "Consumer Electronics > Printers/Copiers/Scanners/Fax"
+    },
+    {
+      "id": "1117",
+      "parent_id": "1097",
+      "name": "Security Devices",
+      "full_path": "Consumer Electronics > Security Devices"
+    },
+    {
+      "id": "1118",
+      "parent_id": "1097",
+      "name": "Tablets",
+      "full_path": "Consumer Electronics > Tablets"
+    },
+    {
+      "id": "1119",
+      "parent_id": "1097",
+      "name": "Televisions",
+      "full_path": "Consumer Electronics > Televisions"
+    },
+    {
+      "id": "1120",
+      "parent_id": "1097",
+      "name": "Video Games",
+      "full_path": "Consumer Electronics > Video Games"
+    },
+    {
+      "id": "1121",
+      "parent_id": "1097",
+      "name": "Video Games and Consoles",
+      "full_path": "Consumer Electronics > Video Game Consoles"
+    },
+    {
+      "id": "1122",
+      "parent_id": "1097",
+      "name": "Video Game Console Accessories",
+      "full_path": "Consumer Electronics > Video Game Console Accessories"
+    },
+    {
+      "id": "1123",
+      "parent_id": null,
+      "name": "Consumer Packaged Goods",
+      "full_path": "Consumer Packaged Goods"
+    },
+    {
+      "id": "1124",
+      "parent_id": "1123",
+      "name": "Baby and Toddler Products",
+      "full_path": "Consumer Packaged Goods > Baby and Toddler Products"
+    },
+    {
+      "id": "1125",
+      "parent_id": "1124",
+      "name": "Diapers",
+      "full_path": "Consumer Packaged Goods > Baby and Toddler Products > Diapers"
+    },
+    {
+      "id": "1126",
+      "parent_id": "1124",
+      "name": "Nursing and Feeding Products",
+      "full_path": "Consumer Packaged Goods > Baby and Toddler Products > Nursing and Feeding Products"
+    },
+    {
+      "id": "1127",
+      "parent_id": "1123",
+      "name": "Back to School Supplies",
+      "full_path": "Consumer Packaged Goods > Back to School Supplies"
+    },
+    {
+      "id": "1128",
+      "parent_id": "1123",
+      "name": "Barbeque",
+      "full_path": "Consumer Packaged Goods > Barbeque"
+    },
+    {
+      "id": "1129",
+      "parent_id": "1128",
+      "name": "Charcoal",
+      "full_path": "Consumer Packaged Goods > Barbeque > Charcoal"
+    },
+    {
+      "id": "1130",
+      "parent_id": "1128",
+      "name": "Charcoal Lighter Fluids",
+      "full_path": "Consumer Packaged Goods > Barbeque > Charcoal Lighter Fluids"
+    },
+    {
+      "id": "1131",
+      "parent_id": "1123",
+      "name": "Beverages",
+      "full_path": "Consumer Packaged Goods > Beverages"
+    },
+    {
+      "id": "1132",
+      "parent_id": "1131",
+      "name": "Carbonated Soft Drinks",
+      "full_path": "Consumer Packaged Goods > Beverages > Carbonated Soft Drinks"
+    },
+    {
+      "id": "1133",
+      "parent_id": "1131",
+      "name": "Coffee and Tea",
+      "full_path": "Consumer Packaged Goods > Beverages > Coffee and Tea"
+    },
+    {
+      "id": "1134",
+      "parent_id": "1131",
+      "name": "Drink Mixes",
+      "full_path": "Consumer Packaged Goods > Beverages > Drink Mixes"
+    },
+    {
+      "id": "1135",
+      "parent_id": "1131",
+      "name": "Juices",
+      "full_path": "Consumer Packaged Goods > Beverages > Juices"
+    },
+    {
+      "id": "1136",
+      "parent_id": "1131",
+      "name": "Sports/Energy Drinks",
+      "full_path": "Consumer Packaged Goods > Beverages > Sports/Energy Drinks"
+    },
+    {
+      "id": "1137",
+      "parent_id": "1131",
+      "name": "Water",
+      "full_path": "Consumer Packaged Goods > Beverages > Water"
+    },
+    {
+      "id": "1138",
+      "parent_id": "1123",
+      "name": "Cosmetics",
+      "full_path": "Consumer Packaged Goods > Cosmetics"
+    },
+    {
+      "id": "1139",
+      "parent_id": "1138",
+      "name": "Cosmetics Accessories",
+      "full_path": "Consumer Packaged Goods > Cosmetics > Cosmetics Accessories"
+    },
+    {
+      "id": "1140",
+      "parent_id": "1138",
+      "name": "Cosmetics-Nail",
+      "full_path": "Consumer Packaged Goods > Cosmetics > Cosmetics-Nail"
+    },
+    {
+      "id": "1141",
+      "parent_id": "1138",
+      "name": "Eye",
+      "full_path": "Consumer Packaged Goods > Cosmetics > Eye"
+    },
+    {
+      "id": "1142",
+      "parent_id": "1138",
+      "name": "Facial",
+      "full_path": "Consumer Packaged Goods > Cosmetics > Facial"
+    },
+    {
+      "id": "1143",
+      "parent_id": "1138",
+      "name": "Lip",
+      "full_path": "Consumer Packaged Goods > Cosmetics > Lip"
+    },
+    {
+      "id": "1144",
+      "parent_id": "1138",
+      "name": "Storage",
+      "full_path": "Consumer Packaged Goods > Cosmetics > Storage"
+    },
+    {
+      "id": "1145",
+      "parent_id": "1123",
+      "name": "Disposable Tableware",
+      "full_path": "Consumer Packaged Goods > Disposable Tableware"
+    },
+    {
+      "id": "1146",
+      "parent_id": "1145",
+      "name": "Cups and Plates",
+      "full_path": "Consumer Packaged Goods > Disposable Tableware > Cups and Plates"
+    },
+    {
+      "id": "1147",
+      "parent_id": "1145",
+      "name": "Disposable Tableware",
+      "full_path": "Consumer Packaged Goods > Disposable Tableware > Disposable Tableware"
+    },
+    {
+      "id": "1148",
+      "parent_id": "1123",
+      "name": "Foils, Wraps, and Bags",
+      "full_path": "Consumer Packaged Goods > Foils, Wraps, and Bags"
+    },
+    {
+      "id": "1149",
+      "parent_id": "1148",
+      "name": "Foil Pans",
+      "full_path": "Consumer Packaged Goods > Foils, Wraps, and Bags > Foil Pans"
+    },
+    {
+      "id": "1150",
+      "parent_id": "1148",
+      "name": "Foils and Wraps",
+      "full_path": "Consumer Packaged Goods > Foils, Wraps, and Bags > Foils and Wraps"
+    },
+    {
+      "id": "1151",
+      "parent_id": "1148",
+      "name": "Food and Trash Bags",
+      "full_path": "Consumer Packaged Goods > Foils, Wraps, and Bags > Food and Trash Bags"
+    },
+    {
+      "id": "1152",
+      "parent_id": "1123",
+      "name": "Fragrance",
+      "full_path": "Consumer Packaged Goods > Fragrance"
+    },
+    {
+      "id": "1153",
+      "parent_id": "1152",
+      "name": "Fragrances - Women's",
+      "full_path": "Consumer Packaged Goods > Fragrance > Fragrances - Women's"
+    },
+    {
+      "id": "1154",
+      "parent_id": "1152",
+      "name": "Shaving Lotion/Men's Fragrance",
+      "full_path": "Consumer Packaged Goods > Fragrance > Shaving Lotion/Men's Fragrance"
+    },
+    {
+      "id": "1155",
+      "parent_id": "1123",
+      "name": "Frozen",
+      "full_path": "Consumer Packaged Goods > Frozen"
+    },
+    {
+      "id": "1156",
+      "parent_id": "1155",
+      "name": "Frozen Baked Goods",
+      "full_path": "Consumer Packaged Goods > Frozen > Frozen Baked Goods"
+    },
+    {
+      "id": "1157",
+      "parent_id": "1155",
+      "name": "Frozen Beverages",
+      "full_path": "Consumer Packaged Goods > Frozen > Frozen Beverages"
+    },
+    {
+      "id": "1158",
+      "parent_id": "1155",
+      "name": "Frozen Desserts",
+      "full_path": "Consumer Packaged Goods > Frozen > Frozen Desserts"
+    },
+    {
+      "id": "1159",
+      "parent_id": "1155",
+      "name": "Frozen Fruits and Vegetables",
+      "full_path": "Consumer Packaged Goods > Frozen > Frozen Fruits and Vegetables"
+    },
+    {
+      "id": "1160",
+      "parent_id": "1155",
+      "name": "Frozen Juices",
+      "full_path": "Consumer Packaged Goods > Frozen > Frozen Juices"
+    },
+    {
+      "id": "1161",
+      "parent_id": "1155",
+      "name": "Frozen Meals",
+      "full_path": "Consumer Packaged Goods > Frozen > Frozen Meals"
+    },
+    {
+      "id": "1162",
+      "parent_id": "1155",
+      "name": "Frozen Meat/Poultry/Seafood",
+      "full_path": "Consumer Packaged Goods > Frozen > Frozen Meat/Poultry/Seafood"
+    },
+    {
+      "id": "1163",
+      "parent_id": "1155",
+      "name": "Frozen Snacks",
+      "full_path": "Consumer Packaged Goods > Frozen > Frozen Snacks"
+    },
+    {
+      "id": "1164",
+      "parent_id": "1155",
+      "name": "Other Frozen",
+      "full_path": "Consumer Packaged Goods > Frozen > Other Frozen"
+    },
+    {
+      "id": "1165",
+      "parent_id": "1123",
+      "name": "General Food",
+      "full_path": "Consumer Packaged Goods > General Food"
+    },
+    {
+      "id": "1166",
+      "parent_id": "1165",
+      "name": "Baby Food",
+      "full_path": "Consumer Packaged Goods > General Food > Baby Food"
+    },
+    {
+      "id": "1167",
+      "parent_id": "1165",
+      "name": "Bakery",
+      "full_path": "Consumer Packaged Goods > General Food > Bakery"
+    },
+    {
+      "id": "1168",
+      "parent_id": "1165",
+      "name": "Baking",
+      "full_path": "Consumer Packaged Goods > General Food > Baking"
+    },
+    {
+      "id": "1169",
+      "parent_id": "1165",
+      "name": "Breakfast",
+      "full_path": "Consumer Packaged Goods > General Food > Breakfast"
+    },
+    {
+      "id": "1170",
+      "parent_id": "1165",
+      "name": "Candy",
+      "full_path": "Consumer Packaged Goods > General Food > Candy"
+    },
+    {
+      "id": "1171",
+      "parent_id": "1165",
+      "name": "Condiments and Sauces",
+      "full_path": "Consumer Packaged Goods > General Food > Condiments and Sauces"
+    },
+    {
+      "id": "1172",
+      "parent_id": "1165",
+      "name": "Cookies and Crackers",
+      "full_path": "Consumer Packaged Goods > General Food > Cookies and Crackers"
+    },
+    {
+      "id": "1173",
+      "parent_id": "1165",
+      "name": "Fruit",
+      "full_path": "Consumer Packaged Goods > General Food > Fruit"
+    },
+    {
+      "id": "1174",
+      "parent_id": "1165",
+      "name": "Meals",
+      "full_path": "Consumer Packaged Goods > General Food > Meals"
+    },
+    {
+      "id": "1175",
+      "parent_id": "1165",
+      "name": "Snacks",
+      "full_path": "Consumer Packaged Goods > General Food > Snacks"
+    },
+    {
+      "id": "1176",
+      "parent_id": "1165",
+      "name": "Vegetables",
+      "full_path": "Consumer Packaged Goods > General Food > Vegetables"
+    },
+    {
+      "id": "1177",
+      "parent_id": "1123",
+      "name": "General Merchandise",
+      "full_path": "Consumer Packaged Goods > General Merchandise"
+    },
+    {
+      "id": "1178",
+      "parent_id": "1123",
+      "name": "Grooming Supplies",
+      "full_path": "Consumer Packaged Goods > Grooming Supplies"
+    },
+    {
+      "id": "1179",
+      "parent_id": "1123",
+      "name": "Hair Care",
+      "full_path": "Consumer Packaged Goods > Hair Care"
+    },
+    {
+      "id": "1180",
+      "parent_id": "1179",
+      "name": "Hair Accessories",
+      "full_path": "Consumer Packaged Goods > Hair Care > Hair Accessories"
+    },
+    {
+      "id": "1181",
+      "parent_id": "1179",
+      "name": "Hair Coloring",
+      "full_path": "Consumer Packaged Goods > Hair Care > Hair Coloring"
+    },
+    {
+      "id": "1182",
+      "parent_id": "1179",
+      "name": "Hair Conditioner",
+      "full_path": "Consumer Packaged Goods > Hair Care > Hair Conditioner"
+    },
+    {
+      "id": "1183",
+      "parent_id": "1179",
+      "name": "Hair Growth Products",
+      "full_path": "Consumer Packaged Goods > Hair Care > Hair Growth Products"
+    },
+    {
+      "id": "1184",
+      "parent_id": "1179",
+      "name": "Hair Spray/Spritz",
+      "full_path": "Consumer Packaged Goods > Hair Care > Hair Spray/Spritz"
+    },
+    {
+      "id": "1185",
+      "parent_id": "1179",
+      "name": "Hair Styling Gel/Mousse",
+      "full_path": "Consumer Packaged Goods > Hair Care > Hair Styling Gel/Mousse"
+    },
+    {
+      "id": "1186",
+      "parent_id": "1179",
+      "name": "Home Permanent/Relaxer Kits",
+      "full_path": "Consumer Packaged Goods > Hair Care > Home Permanent/Relaxer Kits"
+    },
+    {
+      "id": "1187",
+      "parent_id": "1179",
+      "name": "Shampoo",
+      "full_path": "Consumer Packaged Goods > Hair Care > Shampoo"
+    },
+    {
+      "id": "1188",
+      "parent_id": "1123",
+      "name": "HFSS Products [High Fat, Sugar, Salt]",
+      "full_path": "Consumer Packaged Goods > HFSS Products [High Fat, Sugar, Salt]"
+    },
+    {
+      "id": "1189",
+      "parent_id": "1123",
+      "name": "Home Care",
+      "full_path": "Consumer Packaged Goods > Home Care"
+    },
+    {
+      "id": "1190",
+      "parent_id": "1189",
+      "name": "Household Cleaning",
+      "full_path": "Consumer Packaged Goods > Home Care > Household Cleaning"
+    },
+    {
+      "id": "1191",
+      "parent_id": "1189",
+      "name": "Laundry",
+      "full_path": "Consumer Packaged Goods > Home Care > Laundry"
+    },
+    {
+      "id": "1192",
+      "parent_id": "1123",
+      "name": "Hosiery",
+      "full_path": "Consumer Packaged Goods > Hosiery"
+    },
+    {
+      "id": "1193",
+      "parent_id": "1192",
+      "name": "Pantyhose/Nylons",
+      "full_path": "Consumer Packaged Goods > Hosiery > Pantyhose/Nylons"
+    },
+    {
+      "id": "1194",
+      "parent_id": "1192",
+      "name": "Socks",
+      "full_path": "Consumer Packaged Goods > Hosiery > Socks"
+    },
+    {
+      "id": "1195",
+      "parent_id": "1192",
+      "name": "Tights",
+      "full_path": "Consumer Packaged Goods > Hosiery > Tights"
+    },
+    {
+      "id": "1196",
+      "parent_id": "1123",
+      "name": "Household/Plastics/Storage",
+      "full_path": "Consumer Packaged Goods > Household/Plastics/Storage"
+    },
+    {
+      "id": "1197",
+      "parent_id": "1196",
+      "name": "Bottles",
+      "full_path": "Consumer Packaged Goods > Household/Plastics/Storage > Bottles"
+    },
+    {
+      "id": "1198",
+      "parent_id": "1196",
+      "name": "Drinkware",
+      "full_path": "Consumer Packaged Goods > Household/Plastics/Storage > Drinkware"
+    },
+    {
+      "id": "1199",
+      "parent_id": "1196",
+      "name": "Household Plastics",
+      "full_path": "Consumer Packaged Goods > Household/Plastics/Storage > Household Plastics"
+    },
+    {
+      "id": "1200",
+      "parent_id": "1196",
+      "name": "Kitchen Storage",
+      "full_path": "Consumer Packaged Goods > Household/Plastics/Storage > Kitchen Storage"
+    },
+    {
+      "id": "1201",
+      "parent_id": "1123",
+      "name": "Meal Kits",
+      "full_path": "Consumer Packaged Goods > Meal Kits"
+    },
+    {
+      "id": "1202",
+      "parent_id": "1123",
+      "name": "Miscellaneous General Merch",
+      "full_path": "Consumer Packaged Goods > Miscellaneous General Merch"
+    },
+    {
+      "id": "1203",
+      "parent_id": "1123",
+      "name": "Office/School Supplies",
+      "full_path": "Consumer Packaged Goods > Office/School Supplies"
+    },
+    {
+      "id": "1204",
+      "parent_id": "1203",
+      "name": "Children's Art Supplies",
+      "full_path": "Consumer Packaged Goods > Office/School Supplies > Children's Art Supplies"
+    },
+    {
+      "id": "1205",
+      "parent_id": "1203",
+      "name": "Computer Disks Frmtd/UnFrmtd",
+      "full_path": "Consumer Packaged Goods > Office/School Supplies > Computer Disks Frmtd/UnFrmtd"
+    },
+    {
+      "id": "1206",
+      "parent_id": "1203",
+      "name": "Office Products",
+      "full_path": "Consumer Packaged Goods > Office/School Supplies > Office Products"
+    },
+    {
+      "id": "1207",
+      "parent_id": "1203",
+      "name": "Writing Instruments",
+      "full_path": "Consumer Packaged Goods > Office/School Supplies > Writing Instruments"
+    },
+    {
+      "id": "1208",
+      "parent_id": "1123",
+      "name": "Over the Counter Medication",
+      "full_path": "Consumer Packaged Goods > Over the Counter Medication"
+    },
+    {
+      "id": "1209",
+      "parent_id": "1123",
+      "name": "Paper Products",
+      "full_path": "Consumer Packaged Goods > Paper Products"
+    },
+    {
+      "id": "1210",
+      "parent_id": "1209",
+      "name": "Facial Tissue",
+      "full_path": "Consumer Packaged Goods > Paper Products > Facial Tissue"
+    },
+    {
+      "id": "1211",
+      "parent_id": "1209",
+      "name": "Paper Napkins",
+      "full_path": "Consumer Packaged Goods > Paper Products > Paper Napkins"
+    },
+    {
+      "id": "1212",
+      "parent_id": "1209",
+      "name": "Paper Towels",
+      "full_path": "Consumer Packaged Goods > Paper Products > Paper Towels"
+    },
+    {
+      "id": "1213",
+      "parent_id": "1209",
+      "name": "Toilet Tissue",
+      "full_path": "Consumer Packaged Goods > Paper Products > Toilet Tissue"
+    },
+    {
+      "id": "1214",
+      "parent_id": "1123",
+      "name": "Personal Care",
+      "full_path": "Consumer Packaged Goods > Personal Care"
+    },
+    {
+      "id": "1215",
+      "parent_id": "1123",
+      "name": "Personal Cleansing",
+      "full_path": "Consumer Packaged Goods > Personal Cleansing"
+    },
+    {
+      "id": "1216",
+      "parent_id": "1215",
+      "name": "Bath Products",
+      "full_path": "Consumer Packaged Goods > Personal Cleansing > Bath Products"
+    },
+    {
+      "id": "1217",
+      "parent_id": "1215",
+      "name": "Bath/Body Scrubbers/Massagers",
+      "full_path": "Consumer Packaged Goods > Personal Cleansing > Bath/Body Scrubbers/Massagers"
+    },
+    {
+      "id": "1218",
+      "parent_id": "1215",
+      "name": "Deodorant",
+      "full_path": "Consumer Packaged Goods > Personal Cleansing > Deodorant"
+    },
+    {
+      "id": "1219",
+      "parent_id": "1215",
+      "name": "Moist Towelettes",
+      "full_path": "Consumer Packaged Goods > Personal Cleansing > Moist Towelettes"
+    },
+    {
+      "id": "1220",
+      "parent_id": "1215",
+      "name": "Soap",
+      "full_path": "Consumer Packaged Goods > Personal Cleansing > Soap"
+    },
+    {
+      "id": "1221",
+      "parent_id": "1123",
+      "name": "Pest Control",
+      "full_path": "Consumer Packaged Goods > Pest Control"
+    },
+    {
+      "id": "1222",
+      "parent_id": "1221",
+      "name": "Outdoor Insect/Rodent Control Chem",
+      "full_path": "Consumer Packaged Goods > Pest Control > Outdoor Insect/Rodent Control Chem"
+    },
+    {
+      "id": "1223",
+      "parent_id": "1221",
+      "name": "Pest Control",
+      "full_path": "Consumer Packaged Goods > Pest Control > Pest Control"
+    },
+    {
+      "id": "1224",
+      "parent_id": "1123",
+      "name": "Pet Care",
+      "full_path": "Consumer Packaged Goods > Pet Care"
+    },
+    {
+      "id": "1225",
+      "parent_id": "1224",
+      "name": "Cat/Dog Litter",
+      "full_path": "Consumer Packaged Goods > Pet Care > Cat/Dog Litter"
+    },
+    {
+      "id": "1226",
+      "parent_id": "1224",
+      "name": "Pet Food",
+      "full_path": "Consumer Packaged Goods > Pet Care > Pet Food"
+    },
+    {
+      "id": "1227",
+      "parent_id": "1224",
+      "name": "Pet Supplies",
+      "full_path": "Consumer Packaged Goods > Pet Care > Pet Supplies"
+    },
+    {
+      "id": "1228",
+      "parent_id": "1224",
+      "name": "Pet Treats",
+      "full_path": "Consumer Packaged Goods > Pet Care > Pet Treats"
+    },
+    {
+      "id": "1229",
+      "parent_id": "1123",
+      "name": "Refrigerated",
+      "full_path": "Consumer Packaged Goods > Refrigerated"
+    },
+    {
+      "id": "1230",
+      "parent_id": "1229",
+      "name": "Dairy",
+      "full_path": "Consumer Packaged Goods > Refrigerated > Dairy"
+    },
+    {
+      "id": "1231",
+      "parent_id": "1229",
+      "name": "Refrigerated Baked Goods",
+      "full_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Baked Goods"
+    },
+    {
+      "id": "1232",
+      "parent_id": "1229",
+      "name": "Refrigerated Beverages",
+      "full_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Beverages"
+    },
+    {
+      "id": "1233",
+      "parent_id": "1229",
+      "name": "Refrigerated Condiments",
+      "full_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Condiments"
+    },
+    {
+      "id": "1234",
+      "parent_id": "1229",
+      "name": "Refrigerated Desserts",
+      "full_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Desserts"
+    },
+    {
+      "id": "1235",
+      "parent_id": "1229",
+      "name": "Refrigerated Dough",
+      "full_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Dough"
+    },
+    {
+      "id": "1236",
+      "parent_id": "1229",
+      "name": "Refrigerated Meals",
+      "full_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Meals"
+    },
+    {
+      "id": "1237",
+      "parent_id": "1229",
+      "name": "Refrigerated Meats",
+      "full_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Meats"
+    },
+    {
+      "id": "1238",
+      "parent_id": "1229",
+      "name": "Refrigerated Miscellaneous",
+      "full_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Miscellaneous"
+    },
+    {
+      "id": "1239",
+      "parent_id": "1123",
+      "name": "Religious Items",
+      "full_path": "Consumer Packaged Goods > Religious Items"
+    },
+    {
+      "id": "1240",
+      "parent_id": "1123",
+      "name": "Shaving",
+      "full_path": "Consumer Packaged Goods > Shaving"
+    },
+    {
+      "id": "1241",
+      "parent_id": "1240",
+      "name": "Blades",
+      "full_path": "Consumer Packaged Goods > Shaving > Blades"
+    },
+    {
+      "id": "1242",
+      "parent_id": "1240",
+      "name": "Razors",
+      "full_path": "Consumer Packaged Goods > Shaving > Razors"
+    },
+    {
+      "id": "1243",
+      "parent_id": "1240",
+      "name": "Shaving Cream",
+      "full_path": "Consumer Packaged Goods > Shaving > Shaving Cream"
+    },
+    {
+      "id": "1244",
+      "parent_id": "1123",
+      "name": "Skin Care",
+      "full_path": "Consumer Packaged Goods > Skin Care"
+    },
+    {
+      "id": "1245",
+      "parent_id": "1244",
+      "name": "Hand and Body Lotion",
+      "full_path": "Consumer Packaged Goods > Skin Care > Hand and Body Lotion"
+    },
+    {
+      "id": "1246",
+      "parent_id": "1244",
+      "name": "Skin Care",
+      "full_path": "Consumer Packaged Goods > Skin Care > Skin Care"
+    },
+    {
+      "id": "1247",
+      "parent_id": "1244",
+      "name": "Suntan Products",
+      "full_path": "Consumer Packaged Goods > Skin Care > Suntan Products"
+    },
+    {
+      "id": "1248",
+      "parent_id": "1123",
+      "name": "Toys and Games",
+      "full_path": "Consumer Packaged Goods > Toys and Games"
+    },
+    {
+      "id": "1249",
+      "parent_id": "1248",
+      "name": "Games",
+      "full_path": "Consumer Packaged Goods > Toys and Games > Games"
+    },
+    {
+      "id": "1250",
+      "parent_id": "1248",
+      "name": "Outdoor Play Equipment",
+      "full_path": "Consumer Packaged Goods > Toys and Games > Outdoor Play Equipment"
+    },
+    {
+      "id": "1251",
+      "parent_id": "1248",
+      "name": "Puzzles",
+      "full_path": "Consumer Packaged Goods > Toys and Games > Puzzles"
+    },
+    {
+      "id": "1252",
+      "parent_id": "1248",
+      "name": "Toys",
+      "full_path": "Consumer Packaged Goods > Toys and Games > Toys"
+    },
+    {
+      "id": "1253",
+      "parent_id": "1123",
+      "name": "Vitamins and Supplements",
+      "full_path": "Consumer Packaged Goods > Vitamins and Supplements"
+    },
+    {
+      "id": "1254",
+      "parent_id": "1253",
+      "name": "Digestive Supplements",
+      "full_path": "Consumer Packaged Goods > Vitamins and Supplements > Digestive Supplements"
+    },
+    {
+      "id": "1255",
+      "parent_id": "1253",
+      "name": "Weightloss Supplements",
+      "full_path": "Consumer Packaged Goods > Vitamins and Supplements > Weightloss Supplements"
+    },
+    {
+      "id": "1256",
+      "parent_id": "1123",
+      "name": "Water Treatment",
+      "full_path": "Consumer Packaged Goods > Water Treatment"
+    },
+    {
+      "id": "1257",
+      "parent_id": "1256",
+      "name": "Water Filter/Devices",
+      "full_path": "Consumer Packaged Goods > Water Treatment > Water Filter/Devices"
+    },
+    {
+      "id": "1258",
+      "parent_id": "1256",
+      "name": "Water Softeners/Treatment",
+      "full_path": "Consumer Packaged Goods > Water Treatment > Water Softeners/Treatment"
+    },
+    {
+      "id": "1259",
+      "parent_id": null,
+      "name": "Dating",
+      "full_path": "Dating"
+    },
+    {
+      "id": "1260",
+      "parent_id": "1259",
+      "name": "Casual Relationships",
+      "full_path": "Dating > Casual Relationships"
+    },
+    {
+      "id": "1261",
+      "parent_id": "1259",
+      "name": "Serious Relationships",
+      "full_path": "Dating > Serious Relationships"
+    },
+    {
+      "id": "1262",
+      "parent_id": null,
+      "name": "Debated Sensitive Social Issue",
+      "full_path": "Debated Sensitive Social Issue"
+    },
+    {
+      "id": "1263",
+      "parent_id": null,
+      "name": "Durable Goods",
+      "full_path": "Durable Goods"
+    },
+    {
+      "id": "1264",
+      "parent_id": "1263",
+      "name": "Electronics/Photography",
+      "full_path": "Durable Goods > Electronics/Photography"
+    },
+    {
+      "id": "1265",
+      "parent_id": "1264",
+      "name": "Batteries",
+      "full_path": "Durable Goods > Electronics/Photography > Batteries"
+    },
+    {
+      "id": "1266",
+      "parent_id": "1264",
+      "name": "Blank Audio/Video Media",
+      "full_path": "Durable Goods > Electronics/Photography > Blank Audio/Video Media"
+    },
+    {
+      "id": "1267",
+      "parent_id": "1264",
+      "name": "Photography Supplies",
+      "full_path": "Durable Goods > Electronics/Photography > Photography Supplies"
+    },
+    {
+      "id": "1268",
+      "parent_id": "1263",
+      "name": "Furniture",
+      "full_path": "Durable Goods > Furniture"
+    },
+    {
+      "id": "1269",
+      "parent_id": "1268",
+      "name": "Indoor Furniture",
+      "full_path": "Durable Goods > Furniture > Indoor Furniture"
+    },
+    {
+      "id": "1270",
+      "parent_id": "1268",
+      "name": "Outdoor Furniture",
+      "full_path": "Durable Goods > Furniture > Outdoor Furniture"
+    },
+    {
+      "id": "1271",
+      "parent_id": "1263",
+      "name": "Grooming Supplies",
+      "full_path": "Durable Goods > Grooming Supplies"
+    },
+    {
+      "id": "1272",
+      "parent_id": "1271",
+      "name": "Electric Shaver Groomer",
+      "full_path": "Durable Goods > Grooming Supplies > Electric Shaver Groomer"
+    },
+    {
+      "id": "1273",
+      "parent_id": "1271",
+      "name": "Hair Appliances",
+      "full_path": "Durable Goods > Grooming Supplies > Hair Appliances"
+    },
+    {
+      "id": "1274",
+      "parent_id": "1263",
+      "name": "Tools and Hardware",
+      "full_path": "Durable Goods > Tools and Hardware"
+    },
+    {
+      "id": "1275",
+      "parent_id": "1274",
+      "name": "Consumer Hardware Supplies",
+      "full_path": "Durable Goods > Tools and Hardware > Consumer Hardware Supplies"
+    },
+    {
+      "id": "1276",
+      "parent_id": "1274",
+      "name": "Industrial Hardware Supplies",
+      "full_path": "Durable Goods > Tools and Hardware > Industrial Hardware Supplies"
+    },
+    {
+      "id": "1277",
+      "parent_id": "1263",
+      "name": "Home and Garden Products",
+      "full_path": "Durable Goods > Home and Garden Products"
+    },
+    {
+      "id": "1278",
+      "parent_id": "1277",
+      "name": "Bathroom Accessories",
+      "full_path": "Durable Goods > Home and Garden Products > Bathroom Accessories"
+    },
+    {
+      "id": "1279",
+      "parent_id": "1277",
+      "name": "Bedroom Furniture and Accessories",
+      "full_path": "Durable Goods > Home and Garden Products > Bedroom Furniture and Accessories"
+    },
+    {
+      "id": "1280",
+      "parent_id": "1277",
+      "name": "Carpets and Rugs",
+      "full_path": "Durable Goods > Home and Garden Products > Carpets and Rugs"
+    },
+    {
+      "id": "1281",
+      "parent_id": "1277",
+      "name": "Fireplaces",
+      "full_path": "Durable Goods > Home and Garden Products > Fireplaces"
+    },
+    {
+      "id": "1282",
+      "parent_id": "1277",
+      "name": "Home Decor",
+      "full_path": "Durable Goods > Home and Garden Products > Home Decor"
+    },
+    {
+      "id": "1283",
+      "parent_id": "1277",
+      "name": "Housewares",
+      "full_path": "Durable Goods > Home and Garden Products > Housewares"
+    },
+    {
+      "id": "1284",
+      "parent_id": "1277",
+      "name": "Kitchen and Dining Products",
+      "full_path": "Durable Goods > Home and Garden Products > Kitchen and Dining Products"
+    },
+    {
+      "id": "1285",
+      "parent_id": "1277",
+      "name": "Lawn and Garden Products",
+      "full_path": "Durable Goods > Home and Garden Products > Lawn and Garden Products"
+    },
+    {
+      "id": "1286",
+      "parent_id": "1277",
+      "name": "Lighting",
+      "full_path": "Durable Goods > Home and Garden Products > Lighting"
+    },
+    {
+      "id": "1287",
+      "parent_id": "1277",
+      "name": "Linens and Bedding",
+      "full_path": "Durable Goods > Home and Garden Products > Linens and Bedding"
+    },
+    {
+      "id": "1288",
+      "parent_id": "1277",
+      "name": "Plants",
+      "full_path": "Durable Goods > Home and Garden Products > Plants"
+    },
+    {
+      "id": "1289",
+      "parent_id": "1263",
+      "name": "Household Appliances",
+      "full_path": "Durable Goods > Household Appliances"
+    },
+    {
+      "id": "1290",
+      "parent_id": "1263",
+      "name": "Luggage and Bags",
+      "full_path": "Durable Goods > Luggage and Bags"
+    },
+    {
+      "id": "1291",
+      "parent_id": null,
+      "name": "Dieting and Weightloss",
+      "full_path": "Dieting and Weightloss"
+    },
+    {
+      "id": "1292",
+      "parent_id": "1291",
+      "name": "Food Logging",
+      "full_path": "Dieting and Weightloss > Food Logging"
+    },
+    {
+      "id": "1293",
+      "parent_id": "1291",
+      "name": "Weightloss Services",
+      "full_path": "Dieting and Weightloss > Weightloss Services"
+    },
+    {
+      "id": "1294",
+      "parent_id": "1291",
+      "name": "Workout and Step Tracking Applications",
+      "full_path": "Dieting and Weightloss > Workout and Step Tracking Applications"
+    },
+    {
+      "id": "1295",
+      "parent_id": null,
+      "name": "Education and Careers",
+      "full_path": "Education and Careers"
+    },
+    {
+      "id": "1296",
+      "parent_id": "1295",
+      "name": "Adult Education",
+      "full_path": "Education and Careers > Adult Education"
+    },
+    {
+      "id": "1297",
+      "parent_id": "1295",
+      "name": "Certification Programs",
+      "full_path": "Education and Careers > Certification Programs"
+    },
+    {
+      "id": "1298",
+      "parent_id": "1295",
+      "name": "Colleges and Universities",
+      "full_path": "Education and Careers > Colleges and Universities"
+    },
+    {
+      "id": "1299",
+      "parent_id": "1298",
+      "name": "Post-Graduate Education",
+      "full_path": "Education and Careers > Colleges and Universities > Post-Graduate Education"
+    },
+    {
+      "id": "1300",
+      "parent_id": "1295",
+      "name": "Education Applications",
+      "full_path": "Education and Careers > Education Applications"
+    },
+    {
+      "id": "1301",
+      "parent_id": "1295",
+      "name": "Employment Agencies",
+      "full_path": "Education and Careers > Employment Agencies"
+    },
+    {
+      "id": "1302",
+      "parent_id": "1295",
+      "name": "Higher Education",
+      "full_path": "Education and Careers > Higher Education"
+    },
+    {
+      "id": "1303",
+      "parent_id": "1295",
+      "name": "Language Learning",
+      "full_path": "Education and Careers > Language Learning"
+    },
+    {
+      "id": "1304",
+      "parent_id": "1295",
+      "name": "Online Education",
+      "full_path": "Education and Careers > Online Education"
+    },
+    {
+      "id": "1305",
+      "parent_id": "1295",
+      "name": "Primary Education",
+      "full_path": "Education and Careers > Primary Education"
+    },
+    {
+      "id": "1306",
+      "parent_id": "1295",
+      "name": "Remote work and school",
+      "full_path": "Education and Careers > Remote work and school"
+    },
+    {
+      "id": "1307",
+      "parent_id": "1306",
+      "name": "Distance learning",
+      "full_path": "Education and Careers > Remote work and school > Distance learning"
+    },
+    {
+      "id": "1308",
+      "parent_id": "1306",
+      "name": "Homeschooling",
+      "full_path": "Education and Careers > Remote work and school > Homeschooling"
+    },
+    {
+      "id": "1309",
+      "parent_id": "1306",
+      "name": "Online Surveys",
+      "full_path": "Education and Careers > Remote work and school > Online Surveys"
+    },
+    {
+      "id": "1310",
+      "parent_id": "1306",
+      "name": "Multi-Level Marketing",
+      "full_path": "Education and Careers > Remote work and school > Multi-Level Marketing"
+    },
+    {
+      "id": "1311",
+      "parent_id": "1306",
+      "name": "Telecommuting",
+      "full_path": "Education and Careers > Remote work and school > Telecommuting"
+    },
+    {
+      "id": "1312",
+      "parent_id": "1295",
+      "name": "Study Skills",
+      "full_path": "Education and Careers > Study Skills"
+    },
+    {
+      "id": "1313",
+      "parent_id": "1295",
+      "name": "Teaching Resources",
+      "full_path": "Education and Careers > Teaching Resources"
+    },
+    {
+      "id": "1314",
+      "parent_id": "1295",
+      "name": "Trade Schools",
+      "full_path": "Education and Careers > Trade Schools"
+    },
+    {
+      "id": "1315",
+      "parent_id": null,
+      "name": "Events and Performances",
+      "full_path": "Events and Performances"
+    },
+    {
+      "id": "1316",
+      "parent_id": "1315",
+      "name": "Auctions",
+      "full_path": "Events and Performances > Auctions"
+    },
+    {
+      "id": "1317",
+      "parent_id": "1315",
+      "name": "Cinemas and Movie Events",
+      "full_path": "Events and Performances > Cinemas and Movie Events"
+    },
+    {
+      "id": "1318",
+      "parent_id": "1315",
+      "name": "Comedy Events",
+      "full_path": "Events and Performances > Comedy Events"
+    },
+    {
+      "id": "1319",
+      "parent_id": "1315",
+      "name": "Concerts",
+      "full_path": "Events and Performances > Concerts"
+    },
+    {
+      "id": "1320",
+      "parent_id": "1315",
+      "name": "Conferences, Lectures and Workshops",
+      "full_path": "Events and Performances > Conferences, Lectures and Workshops"
+    },
+    {
+      "id": "1321",
+      "parent_id": "1315",
+      "name": "Exhibitions",
+      "full_path": "Events and Performances > Exhibitions"
+    },
+    {
+      "id": "1322",
+      "parent_id": "1315",
+      "name": "Fan Conventions",
+      "full_path": "Events and Performances > Fan Conventions"
+    },
+    {
+      "id": "1323",
+      "parent_id": "1315",
+      "name": "Fashion Events",
+      "full_path": "Events and Performances > Fashion Events"
+    },
+    {
+      "id": "1324",
+      "parent_id": "1315",
+      "name": "Nightlife Experiences",
+      "full_path": "Events and Performances > Nightlife Experiences"
+    },
+    {
+      "id": "1325",
+      "parent_id": "1315",
+      "name": "Sporting Events",
+      "full_path": "Events and Performances > Sporting Events"
+    },
+    {
+      "id": "1326",
+      "parent_id": "1315",
+      "name": "Seasonal and Holiday Events",
+      "full_path": "Events and Performances > Seasonal and Holiday Events"
+    },
+    {
+      "id": "1327",
+      "parent_id": "1315",
+      "name": "Theatre and Musicals",
+      "full_path": "Events and Performances > Theatre and Musicals"
+    },
+    {
+      "id": "1328",
+      "parent_id": null,
+      "name": "Family and Parenting",
+      "full_path": "Family and Parenting"
+    },
+    {
+      "id": "1329",
+      "parent_id": "1328",
+      "name": "Childcare",
+      "full_path": "Family and Parenting > Childcare"
+    },
+    {
+      "id": "1330",
+      "parent_id": "1329",
+      "name": "Day Care Centers",
+      "full_path": "Family and Parenting > Childcare > Day Care Centers"
+    },
+    {
+      "id": "1331",
+      "parent_id": "1329",
+      "name": "Nanny Services",
+      "full_path": "Family and Parenting > Childcare > Nanny Services"
+    },
+    {
+      "id": "1332",
+      "parent_id": "1328",
+      "name": "Genealogy and Family Trees",
+      "full_path": "Family and Parenting > Genealogy and Family Trees"
+    },
+    {
+      "id": "1333",
+      "parent_id": "1328",
+      "name": "Kids Activities",
+      "full_path": "Family and Parenting > Kids Activities"
+    },
+    {
+      "id": "1334",
+      "parent_id": "1328",
+      "name": "Senior Living",
+      "full_path": "Family and Parenting > Senior Living"
+    },
+    {
+      "id": "1335",
+      "parent_id": null,
+      "name": "Finance and Insurance",
+      "full_path": "Finance and Insurance"
+    },
+    {
+      "id": "1336",
+      "parent_id": "1335",
+      "name": "Accountants and Bookkeepers",
+      "full_path": "Finance and Insurance > Accountants and Bookkeepers"
+    },
+    {
+      "id": "1337",
+      "parent_id": "1335",
+      "name": "Banking",
+      "full_path": "Finance and Insurance > Banking"
+    },
+    {
+      "id": "1338",
+      "parent_id": "1335",
+      "name": "Credit and Debt Repair/Credit Reporting",
+      "full_path": "Finance and Insurance > Credit and Debt Repair/Credit Reporting"
+    },
+    {
+      "id": "1339",
+      "parent_id": "1335",
+      "name": "Credit Cards",
+      "full_path": "Finance and Insurance > Credit Cards"
+    },
+    {
+      "id": "1340",
+      "parent_id": "1335",
+      "name": "Insurance",
+      "full_path": "Finance and Insurance > Insurance"
+    },
+    {
+      "id": "1341",
+      "parent_id": "1340",
+      "name": "Auto Insurance",
+      "full_path": "Finance and Insurance > Insurance > Auto Insurance"
+    },
+    {
+      "id": "1342",
+      "parent_id": "1340",
+      "name": "Home Insurance",
+      "full_path": "Finance and Insurance > Insurance > Home Insurance"
+    },
+    {
+      "id": "1343",
+      "parent_id": "1340",
+      "name": "Life Insurance",
+      "full_path": "Finance and Insurance > Insurance > Life Insurance"
+    },
+    {
+      "id": "1344",
+      "parent_id": "1340",
+      "name": "Medical Insurance",
+      "full_path": "Finance and Insurance > Insurance > Medical Insurance"
+    },
+    {
+      "id": "1345",
+      "parent_id": "1340",
+      "name": "Pet Insurance",
+      "full_path": "Finance and Insurance > Insurance > Pet Insurance"
+    },
+    {
+      "id": "1346",
+      "parent_id": "1340",
+      "name": "Travel Insurance",
+      "full_path": "Finance and Insurance > Insurance > Travel Insurance"
+    },
+    {
+      "id": "1347",
+      "parent_id": "1335",
+      "name": "Insurance Coverage Apps",
+      "full_path": "Finance and Insurance > Insurance Coverage Apps"
+    },
+    {
+      "id": "1348",
+      "parent_id": "1335",
+      "name": "Mortgage Lenders and Brokers",
+      "full_path": "Finance and Insurance > Mortgage Lenders and Brokers"
+    },
+    {
+      "id": "1349",
+      "parent_id": "1335",
+      "name": "Payday and Emergency Loans",
+      "full_path": "Finance and Insurance > Payday and Emergency Loans"
+    },
+    {
+      "id": "1350",
+      "parent_id": "1335",
+      "name": "Retirement Planning",
+      "full_path": "Finance and Insurance > Retirement Planning"
+    },
+    {
+      "id": "1351",
+      "parent_id": "1335",
+      "name": "Stocks and Investments",
+      "full_path": "Finance and Insurance > Stocks and Investments"
+    },
+    {
+      "id": "1352",
+      "parent_id": "1335",
+      "name": "Financial Investment and Management Applications",
+      "full_path": "Finance and Insurance > Financial Investment and Management Applications"
+    },
+    {
+      "id": "1353",
+      "parent_id": "1335",
+      "name": "Student Financial Aid",
+      "full_path": "Finance and Insurance > Student Financial Aid"
+    },
+    {
+      "id": "1354",
+      "parent_id": "1335",
+      "name": "Tax Preparation Services",
+      "full_path": "Finance and Insurance > Tax Preparation Services"
+    },
+    {
+      "id": "1355",
+      "parent_id": null,
+      "name": "Food and Beverage Services",
+      "full_path": "Food and Beverage Services"
+    },
+    {
+      "id": "1356",
+      "parent_id": "1355",
+      "name": "Bakeries",
+      "full_path": "Food and Beverage Services > Bakeries"
+    },
+    {
+      "id": "1357",
+      "parent_id": "1355",
+      "name": "Catering",
+      "full_path": "Food and Beverage Services > Catering"
+    },
+    {
+      "id": "1358",
+      "parent_id": "1355",
+      "name": "Fast Food",
+      "full_path": "Food and Beverage Services > Fast Food"
+    },
+    {
+      "id": "1359",
+      "parent_id": "1355",
+      "name": "Food Delivery Services",
+      "full_path": "Food and Beverage Services > Food Delivery Services"
+    },
+    {
+      "id": "1360",
+      "parent_id": "1355",
+      "name": "Restaurants",
+      "full_path": "Food and Beverage Services > Restaurants"
+    },
+    {
+      "id": "1361",
+      "parent_id": null,
+      "name": "Gambling",
+      "full_path": "Gambling"
+    },
+    {
+      "id": "1362",
+      "parent_id": "1361",
+      "name": "Casinos",
+      "full_path": "Gambling > Casinos"
+    },
+    {
+      "id": "1363",
+      "parent_id": "1361",
+      "name": "Contests",
+      "full_path": "Gambling > Contests"
+    },
+    {
+      "id": "1364",
+      "parent_id": "1361",
+      "name": "Give Aways",
+      "full_path": "Gambling > Give Aways"
+    },
+    {
+      "id": "1365",
+      "parent_id": "1361",
+      "name": "Lottery",
+      "full_path": "Gambling > Lottery"
+    },
+    {
+      "id": "1366",
+      "parent_id": "1361",
+      "name": "Sports Betting",
+      "full_path": "Gambling > Sports Betting"
+    },
+    {
+      "id": "1367",
+      "parent_id": "1361",
+      "name": "Virtual Betting",
+      "full_path": "Gambling > Virtual Betting"
+    },
+    {
+      "id": "1368",
+      "parent_id": null,
+      "name": "Green/Eco",
+      "full_path": "Green/Eco"
+    },
+    {
+      "id": "1369",
+      "parent_id": "1368",
+      "name": "Green/Eco Products",
+      "full_path": "Green/Eco > Green/Eco Products"
+    },
+    {
+      "id": "1370",
+      "parent_id": "1368",
+      "name": "Green/Eco Services",
+      "full_path": "Green/Eco > Green/Eco Services"
+    },
+    {
+      "id": "1371",
+      "parent_id": null,
+      "name": "Gifts and Holiday Items",
+      "full_path": "Gifts and Holiday Items"
+    },
+    {
+      "id": "1372",
+      "parent_id": "1371",
+      "name": "Flowers",
+      "full_path": "Gifts and Holiday Items > Flowers"
+    },
+    {
+      "id": "1373",
+      "parent_id": "1371",
+      "name": "Gift Baskets",
+      "full_path": "Gifts and Holiday Items > Gift Baskets"
+    },
+    {
+      "id": "1374",
+      "parent_id": "1371",
+      "name": "Gift Cards and Coupons",
+      "full_path": "Gifts and Holiday Items > Gift Cards and Coupons"
+    },
+    {
+      "id": "1375",
+      "parent_id": "1371",
+      "name": "Gift Certificates",
+      "full_path": "Gifts and Holiday Items > Gift Certificates"
+    },
+    {
+      "id": "1376",
+      "parent_id": "1371",
+      "name": "Greeting Cards",
+      "full_path": "Gifts and Holiday Items > Greeting Cards"
+    },
+    {
+      "id": "1377",
+      "parent_id": "1371",
+      "name": "Party Goods",
+      "full_path": "Gifts and Holiday Items > Party Goods"
+    },
+    {
+      "id": "1378",
+      "parent_id": null,
+      "name": "Health and Medical Services",
+      "full_path": "Health and Medical Services"
+    },
+    {
+      "id": "1379",
+      "parent_id": "1378",
+      "name": "Alternative and Natural Medicine",
+      "full_path": "Health and Medical Services > Alternative and Natural Medicine"
+    },
+    {
+      "id": "1380",
+      "parent_id": "1378",
+      "name": "Assisted Living",
+      "full_path": "Health and Medical Services > Assisted Living"
+    },
+    {
+      "id": "1381",
+      "parent_id": "1378",
+      "name": "Chiropractors",
+      "full_path": "Health and Medical Services > Chiropractors"
+    },
+    {
+      "id": "1382",
+      "parent_id": "1378",
+      "name": "Clinical Research",
+      "full_path": "Health and Medical Services > Clinical Research"
+    },
+    {
+      "id": "1383",
+      "parent_id": "1378",
+      "name": "Cosmetic Medical Services",
+      "full_path": "Health and Medical Services > Cosmetic Medical Services"
+    },
+    {
+      "id": "1384",
+      "parent_id": "1378",
+      "name": "Dental Care",
+      "full_path": "Health and Medical Services > Dental Care"
+    },
+    {
+      "id": "1385",
+      "parent_id": "1378",
+      "name": "Dermatology",
+      "full_path": "Health and Medical Services > Dermatology"
+    },
+    {
+      "id": "1386",
+      "parent_id": "1378",
+      "name": "Drugstores and Pharmacies",
+      "full_path": "Health and Medical Services > Drugstores and Pharmacies"
+    },
+    {
+      "id": "1387",
+      "parent_id": "1378",
+      "name": "Fertility and Family Planning",
+      "full_path": "Health and Medical Services > Fertility and Family Planning"
+    },
+    {
+      "id": "1388",
+      "parent_id": "1378",
+      "name": "General Practitioners",
+      "full_path": "Health and Medical Services > General Practitioners"
+    },
+    {
+      "id": "1389",
+      "parent_id": "1378",
+      "name": "Home Healthcare",
+      "full_path": "Health and Medical Services > Home Healthcare"
+    },
+    {
+      "id": "1390",
+      "parent_id": "1378",
+      "name": "Hospitals",
+      "full_path": "Health and Medical Services > Hospitals"
+    },
+    {
+      "id": "1391",
+      "parent_id": "1378",
+      "name": "Mental Health",
+      "full_path": "Health and Medical Services > Mental Health"
+    },
+    {
+      "id": "1392",
+      "parent_id": "1378",
+      "name": "Physical Therapists",
+      "full_path": "Health and Medical Services > Physical Therapists"
+    },
+    {
+      "id": "1393",
+      "parent_id": "1378",
+      "name": "Service Provider Search and Scheduling",
+      "full_path": "Health and Medical Services > Service Provider Search and Scheduling"
+    },
+    {
+      "id": "1394",
+      "parent_id": "1378",
+      "name": "Symptom Monitoring Apps",
+      "full_path": "Health and Medical Services > Symptom Monitoring Apps"
+    },
+    {
+      "id": "1395",
+      "parent_id": "1378",
+      "name": "Vision Care",
+      "full_path": "Health and Medical Services > Vision Care"
+    },
+    {
+      "id": "1396",
+      "parent_id": null,
+      "name": "Home and Garden Services",
+      "full_path": "Home and Garden Services"
+    },
+    {
+      "id": "1397",
+      "parent_id": "1396",
+      "name": "Appliance Repair",
+      "full_path": "Home and Garden Services > Appliance Repair"
+    },
+    {
+      "id": "1398",
+      "parent_id": "1396",
+      "name": "Business and Home Security Services",
+      "full_path": "Home and Garden Services > Business and Home Security Services"
+    },
+    {
+      "id": "1399",
+      "parent_id": "1396",
+      "name": "Carpeting and Flooring Services",
+      "full_path": "Home and Garden Services > Carpeting and Flooring Services"
+    },
+    {
+      "id": "1400",
+      "parent_id": "1396",
+      "name": "Do It Yourself Applications",
+      "full_path": "Home and Garden Services > Do It Yourself Applications"
+    },
+    {
+      "id": "1401",
+      "parent_id": "1396",
+      "name": "Emergency Preparedness",
+      "full_path": "Home and Garden Services > Emergency Preparedness"
+    },
+    {
+      "id": "1402",
+      "parent_id": "1396",
+      "name": "Flood, Fire and Gas Safety",
+      "full_path": "Home and Garden Services > Flood, Fire and Gas Safety"
+    },
+    {
+      "id": "1403",
+      "parent_id": "1396",
+      "name": "Gas and Electric Services",
+      "full_path": "Home and Garden Services > Gas and Electric Services"
+    },
+    {
+      "id": "1404",
+      "parent_id": "1396",
+      "name": "Home Improvement and Repair",
+      "full_path": "Home and Garden Services > Home Improvement and Repair"
+    },
+    {
+      "id": "1405",
+      "parent_id": "1396",
+      "name": "Home Security and Monitoring Applications",
+      "full_path": "Home and Garden Services > Home Security and Monitoring Applications"
+    },
+    {
+      "id": "1406",
+      "parent_id": "1396",
+      "name": "Home Service Provider Review",
+      "full_path": "Home and Garden Services > Home Service Provider Review"
+    },
+    {
+      "id": "1407",
+      "parent_id": "1396",
+      "name": "Housekeeping Services",
+      "full_path": "Home and Garden Services > Housekeeping Services"
+    },
+    {
+      "id": "1408",
+      "parent_id": "1396",
+      "name": "Landscaping Services",
+      "full_path": "Home and Garden Services > Landscaping Services"
+    },
+    {
+      "id": "1409",
+      "parent_id": "1396",
+      "name": "Lawn and Garden Services",
+      "full_path": "Home and Garden Services > Lawn and Garden Services"
+    },
+    {
+      "id": "1410",
+      "parent_id": "1396",
+      "name": "Pest Exterminators",
+      "full_path": "Home and Garden Services > Pest Exterminators"
+    },
+    {
+      "id": "1411",
+      "parent_id": "1396",
+      "name": "Plumbers",
+      "full_path": "Home and Garden Services > Plumbers"
+    },
+    {
+      "id": "1412",
+      "parent_id": "1396",
+      "name": "Pool and Spa Installation and Maintenance",
+      "full_path": "Home and Garden Services > Pool and Spa Installation and Maintenance"
+    },
+    {
+      "id": "1413",
+      "parent_id": "1396",
+      "name": "Remodeling and Construction",
+      "full_path": "Home and Garden Services > Remodeling and Construction"
+    },
+    {
+      "id": "1414",
+      "parent_id": "1396",
+      "name": "Water Services",
+      "full_path": "Home and Garden Services > Water Services"
+    },
+    {
+      "id": "1415",
+      "parent_id": "1396",
+      "name": "Window Installation and Treatments",
+      "full_path": "Home and Garden Services > Window Installation and Treatments"
+    },
+    {
+      "id": "1416",
+      "parent_id": null,
+      "name": "Legal Services",
+      "full_path": "Legal Services"
+    },
+    {
+      "id": "1417",
+      "parent_id": "1416",
+      "name": "Lawyers",
+      "full_path": "Legal Services > Lawyers"
+    },
+    {
+      "id": "1418",
+      "parent_id": "1416",
+      "name": "Bail Bonds",
+      "full_path": "Legal Services > Bail Bonds"
+    },
+    {
+      "id": "1419",
+      "parent_id": null,
+      "name": "Media",
+      "full_path": "Media"
+    },
+    {
+      "id": "1420",
+      "parent_id": "1419",
+      "name": "Blogs/Forums/Social Networks",
+      "full_path": "Media > Blogs/Forums/Social Networks"
+    },
+    {
+      "id": "1421",
+      "parent_id": "1419",
+      "name": "Book Reading and Review Applications",
+      "full_path": "Media > Book Reading and Review Applications"
+    },
+    {
+      "id": "1422",
+      "parent_id": "1419",
+      "name": "Books and Audio Books",
+      "full_path": "Media > Books and Audio Books"
+    },
+    {
+      "id": "1423",
+      "parent_id": "1419",
+      "name": "Casual Games",
+      "full_path": "Media > Casual Games"
+    },
+    {
+      "id": "1424",
+      "parent_id": "1423",
+      "name": "Casual Games Apps",
+      "full_path": "Media > Casual Games > Casual Games Apps"
+    },
+    {
+      "id": "1425",
+      "parent_id": "1419",
+      "name": "Core Gaming",
+      "full_path": "Media > Core Gaming"
+    },
+    {
+      "id": "1426",
+      "parent_id": "1423",
+      "name": "Core Gaming Apps",
+      "full_path": "Media > Core Gaming > Core Gaming Apps"
+    },
+    {
+      "id": "1427",
+      "parent_id": "1419",
+      "name": "CDs and Vinyl Records",
+      "full_path": "Media > CDs and Vinyl Records"
+    },
+    {
+      "id": "1428",
+      "parent_id": "1419",
+      "name": "DVDs",
+      "full_path": "Media > DVDs"
+    },
+    {
+      "id": "1429",
+      "parent_id": "1419",
+      "name": "Live Television",
+      "full_path": "Media > Live Television"
+    },
+    {
+      "id": "1430",
+      "parent_id": "1419",
+      "name": "Magazines and Newspapers",
+      "full_path": "Media > Magazines and Newspapers"
+    },
+    {
+      "id": "1431",
+      "parent_id": "1419",
+      "name": "Music and Video Streaming Services",
+      "full_path": "Media > Music and Video Streaming Services"
+    },
+    {
+      "id": "1432",
+      "parent_id": "1419",
+      "name": "News and Analysis",
+      "full_path": "Media > News and Analysis"
+    },
+    {
+      "id": "1433",
+      "parent_id": "1419",
+      "name": "Radio and Podcasts",
+      "full_path": "Media > Radio and Podcasts"
+    },
+    {
+      "id": "1434",
+      "parent_id": "1419",
+      "name": "Sports",
+      "full_path": "Media > Sports"
+    },
+    {
+      "id": "1435",
+      "parent_id": "1434",
+      "name": "Fantasy Sports",
+      "full_path": "Media > Sports > Fantasy Sports"
+    },
+    {
+      "id": "1436",
+      "parent_id": "1434",
+      "name": "Sports Highlights",
+      "full_path": "Media > Sports > Sports Highlights"
+    },
+    {
+      "id": "1437",
+      "parent_id": "1434",
+      "name": "Team News and Analysis",
+      "full_path": "Media > Sports > Team News and Analysis"
+    },
+    {
+      "id": "1438",
+      "parent_id": "1419",
+      "name": "Utilities Apps",
+      "full_path": "Media > Utilities Apps"
+    },
+    {
+      "id": "1439",
+      "parent_id": "1438",
+      "name": "Productivity Apps",
+      "full_path": "Media > Utilities Apps > Productivity Apps"
+    },
+    {
+      "id": "1440",
+      "parent_id": "1438",
+      "name": "Reference Apps",
+      "full_path": "Media > Utilities Apps > Reference Apps"
+    },
+    {
+      "id": "1441",
+      "parent_id": "1438",
+      "name": "Search Engine Apps",
+      "full_path": "Media > Utilities Apps > Search Engine Apps"
+    },
+    {
+      "id": "1442",
+      "parent_id": "1438",
+      "name": "Weather Apps",
+      "full_path": "Media > Utilities Apps > Weather Apps"
+    },
+    {
+      "id": "1443",
+      "parent_id": null,
+      "name": "Metals",
+      "full_path": "Metals"
+    },
+    {
+      "id": "1444",
+      "parent_id": "1443",
+      "name": "Coin Trade In",
+      "full_path": "Metals > Coin Trade In"
+    },
+    {
+      "id": "1445",
+      "parent_id": "1443",
+      "name": "Gold Trade In",
+      "full_path": "Metals > Gold Trade In"
+    },
+    {
+      "id": "1446",
+      "parent_id": "1443",
+      "name": "Platinum Trade In",
+      "full_path": "Metals > Platinum Trade In"
+    },
+    {
+      "id": "1447",
+      "parent_id": "1443",
+      "name": "Silver Trade In",
+      "full_path": "Metals > Silver Trade In"
+    },
+    {
+      "id": "1448",
+      "parent_id": null,
+      "name": "Non-Fiat Currency",
+      "full_path": "Non-Fiat Currency"
+    },
+    {
+      "id": "1449",
+      "parent_id": "1448",
+      "name": "Cryptocurrency Exchanges",
+      "full_path": "Non-Fiat Currency > Cryptocurrency Exchanges"
+    },
+    {
+      "id": "1450",
+      "parent_id": "1448",
+      "name": "Cryptocurrency Stock",
+      "full_path": "Non-Fiat Currency > Cryptocurrency Stock"
+    },
+    {
+      "id": "1451",
+      "parent_id": "1448",
+      "name": "NFTs",
+      "full_path": "Non-Fiat Currency > NFTs"
+    },
+    {
+      "id": "1452",
+      "parent_id": null,
+      "name": "Non-Profits",
+      "full_path": "Non-Profits"
+    },
+    {
+      "id": "1453",
+      "parent_id": "1452",
+      "name": "Charities and Donations",
+      "full_path": "Non-Profits > Charities and Donations"
+    },
+    {
+      "id": "1454",
+      "parent_id": "1452",
+      "name": "Civic Organizations",
+      "full_path": "Non-Profits > Civic Organizations"
+    },
+    {
+      "id": "1455",
+      "parent_id": "1452",
+      "name": "Federations and Professional Associations",
+      "full_path": "Non-Profits > Federations and Professional Associations"
+    },
+    {
+      "id": "1456",
+      "parent_id": "1452",
+      "name": "Military Organizations",
+      "full_path": "Non-Profits > Military Organizations"
+    },
+    {
+      "id": "1457",
+      "parent_id": "1452",
+      "name": "Non-Governmental Organizations",
+      "full_path": "Non-Profits > Non-Governmental Organizations"
+    },
+    {
+      "id": "1458",
+      "parent_id": "1452",
+      "name": "Public Service Announcements",
+      "full_path": "Non-Profits > Public Service Announcements"
+    },
+    {
+      "id": "1459",
+      "parent_id": "1452",
+      "name": "Scholarships",
+      "full_path": "Non-Profits > Scholarships"
+    },
+    {
+      "id": "1460",
+      "parent_id": null,
+      "name": "Pet Ownership",
+      "full_path": "Pet Ownership"
+    },
+    {
+      "id": "1461",
+      "parent_id": "1460",
+      "name": "Pet Adoption",
+      "full_path": "Pet Ownership > Pet Adoption"
+    },
+    {
+      "id": "1462",
+      "parent_id": "1460",
+      "name": "Pet Breeders",
+      "full_path": "Pet Ownership > Pet Breeders"
+    },
+    {
+      "id": "1463",
+      "parent_id": "1460",
+      "name": "Pet Care and Supply Applications",
+      "full_path": "Pet Ownership > Pet Care and Supply Applications"
+    },
+    {
+      "id": "1464",
+      "parent_id": "1460",
+      "name": "Pet Grooming",
+      "full_path": "Pet Ownership > Pet Grooming"
+    },
+    {
+      "id": "1465",
+      "parent_id": "1460",
+      "name": "Pet Sitting",
+      "full_path": "Pet Ownership > Pet Sitting"
+    },
+    {
+      "id": "1466",
+      "parent_id": "1460",
+      "name": "Veterinary Services",
+      "full_path": "Pet Ownership > Veterinary Services"
+    },
+    {
+      "id": "1467",
+      "parent_id": null,
+      "name": "Personal/Consumer Telcom",
+      "full_path": "Personal/Consumer Telecom"
+    },
+    {
+      "id": "1468",
+      "parent_id": "1467",
+      "name": "Home Internet Services",
+      "full_path": "Personal/Consumer Telecom > Home Internet Services"
+    },
+    {
+      "id": "1469",
+      "parent_id": "1467",
+      "name": "Home Phone Services",
+      "full_path": "Personal/Consumer Telecom > Home Phone Services"
+    },
+    {
+      "id": "1470",
+      "parent_id": "1467",
+      "name": "Home Television Services",
+      "full_path": "Personal/Consumer Telecom > Home Television Services"
+    },
+    {
+      "id": "1471",
+      "parent_id": "1467",
+      "name": "Mobile Phone Plans",
+      "full_path": "Personal/Consumer Telecom > Mobile Phone Plans"
+    },
+    {
+      "id": "1472",
+      "parent_id": "1467",
+      "name": "Prepaid International Phone Services",
+      "full_path": "Personal/Consumer Telecom > Prepaid International Phone Services"
+    },
+    {
+      "id": "1473",
+      "parent_id": null,
+      "name": "Pharmaceuticals",
+      "full_path": "Pharmaceuticals"
+    },
+    {
+      "id": "1474",
+      "parent_id": null,
+      "name": "Politics",
+      "full_path": "Politics"
+    },
+    {
+      "id": "1475",
+      "parent_id": "1474",
+      "name": "Ballot measures",
+      "full_path": "Politics > Ballot measures"
+    },
+    {
+      "id": "1476",
+      "parent_id": "1474",
+      "name": "Elections",
+      "full_path": "Politics > Elections"
+    },
+    {
+      "id": "1477",
+      "parent_id": "1474",
+      "name": "Political Action Committees",
+      "full_path": "Politics > Political Action Committees"
+    },
+    {
+      "id": "1478",
+      "parent_id": "1474",
+      "name": "Political Analysis and Opinion",
+      "full_path": "Politics > Political Analysis and Opinion"
+    },
+    {
+      "id": "1479",
+      "parent_id": "1474",
+      "name": "Political candidates",
+      "full_path": "Politics > Political candidates"
+    },
+    {
+      "id": "1480",
+      "parent_id": "1474",
+      "name": "Political Donations",
+      "full_path": "Politics > Political Donations"
+    },
+    {
+      "id": "1481",
+      "parent_id": "1474",
+      "name": "Referendums or promoting causes; eg: Healthcare reform, energy trades (Oil/Solar), etc...",
+      "full_path": "Politics > Referendums or promoting causes; eg: Healthcare reform, energy trades (Oil/Solar), etc..."
+    },
+    {
+      "id": "1482",
+      "parent_id": null,
+      "name": "Real Estate",
+      "full_path": "Real Estate"
+    },
+    {
+      "id": "1483",
+      "parent_id": "1482",
+      "name": "Commercial Real Estate",
+      "full_path": "Real Estate > Commercial Real Estate"
+    },
+    {
+      "id": "1484",
+      "parent_id": "1482",
+      "name": "Real Estate Rentals",
+      "full_path": "Real Estate > Real Estate Rentals"
+    },
+    {
+      "id": "1485",
+      "parent_id": "1482",
+      "name": "Real Estate Sales",
+      "full_path": "Real Estate > Real Estate Sales"
+    },
+    {
+      "id": "1486",
+      "parent_id": "1482",
+      "name": "Real Estate Services For Owners",
+      "full_path": "Real Estate > Real Estate Services For Owners"
+    },
+    {
+      "id": "1487",
+      "parent_id": null,
+      "name": "Religion and Spirituality",
+      "full_path": "Religion and Spirituality"
+    },
+    {
+      "id": "1488",
+      "parent_id": "1487",
+      "name": "Astrology",
+      "full_path": "Religion and Spirituality > Astrology"
+    },
+    {
+      "id": "1489",
+      "parent_id": "1487",
+      "name": "Prayer and Mindfullness Applications",
+      "full_path": "Religion and Spirituality > Prayer and Mindfullness Applications"
+    },
+    {
+      "id": "1490",
+      "parent_id": "1487",
+      "name": "Prayer and worship services",
+      "full_path": "Religion and Spirituality > Prayer and Worship Services"
+    },
+    {
+      "id": "1491",
+      "parent_id": "1487",
+      "name": "Religious causes",
+      "full_path": "Religion and Spirituality > Religious Causes"
+    },
+    {
+      "id": "1492",
+      "parent_id": "1487",
+      "name": "Religious charities",
+      "full_path": "Religion and Spirituality > Religious Charities"
+    },
+    {
+      "id": "1493",
+      "parent_id": "1487",
+      "name": "Religious organizations",
+      "full_path": "Religion and Spirituality > Religious Organizations"
+    },
+    {
+      "id": "1494",
+      "parent_id": null,
+      "name": "Retail",
+      "full_path": "Retail"
+    },
+    {
+      "id": "1495",
+      "parent_id": "1494",
+      "name": "Arts and Crafts Supplies",
+      "full_path": "Retail > Arts and Crafts Supplies"
+    },
+    {
+      "id": "1496",
+      "parent_id": "1494",
+      "name": "Cell Phone Stores",
+      "full_path": "Retail > Cell Phone Stores"
+    },
+    {
+      "id": "1497",
+      "parent_id": "1494",
+      "name": "Clothing Stores",
+      "full_path": "Retail > Clothing Stores"
+    },
+    {
+      "id": "1498",
+      "parent_id": "1494",
+      "name": "Department Stores",
+      "full_path": "Retail > Department Stores"
+    },
+    {
+      "id": "1499",
+      "parent_id": "1494",
+      "name": "eCommerce",
+      "full_path": "Retail > eCommerce"
+    },
+    {
+      "id": "1500",
+      "parent_id": "1494",
+      "name": "Factory Outlet Stores",
+      "full_path": "Retail > Factory Outlet Stores"
+    },
+    {
+      "id": "1501",
+      "parent_id": "1494",
+      "name": "Grocery Stores and Supermarkets",
+      "full_path": "Retail > Grocery Stores and Supermarkets"
+    },
+    {
+      "id": "1502",
+      "parent_id": "1494",
+      "name": "Hardware Stores",
+      "full_path": "Retail > Hardware Stores"
+    },
+    {
+      "id": "1503",
+      "parent_id": "1494",
+      "name": "Musical Instruments and Record Stores",
+      "full_path": "Retail > Musical Instruments and Record Stores"
+    },
+    {
+      "id": "1504",
+      "parent_id": "1494",
+      "name": "Pawn Shops",
+      "full_path": "Retail > Pawn Shops"
+    },
+    {
+      "id": "1505",
+      "parent_id": "1494",
+      "name": "Pet and Pet Supply Stores",
+      "full_path": "Retail > Pet and Pet Supply Stores"
+    },
+    {
+      "id": "1506",
+      "parent_id": "1494",
+      "name": "Shopping Malls",
+      "full_path": "Retail > Shopping Malls"
+    },
+    {
+      "id": "1507",
+      "parent_id": "1494",
+      "name": "Specialty Stores",
+      "full_path": "Retail > Specialty Stores"
+    },
+    {
+      "id": "1508",
+      "parent_id": "1494",
+      "name": "Sporting Goods Stores",
+      "full_path": "Retail > Sporting Goods Stores"
+    },
+    {
+      "id": "1509",
+      "parent_id": "1494",
+      "name": "Ticket Services",
+      "full_path": "Retail > Ticket Services"
+    },
+    {
+      "id": "1510",
+      "parent_id": null,
+      "name": "Fitness Activities",
+      "full_path": "Fitness Activities"
+    },
+    {
+      "id": "1511",
+      "parent_id": "1510",
+      "name": "Dance Studios",
+      "full_path": "Fitness Activities > Dance Studios"
+    },
+    {
+      "id": "1512",
+      "parent_id": "1510",
+      "name": "Gyms and Health Clubs",
+      "full_path": "Fitness Activities > Gyms and Health Clubs"
+    },
+    {
+      "id": "1513",
+      "parent_id": "1510",
+      "name": "Participant Sports Leagues",
+      "full_path": "Fitness Activities > Participant Sports Leagues"
+    },
+    {
+      "id": "1514",
+      "parent_id": "1510",
+      "name": "Personal Trainers",
+      "full_path": "Fitness Activities > Personal Trainers"
+    },
+    {
+      "id": "1515",
+      "parent_id": "1510",
+      "name": "Self Defense and Martial Arts Classes",
+      "full_path": "Fitness Activities > Self Defense and Martial Arts Classes"
+    },
+    {
+      "id": "1516",
+      "parent_id": "1510",
+      "name": "Swimming Facilities",
+      "full_path": "Fitness Activities > Swimming Facilities"
+    },
+    {
+      "id": "1517",
+      "parent_id": "1510",
+      "name": "Workout and Step Tracking Applications",
+      "full_path": "Fitness Activities > Workout and Step Tracking Applications"
+    },
+    {
+      "id": "1518",
+      "parent_id": "1510",
+      "name": "Yoga Studios",
+      "full_path": "Fitness Activities > Yoga Studios"
+    },
+    {
+      "id": "1519",
+      "parent_id": null,
+      "name": "Sexual Health",
+      "full_path": "Sexual Health"
+    },
+    {
+      "id": "1520",
+      "parent_id": "1519",
+      "name": "Contraceptives",
+      "full_path": "Sexual Health > Contraceptives"
+    },
+    {
+      "id": "1521",
+      "parent_id": "1519",
+      "name": "Doctor Perscribed Medicines",
+      "full_path": "Sexual Health > Doctor Perscribed Medicines"
+    },
+    {
+      "id": "1522",
+      "parent_id": "1519",
+      "name": "Fertility Tracking Applications",
+      "full_path": "Sexual Health > Fertility Tracking Applications"
+    },
+    {
+      "id": "1523",
+      "parent_id": "1519",
+      "name": "Non-perscribed Performance Enhancers",
+      "full_path": "Sexual Health > Non-Perscribed Performance Enhancers"
+    },
+    {
+      "id": "1524",
+      "parent_id": null,
+      "name": "Sporting Goods",
+      "full_path": "Sporting Goods"
+    },
+    {
+      "id": "1525",
+      "parent_id": "1524",
+      "name": "Athletics Equipment",
+      "full_path": "Sporting Goods > Athletics Equipment"
+    },
+    {
+      "id": "1526",
+      "parent_id": "1524",
+      "name": "Exercise and Fitness Equipment",
+      "full_path": "Sporting Goods > Exercise and Fitness Equipment"
+    },
+    {
+      "id": "1527",
+      "parent_id": "1524",
+      "name": "Indoor Games Equipment",
+      "full_path": "Sporting Goods > Indoor Games Equipment"
+    },
+    {
+      "id": "1528",
+      "parent_id": "1524",
+      "name": "Outdoor Recreation Equipment",
+      "full_path": "Sporting Goods > Outdoor Recreation Equipment"
+    },
+    {
+      "id": "1529",
+      "parent_id": null,
+      "name": "Travel and Tourism",
+      "full_path": "Travel and Tourism"
+    },
+    {
+      "id": "1530",
+      "parent_id": "1529",
+      "name": "Accommodations",
+      "full_path": "Travel and Tourism > Accommodations"
+    },
+    {
+      "id": "1531",
+      "parent_id": "1530",
+      "name": "Bed and Breakfasts",
+      "full_path": "Travel and Tourism > Accommodations > Bed and Breakfasts"
+    },
+    {
+      "id": "1532",
+      "parent_id": "1530",
+      "name": "Camping and Camp Grounds",
+      "full_path": "Travel and Tourism > Accommodations > Camping and Camp Grounds"
+    },
+    {
+      "id": "1533",
+      "parent_id": "1530",
+      "name": "Hotels and Resorts",
+      "full_path": "Travel and Tourism > Accommodations > Hotels and Resorts"
+    },
+    {
+      "id": "1534",
+      "parent_id": "1530",
+      "name": "Motels",
+      "full_path": "Travel and Tourism > Accommodations > Motels"
+    },
+    {
+      "id": "1535",
+      "parent_id": "1530",
+      "name": "Timeshares",
+      "full_path": "Travel and Tourism > Accommodations > Timeshares"
+    },
+    {
+      "id": "1536",
+      "parent_id": "1530",
+      "name": "Vacation Rentals",
+      "full_path": "Travel and Tourism > Accommodations > Vacation Rentals"
+    },
+    {
+      "id": "1537",
+      "parent_id": "1529",
+      "name": "Air Travel",
+      "full_path": "Travel and Tourism > Air Travel"
+    },
+    {
+      "id": "1538",
+      "parent_id": "1529",
+      "name": "Cruises",
+      "full_path": "Travel and Tourism > Cruises"
+    },
+    {
+      "id": "1539",
+      "parent_id": "1529",
+      "name": "Rail Travel",
+      "full_path": "Travel and Tourism > Rail Travel"
+    },
+    {
+      "id": "1540",
+      "parent_id": "1529",
+      "name": "Sightseeing Tours and Activities",
+      "full_path": "Travel and Tourism > Sightseeing Tours and Activities"
+    },
+    {
+      "id": "1541",
+      "parent_id": "1529",
+      "name": "Travel Agents and Online Travel Services",
+      "full_path": "Travel and Tourism > Travel Agents and Online Travel Services"
+    },
+    {
+      "id": "1542",
+      "parent_id": "1529",
+      "name": "Travel Packages",
+      "full_path": "Travel and Tourism > Travel Packages"
+    },
+    {
+      "id": "1543",
+      "parent_id": "1529",
+      "name": "Travel Planning and Itinerary Management Applications",
+      "full_path": "Travel and Tourism > Travel Planning and Itinerary Management Applications"
+    },
+    {
+      "id": "1544",
+      "parent_id": null,
+      "name": "Tobacco",
+      "full_path": "Tobacco"
+    },
+    {
+      "id": "1545",
+      "parent_id": "1544",
+      "name": "Cigars",
+      "full_path": "Tobacco > Cigars"
+    },
+    {
+      "id": "1546",
+      "parent_id": "1544",
+      "name": "Cigarettes",
+      "full_path": "Tobacco > Cigarettes"
+    },
+    {
+      "id": "1547",
+      "parent_id": "1544",
+      "name": "Smokeless Tobacco",
+      "full_path": "Tobacco > Smokeless Tobacco"
+    },
+    {
+      "id": "1548",
+      "parent_id": "1544",
+      "name": "Vaping",
+      "full_path": "Tobacco > Vaping"
+    },
+    {
+      "id": "1549",
+      "parent_id": "1544",
+      "name": "Vaping Cartridges",
+      "full_path": "Tobacco > Vaping Cartridges"
+    },
+    {
+      "id": "1550",
+      "parent_id": "1544",
+      "name": "Vaporizors",
+      "full_path": "Tobacco > Vaporizors"
+    },
+    {
+      "id": "1551",
+      "parent_id": null,
+      "name": "Vehicles",
+      "full_path": "Vehicles"
+    },
+    {
+      "id": "1552",
+      "parent_id": "1551",
+      "name": "Automotive Leasing",
+      "full_path": "Vehicles > Automotive Leasing"
+    },
+    {
+      "id": "1553",
+      "parent_id": "1551",
+      "name": "Automotive Ownership",
+      "full_path": "Vehicles > Automotive Ownership"
+    },
+    {
+      "id": "1554",
+      "parent_id": "1553",
+      "name": "New vehicle Ownership",
+      "full_path": "Vehicles > Automotive Ownership > New Vehicle Ownership"
+    },
+    {
+      "id": "1555",
+      "parent_id": "1553",
+      "name": "Pre-owned Automotive Ownership",
+      "full_path": "Vehicles > Automotive Ownership > Pre-owned Automotive Ownership"
+    },
+    {
+      "id": "1556",
+      "parent_id": "1551",
+      "name": "Automotive Products",
+      "full_path": "Vehicles > Automotive Products"
+    },
+    {
+      "id": "1557",
+      "parent_id": "1556",
+      "name": "Automotive Care Products",
+      "full_path": "Vehicles > Automotive Products > Automotive Care Products"
+    },
+    {
+      "id": "1558",
+      "parent_id": "1556",
+      "name": "Automotive Parts and Accessories",
+      "full_path": "Vehicles > Automotive Products > Automotive Parts and Accessories"
+    },
+    {
+      "id": "1559",
+      "parent_id": "1556",
+      "name": "Aftermarket Parts and Accessories",
+      "full_path": "Vehicles > Automotive Products > Aftermarket Parts and Accessories"
+    },
+    {
+      "id": "1560",
+      "parent_id": "1551",
+      "name": "Automotive Services",
+      "full_path": "Vehicles > Automotive Services"
+    },
+    {
+      "id": "1561",
+      "parent_id": "1560",
+      "name": "Auto Towing",
+      "full_path": "Vehicles > Automotive Services > Auto Towing"
+    },
+    {
+      "id": "1562",
+      "parent_id": "1560",
+      "name": "Auto Repair",
+      "full_path": "Vehicles > Automotive Services > Auto Repair"
+    },
+    {
+      "id": "1563",
+      "parent_id": "1560",
+      "name": "Car Wash",
+      "full_path": "Vehicles > Automotive Services > Car Wash"
+    },
+    {
+      "id": "1564",
+      "parent_id": "1551",
+      "name": "Automotive Sales Applications",
+      "full_path": "Vehicles > Automotive Sales Applications"
+    },
+    {
+      "id": "1565",
+      "parent_id": "1551",
+      "name": "Ride-sharing Services",
+      "full_path": "Vehicles > Ride-sharing Services"
+    },
+    {
+      "id": "1566",
+      "parent_id": "1551",
+      "name": "Taxi Services",
+      "full_path": "Vehicles > Taxi Services"
+    },
+    {
+      "id": "1567",
+      "parent_id": "1551",
+      "name": "Vehicle Rental",
+      "full_path": "Vehicles > Vehicle Rental"
+    },
+    {
+      "id": "1568",
+      "parent_id": "1551",
+      "name": "Vehicle Type",
+      "full_path": "Vehicles > Vehicle Type"
+    },
+    {
+      "id": "1569",
+      "parent_id": "1568",
+      "name": "Boats",
+      "full_path": "Vehicles > Vehicle Type > Boats"
+    },
+    {
+      "id": "1570",
+      "parent_id": "1568",
+      "name": "Diesel Vehicles",
+      "full_path": "Vehicles > Vehicle Type > Diesel Vehicles"
+    },
+    {
+      "id": "1571",
+      "parent_id": "1568",
+      "name": "Electric Vehicles",
+      "full_path": "Vehicles > Vehicle Type > Electric Vehicles"
+    },
+    {
+      "id": "1572",
+      "parent_id": "1568",
+      "name": "Gas Vehicles",
+      "full_path": "Vehicles > Vehicle Type > Gas Vehicles"
+    },
+    {
+      "id": "1573",
+      "parent_id": "1568",
+      "name": "Hybrid Vehicles",
+      "full_path": "Vehicles > Vehicle Type > Hybrid Vehicles"
+    },
+    {
+      "id": "1574",
+      "parent_id": "1568",
+      "name": "Recreational Vehicles",
+      "full_path": "Vehicles > Vehicle Type > Recreational Vehicles"
+    },
+    {
+      "id": "1575",
+      "parent_id": "1568",
+      "name": "Scooters, Motorbikes, and E-bikes",
+      "full_path": "Vehicles > Vehicle Type > Scooters, Motorbikes, and E-bikes"
+    },
+    {
+      "id": "1576",
+      "parent_id": null,
+      "name": "Weapons and Ammunition",
+      "full_path": "Weapons and Ammunition"
+    },
+    {
+      "id": "1577",
+      "parent_id": "1576",
+      "name": "Ammunition",
+      "full_path": "Weapons and Ammunition > Ammunition"
+    },
+    {
+      "id": "1578",
+      "parent_id": "1576",
+      "name": "Guns",
+      "full_path": "Weapons and Ammunition > Guns"
+    },
+    {
+      "id": "1579",
+      "parent_id": "1576",
+      "name": "Gun Accessories",
+      "full_path": "Weapons and Ammunition > Gun Accessories"
+    },
+    {
+      "id": "1580",
+      "parent_id": "1576",
+      "name": "Gun Shows and Auctions",
+      "full_path": "Weapons and Ammunition > Gun Shows and Auctions"
+    },
+    {
+      "id": "1581",
+      "parent_id": "1576",
+      "name": "Non-Projectile Weapons",
+      "full_path": "Weapons and Ammunition > Non-Projectile Weapons"
+    },
+    {
+      "id": "1582",
+      "parent_id": "1576",
+      "name": "Taser and Stun Guns",
+      "full_path": "Weapons and Ammunition > Taser and Stun Guns"
+    }
+  ]
+}

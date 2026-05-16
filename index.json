@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-05-16T17:28:54Z",
+  "taxonomies": [
+    {
+      "provider": "iab",
+      "taxonomy_type": "ad_product",
+      "version": "v1.0",
+      "path": "taxonomies/ad_product/iab/v1.0/taxonomy.json",
+      "entry_count": 863
+    },
+    {
+      "provider": "iab",
+      "taxonomy_type": "ad_product",
+      "version": "v2.0",
+      "path": "taxonomies/ad_product/iab/v2.0/taxonomy.json",
+      "entry_count": 583
+    },
+    {
+      "provider": "google",
+      "taxonomy_type": "ad_product",
+      "version": "latest",
+      "path": "taxonomies/ad_product/google/latest/taxonomy.json",
+      "entry_count": 5595
+    }
+  ],
+  "mappings": [
+    {
+      "source_provider": "iab",
+      "source_version": "v1.0",
+      "target_provider": "google",
+      "target_version": "latest",
+      "taxonomy_type": "ad_product",
+      "canonical": true,
+      "path": "mappings/ad_product/iab_v1.0__google_latest/mapping.json",
+      "total_source_entries": 863,
+      "mapped_entries": 645
+    },
+    {
+      "source_provider": "google",
+      "source_version": "latest",
+      "target_provider": "iab",
+      "target_version": "v1.0",
+      "taxonomy_type": "ad_product",
+      "canonical": false,
+      "derived_from": "iab_v1.0__google_latest",
+      "path": "mappings/ad_product/google_latest__iab_v1.0/mapping.json",
+      "total_source_entries": 216,
+      "mapped_entries": 216
+    },
+    {
+      "source_provider": "iab",
+      "source_version": "v2.0",
+      "target_provider": "google",
+      "target_version": "latest",
+      "taxonomy_type": "ad_product",
+      "canonical": true,
+      "path": "mappings/ad_product/iab_v2.0__google_latest/mapping.json",
+      "total_source_entries": 583,
+      "mapped_entries": 349
+    },
+    {
+      "source_provider": "google",
+      "source_version": "latest",
+      "target_provider": "iab",
+      "target_version": "v2.0",
+      "taxonomy_type": "ad_product",
+      "canonical": false,
+      "derived_from": "iab_v2.0__google_latest",
+      "path": "mappings/ad_product/google_latest__iab_v2.0/mapping.json",
+      "total_source_entries": 109,
+      "mapped_entries": 109
+    }
+  ]
+}

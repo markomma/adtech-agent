@@ -1,0 +1,45 @@
+name: Publish to PyPI
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.json'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment: pypi
+    permissions:
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install build tools
+        run: pip install hatch
+
+      - name: Install package (to make modules runnable)
+        run: pip install -e .
+
+      - name: Build search indices
+        run: python -m adtech_crosswalk.build_index
+
+      - name: Sync data into package
+        run: python -m adtech_crosswalk.sync_data
+
+      - name: Run tests
+        run: |
+          pip install pytest
+          pytest tests/ -v
+
+      - name: Build wheel and sdist
+        run: hatch build
+
+      - name: Publish to PyPI
+        uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          skip-existing: true

@@ -5,3 +5,5 @@ __pycache__/
 docs/
 scripts/
 CLAUDE.md
+adtech_crosswalk/data/**/__pycache__/
+.venv/

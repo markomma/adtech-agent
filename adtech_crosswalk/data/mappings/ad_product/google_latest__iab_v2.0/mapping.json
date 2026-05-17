@@ -1,0 +1,3246 @@
+{
+  "metadata": {
+    "source_provider": "google",
+    "source_version": "latest",
+    "target_provider": "iab",
+    "target_version": "v2.0",
+    "taxonomy_type": "ad_product",
+    "canonical": false,
+    "derived_from": "iab_v2.0__google_latest",
+    "mapping_version": "1.0.0",
+    "generated_at": "2026-05-16T13:22:02Z",
+    "generated_by": "invert_mapping.py",
+    "total_source_entries": 109,
+    "mapped_entries": 109,
+    "unmapped_entries": 0
+  },
+  "entries": [
+    {
+      "source_id": "mature",
+      "source_name": "Mature",
+      "source_path": "Mature",
+      "targets": [
+        {
+          "target_id": "1001",
+          "target_path": "Adult Products and Services",
+          "confidence": 0.55,
+          "match_type": "approximate",
+          "notes": "No specific Google adult product category; Mature is the closest umbrella"
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__beverages__alcoholic-beverages",
+      "source_name": "Alcoholic Beverages",
+      "source_path": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages",
+      "targets": [
+        {
+          "target_id": "1002",
+          "target_path": "Alcohol",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1005",
+          "target_path": "Alcohol > Hard Sodas, Seltzers, Alco Pops",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Hard sodas/seltzers not separately categorized in Google"
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__beverages__alcoholic-beverages__beer",
+      "source_name": "Beer",
+      "source_path": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Beer",
+      "targets": [
+        {
+          "target_id": "1004",
+          "target_path": "Alcohol > Beer",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__beverages__alcoholic-beverages__liquor-spirits",
+      "source_name": "Liquor & Spirits",
+      "source_path": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits",
+      "targets": [
+        {
+          "target_id": "1006",
+          "target_path": "Alcohol > Spirits",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__beverages__alcoholic-beverages__wine",
+      "source_name": "Wine",
+      "source_path": "Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Wine",
+      "targets": [
+        {
+          "target_id": "1007",
+          "target_path": "Alcohol > Wine",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "arts-entertainment",
+      "source_name": "Arts & Entertainment",
+      "source_path": "Arts & Entertainment",
+      "targets": [
+        {
+          "target_id": "1008",
+          "target_path": "Culture and Fine Arts",
+          "confidence": 0.75,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1371",
+          "target_path": "Gifts and Holiday Items",
+          "confidence": 0.6,
+          "match_type": "approximate",
+          "notes": "Gifts and Holiday Items \u2014 no dedicated Google category"
+        },
+        {
+          "target_id": "1372",
+          "target_path": "Gifts and Holiday Items > Flowers",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Gift Cards"
+        },
+        {
+          "target_id": "1373",
+          "target_path": "Gifts and Holiday Items > Gift Baskets",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Holiday Decorations \u2014 spans multiple categories"
+        },
+        {
+          "target_id": "1374",
+          "target_path": "Gifts and Holiday Items > Gift Cards and Coupons",
+          "confidence": 0.6,
+          "match_type": "approximate",
+          "notes": "Seasonal and Holiday Items"
+        },
+        {
+          "target_id": "1375",
+          "target_path": "Gifts and Holiday Items > Gift Certificates",
+          "confidence": 0.6,
+          "match_type": "approximate",
+          "notes": "Gift Baskets"
+        },
+        {
+          "target_id": "1376",
+          "target_path": "Gifts and Holiday Items > Greeting Cards",
+          "confidence": 0.6,
+          "match_type": "approximate",
+          "notes": "Greeting Cards"
+        },
+        {
+          "target_id": "1377",
+          "target_path": "Gifts and Holiday Items > Party Goods",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Holiday Food and Candy"
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial",
+      "source_name": "Business & Industrial",
+      "source_path": "Business & Industrial",
+      "targets": [
+        {
+          "target_id": "1010",
+          "target_path": "Business and Industrial",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1036",
+          "target_path": "Business and Industrial > Industrials",
+          "confidence": 0.55,
+          "match_type": "approximate",
+          "notes": "Industrials (financial conglomerates) broadly maps to B2B"
+        },
+        {
+          "target_id": "1443",
+          "target_path": "Metals",
+          "confidence": 0.55,
+          "match_type": "approximate",
+          "notes": "Precious Metals and Industrial Metals \u2014 B2B commodity"
+        },
+        {
+          "target_id": "1446",
+          "target_path": "Metals > Platinum Trade In",
+          "confidence": 0.55,
+          "match_type": "approximate",
+          "notes": "Industrial Metals"
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__advertising-marketing",
+      "source_name": "Advertising & Marketing",
+      "source_path": "Business & Industrial > Advertising & Marketing",
+      "targets": [
+        {
+          "target_id": "1011",
+          "target_path": "Business and Industrial > Advertising and Marketing",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "office-supplies",
+      "source_name": "Office Supplies",
+      "source_path": "Office Supplies",
+      "targets": [
+        {
+          "target_id": "1020",
+          "target_path": "Business and Industrial > Business Services > Office Equipment and Supplies",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Office Equipment and Supplies \u2014 Google covers products, not services"
+        },
+        {
+          "target_id": "1203",
+          "target_path": "Consumer Packaged Goods > Office/School Supplies",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Office/School Supplies"
+        },
+        {
+          "target_id": "1206",
+          "target_path": "Consumer Packaged Goods > Office/School Supplies > Office Products",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Office Products"
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__work-safety-protective-gear",
+      "source_name": "Work Safety Protective Gear",
+      "source_path": "Business & Industrial > Work Safety Protective Gear",
+      "targets": [
+        {
+          "target_id": "1024",
+          "target_path": "Business and Industrial > Business Services > Security and Protection",
+          "confidence": 0.55,
+          "match_type": "approximate",
+          "notes": "Security and Protection partially overlaps with safety gear"
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__industrial-storage",
+      "source_name": "Industrial Storage",
+      "source_path": "Business & Industrial > Industrial Storage",
+      "targets": [
+        {
+          "target_id": "1025",
+          "target_path": "Business and Industrial > Business Services > Storage Facilities",
+          "confidence": 0.6,
+          "match_type": "approximate",
+          "notes": "Storage Facilities (service) vs. Industrial Storage (products)"
+        },
+        {
+          "target_id": "1035",
+          "target_path": "Business and Industrial > Industrial Storage",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__construction",
+      "source_name": "Construction",
+      "source_path": "Business & Industrial > Construction",
+      "targets": [
+        {
+          "target_id": "1028",
+          "target_path": "Business and Industrial > Construction",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1038",
+          "target_path": "Business and Industrial > Industrials > Construction and Engineering",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__forestry-logging",
+      "source_name": "Forestry & Logging",
+      "source_path": "Business & Industrial > Forestry & Logging",
+      "targets": [
+        {
+          "target_id": "1034",
+          "target_path": "Business and Industrial > Forestry and Logging",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__manufacturing",
+      "source_name": "Manufacturing",
+      "source_path": "Business & Industrial > Manufacturing",
+      "targets": [
+        {
+          "target_id": "1042",
+          "target_path": "Business and Industrial > Manufacturing",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__medical",
+      "source_name": "Medical",
+      "source_path": "Business & Industrial > Medical",
+      "targets": [
+        {
+          "target_id": "1043",
+          "target_path": "Business and Industrial > Medical and Biotechnology",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__mining-quarrying",
+      "source_name": "Mining & Quarrying",
+      "source_path": "Business & Industrial > Mining & Quarrying",
+      "targets": [
+        {
+          "target_id": "1044",
+          "target_path": "Business and Industrial > Mining and Quarrying",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__science-laboratory",
+      "source_name": "Science & Laboratory",
+      "source_path": "Business & Industrial > Science & Laboratory",
+      "targets": [
+        {
+          "target_id": "1045",
+          "target_path": "Business and Industrial > Science and Laboratory",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__signage",
+      "source_name": "Signage",
+      "source_path": "Business & Industrial > Signage",
+      "targets": [
+        {
+          "target_id": "1046",
+          "target_path": "Business and Industrial > Signage",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories",
+      "source_name": "Apparel & Accessories",
+      "source_path": "Apparel & Accessories",
+      "targets": [
+        {
+          "target_id": "1058",
+          "target_path": "Clothing and Accessories",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing",
+      "source_name": "Clothing",
+      "source_path": "Apparel & Accessories > Clothing",
+      "targets": [
+        {
+          "target_id": "1059",
+          "target_path": "Clothing and Accessories > Clothing",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1061",
+          "target_path": "Clothing and Accessories > Clothing > Maternity Clothing",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Maternity Clothing has no dedicated Google category"
+        },
+        {
+          "target_id": "1062",
+          "target_path": "Clothing and Accessories > Clothing > Men's Clothing",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Men's Clothing \u2014 Google doesn't gender-segment clothing"
+        },
+        {
+          "target_id": "1067",
+          "target_path": "Clothing and Accessories > Clothing > Women's Clothing",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Women's Clothing \u2014 Google doesn't gender-segment clothing"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing__baby-toddler-clothing",
+      "source_name": "Baby & Toddler Clothing",
+      "source_path": "Apparel & Accessories > Clothing > Baby & Toddler Clothing",
+      "targets": [
+        {
+          "target_id": "1060",
+          "target_path": "Clothing and Accessories > Clothing > Children's Clothing",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Children's Clothing maps best to Baby & Toddler Clothing"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing__activewear",
+      "source_name": "Activewear",
+      "source_path": "Apparel & Accessories > Clothing > Activewear",
+      "targets": [
+        {
+          "target_id": "1063",
+          "target_path": "Clothing and Accessories > Clothing > Sportswear",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Sportswear \u2248 Activewear"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing__swimwear",
+      "source_name": "Swimwear",
+      "source_path": "Apparel & Accessories > Clothing > Swimwear",
+      "targets": [
+        {
+          "target_id": "1064",
+          "target_path": "Clothing and Accessories > Clothing > Swimwear",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing__underwear-socks",
+      "source_name": "Underwear & Socks",
+      "source_path": "Apparel & Accessories > Clothing > Underwear & Socks",
+      "targets": [
+        {
+          "target_id": "1065",
+          "target_path": "Clothing and Accessories > Clothing > Underwear and Lingerie",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing__underwear-socks__lingerie",
+      "source_name": "Lingerie",
+      "source_path": "Apparel & Accessories > Clothing > Underwear & Socks > Lingerie",
+      "targets": [
+        {
+          "target_id": "1065",
+          "target_path": "Clothing and Accessories > Clothing > Underwear and Lingerie",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing__dresses",
+      "source_name": "Dresses",
+      "source_path": "Apparel & Accessories > Clothing > Dresses",
+      "targets": [
+        {
+          "target_id": "1066",
+          "target_path": "Clothing and Accessories > Clothing > Wedding Dresses/Bridal Wear/Tuxedos",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Wedding dresses included in Dresses; tuxedos in Suits"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing__suits",
+      "source_name": "Suits",
+      "source_path": "Apparel & Accessories > Clothing > Suits",
+      "targets": [
+        {
+          "target_id": "1066",
+          "target_path": "Clothing and Accessories > Clothing > Wedding Dresses/Bridal Wear/Tuxedos",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing-accessories",
+      "source_name": "Clothing Accessories",
+      "source_path": "Apparel & Accessories > Clothing Accessories",
+      "targets": [
+        {
+          "target_id": "1068",
+          "target_path": "Clothing and Accessories > Clothing Accessories",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1180",
+          "target_path": "Consumer Packaged Goods > Hair Care > Hair Accessories",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Hair Accessories"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__costumes-accessories",
+      "source_name": "Costumes & Accessories",
+      "source_path": "Apparel & Accessories > Costumes & Accessories",
+      "targets": [
+        {
+          "target_id": "1069",
+          "target_path": "Clothing and Accessories > Costumes and Accessories",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__shoes",
+      "source_name": "Shoes",
+      "source_path": "Apparel & Accessories > Shoes",
+      "targets": [
+        {
+          "target_id": "1070",
+          "target_path": "Clothing and Accessories > Footwear",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Footwear \u2248 Shoes"
+        },
+        {
+          "target_id": "1071",
+          "target_path": "Clothing and Accessories > Footwear Accessories",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Footwear Accessories \u2014 closest is Shoe Accessories under Shoes"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__handbags-wallets-cases",
+      "source_name": "Handbags, Wallets & Cases",
+      "source_path": "Apparel & Accessories > Handbags, Wallets & Cases",
+      "targets": [
+        {
+          "target_id": "1072",
+          "target_path": "Clothing and Accessories > Handbags and Wallets",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": "Handbags and Wallets = Handbags, Wallets & Cases"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__jewelry",
+      "source_name": "Jewelry",
+      "source_path": "Apparel & Accessories > Jewelry",
+      "targets": [
+        {
+          "target_id": "1073",
+          "target_path": "Clothing and Accessories > Jewelry and Watches",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1444",
+          "target_path": "Metals > Coin Trade In",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Gold \u2014 investment/jewelry"
+        },
+        {
+          "target_id": "1445",
+          "target_path": "Metals > Gold Trade In",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Silver \u2014 investment/jewelry"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__jewelry__watches",
+      "source_name": "Watches",
+      "source_path": "Apparel & Accessories > Jewelry > Watches",
+      "targets": [
+        {
+          "target_id": "1073",
+          "target_path": "Clothing and Accessories > Jewelry and Watches",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Jewelry and Watches maps to both Jewelry and Watches"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing-accessories__sunglasses",
+      "source_name": "Sunglasses",
+      "source_path": "Apparel & Accessories > Clothing Accessories > Sunglasses",
+      "targets": [
+        {
+          "target_id": "1074",
+          "target_path": "Clothing and Accessories > Sunglasses",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "arts-entertainment__hobbies-creative-arts__collectibles",
+      "source_name": "Collectibles",
+      "source_path": "Arts & Entertainment > Hobbies & Creative Arts > Collectibles",
+      "targets": [
+        {
+          "target_id": "1075",
+          "target_path": "Collectables and Antiques",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1076",
+          "target_path": "Collectables and Antiques > Antiques",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Antiques not separately categorized in Google collectibles"
+        },
+        {
+          "target_id": "1078",
+          "target_path": "Collectables and Antiques > Collectibles",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1079",
+          "target_path": "Collectables and Antiques > Entertainment Memorabilia",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Entertainment Memorabilia"
+        },
+        {
+          "target_id": "1080",
+          "target_path": "Collectables and Antiques > Sports Memorabilia and Trading Cards",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Sports Memorabilia and Trading Cards"
+        },
+        {
+          "target_id": "1081",
+          "target_path": "Collectables and Antiques > Stamps",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Stamps \u2014 no dedicated Google stamp collecting category"
+        }
+      ]
+    },
+    {
+      "source_id": "arts-entertainment__hobbies-creative-arts__collectibles__collectible-coins-currency",
+      "source_name": "Collectible Coins & Currency",
+      "source_path": "Arts & Entertainment > Hobbies & Creative Arts > Collectibles > Collectible Coins & Currency",
+      "targets": [
+        {
+          "target_id": "1077",
+          "target_path": "Collectables and Antiques > Coins and Paper Money",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1447",
+          "target_path": "Metals > Silver Trade In",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Precious Metals as Collectibles"
+        }
+      ]
+    },
+    {
+      "source_id": "software",
+      "source_name": "Software",
+      "source_path": "Software",
+      "targets": [
+        {
+          "target_id": "1082",
+          "target_path": "Computer Software",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1083",
+          "target_path": "Computer Software > Browser Extensions",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Browser Extensions \u2014 falls under Software broadly"
+        },
+        {
+          "target_id": "1084",
+          "target_path": "Computer Software > Downloadable Utilities",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Downloadable Utilities"
+        },
+        {
+          "target_id": "1085",
+          "target_path": "Computer Software > Enterprise Computer Software",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Enterprise Computer Software"
+        },
+        {
+          "target_id": "1086",
+          "target_path": "Computer Software > Personal Computer Software",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Personal Computer Software"
+        },
+        {
+          "target_id": "1087",
+          "target_path": "Computer Software > Toolbars",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Toolbars \u2014 browser extensions, under Software broadly"
+        },
+        {
+          "target_id": "1303",
+          "target_path": "Education and Careers > Language Learning",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Educational Software \u2014 maps broadly to Software"
+        },
+        {
+          "target_id": "1435",
+          "target_path": "Media > Sports > Fantasy Sports",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Apps and Mobile Applications"
+        },
+        {
+          "target_id": "1439",
+          "target_path": "Media > Utilities Apps > Productivity Apps",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Productivity Apps"
+        },
+        {
+          "target_id": "1440",
+          "target_path": "Media > Utilities Apps > Reference Apps",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Entertainment Apps"
+        }
+      ]
+    },
+    {
+      "source_id": "health-beauty__personal-care",
+      "source_name": "Personal Care",
+      "source_path": "Health & Beauty > Personal Care",
+      "targets": [
+        {
+          "target_id": "1088",
+          "target_path": "Cosmetic Services",
+          "confidence": 0.6,
+          "match_type": "approximate",
+          "notes": "Cosmetic Services (salons) maps approximately to Personal Care products"
+        },
+        {
+          "target_id": "1091",
+          "target_path": "Cosmetic Services > Hair Removal",
+          "confidence": 0.5,
+          "match_type": "approximate",
+          "notes": "Hair Removal \u2014 some products (creams, devices) exist"
+        },
+        {
+          "target_id": "1158",
+          "target_path": "Consumer Packaged Goods > Frozen > Frozen Desserts",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Personal Care Products"
+        },
+        {
+          "target_id": "1162",
+          "target_path": "Consumer Packaged Goods > Frozen > Frozen Meat/Poultry/Seafood",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Hair Care Products"
+        },
+        {
+          "target_id": "1163",
+          "target_path": "Consumer Packaged Goods > Frozen > Frozen Snacks",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Deodorants and Antiperspirants"
+        },
+        {
+          "target_id": "1164",
+          "target_path": "Consumer Packaged Goods > Frozen > Other Frozen",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Feminine Care"
+        },
+        {
+          "target_id": "1165",
+          "target_path": "Consumer Packaged Goods > General Food",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Oral Care"
+        },
+        {
+          "target_id": "1166",
+          "target_path": "Consumer Packaged Goods > General Food > Baby Food",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Shaving Products"
+        },
+        {
+          "target_id": "1178",
+          "target_path": "Consumer Packaged Goods > Grooming Supplies",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Grooming Supplies"
+        },
+        {
+          "target_id": "1179",
+          "target_path": "Consumer Packaged Goods > Hair Care",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Hair Care"
+        },
+        {
+          "target_id": "1181",
+          "target_path": "Consumer Packaged Goods > Hair Care > Hair Coloring",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Hair Coloring"
+        },
+        {
+          "target_id": "1182",
+          "target_path": "Consumer Packaged Goods > Hair Care > Hair Conditioner",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Hair Conditioner"
+        },
+        {
+          "target_id": "1183",
+          "target_path": "Consumer Packaged Goods > Hair Care > Hair Growth Products",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Hair Growth Products"
+        },
+        {
+          "target_id": "1184",
+          "target_path": "Consumer Packaged Goods > Hair Care > Hair Spray/Spritz",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Hair Spray/Spritz"
+        },
+        {
+          "target_id": "1185",
+          "target_path": "Consumer Packaged Goods > Hair Care > Hair Styling Gel/Mousse",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Hair Styling Gel/Mousse"
+        },
+        {
+          "target_id": "1186",
+          "target_path": "Consumer Packaged Goods > Hair Care > Home Permanent/Relaxer Kits",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Home Permanent/Relaxer Kits"
+        },
+        {
+          "target_id": "1187",
+          "target_path": "Consumer Packaged Goods > Hair Care > Shampoo",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Shampoo"
+        },
+        {
+          "target_id": "1214",
+          "target_path": "Consumer Packaged Goods > Personal Care",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1215",
+          "target_path": "Consumer Packaged Goods > Personal Cleansing",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Personal Cleansing"
+        },
+        {
+          "target_id": "1216",
+          "target_path": "Consumer Packaged Goods > Personal Cleansing > Bath Products",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Bath Products"
+        },
+        {
+          "target_id": "1217",
+          "target_path": "Consumer Packaged Goods > Personal Cleansing > Bath/Body Scrubbers/Massagers",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Bath/Body Scrubbers/Massagers"
+        },
+        {
+          "target_id": "1218",
+          "target_path": "Consumer Packaged Goods > Personal Cleansing > Deodorant",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Deodorant"
+        },
+        {
+          "target_id": "1219",
+          "target_path": "Consumer Packaged Goods > Personal Cleansing > Moist Towelettes",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Moist Towelettes"
+        },
+        {
+          "target_id": "1220",
+          "target_path": "Consumer Packaged Goods > Personal Cleansing > Soap",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Soap"
+        },
+        {
+          "target_id": "1240",
+          "target_path": "Consumer Packaged Goods > Shaving",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Shaving"
+        },
+        {
+          "target_id": "1241",
+          "target_path": "Consumer Packaged Goods > Shaving > Blades",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Shaving Blades"
+        },
+        {
+          "target_id": "1242",
+          "target_path": "Consumer Packaged Goods > Shaving > Razors",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Razors"
+        },
+        {
+          "target_id": "1243",
+          "target_path": "Consumer Packaged Goods > Shaving > Shaving Cream",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Shaving Cream"
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__piercing-tattooing",
+      "source_name": "Piercing & Tattooing",
+      "source_path": "Business & Industrial > Piercing & Tattooing",
+      "targets": [
+        {
+          "target_id": "1095",
+          "target_path": "Cosmetic Services > Piercing and Tattooing",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": "Piercing and Tattooing \u2014 products for the industry"
+        }
+      ]
+    },
+    {
+      "source_id": "electronics",
+      "source_name": "Electronics",
+      "source_path": "Electronics",
+      "targets": [
+        {
+          "target_id": "1097",
+          "target_path": "Consumer Electronics",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1104",
+          "target_path": "Consumer Electronics > Circuit Boards and Components",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Consumer Electronics \u2014 misc electronics"
+        },
+        {
+          "target_id": "1108",
+          "target_path": "Consumer Electronics > Computers > Desktops",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Consumer Electronics, General"
+        },
+        {
+          "target_id": "1110",
+          "target_path": "Consumer Electronics > Electronics Accessories",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "E-Readers"
+        },
+        {
+          "target_id": "1111",
+          "target_path": "Consumer Electronics > Headphones",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "GPS Navigation Systems \u2014 no dedicated Google category"
+        },
+        {
+          "target_id": "1112",
+          "target_path": "Consumer Electronics > Home Theater Systems",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Headphones and Speakers"
+        },
+        {
+          "target_id": "1114",
+          "target_path": "Consumer Electronics > Mobile Phones and Accessories",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Home Theater Systems"
+        },
+        {
+          "target_id": "1118",
+          "target_path": "Consumer Electronics > Tablets",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "MP3 and Digital Media Players"
+        },
+        {
+          "target_id": "1121",
+          "target_path": "Consumer Electronics > Video Game Consoles",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Portable Gaming Devices"
+        },
+        {
+          "target_id": "1122",
+          "target_path": "Consumer Electronics > Video Game Console Accessories",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Smart Watches and Wearables"
+        },
+        {
+          "target_id": "1277",
+          "target_path": "Durable Goods > Home and Garden Products",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Consumer Electronics/Audio Visual"
+        }
+      ]
+    },
+    {
+      "source_id": "toys-games__games",
+      "source_name": "Games",
+      "source_path": "Toys & Games > Games",
+      "targets": [
+        {
+          "target_id": "1098",
+          "target_path": "Consumer Electronics > Arcade Equipment",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Arcade Equipment \u2014 closest Google category is Games"
+        },
+        {
+          "target_id": "1249",
+          "target_path": "Consumer Packaged Goods > Toys and Games > Games",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1251",
+          "target_path": "Consumer Packaged Goods > Toys and Games > Puzzles",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Puzzles \u2014 typically categorized as games"
+        }
+      ]
+    },
+    {
+      "source_id": "cameras-optics",
+      "source_name": "Cameras & Optics",
+      "source_path": "Cameras & Optics",
+      "targets": [
+        {
+          "target_id": "1099",
+          "target_path": "Consumer Electronics > Camcorders",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Camcorders fall under Cameras & Optics"
+        },
+        {
+          "target_id": "1100",
+          "target_path": "Consumer Electronics > Cameras and Photo",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1101",
+          "target_path": "Consumer Electronics > Cameras and Photo > Camera and Photo Accessories",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Camera and Photo Film \u2014 cameras & optics category"
+        },
+        {
+          "target_id": "1102",
+          "target_path": "Consumer Electronics > Cameras and Photo > Cameras",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Camera and Photo Accessories"
+        }
+      ]
+    },
+    {
+      "source_id": "electronics__communications",
+      "source_name": "Communications",
+      "source_path": "Electronics > Communications",
+      "targets": [
+        {
+          "target_id": "1103",
+          "target_path": "Consumer Electronics > Cameras and Photo > Photo Applications",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "CB and Ham Radios"
+        },
+        {
+          "target_id": "1119",
+          "target_path": "Consumer Electronics > Televisions",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Mobile Phones"
+        },
+        {
+          "target_id": "1120",
+          "target_path": "Consumer Electronics > Video Games",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Mobile Phone Accessories"
+        },
+        {
+          "target_id": "1467",
+          "target_path": "Personal/Consumer Telecom",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": "Personal/Consumer Telecom \u2192 Communications Electronics"
+        },
+        {
+          "target_id": "1468",
+          "target_path": "Personal/Consumer Telecom > Home Internet Services",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Mobile Phones and Plans"
+        },
+        {
+          "target_id": "1469",
+          "target_path": "Personal/Consumer Telecom > Home Phone Services",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Internet Service Providers"
+        },
+        {
+          "target_id": "1470",
+          "target_path": "Personal/Consumer Telecom > Home Television Services",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Cable and Satellite TV"
+        },
+        {
+          "target_id": "1471",
+          "target_path": "Personal/Consumer Telecom > Mobile Phone Plans",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Home Phone Services"
+        },
+        {
+          "target_id": "1472",
+          "target_path": "Personal/Consumer Telecom > Prepaid International Phone Services",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": "Wireless Devices and Accessories"
+        }
+      ]
+    },
+    {
+      "source_id": "electronics__computers",
+      "source_name": "Computers",
+      "source_path": "Electronics > Computers",
+      "targets": [
+        {
+          "target_id": "1105",
+          "target_path": "Consumer Electronics > Communications Electronics",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Computers and Accessories"
+        },
+        {
+          "target_id": "1106",
+          "target_path": "Consumer Electronics > Computers",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Computer Components \u2014 falls under Computers"
+        },
+        {
+          "target_id": "1107",
+          "target_path": "Consumer Electronics > Computers > Laptops",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Computer Peripherals"
+        },
+        {
+          "target_id": "1205",
+          "target_path": "Consumer Packaged Goods > Office/School Supplies > Computer Disks Frmtd/UnFrmtd",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Computer Disks \u2014 computer media"
+        }
+      ]
+    },
+    {
+      "source_id": "electronics__audio",
+      "source_name": "Audio",
+      "source_path": "Electronics > Audio",
+      "targets": [
+        {
+          "target_id": "1109",
+          "target_path": "Consumer Electronics > E-Readers",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "DJ Equipment"
+        },
+        {
+          "target_id": "1115",
+          "target_path": "Consumer Electronics > Networking",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Home Audio"
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__household-appliances",
+      "source_name": "Household Appliances",
+      "source_path": "Home & Garden > Household Appliances",
+      "targets": [
+        {
+          "target_id": "1113",
+          "target_path": "Consumer Electronics > Marine Electronics",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Home Automation"
+        },
+        {
+          "target_id": "1265",
+          "target_path": "Durable Goods > Electronics/Photography > Batteries",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Home Appliances"
+        },
+        {
+          "target_id": "1266",
+          "target_path": "Durable Goods > Electronics/Photography > Blank Audio/Video Media",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Small Household Appliances"
+        },
+        {
+          "target_id": "1278",
+          "target_path": "Durable Goods > Home and Garden Products > Bathroom Accessories",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "HVAC and Climate Control"
+        },
+        {
+          "target_id": "1286",
+          "target_path": "Durable Goods > Home and Garden Products > Lighting",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Major Appliances"
+        },
+        {
+          "target_id": "1287",
+          "target_path": "Durable Goods > Home and Garden Products > Linens and Bedding",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Floor Care and Cleaning"
+        },
+        {
+          "target_id": "1256",
+          "target_path": "Consumer Packaged Goods > Water Treatment",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Water Treatment products"
+        },
+        {
+          "target_id": "1257",
+          "target_path": "Consumer Packaged Goods > Water Treatment > Water Filter/Devices",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Water Filter/Devices"
+        },
+        {
+          "target_id": "1258",
+          "target_path": "Consumer Packaged Goods > Water Treatment > Water Softeners/Treatment",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Water Softeners/Treatment"
+        }
+      ]
+    },
+    {
+      "source_id": "electronics__video",
+      "source_name": "Video",
+      "source_path": "Electronics > Video",
+      "targets": [
+        {
+          "target_id": "1116",
+          "target_path": "Consumer Electronics > Printers/Copiers/Scanners/Fax",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Home Video Equipment"
+        }
+      ]
+    },
+    {
+      "source_id": "electronics__print-copy-scan-fax",
+      "source_name": "Print, Copy, Scan & Fax",
+      "source_path": "Electronics > Print, Copy, Scan & Fax",
+      "targets": [
+        {
+          "target_id": "1117",
+          "target_path": "Consumer Electronics > Security Devices",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco",
+      "source_name": "Food, Beverages & Tobacco",
+      "source_path": "Food, Beverages & Tobacco",
+      "targets": [
+        {
+          "target_id": "1123",
+          "target_path": "Consumer Packaged Goods",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "CPG is broad; Food/Beverage/Tobacco is primary CPG segment in Google"
+        },
+        {
+          "target_id": "1355",
+          "target_path": "Food and Beverage Services",
+          "confidence": 0.6,
+          "match_type": "approximate",
+          "notes": "Food and Beverage Services (restaurants) \u2192 food products"
+        }
+      ]
+    },
+    {
+      "source_id": "baby-toddler",
+      "source_name": "Baby & Toddler",
+      "source_path": "Baby & Toddler",
+      "targets": [
+        {
+          "target_id": "1124",
+          "target_path": "Consumer Packaged Goods > Baby and Toddler Products",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Baby and Child Care Products"
+        },
+        {
+          "target_id": "1127",
+          "target_path": "Consumer Packaged Goods > Back to School Supplies",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Baby Nursery Supplies"
+        },
+        {
+          "target_id": "1128",
+          "target_path": "Consumer Packaged Goods > Barbeque",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Baby Safety and Health"
+        },
+        {
+          "target_id": "1129",
+          "target_path": "Consumer Packaged Goods > Barbeque > Charcoal",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Baby Toys"
+        },
+        {
+          "target_id": "1328",
+          "target_path": "Family and Parenting",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Family and Parenting broadly maps to Baby & Toddler products"
+        },
+        {
+          "target_id": "1329",
+          "target_path": "Family and Parenting > Childcare",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Parenting Products"
+        },
+        {
+          "target_id": "1330",
+          "target_path": "Family and Parenting > Childcare > Day Care Centers",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Baby Gear and Products"
+        }
+      ]
+    },
+    {
+      "source_id": "baby-toddler__diapering",
+      "source_name": "Diapering",
+      "source_path": "Baby & Toddler > Diapering",
+      "targets": [
+        {
+          "target_id": "1125",
+          "target_path": "Consumer Packaged Goods > Baby and Toddler Products > Diapers",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1334",
+          "target_path": "Family and Parenting > Senior Living",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Diapers and Wipes"
+        }
+      ]
+    },
+    {
+      "source_id": "baby-toddler__nursing-feeding",
+      "source_name": "Nursing & Feeding",
+      "source_path": "Baby & Toddler > Nursing & Feeding",
+      "targets": [
+        {
+          "target_id": "1126",
+          "target_path": "Consumer Packaged Goods > Baby and Toddler Products > Nursing and Feeding Products",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__food-items",
+      "source_name": "Food Items",
+      "source_path": "Food, Beverages & Tobacco > Food Items",
+      "targets": [
+        {
+          "target_id": "1130",
+          "target_path": "Consumer Packaged Goods > Barbeque > Charcoal Lighter Fluids",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Baking and Cooking"
+        },
+        {
+          "target_id": "1133",
+          "target_path": "Consumer Packaged Goods > Beverages > Coffee and Tea",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Condiments, Dressings, Sauces"
+        },
+        {
+          "target_id": "1134",
+          "target_path": "Consumer Packaged Goods > Beverages > Drink Mixes",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Candy and Confections"
+        },
+        {
+          "target_id": "1135",
+          "target_path": "Consumer Packaged Goods > Beverages > Juices",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Canned and Preserved Foods"
+        },
+        {
+          "target_id": "1136",
+          "target_path": "Consumer Packaged Goods > Beverages > Sports/Energy Drinks",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Dairy Products"
+        },
+        {
+          "target_id": "1137",
+          "target_path": "Consumer Packaged Goods > Beverages > Water",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Desserts and Baked Goods"
+        },
+        {
+          "target_id": "1138",
+          "target_path": "Consumer Packaged Goods > Cosmetics",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Dips and Spreads"
+        },
+        {
+          "target_id": "1139",
+          "target_path": "Consumer Packaged Goods > Cosmetics > Cosmetics Accessories",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Ethnic Food"
+        },
+        {
+          "target_id": "1140",
+          "target_path": "Consumer Packaged Goods > Cosmetics > Cosmetics-Nail",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Frozen Foods"
+        },
+        {
+          "target_id": "1141",
+          "target_path": "Consumer Packaged Goods > Cosmetics > Eye",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Grains and Cereals"
+        },
+        {
+          "target_id": "1143",
+          "target_path": "Consumer Packaged Goods > Cosmetics > Lip",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Fruits and Vegetables"
+        },
+        {
+          "target_id": "1144",
+          "target_path": "Consumer Packaged Goods > Cosmetics > Storage",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Juice and Drinks"
+        },
+        {
+          "target_id": "1145",
+          "target_path": "Consumer Packaged Goods > Disposable Tableware",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Meat and Poultry"
+        },
+        {
+          "target_id": "1146",
+          "target_path": "Consumer Packaged Goods > Disposable Tableware > Cups and Plates",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Organic Food"
+        },
+        {
+          "target_id": "1147",
+          "target_path": "Consumer Packaged Goods > Disposable Tableware > Disposable Tableware",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Pasta and Rice"
+        },
+        {
+          "target_id": "1148",
+          "target_path": "Consumer Packaged Goods > Foils, Wraps, and Bags",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Pet Food"
+        },
+        {
+          "target_id": "1149",
+          "target_path": "Consumer Packaged Goods > Foils, Wraps, and Bags > Foil Pans",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Salad Dressing"
+        },
+        {
+          "target_id": "1150",
+          "target_path": "Consumer Packaged Goods > Foils, Wraps, and Bags > Foils and Wraps",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Seafood"
+        },
+        {
+          "target_id": "1151",
+          "target_path": "Consumer Packaged Goods > Foils, Wraps, and Bags > Food and Trash Bags",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Snacks"
+        },
+        {
+          "target_id": "1169",
+          "target_path": "Consumer Packaged Goods > General Food > Breakfast",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Breakfast foods"
+        },
+        {
+          "target_id": "1170",
+          "target_path": "Consumer Packaged Goods > General Food > Candy",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Candy"
+        },
+        {
+          "target_id": "1171",
+          "target_path": "Consumer Packaged Goods > General Food > Condiments and Sauces",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Condiments and Sauces"
+        },
+        {
+          "target_id": "1172",
+          "target_path": "Consumer Packaged Goods > General Food > Cookies and Crackers",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Cookies and Crackers"
+        },
+        {
+          "target_id": "1173",
+          "target_path": "Consumer Packaged Goods > General Food > Fruit",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Fruit"
+        },
+        {
+          "target_id": "1174",
+          "target_path": "Consumer Packaged Goods > General Food > Meals",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Meals"
+        },
+        {
+          "target_id": "1175",
+          "target_path": "Consumer Packaged Goods > General Food > Snacks",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Snacks"
+        },
+        {
+          "target_id": "1176",
+          "target_path": "Consumer Packaged Goods > General Food > Vegetables",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Vegetables"
+        },
+        {
+          "target_id": "1188",
+          "target_path": "Consumer Packaged Goods > HFSS Products [High Fat, Sugar, Salt]",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "HFSS Products \u2014 high-calorie packaged foods"
+        },
+        {
+          "target_id": "1201",
+          "target_path": "Consumer Packaged Goods > Meal Kits",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Meal Kits"
+        },
+        {
+          "target_id": "1229",
+          "target_path": "Consumer Packaged Goods > Refrigerated",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Refrigerated foods"
+        },
+        {
+          "target_id": "1230",
+          "target_path": "Consumer Packaged Goods > Refrigerated > Dairy",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Dairy"
+        },
+        {
+          "target_id": "1231",
+          "target_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Baked Goods",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Refrigerated Baked Goods"
+        },
+        {
+          "target_id": "1233",
+          "target_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Condiments",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Refrigerated Condiments"
+        },
+        {
+          "target_id": "1234",
+          "target_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Desserts",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Refrigerated Desserts"
+        },
+        {
+          "target_id": "1235",
+          "target_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Dough",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Refrigerated Dough"
+        },
+        {
+          "target_id": "1236",
+          "target_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Meals",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Refrigerated Meals"
+        },
+        {
+          "target_id": "1237",
+          "target_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Meats",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Refrigerated Meats"
+        },
+        {
+          "target_id": "1238",
+          "target_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Miscellaneous",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Refrigerated Miscellaneous"
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__beverages",
+      "source_name": "Beverages",
+      "source_path": "Food, Beverages & Tobacco > Beverages",
+      "targets": [
+        {
+          "target_id": "1131",
+          "target_path": "Consumer Packaged Goods > Beverages",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Beverages"
+        },
+        {
+          "target_id": "1232",
+          "target_path": "Consumer Packaged Goods > Refrigerated > Refrigerated Beverages",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Refrigerated Beverages"
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__beverages__coffee",
+      "source_name": "Coffee",
+      "source_path": "Food, Beverages & Tobacco > Beverages > Coffee",
+      "targets": [
+        {
+          "target_id": "1132",
+          "target_path": "Consumer Packaged Goods > Beverages > Carbonated Soft Drinks",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "health-beauty__health-care__fitness-nutrition",
+      "source_name": "Fitness & Nutrition",
+      "source_path": "Health & Beauty > Health Care > Fitness & Nutrition",
+      "targets": [
+        {
+          "target_id": "1142",
+          "target_path": "Consumer Packaged Goods > Cosmetics > Facial",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Health and Diet Food"
+        },
+        {
+          "target_id": "1291",
+          "target_path": "Dieting and Weightloss",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1293",
+          "target_path": "Dieting and Weightloss > Weightloss Services",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Diet Programs and Services"
+        },
+        {
+          "target_id": "1294",
+          "target_path": "Dieting and Weightloss > Workout and Step Tracking Applications",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Weight Management Products"
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__beverages__soda",
+      "source_name": "Soda",
+      "source_path": "Food, Beverages & Tobacco > Beverages > Soda",
+      "targets": [
+        {
+          "target_id": "1152",
+          "target_path": "Consumer Packaged Goods > Fragrance",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__beverages__sports-energy-drinks",
+      "source_name": "Sports & Energy Drinks",
+      "source_path": "Food, Beverages & Tobacco > Beverages > Sports & Energy Drinks",
+      "targets": [
+        {
+          "target_id": "1153",
+          "target_path": "Consumer Packaged Goods > Fragrance > Fragrances - Women's",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__beverages__tea-infusions",
+      "source_name": "Tea & Infusions",
+      "source_path": "Food, Beverages & Tobacco > Beverages > Tea & Infusions",
+      "targets": [
+        {
+          "target_id": "1154",
+          "target_path": "Consumer Packaged Goods > Fragrance > Shaving Lotion/Men's Fragrance",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__beverages__water",
+      "source_name": "Water",
+      "source_path": "Food, Beverages & Tobacco > Beverages > Water",
+      "targets": [
+        {
+          "target_id": "1155",
+          "target_path": "Consumer Packaged Goods > Frozen",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__household-supplies",
+      "source_name": "Household Supplies",
+      "source_path": "Home & Garden > Household Supplies",
+      "targets": [
+        {
+          "target_id": "1156",
+          "target_path": "Consumer Packaged Goods > Frozen > Frozen Baked Goods",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": "Cleaning and Household Products"
+        },
+        {
+          "target_id": "1157",
+          "target_path": "Consumer Packaged Goods > Frozen > Frozen Beverages",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": "Laundry Products"
+        },
+        {
+          "target_id": "1167",
+          "target_path": "Consumer Packaged Goods > General Food > Bakery",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Paper Products"
+        },
+        {
+          "target_id": "1290",
+          "target_path": "Durable Goods > Luggage and Bags",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Storage and Organization"
+        },
+        {
+          "target_id": "1370",
+          "target_path": "Green/Eco > Green/Eco Services",
+          "confidence": 0.6,
+          "match_type": "approximate",
+          "notes": "Eco-friendly Household Products"
+        },
+        {
+          "target_id": "1177",
+          "target_path": "Consumer Packaged Goods > General Merchandise",
+          "confidence": 0.55,
+          "match_type": "approximate",
+          "notes": "General Merchandise \u2014 broad category"
+        },
+        {
+          "target_id": "1189",
+          "target_path": "Consumer Packaged Goods > Home Care",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Home Care"
+        },
+        {
+          "target_id": "1190",
+          "target_path": "Consumer Packaged Goods > Home Care > Household Cleaning",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Household Cleaning"
+        },
+        {
+          "target_id": "1191",
+          "target_path": "Consumer Packaged Goods > Home Care > Laundry",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Laundry"
+        },
+        {
+          "target_id": "1196",
+          "target_path": "Consumer Packaged Goods > Household/Plastics/Storage",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Household/Plastics/Storage"
+        },
+        {
+          "target_id": "1199",
+          "target_path": "Consumer Packaged Goods > Household/Plastics/Storage > Household Plastics",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Household Plastics"
+        },
+        {
+          "target_id": "1202",
+          "target_path": "Consumer Packaged Goods > Miscellaneous General Merch",
+          "confidence": 0.55,
+          "match_type": "approximate",
+          "notes": "Miscellaneous General Merchandise"
+        },
+        {
+          "target_id": "1209",
+          "target_path": "Consumer Packaged Goods > Paper Products",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Paper Products"
+        },
+        {
+          "target_id": "1210",
+          "target_path": "Consumer Packaged Goods > Paper Products > Facial Tissue",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Facial Tissue"
+        },
+        {
+          "target_id": "1211",
+          "target_path": "Consumer Packaged Goods > Paper Products > Paper Napkins",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Paper Napkins"
+        },
+        {
+          "target_id": "1212",
+          "target_path": "Consumer Packaged Goods > Paper Products > Paper Towels",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Paper Towels"
+        },
+        {
+          "target_id": "1213",
+          "target_path": "Consumer Packaged Goods > Paper Products > Toilet Tissue",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Toilet Tissue"
+        },
+        {
+          "target_id": "1221",
+          "target_path": "Consumer Packaged Goods > Pest Control",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Pest Control products"
+        },
+        {
+          "target_id": "1223",
+          "target_path": "Consumer Packaged Goods > Pest Control > Pest Control",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Pest Control"
+        }
+      ]
+    },
+    {
+      "source_id": "health-beauty__personal-care__cosmetics",
+      "source_name": "Cosmetics",
+      "source_path": "Health & Beauty > Personal Care > Cosmetics",
+      "targets": [
+        {
+          "target_id": "1159",
+          "target_path": "Consumer Packaged Goods > Frozen > Frozen Fruits and Vegetables",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Cosmetics"
+        }
+      ]
+    },
+    {
+      "source_id": "health-beauty__personal-care__cosmetics__makeup",
+      "source_name": "Makeup",
+      "source_path": "Health & Beauty > Personal Care > Cosmetics > Makeup",
+      "targets": [
+        {
+          "target_id": "1160",
+          "target_path": "Consumer Packaged Goods > Frozen > Frozen Juices",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "health-beauty__personal-care__cosmetics__skin-care",
+      "source_name": "Skin Care",
+      "source_path": "Health & Beauty > Personal Care > Cosmetics > Skin Care",
+      "targets": [
+        {
+          "target_id": "1161",
+          "target_path": "Consumer Packaged Goods > Frozen > Frozen Meals",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1244",
+          "target_path": "Consumer Packaged Goods > Skin Care",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1245",
+          "target_path": "Consumer Packaged Goods > Skin Care > Hand and Body Lotion",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Hand and Body Lotion"
+        },
+        {
+          "target_id": "1246",
+          "target_path": "Consumer Packaged Goods > Skin Care > Skin Care",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1247",
+          "target_path": "Consumer Packaged Goods > Skin Care > Suntan Products",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Suntan Products"
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__kitchen-dining",
+      "source_name": "Kitchen & Dining",
+      "source_path": "Home & Garden > Kitchen & Dining",
+      "targets": [
+        {
+          "target_id": "1168",
+          "target_path": "Consumer Packaged Goods > General Food > Baking",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Plastic and Storage Bags"
+        },
+        {
+          "target_id": "1268",
+          "target_path": "Durable Goods > Furniture",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Kitchen and Dining"
+        },
+        {
+          "target_id": "1197",
+          "target_path": "Consumer Packaged Goods > Household/Plastics/Storage > Bottles",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Bottles \u2014 kitchen/drinkware"
+        },
+        {
+          "target_id": "1198",
+          "target_path": "Consumer Packaged Goods > Household/Plastics/Storage > Drinkware",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Drinkware"
+        },
+        {
+          "target_id": "1200",
+          "target_path": "Consumer Packaged Goods > Household/Plastics/Storage > Kitchen Storage",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Kitchen Storage"
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden",
+      "source_name": "Home & Garden",
+      "source_path": "Home & Garden",
+      "targets": [
+        {
+          "target_id": "1263",
+          "target_path": "Durable Goods",
+          "confidence": 0.6,
+          "match_type": "approximate",
+          "notes": "Durable Goods \u2014 broad meta-category, home goods is primary segment"
+        },
+        {
+          "target_id": "1275",
+          "target_path": "Durable Goods > Tools and Hardware > Consumer Hardware Supplies",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Window Treatments"
+        },
+        {
+          "target_id": "1280",
+          "target_path": "Durable Goods > Home and Garden Products > Carpets and Rugs",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Building Materials"
+        },
+        {
+          "target_id": "1368",
+          "target_path": "Green/Eco",
+          "confidence": 0.5,
+          "match_type": "approximate",
+          "notes": "Green/Eco \u2014 no dedicated Google category; products span many categories"
+        },
+        {
+          "target_id": "1396",
+          "target_path": "Home and Garden Services",
+          "confidence": 0.6,
+          "match_type": "approximate",
+          "notes": "Home and Garden Services \u2014 services vs. products"
+        }
+      ]
+    },
+    {
+      "source_id": "furniture",
+      "source_name": "Furniture",
+      "source_path": "Furniture",
+      "targets": [
+        {
+          "target_id": "1264",
+          "target_path": "Durable Goods > Electronics/Photography",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Furniture and Mattresses"
+        },
+        {
+          "target_id": "1276",
+          "target_path": "Durable Goods > Tools and Hardware > Industrial Hardware Supplies",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Office Furniture"
+        },
+        {
+          "target_id": "1283",
+          "target_path": "Durable Goods > Home and Garden Products > Housewares",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Bedroom Furniture"
+        },
+        {
+          "target_id": "1284",
+          "target_path": "Durable Goods > Home and Garden Products > Kitchen and Dining Products",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Living Room Furniture"
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__linens-bedding",
+      "source_name": "Linens & Bedding",
+      "source_path": "Home & Garden > Linens & Bedding",
+      "targets": [
+        {
+          "target_id": "1267",
+          "target_path": "Durable Goods > Electronics/Photography > Photography Supplies",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Linens and Bedding"
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__bathroom-accessories",
+      "source_name": "Bathroom Accessories",
+      "source_path": "Home & Garden > Bathroom Accessories",
+      "targets": [
+        {
+          "target_id": "1269",
+          "target_path": "Durable Goods > Furniture > Indoor Furniture",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Bathroom Products"
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__decor",
+      "source_name": "Decor",
+      "source_path": "Home & Garden > Decor",
+      "targets": [
+        {
+          "target_id": "1270",
+          "target_path": "Durable Goods > Furniture > Outdoor Furniture",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Home Decor"
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__lighting",
+      "source_name": "Lighting",
+      "source_path": "Home & Garden > Lighting",
+      "targets": [
+        {
+          "target_id": "1271",
+          "target_path": "Durable Goods > Grooming Supplies",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__lawn-garden",
+      "source_name": "Lawn & Garden",
+      "source_path": "Home & Garden > Lawn & Garden",
+      "targets": [
+        {
+          "target_id": "1272",
+          "target_path": "Durable Goods > Grooming Supplies > Electric Shaver Groomer",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Lawn and Garden"
+        },
+        {
+          "target_id": "1222",
+          "target_path": "Consumer Packaged Goods > Pest Control > Outdoor Insect/Rodent Control Chem",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Outdoor Insect/Rodent Control"
+        }
+      ]
+    },
+    {
+      "source_id": "hardware",
+      "source_name": "Hardware",
+      "source_path": "Hardware",
+      "targets": [
+        {
+          "target_id": "1273",
+          "target_path": "Durable Goods > Grooming Supplies > Hair Appliances",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Tools and Hardware"
+        },
+        {
+          "target_id": "1288",
+          "target_path": "Durable Goods > Home and Garden Products > Plants",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Power Tools"
+        },
+        {
+          "target_id": "1289",
+          "target_path": "Durable Goods > Household Appliances",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Hand Tools"
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__pool-spa",
+      "source_name": "Pool & Spa",
+      "source_path": "Home & Garden > Pool & Spa",
+      "targets": [
+        {
+          "target_id": "1274",
+          "target_path": "Durable Goods > Tools and Hardware",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__business-home-security",
+      "source_name": "Business & Home Security",
+      "source_path": "Home & Garden > Business & Home Security",
+      "targets": [
+        {
+          "target_id": "1279",
+          "target_path": "Durable Goods > Home and Garden Products > Bedroom Furniture and Accessories",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Home Security"
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__flood-fire-gas-safety",
+      "source_name": "Flood, Fire & Gas Safety",
+      "source_path": "Home & Garden > Flood, Fire & Gas Safety",
+      "targets": [
+        {
+          "target_id": "1281",
+          "target_path": "Durable Goods > Home and Garden Products > Fireplaces",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Fire Safety"
+        }
+      ]
+    },
+    {
+      "source_id": "furniture__beds-accessories__mattresses",
+      "source_name": "Mattresses",
+      "source_path": "Furniture > Beds & Accessories > Mattresses",
+      "targets": [
+        {
+          "target_id": "1282",
+          "target_path": "Durable Goods > Home and Garden Products > Home Decor",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "home-garden__plants",
+      "source_name": "Plants",
+      "source_path": "Home & Garden > Plants",
+      "targets": [
+        {
+          "target_id": "1285",
+          "target_path": "Durable Goods > Home and Garden Products > Lawn and Garden Products",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Plants and Garden Decor"
+        }
+      ]
+    },
+    {
+      "source_id": "health-beauty__health-care__fitness-nutrition__vitamins-supplements",
+      "source_name": "Vitamins & Supplements",
+      "source_path": "Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements",
+      "targets": [
+        {
+          "target_id": "1292",
+          "target_path": "Dieting and Weightloss > Food Logging",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Diet Supplements"
+        },
+        {
+          "target_id": "1388",
+          "target_path": "Health and Medical Services > General Practitioners",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Vitamins and Supplements"
+        },
+        {
+          "target_id": "1253",
+          "target_path": "Consumer Packaged Goods > Vitamins and Supplements",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1254",
+          "target_path": "Consumer Packaged Goods > Vitamins and Supplements > Digestive Supplements",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Digestive Supplements"
+        },
+        {
+          "target_id": "1255",
+          "target_path": "Consumer Packaged Goods > Vitamins and Supplements > Weightloss Supplements",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Weightloss Supplements"
+        }
+      ]
+    },
+    {
+      "source_id": "toys-games__toys",
+      "source_name": "Toys",
+      "source_path": "Toys & Games > Toys",
+      "targets": [
+        {
+          "target_id": "1331",
+          "target_path": "Family and Parenting > Childcare > Nanny Services",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Children's Toys"
+        },
+        {
+          "target_id": "1250",
+          "target_path": "Consumer Packaged Goods > Toys and Games > Outdoor Play Equipment",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Outdoor Play Equipment \u2014 falls under Toys"
+        },
+        {
+          "target_id": "1252",
+          "target_path": "Consumer Packaged Goods > Toys and Games > Toys",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "business-industrial__food-service",
+      "source_name": "Food Service",
+      "source_path": "Business & Industrial > Food Service",
+      "targets": [
+        {
+          "target_id": "1360",
+          "target_path": "Food and Beverage Services > Restaurants",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": "Food Service Industry \u2192 B2B food service products"
+        }
+      ]
+    },
+    {
+      "source_id": "health-beauty__health-care",
+      "source_name": "Health Care",
+      "source_path": "Health & Beauty > Health Care",
+      "targets": [
+        {
+          "target_id": "1378",
+          "target_path": "Health and Medical Services",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Health and Medical Services \u2014 products vs. services distinction"
+        },
+        {
+          "target_id": "1382",
+          "target_path": "Health and Medical Services > Clinical Research",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Medical Equipment and Supplies"
+        },
+        {
+          "target_id": "1384",
+          "target_path": "Health and Medical Services > Dental Care",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Vision Care"
+        },
+        {
+          "target_id": "1392",
+          "target_path": "Health and Medical Services > Physical Therapists",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Hearing Aids and Devices"
+        },
+        {
+          "target_id": "1393",
+          "target_path": "Health and Medical Services > Service Provider Search and Scheduling",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Mobility Aids"
+        },
+        {
+          "target_id": "1395",
+          "target_path": "Health and Medical Services > Vision Care",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Blood Pressure and Glucose Monitoring"
+        },
+        {
+          "target_id": "1519",
+          "target_path": "Sexual Health",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Sexual Health \u2014 health care products broadly"
+        }
+      ]
+    },
+    {
+      "source_id": "health-beauty__health-care__medicine-drugs",
+      "source_name": "Medicine & Drugs",
+      "source_path": "Health & Beauty > Health Care > Medicine & Drugs",
+      "targets": [
+        {
+          "target_id": "1381",
+          "target_path": "Health and Medical Services > Chiropractors",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": "Prescription Drugs"
+        },
+        {
+          "target_id": "1389",
+          "target_path": "Health and Medical Services > Home Healthcare",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Over-the-Counter Medicine"
+        },
+        {
+          "target_id": "1473",
+          "target_path": "Pharmaceuticals",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1520",
+          "target_path": "Sexual Health > Contraceptives",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Contraceptives"
+        },
+        {
+          "target_id": "1521",
+          "target_path": "Sexual Health > Doctor Perscribed Medicines",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Doctor Prescribed Medicines"
+        },
+        {
+          "target_id": "1523",
+          "target_path": "Sexual Health > Non-Perscribed Performance Enhancers",
+          "confidence": 0.65,
+          "match_type": "approximate",
+          "notes": "Non-Prescribed Performance Enhancers"
+        },
+        {
+          "target_id": "1208",
+          "target_path": "Consumer Packaged Goods > Over the Counter Medication",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "media",
+      "source_name": "Media",
+      "source_path": "Media",
+      "targets": [
+        {
+          "target_id": "1419",
+          "target_path": "Media",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1423",
+          "target_path": "Media > Casual Games",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "News and Magazines"
+        },
+        {
+          "target_id": "1426",
+          "target_path": "Media > Core Gaming > Core Gaming Apps",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Podcasts"
+        },
+        {
+          "target_id": "1430",
+          "target_path": "Media > Magazines and Newspapers",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Digital Content and Downloads"
+        },
+        {
+          "target_id": "1431",
+          "target_path": "Media > Music and Video Streaming Services",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Video Games and Gaming"
+        },
+        {
+          "target_id": "1432",
+          "target_path": "Media > News and Analysis",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Newspapers"
+        },
+        {
+          "target_id": "1433",
+          "target_path": "Media > Radio and Podcasts",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Maps and Atlases"
+        },
+        {
+          "target_id": "1436",
+          "target_path": "Media > Sports > Sports Highlights",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Cameras and Photography Content"
+        }
+      ]
+    },
+    {
+      "source_id": "media__books",
+      "source_name": "Books",
+      "source_path": "Media > Books",
+      "targets": [
+        {
+          "target_id": "1420",
+          "target_path": "Media > Blogs/Forums/Social Networks",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "media__music-sound-recordings",
+      "source_name": "Music & Sound Recordings",
+      "source_path": "Media > Music & Sound Recordings",
+      "targets": [
+        {
+          "target_id": "1421",
+          "target_path": "Media > Book Reading and Review Applications",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Music and Music Apps"
+        },
+        {
+          "target_id": "1503",
+          "target_path": "Retail > Musical Instruments and Record Stores",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Musical Instruments and Record Stores \u2192 Music & Sound Recordings"
+        }
+      ]
+    },
+    {
+      "source_id": "media__dvds-videos",
+      "source_name": "DVDs & Videos",
+      "source_path": "Media > DVDs & Videos",
+      "targets": [
+        {
+          "target_id": "1422",
+          "target_path": "Media > Books and Audio Books",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Movies and Film"
+        }
+      ]
+    },
+    {
+      "source_id": "animals-pet-supplies",
+      "source_name": "Animals & Pet Supplies",
+      "source_path": "Animals & Pet Supplies",
+      "targets": [
+        {
+          "target_id": "1460",
+          "target_path": "Pet Ownership",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "animals-pet-supplies__pet-supplies",
+      "source_name": "Pet Supplies",
+      "source_path": "Animals & Pet Supplies > Pet Supplies",
+      "targets": [
+        {
+          "target_id": "1461",
+          "target_path": "Pet Ownership > Pet Adoption",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Pet Products"
+        },
+        {
+          "target_id": "1462",
+          "target_path": "Pet Ownership > Pet Breeders",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Pet Food"
+        },
+        {
+          "target_id": "1464",
+          "target_path": "Pet Ownership > Pet Grooming",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Pet Accessories"
+        },
+        {
+          "target_id": "1466",
+          "target_path": "Pet Ownership > Veterinary Services",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Pet Health and Wellness Products"
+        },
+        {
+          "target_id": "1224",
+          "target_path": "Consumer Packaged Goods > Pet Care",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1225",
+          "target_path": "Consumer Packaged Goods > Pet Care > Cat/Dog Litter",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Cat/Dog Litter"
+        },
+        {
+          "target_id": "1226",
+          "target_path": "Consumer Packaged Goods > Pet Care > Pet Food",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Pet Food"
+        },
+        {
+          "target_id": "1227",
+          "target_path": "Consumer Packaged Goods > Pet Care > Pet Supplies",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Pet Supplies"
+        },
+        {
+          "target_id": "1228",
+          "target_path": "Consumer Packaged Goods > Pet Care > Pet Treats",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Pet Treats"
+        }
+      ]
+    },
+    {
+      "source_id": "religious-ceremonial",
+      "source_name": "Religious & Ceremonial",
+      "source_path": "Religious & Ceremonial",
+      "targets": [
+        {
+          "target_id": "1487",
+          "target_path": "Religion and Spirituality",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1239",
+          "target_path": "Consumer Packaged Goods > Religious Items",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Religious Items"
+        }
+      ]
+    },
+    {
+      "source_id": "arts-entertainment__hobbies-creative-arts__arts-crafts",
+      "source_name": "Arts & Crafts",
+      "source_path": "Arts & Entertainment > Hobbies & Creative Arts > Arts & Crafts",
+      "targets": [
+        {
+          "target_id": "1495",
+          "target_path": "Retail > Arts and Crafts Supplies",
+          "confidence": 0.8,
+          "match_type": "semantic",
+          "notes": "Arts and Crafts Supplies"
+        },
+        {
+          "target_id": "1204",
+          "target_path": "Consumer Packaged Goods > Office/School Supplies > Children's Art Supplies",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Children's Art Supplies"
+        }
+      ]
+    },
+    {
+      "source_id": "sporting-goods__exercise-fitness",
+      "source_name": "Exercise & Fitness",
+      "source_path": "Sporting Goods > Exercise & Fitness",
+      "targets": [
+        {
+          "target_id": "1510",
+          "target_path": "Fitness Activities",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Fitness Activities (services) \u2192 Exercise & Fitness products"
+        },
+        {
+          "target_id": "1526",
+          "target_path": "Sporting Goods > Exercise and Fitness Equipment",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "sporting-goods",
+      "source_name": "Sporting Goods",
+      "source_path": "Sporting Goods",
+      "targets": [
+        {
+          "target_id": "1524",
+          "target_path": "Sporting Goods",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1525",
+          "target_path": "Sporting Goods > Athletics Equipment",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Athletics Equipment"
+        },
+        {
+          "target_id": "1527",
+          "target_path": "Sporting Goods > Indoor Games Equipment",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Indoor Games Equipment"
+        }
+      ]
+    },
+    {
+      "source_id": "sporting-goods__outdoor-recreation",
+      "source_name": "Outdoor Recreation",
+      "source_path": "Sporting Goods > Outdoor Recreation",
+      "targets": [
+        {
+          "target_id": "1528",
+          "target_path": "Sporting Goods > Outdoor Recreation Equipment",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "food-beverages-tobacco__tobacco-products",
+      "source_name": "Tobacco Products",
+      "source_path": "Food, Beverages & Tobacco > Tobacco Products",
+      "targets": [
+        {
+          "target_id": "1544",
+          "target_path": "Tobacco",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1545",
+          "target_path": "Tobacco > Cigars",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Cigars"
+        },
+        {
+          "target_id": "1546",
+          "target_path": "Tobacco > Cigarettes",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": "Cigarettes"
+        },
+        {
+          "target_id": "1547",
+          "target_path": "Tobacco > Smokeless Tobacco",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Smokeless Tobacco"
+        },
+        {
+          "target_id": "1548",
+          "target_path": "Tobacco > Vaping",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Vaping \u2014 under Tobacco Products"
+        },
+        {
+          "target_id": "1549",
+          "target_path": "Tobacco > Vaping Cartridges",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Vaping Cartridges"
+        },
+        {
+          "target_id": "1550",
+          "target_path": "Tobacco > Vaporizors",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Vaporizers"
+        }
+      ]
+    },
+    {
+      "source_id": "vehicles-parts",
+      "source_name": "Vehicles & Parts",
+      "source_path": "Vehicles & Parts",
+      "targets": [
+        {
+          "target_id": "1551",
+          "target_path": "Vehicles",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "vehicles-parts__vehicles__motor-vehicles",
+      "source_name": "Motor Vehicles",
+      "source_path": "Vehicles & Parts > Vehicles > Motor Vehicles",
+      "targets": [
+        {
+          "target_id": "1553",
+          "target_path": "Vehicles > Automotive Ownership",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Automotive Ownership (new/used vehicles)"
+        },
+        {
+          "target_id": "1554",
+          "target_path": "Vehicles > Automotive Ownership > New Vehicle Ownership",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "New Vehicle Ownership"
+        },
+        {
+          "target_id": "1555",
+          "target_path": "Vehicles > Automotive Ownership > Pre-owned Automotive Ownership",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Pre-owned Automotive Ownership"
+        },
+        {
+          "target_id": "1570",
+          "target_path": "Vehicles > Vehicle Type > Diesel Vehicles",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Diesel Vehicles"
+        },
+        {
+          "target_id": "1571",
+          "target_path": "Vehicles > Vehicle Type > Electric Vehicles",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Electric Vehicles"
+        },
+        {
+          "target_id": "1572",
+          "target_path": "Vehicles > Vehicle Type > Gas Vehicles",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Gas Vehicles"
+        },
+        {
+          "target_id": "1573",
+          "target_path": "Vehicles > Vehicle Type > Hybrid Vehicles",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Hybrid Vehicles"
+        },
+        {
+          "target_id": "1574",
+          "target_path": "Vehicles > Vehicle Type > Recreational Vehicles",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Recreational Vehicles"
+        },
+        {
+          "target_id": "1575",
+          "target_path": "Vehicles > Vehicle Type > Scooters, Motorbikes, and E-bikes",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Scooters, Motorbikes, and E-bikes"
+        }
+      ]
+    },
+    {
+      "source_id": "vehicles-parts__vehicle-parts-accessories",
+      "source_name": "Vehicle Parts & Accessories",
+      "source_path": "Vehicles & Parts > Vehicle Parts & Accessories",
+      "targets": [
+        {
+          "target_id": "1556",
+          "target_path": "Vehicles > Automotive Products",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Automotive Products"
+        }
+      ]
+    },
+    {
+      "source_id": "vehicles-parts__vehicle-parts-accessories__vehicle-maintenance-care-decor",
+      "source_name": "Vehicle Maintenance, Care & Decor",
+      "source_path": "Vehicles & Parts > Vehicle Parts & Accessories > Vehicle Maintenance, Care & Decor",
+      "targets": [
+        {
+          "target_id": "1557",
+          "target_path": "Vehicles > Automotive Products > Automotive Care Products",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "vehicles-parts__vehicle-parts-accessories__motor-vehicle-parts",
+      "source_name": "Motor Vehicle Parts",
+      "source_path": "Vehicles & Parts > Vehicle Parts & Accessories > Motor Vehicle Parts",
+      "targets": [
+        {
+          "target_id": "1558",
+          "target_path": "Vehicles > Automotive Products > Automotive Parts and Accessories",
+          "confidence": 0.9,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1559",
+          "target_path": "Vehicles > Automotive Products > Aftermarket Parts and Accessories",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Aftermarket Parts and Accessories"
+        }
+      ]
+    },
+    {
+      "source_id": "vehicles-parts__vehicles",
+      "source_name": "Vehicles",
+      "source_path": "Vehicles & Parts > Vehicles",
+      "targets": [
+        {
+          "target_id": "1568",
+          "target_path": "Vehicles > Vehicle Type",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Vehicle Type \u2014 meta-category for vehicle types"
+        }
+      ]
+    },
+    {
+      "source_id": "vehicles-parts__vehicles__watercraft",
+      "source_name": "Watercraft",
+      "source_path": "Vehicles & Parts > Vehicles > Watercraft",
+      "targets": [
+        {
+          "target_id": "1569",
+          "target_path": "Vehicles > Vehicle Type > Boats",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Boats"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing__underwear-socks__hosiery",
+      "source_name": "Hosiery",
+      "source_path": "Apparel & Accessories > Clothing > Underwear & Socks > Hosiery",
+      "targets": [
+        {
+          "target_id": "1192",
+          "target_path": "Consumer Packaged Goods > Hosiery",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        },
+        {
+          "target_id": "1193",
+          "target_path": "Consumer Packaged Goods > Hosiery > Pantyhose/Nylons",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Pantyhose/Nylons"
+        },
+        {
+          "target_id": "1195",
+          "target_path": "Consumer Packaged Goods > Hosiery > Tights",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Tights"
+        }
+      ]
+    },
+    {
+      "source_id": "apparel-accessories__clothing__underwear-socks__socks",
+      "source_name": "Socks",
+      "source_path": "Apparel & Accessories > Clothing > Underwear & Socks > Socks",
+      "targets": [
+        {
+          "target_id": "1194",
+          "target_path": "Consumer Packaged Goods > Hosiery > Socks",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "office-supplies__presentation-supplies",
+      "source_name": "Presentation Supplies",
+      "source_path": "Office Supplies > Presentation Supplies",
+      "targets": [
+        {
+          "target_id": "1207",
+          "target_path": "Consumer Packaged Goods > Office/School Supplies > Writing Instruments",
+          "confidence": 0.7,
+          "match_type": "partial",
+          "notes": "Writing Instruments"
+        }
+      ]
+    },
+    {
+      "source_id": "toys-games",
+      "source_name": "Toys & Games",
+      "source_path": "Toys & Games",
+      "targets": [
+        {
+          "target_id": "1248",
+          "target_path": "Consumer Packaged Goods > Toys and Games",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "mature__weapons",
+      "source_name": "Weapons",
+      "source_path": "Mature > Weapons",
+      "targets": [
+        {
+          "target_id": "1576",
+          "target_path": "Weapons and Ammunition",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": ""
+        },
+        {
+          "target_id": "1578",
+          "target_path": "Weapons and Ammunition > Guns",
+          "confidence": 0.85,
+          "match_type": "semantic",
+          "notes": "Guns \u2014 no dedicated 'Guns' in Google; Mature > Weapons is closest"
+        },
+        {
+          "target_id": "1581",
+          "target_path": "Weapons and Ammunition > Non-Projectile Weapons",
+          "confidence": 0.8,
+          "match_type": "partial",
+          "notes": "Non-Projectile Weapons \u2014 knives, batons, etc."
+        },
+        {
+          "target_id": "1582",
+          "target_path": "Weapons and Ammunition > Taser and Stun Guns",
+          "confidence": 0.75,
+          "match_type": "partial",
+          "notes": "Taser and Stun Guns"
+        }
+      ]
+    },
+    {
+      "source_id": "mature__weapons__gun-care-accessories__ammunition",
+      "source_name": "Ammunition",
+      "source_path": "Mature > Weapons > Gun Care & Accessories > Ammunition",
+      "targets": [
+        {
+          "target_id": "1577",
+          "target_path": "Weapons and Ammunition > Ammunition",
+          "confidence": 0.95,
+          "match_type": "exact",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "source_id": "mature__weapons__gun-care-accessories",
+      "source_name": "Gun Care & Accessories",
+      "source_path": "Mature > Weapons > Gun Care & Accessories",
+      "targets": [
+        {
+          "target_id": "1579",
+          "target_path": "Weapons and Ammunition > Gun Accessories",
+          "confidence": 0.9,
+          "match_type": "semantic",
+          "notes": "Gun Accessories"
+        }
+      ]
+    }
+  ]
+}

@@ -49,3 +49,55 @@ Each mapping pair has a **canonical** file (source of truth, indexed by the prov
 
 - IAB Tech Lab Taxonomies: https://github.com/InteractiveAdvertisingBureau/Taxonomies
 - Google Product Type Taxonomy: https://www.google.com/basepages/producttype/taxonomy.en-US.txt
+
+## MCP Server
+
+`adtech-crosswalk` is available as an MCP server for any LLM agent that supports the Model Context Protocol.
+
+### Install
+
+```bash
+# Run directly with uvx (no install required)
+uvx adtech-crosswalk
+
+# Or install globally
+pip install adtech-crosswalk
+```
+
+### Configure
+
+Add to your MCP client config (Claude Code, Cursor, Copilot, etc.):
+
+```json
+{
+  "mcpServers": {
+    "adtech-crosswalk": {
+      "command": "uvx",
+      "args": ["adtech-crosswalk"]
+    }
+  }
+}
+```
+
+### Tools
+
+| Tool | Description |
+|------|-------------|
+| `list_adtech_taxonomies` | Discover available providers, versions, and mapped pairs |
+| `resolve_adtech_category` | Natural language → matching taxonomy entries (default: IAB, threshold: 0.75) |
+| `get_adtech_mapping` | Category ID → cross-provider mappings, sorted by confidence |
+
+### Example
+
+```
+# Step 1 — discover
+list_adtech_taxonomies()
+
+# Step 2 — find the right category
+resolve_adtech_category(raw_category="craft beer", providers=["iab"], version="v2.0")
+→ { matches: [{ category_id: "1004", category_name: "Beer", relevance_score: 0.91 }] }
+
+# Step 3 — get cross-provider mappings
+get_adtech_mapping(provider="iab", version="v2.0", category_id="1004")
+→ { source: {...}, mappings: [{ target_provider: "google", confidence: 0.95, ... }] }
+```

@@ -1,9 +1,9 @@
 from pathlib import Path
 import pytest
-from adtech_crosswalk.loader import Loader
 
 @pytest.fixture(scope="session")
 def loader():
+    from adtech_crosswalk.loader import Loader
     return Loader()
 
 @pytest.fixture

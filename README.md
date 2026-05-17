@@ -1,4 +1,4 @@
-# adtech-agent
+# adtech-crosswalk
 
 Open-source AdTech agent toolkit — cross-provider taxonomy mappings, conversion utilities, and LLM-assisted tooling for the advertising technology ecosystem.
 
@@ -40,8 +40,8 @@ Each mapping pair has a **canonical** file (source of truth, indexed by the prov
 
 | Script | Purpose |
 |--------|---------|
-| `scripts/convert_iab_tsv.py` | Fetch IAB TSV → taxonomy.json |
-| `scripts/convert_google_txt.py` | Fetch Google TXT → taxonomy.json |
+| `scripts/ingest/convert_iab_tsv.py` | Fetch IAB TSV → taxonomy.json |
+| `scripts/ingest/convert_google_txt.py` | Fetch Google TXT → taxonomy.json |
 | `scripts/validate.py` | Validate taxonomy.json and mapping.json schemas |
 | `scripts/invert_mapping.py` | Generate reverse mapping from canonical |
 

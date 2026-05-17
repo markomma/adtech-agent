@@ -3,7 +3,8 @@ __pycache__/
 *.pyc
 .DS_Store
 docs/
-scripts/
 CLAUDE.md
 adtech_crosswalk/data/**/__pycache__/
 .venv/
+dist/
+.pytest_cache/

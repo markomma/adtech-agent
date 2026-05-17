@@ -30,7 +30,26 @@ def _resolve_category(
     min_confidence: float,
     limit: int,
 ) -> dict:
-    raise NotImplementedError
+    if providers is None:
+        providers = ["iab"]
+
+    matches = []
+    for provider in providers:
+        ver = version or _loader.get_latest_version(provider, taxonomy_type)
+        if ver is None:
+            if taxonomy_type != "ad_product":
+                return {"error": "taxonomy_unavailable", "message": f"Taxonomy type '{taxonomy_type}' has no data yet"}
+            continue
+        engine = _get_engine(provider, ver, taxonomy_type)
+        if engine is None:
+            if taxonomy_type != "ad_product":
+                return {"error": "taxonomy_unavailable", "message": f"Taxonomy type '{taxonomy_type}' has no data yet"}
+            continue
+        for r in engine.query(raw_category, limit=limit, min_score=min_confidence):
+            matches.append({"provider": provider, "version": ver, **r})
+
+    matches.sort(key=lambda x: x["relevance_score"], reverse=True)
+    return {"matches": matches}
 
 
 def _get_mapping(

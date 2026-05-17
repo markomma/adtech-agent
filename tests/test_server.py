@@ -119,3 +119,54 @@ def test_resolve_multi_provider():
     providers_in_results = {m["provider"] for m in result["matches"]}
     assert "iab" in providers_in_results
     assert "google" in providers_in_results
+
+
+def test_get_mapping_beer_has_source():
+    result = _get_mapping("iab", "v2.0", "1004", None, 0.0)
+    assert "source" in result
+    assert result["source"]["category_id"] == "1004"
+    assert result["source"]["category_name"] == "Beer"
+
+def test_get_mapping_beer_has_mappings():
+    result = _get_mapping("iab", "v2.0", "1004", None, 0.0)
+    assert "mappings" in result
+    assert len(result["mappings"]) > 0
+
+def test_get_mapping_fields():
+    result = _get_mapping("iab", "v2.0", "1004", None, 0.0)
+    m = result["mappings"][0]
+    assert "target_provider" in m
+    assert "target_version" in m
+    assert "target_id" in m
+    assert "target_path" in m
+    assert "confidence" in m
+    assert "match_type" in m
+    assert "notes" in m
+
+def test_get_mapping_sorted_by_confidence():
+    result = _get_mapping("iab", "v2.0", "1058", None, 0.0)  # Clothing
+    confidences = [m["confidence"] for m in result["mappings"]]
+    assert confidences == sorted(confidences, reverse=True)
+
+def test_get_mapping_min_confidence_filters():
+    result = _get_mapping("iab", "v2.0", "1004", None, 0.95)
+    assert all(m["confidence"] >= 0.95 for m in result["mappings"])
+
+def test_get_mapping_unknown_category():
+    result = _get_mapping("iab", "v2.0", "99999", None, 0.75)
+    assert "error" in result
+    assert result["error"] == "category_not_found"
+
+def test_get_mapping_unknown_taxonomy():
+    result = _get_mapping("nonexistent", "v9.9", "1", None, 0.75)
+    assert "error" in result
+    assert result["error"] == "taxonomy_unavailable"
+
+def test_get_mapping_filtered_by_target_provider():
+    result = _get_mapping("iab", "v2.0", "1004", "google", 0.0)
+    assert all(m["target_provider"] == "google" for m in result["mappings"])
+
+def test_get_mapping_no_mapping_for_target():
+    result = _get_mapping("iab", "v2.0", "1004", "nonexistent_provider", 0.75)
+    assert "error" in result
+    assert result["error"] == "no_mapping_available"

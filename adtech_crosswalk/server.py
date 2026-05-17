@@ -59,7 +59,48 @@ def _get_mapping(
     target_provider: str | None,
     min_confidence: float,
 ) -> dict:
-    raise NotImplementedError
+    taxonomy = _loader.get_taxonomy(provider, version)
+    if taxonomy is None:
+        return {"error": "taxonomy_unavailable", "message": f"Taxonomy {provider} {version} not found"}
+
+    entry = next((e for e in taxonomy["entries"] if e["id"] == category_id), None)
+    if entry is None:
+        return {"error": "category_not_found", "message": f"Category ID '{category_id}' not found in {provider} {version}"}
+
+    source = {
+        "provider": provider,
+        "version": version,
+        "category_id": category_id,
+        "category_name": entry["name"],
+        "full_path": entry.get("full_path", entry["name"]),
+    }
+
+    raw = _loader.get_mapping_entries(provider, version, category_id, target_provider)
+    mappings = sorted(
+        [
+            {
+                "target_provider": m["target_provider"],
+                "target_version": m["target_version"],
+                "target_id": m["target_id"],
+                "target_path": m["target_path"],
+                "confidence": m["confidence"],
+                "match_type": m["match_type"],
+                "notes": m.get("notes", ""),
+            }
+            for m in raw
+            if m["confidence"] >= min_confidence
+        ],
+        key=lambda x: x["confidence"],
+        reverse=True,
+    )
+
+    if not mappings and target_provider:
+        return {
+            "error": "no_mapping_available",
+            "message": f"No mapping exists from {provider} {version} to '{target_provider}'",
+        }
+
+    return {"source": source, "mappings": mappings}
 
 
 @mcp.tool()

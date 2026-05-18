@@ -31,7 +31,7 @@ def build_index(taxonomy: dict) -> dict:
 
     inverted: dict[str, list[str]] = {}
     for doc_id, doc in documents.items():
-        for term in set(doc["tokens"]):
+        for term in doc["tokens"]:
             inverted.setdefault(term, []).append(doc_id)
 
     idf: dict[str, float] = {

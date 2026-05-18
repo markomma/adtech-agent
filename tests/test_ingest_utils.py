@@ -236,6 +236,14 @@ def test_detect_changes_ignores_generated_at(tmp_path):
     assert utils.detect_changes(new, path) is False
 
 
+def test_detect_changes_ignores_snapshot_date(tmp_path):
+    old = {"metadata": {"snapshot_date": "2025-01-01"}, "entries": [{"id": "1"}]}
+    new = {"metadata": {"snapshot_date": "2026-01-01"}, "entries": [{"id": "1"}]}
+    path = tmp_path / "tax.json"
+    path.write_text(json.dumps(old))
+    assert utils.detect_changes(new, path) is False
+
+
 def test_detect_changes_true_when_entries_differ(tmp_path):
     old = {"metadata": {}, "entries": [{"id": "1"}]}
     new = {"metadata": {}, "entries": [{"id": "1"}, {"id": "2"}]}
@@ -290,6 +298,22 @@ def test_register_taxonomy_upserts_existing(tmp_path):
     assert updated["taxonomies"][0]["entry_count"] == 15
 
 
+def test_register_taxonomy_noops_when_entry_unchanged(tmp_path):
+    entry = {
+        "provider": "test",
+        "taxonomy_type": "content",
+        "version": "v1.0",
+        "path": "taxonomies/content/test/v1.0/taxonomy.json",
+        "entry_count": 10,
+    }
+    index = {"generated_at": "2026-01-01T00:00:00Z", "taxonomies": [entry], "mappings": []}
+    path = tmp_path / "index.json"
+    path.write_text(json.dumps(index, indent=2))
+    before = path.read_text()
+    utils.register_taxonomy(path, entry)
+    assert path.read_text() == before
+
+
 def test_register_mapping_adds_new(tmp_path):
     index = {"generated_at": "2026-01-01T00:00:00Z", "taxonomies": [], "mappings": []}
     path = tmp_path / "index.json"
@@ -330,3 +354,23 @@ def test_register_mapping_upserts_existing(tmp_path):
     result = json.loads(path.read_text())
     assert len(result["mappings"]) == 1
     assert result["mappings"][0]["mapped_entries"] == 87
+
+
+def test_register_mapping_noops_when_entry_unchanged(tmp_path):
+    entry = {
+        "source_provider": "iab",
+        "source_version": "v1.0",
+        "target_provider": "google",
+        "target_version": "latest",
+        "taxonomy_type": "ad_product",
+        "canonical": True,
+        "path": "mapping.json",
+        "total_source_entries": 80,
+        "mapped_entries": 80,
+    }
+    index = {"generated_at": "2026-01-01T00:00:00Z", "taxonomies": [], "mappings": [entry]}
+    path = tmp_path / "index.json"
+    path.write_text(json.dumps(index, indent=2))
+    before = path.read_text()
+    utils.register_mapping(path, entry)
+    assert path.read_text() == before

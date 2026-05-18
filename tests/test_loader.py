@@ -17,12 +17,29 @@ def test_list_taxonomies_has_iab_and_google(loader):
 
 def test_list_taxonomies_has_mapped_to(loader):
     result = loader.list_taxonomies()
-    iab = next(t for t in result["taxonomies"] if t["provider"] == "iab" and t["version"] == "v2.0")
+    iab = next(
+        t
+        for t in result["taxonomies"]
+        if t["provider"] == "iab" and t["version"] == "v2.0" and t["taxonomy_type"] == "ad_product"
+    )
     assert "google" in iab["mapped_to"]
+
+def test_list_taxonomies_mapped_to_is_scoped_to_taxonomy_type(loader):
+    result = loader.list_taxonomies()
+    iab_content = next(
+        t
+        for t in result["taxonomies"]
+        if t["provider"] == "iab" and t["version"] == "v1.0" and t["taxonomy_type"] == "content"
+    )
+    assert "google" not in iab_content["mapped_to"]
 
 def test_list_taxonomies_has_entry_count(loader):
     result = loader.list_taxonomies()
-    iab = next(t for t in result["taxonomies"] if t["provider"] == "iab" and t["version"] == "v2.0")
+    iab = next(
+        t
+        for t in result["taxonomies"]
+        if t["provider"] == "iab" and t["version"] == "v2.0" and t["taxonomy_type"] == "ad_product"
+    )
     assert iab["entry_count"] == 583
 
 def test_get_latest_version(loader):

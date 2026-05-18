@@ -69,25 +69,8 @@ def ingest_content(repo_root: Path = REPO_ROOT) -> bool:
     if len(rows) < MIN_STREAMING_HUB:
         raise ValueError(f"Expected >= {MIN_STREAMING_HUB} Streaming Hub entries, got {len(rows)}")
 
-    tier_cols = [key for key in rows[0] if key.lower().startswith("tier") or key.lower() == "name"]
-    entries = []
-    for row in rows:
-        freewheel_id = row.get("ID", "").strip()
-        name_col = next(
-            (key for key in row if key.lower() in ("name", "hub name", "category")),
-            None,
-        )
-        name = row.get(name_col, freewheel_id).strip() if name_col else freewheel_id
-        tier_vals = [row.get(col, "").strip() for col in tier_cols if row.get(col, "").strip()]
-        full_path = " > ".join(tier_vals) if tier_vals else name
-        entries.append(
-            {
-                "id": freewheel_id,
-                "parent_id": None,
-                "name": name,
-                "full_path": full_path,
-            }
-        )
+    entries = _streaming_hub_entries(rows)
+    _assert_meaningful_names(entries)
 
     now = datetime.now(timezone.utc)
     metadata = {
@@ -120,9 +103,87 @@ def ingest_content(repo_root: Path = REPO_ROOT) -> bool:
     return changed
 
 
+def _streaming_hub_entries(rows: list[dict]) -> list[dict]:
+    name_col = next(
+        (key for key in rows[0] if key.lower() in ("category name", "name", "hub name", "category")),
+        None,
+    )
+    if name_col is None:
+        raise ValueError(f"Could not identify FreeWheel Streaming Hub name column. Columns: {list(rows[0])}")
+
+    tier_col = next((key for key in rows[0] if key.lower() == "tier"), None)
+    tier_path_cols = [
+        key
+        for key in rows[0]
+        if key.lower().startswith("tier ") and key.lower() != "tier"
+    ]
+
+    active_id_by_depth: dict[int, str] = {}
+    active_path_by_depth: dict[int, str] = {}
+    seen_id_counts: dict[str, int] = {}
+    entries = []
+
+    for row in rows:
+        source_id = row.get("ID", "").strip()
+        name = row.get(name_col, "").strip()
+        if not source_id or not name:
+            continue
+        seen_id_counts[source_id] = seen_id_counts.get(source_id, 0) + 1
+        freewheel_id = source_id if seen_id_counts[source_id] == 1 else f"{source_id}_{seen_id_counts[source_id]}"
+
+        depth = _tier_depth(row.get(tier_col, "")) if tier_col else None
+        if depth is None:
+            tier_vals = [row.get(col, "").strip() for col in tier_path_cols if row.get(col, "").strip()]
+            parent_id = None
+            full_path = " > ".join(tier_vals) if tier_vals else name
+        else:
+            parent_id = active_id_by_depth.get(depth - 1) if depth > 1 else None
+            parent_path = active_path_by_depth.get(depth - 1)
+            full_path = f"{parent_path} > {name}" if parent_path else name
+            active_id_by_depth[depth] = freewheel_id
+            active_path_by_depth[depth] = full_path
+            for existing_depth in list(active_id_by_depth):
+                if existing_depth > depth:
+                    active_id_by_depth.pop(existing_depth, None)
+                    active_path_by_depth.pop(existing_depth, None)
+
+        entries.append(
+            {
+                "id": freewheel_id,
+                "parent_id": parent_id,
+                "name": name,
+                "full_path": full_path,
+            }
+        )
+    return entries
+
+
+def _tier_depth(value: str) -> int | None:
+    parts = value.strip().split()
+    if len(parts) == 2 and parts[0].lower() == "tier" and parts[1].isdigit():
+        return int(parts[1])
+    return None
+
+
+def _assert_meaningful_names(entries: list[dict]) -> None:
+    if not entries:
+        return
+    numeric_name_count = sum(1 for entry in entries if entry["name"] == entry["id"])
+    if numeric_name_count / len(entries) > 0.05:
+        raise ValueError(
+            "Parsed FreeWheel content taxonomy has too many numeric names "
+            f"({numeric_name_count}/{len(entries)}); check Streaming Hub column detection"
+        )
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Ingest FreeWheel taxonomies")
     parser.add_argument("--type", choices=["ad_product", "content"], dest="taxonomy_type")
+    parser.add_argument(
+        "--fail-on-change",
+        action="store_true",
+        help="Exit 1 when taxonomy data changed; default exits 0 unless an error occurs.",
+    )
     args = parser.parse_args()
 
     funcs = {"ad_product": ingest_ad_product, "content": ingest_content}
@@ -141,7 +202,7 @@ def main() -> None:
 
     if errors:
         sys.exit(2)
-    if any_changed:
+    if any_changed and args.fail_on_change:
         sys.exit(1)
 
 

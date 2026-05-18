@@ -20,6 +20,7 @@ adtech-crosswalk-build-index = "adtech_crosswalk.build_index:main"
 
 [project.optional-dependencies]
 dev = [
+    "beautifulsoup4>=4.12",
     "pytest>=8.0",
 ]
 ingest = [

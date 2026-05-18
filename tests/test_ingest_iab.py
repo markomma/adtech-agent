@@ -68,3 +68,19 @@ def test_sources_dict_has_all_types():
     assert "v1.0" in ingest_iab.SOURCES["content"]
     assert "v3.0" in ingest_iab.SOURCES["content"]
     assert "v1.1" in ingest_iab.SOURCES["audience"]
+
+
+@patch("ingest_iab.ingest")
+@patch("sys.argv", ["ingest_iab.py", "--type", "content", "--version", "v1.0"])
+def test_main_changed_exits_zero_by_default(mock_ingest):
+    mock_ingest.return_value = True
+    assert ingest_iab.main() is None
+
+
+@patch("ingest_iab.ingest")
+@patch("sys.argv", ["ingest_iab.py", "--type", "content", "--version", "v1.0", "--fail-on-change"])
+def test_main_can_fail_on_change(mock_ingest):
+    mock_ingest.return_value = True
+    with pytest.raises(SystemExit) as exc:
+        ingest_iab.main()
+    assert exc.value.code == 1

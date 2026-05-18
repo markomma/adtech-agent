@@ -151,3 +151,19 @@ def test_ingest_detects_no_change(mock_fetch, tmp_path):
     ingest_xandr.ingest_ad_product(repo_root=tmp_path)
     changed = ingest_xandr.ingest_ad_product(repo_root=tmp_path)
     assert changed is False
+
+
+@patch("ingest_xandr.ingest_ad_product")
+@patch("sys.argv", ["ingest_xandr.py", "--type", "ad_product"])
+def test_main_changed_exits_zero_by_default(mock_ingest):
+    mock_ingest.return_value = True
+    assert ingest_xandr.main() is None
+
+
+@patch("ingest_xandr.ingest_ad_product")
+@patch("sys.argv", ["ingest_xandr.py", "--type", "ad_product", "--fail-on-change"])
+def test_main_can_fail_on_change(mock_ingest):
+    mock_ingest.return_value = True
+    with pytest.raises(SystemExit) as exc:
+        ingest_xandr.main()
+    assert exc.value.code == 1

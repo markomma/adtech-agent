@@ -158,6 +158,11 @@ def _slugify(value: str) -> str:
 def main() -> None:
     parser = argparse.ArgumentParser(description="Ingest Xandr taxonomies")
     parser.add_argument("--type", choices=["ad_product", "content"], dest="taxonomy_type")
+    parser.add_argument(
+        "--fail-on-change",
+        action="store_true",
+        help="Exit 1 when taxonomy data changed; default exits 0 unless an error occurs.",
+    )
     args = parser.parse_args()
 
     funcs = {"ad_product": ingest_ad_product, "content": ingest_content}
@@ -176,7 +181,7 @@ def main() -> None:
 
     if errors:
         sys.exit(2)
-    if any_changed:
+    if any_changed and args.fail_on_change:
         sys.exit(1)
 
 

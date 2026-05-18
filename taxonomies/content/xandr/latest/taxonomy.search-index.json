@@ -6,30 +6,30 @@
     "entertainment": 3.13098631948996,
     "industry": 2.648134547766375,
     "offbeat": 5.3996698608083245,
-    "trivia": 5.3996698608083245,
     "fun": 5.3996698608083245,
+    "trivia": 5.3996698608083245,
     "comics": 5.3996698608083245,
     "animation": 5.3996698608083245,
     "music": 4.888844237042334,
-    "design": 4.888844237042334,
-    "art": 4.888844237042334,
     "visual": 5.3996698608083245,
-    "news": 3.279406324608233,
+    "art": 4.888844237042334,
+    "design": 4.888844237042334,
     "celebrity": 5.3996698608083245,
+    "news": 3.279406324608233,
     "movies": 5.3996698608083245,
-    "video": 4.3010575721402144,
     "tv": 4.888844237042334,
+    "video": 4.3010575721402144,
     "humor": 5.3996698608083245,
     "radio": 4.888844237042334,
-    "events": 5.3996698608083245,
     "nightlife": 5.3996698608083245,
+    "events": 5.3996698608083245,
     "performing": 5.3996698608083245,
     "autos": 2.8347205033467873,
     "vehicles": 2.8347205033467873,
-    "watercraft": 5.3996698608083245,
     "boats": 5.3996698608083245,
-    "trains": 5.3996698608083245,
+    "watercraft": 5.3996698608083245,
     "locomotives": 5.3996698608083245,
+    "trains": 5.3996698608083245,
     "hybrid": 5.3996698608083245,
     "alternative": 4.888844237042334,
     "trucks": 5.3996698608083245,
@@ -40,49 +40,49 @@
     "performance": 5.3996698608083245,
     "scooters": 5.3996698608083245,
     "mopeds": 5.3996698608083245,
-    "accessories": 4.552372000421121,
     "vehicle": 4.552372000421121,
     "parts": 5.3996698608083245,
+    "accessories": 4.552372000421121,
     "commercial": 4.888844237042334,
     "personal": 3.202445283472105,
     "aircraft": 5.3996698608083245,
     "maintenance": 5.3996698608083245,
     "classic": 4.888844237042334,
-    "road": 5.3996698608083245,
     "off": 5.3996698608083245,
+    "road": 5.3996698608083245,
     "concept": 5.3996698608083245,
-    "rvs": 5.3996698608083245,
     "campers": 5.3996698608083245,
+    "rvs": 5.3996698608083245,
     "motorcycles": 5.3996698608083245,
     "brands": 5.3996698608083245,
     "beauty": 3.279406324608233,
     "care": 3.202445283472105,
     "skin": 5.3996698608083245,
-    "loss": 5.3996698608083245,
     "weight": 4.888844237042334,
+    "loss": 5.3996698608083245,
     "cosmetology": 5.3996698608083245,
     "spas": 4.888844237042334,
     "services": 3.3627879335472843,
     "cosmetic": 5.3996698608083245,
     "procedures": 5.3996698608083245,
     "hair": 5.3996698608083245,
-    "tattoos": 5.3996698608083245,
     "body": 5.3996698608083245,
+    "tattoos": 5.3996698608083245,
     "fitness": 5.3996698608083245,
     "pageants": 5.3996698608083245,
     "fashion": 5.3996698608083245,
     "style": 5.3996698608083245,
-    "literature": 3.453759711753011,
     "books": 3.453759711753011,
+    "literature": 3.453759711753011,
     "magazines": 5.3996698608083245,
     "fan": 5.3996698608083245,
     "fiction": 5.3996698608083245,
-    "resources": 4.3010575721402144,
     "writers": 5.3996698608083245,
+    "resources": 4.3010575721402144,
     "children": 4.888844237042334,
     "poetry": 5.3996698608083245,
-    "retailers": 4.888844237042334,
     "book": 5.3996698608083245,
+    "retailers": 4.888844237042334,
     "business": 2.691619659706114,
     "jobs": 5.3996698608083245,
     "agriculture": 5.3996698608083245,
@@ -92,34 +92,34 @@
     "international": 5.3996698608083245,
     "aerospace": 5.3996698608083245,
     "defense": 5.3996698608083245,
-    "trade": 4.888844237042334,
     "retail": 4.888844237042334,
+    "trade": 4.888844237042334,
     "opportunities": 5.3996698608083245,
-    "marketing": 5.3996698608083245,
     "advertising": 5.3996698608083245,
-    "associations": 5.3996698608083245,
+    "marketing": 5.3996698608083245,
     "professional": 5.3996698608083245,
+    "associations": 5.3996698608083245,
     "operations": 5.3996698608083245,
     "hospitality": 5.3996698608083245,
     "printing": 5.3996698608083245,
     "publishing": 5.3996698608083245,
     "education": 3.790231948374224,
-    "utilities": 5.3996698608083245,
     "energy": 5.3996698608083245,
-    "biotech": 5.3996698608083245,
+    "utilities": 5.3996698608083245,
     "pharmaceuticals": 5.3996698608083245,
-    "logistics": 5.3996698608083245,
+    "biotech": 5.3996698608083245,
     "transportation": 4.888844237042334,
-    "property": 4.3010575721402144,
+    "logistics": 5.3996698608083245,
     "intellectual": 5.3996698608083245,
+    "property": 4.3010575721402144,
     "computers": 3.001774588009954,
     "electronics": 3.001774588009954,
     "networking": 5.3996698608083245,
     "computer": 4.552372000421121,
     "security": 5.3996698608083245,
     "hardware": 5.3996698608083245,
-    "phones": 5.3996698608083245,
     "cell": 5.3996698608083245,
+    "phones": 5.3996698608083245,
     "pdas": 5.3996698608083245,
     "home": 3.202445283472105,
     "theater": 5.3996698608083245,
@@ -147,24 +147,24 @@
     "insurance": 5.3996698608083245,
     "accounting": 5.3996698608083245,
     "auditing": 5.3996698608083245,
+    "grants": 5.3996698608083245,
     "financial": 4.888844237042334,
     "assistance": 5.3996698608083245,
-    "grants": 5.3996698608083245,
     "taxes": 5.3996698608083245,
     "planning": 5.3996698608083245,
-    "pension": 5.3996698608083245,
     "retirement": 4.888844237042334,
-    "exchange": 5.3996698608083245,
-    "foreign": 5.3996698608083245,
+    "pension": 5.3996698608083245,
     "currencies": 5.3996698608083245,
+    "foreign": 5.3996698608083245,
+    "exchange": 5.3996698608083245,
     "mortgages": 5.3996698608083245,
     "loans": 5.3996698608083245,
     "food": 3.5538431703099933,
     "drink": 3.5538431703099933,
-    "recipes": 5.3996698608083245,
     "cooking": 5.3996698608083245,
-    "sweets": 5.3996698608083245,
+    "recipes": 5.3996698608083245,
     "candy": 5.3996698608083245,
+    "sweets": 5.3996698608083245,
     "vegetarian": 5.3996698608083245,
     "vegan": 5.3996698608083245,
     "alcoholic": 4.888844237042334,
@@ -173,8 +173,8 @@
     "non": 5.3996698608083245,
     "grocery": 5.3996698608083245,
     "games": 3.13098631948996,
-    "coin": 5.3996698608083245,
     "arcade": 5.3996698608083245,
+    "coin": 5.3996698608083245,
     "op": 5.3996698608083245,
     "gambling": 5.3996698608083245,
     "table": 4.888844237042334,
@@ -192,9 +192,9 @@
     "aging": 5.3996698608083245,
     "geriatrics": 5.3996698608083245,
     "reproductive": 5.3996698608083245,
-    "equipment": 5.3996698608083245,
     "medical": 3.9333327920148973,
     "devices": 5.3996698608083245,
+    "equipment": 5.3996698608083245,
     "nursing": 5.3996698608083245,
     "public": 4.888844237042334,
     "foundations": 5.3996698608083245,
@@ -207,8 +207,8 @@
     "pediatrics": 5.3996698608083245,
     "conditions": 5.3996698608083245,
     "vision": 5.3996698608083245,
-    "dental": 5.3996698608083245,
     "oral": 5.3996698608083245,
+    "dental": 5.3996698608083245,
     "natural": 5.3996698608083245,
     "medicine": 5.3996698608083245,
     "substance": 5.3996698608083245,
@@ -217,20 +217,20 @@
     "nutrition": 5.3996698608083245,
     "garden": 3.279406324608233,
     "furnishings": 5.3996698608083245,
-    "patio": 5.3996698608083245,
     "yard": 5.3996698608083245,
+    "patio": 5.3996698608083245,
     "appliances": 5.3996698608083245,
-    "pools": 5.3996698608083245,
     "swimming": 5.3996698608083245,
+    "pools": 5.3996698608083245,
     "gardening": 5.3996698608083245,
     "landscaping": 5.3996698608083245,
     "pest": 5.3996698608083245,
     "control": 4.888844237042334,
     "domestic": 5.3996698608083245,
-    "dining": 5.3996698608083245,
     "kitchen": 5.3996698608083245,
-    "bath": 5.3996698608083245,
+    "dining": 5.3996698608083245,
     "bed": 5.3996698608083245,
+    "bath": 5.3996698608083245,
     "improvement": 5.3996698608083245,
     "internet": 3.3627879335472843,
     "telecom": 3.3627879335472843,
@@ -240,14 +240,14 @@
     "search": 4.888844237042334,
     "engines": 4.888844237042334,
     "portals": 4.888844237042334,
-    "wireless": 5.3996698608083245,
     "mobile": 5.3996698608083245,
+    "wireless": 5.3996698608083245,
     "apps": 5.3996698608083245,
     "tools": 5.3996698608083245,
-    "messaging": 5.3996698608083245,
     "email": 5.3996698608083245,
-    "telephony": 5.3996698608083245,
+    "messaging": 5.3996698608083245,
     "voip": 5.3996698608083245,
+    "telephony": 5.3996698608083245,
     "culture": 5.3996698608083245,
     "teleconferencing": 5.3996698608083245,
     "law": 4.100386876678064,
@@ -261,16 +261,16 @@
     "ethnic": 5.3996698608083245,
     "identity": 5.3996698608083245,
     "groups": 5.3996698608083245,
-    "belief": 5.3996698608083245,
     "religion": 5.3996698608083245,
+    "belief": 5.3996698608083245,
     "interests": 4.552372000421121,
+    "disabled": 5.3996698608083245,
     "special": 4.552372000421121,
     "needs": 5.3996698608083245,
-    "disabled": 5.3996698608083245,
     "subcultures": 5.3996698608083245,
     "niche": 5.3996698608083245,
-    "teens": 5.3996698608083245,
     "kids": 5.3996698608083245,
+    "teens": 5.3996698608083245,
     "sciences": 4.552372000421121,
     "genealogy": 5.3996698608083245,
     "issues": 5.3996698608083245,
@@ -280,20 +280,20 @@
     "world": 3.453759711753011,
     "local": 5.3996698608083245,
     "weather": 5.3996698608083245,
-    "network": 5.3996698608083245,
     "broadcast": 5.3996698608083245,
+    "network": 5.3996698608083245,
     "sports": 2.4552308816418837,
     "politics": 5.3996698608083245,
     "journalism": 5.3996698608083245,
     "communities": 3.453759711753011,
     "goodies": 5.3996698608083245,
-    "chat": 5.3996698608083245,
     "forum": 5.3996698608083245,
+    "chat": 5.3996698608083245,
     "file": 5.3996698608083245,
     "sharing": 4.888844237042334,
     "hosting": 5.3996698608083245,
-    "worlds": 5.3996698608083245,
     "virtual": 5.3996698608083245,
+    "worlds": 5.3996698608083245,
     "dating": 5.3996698608083245,
     "personals": 5.3996698608083245,
     "networks": 5.3996698608083245,
@@ -301,22 +301,22 @@
     "photo": 4.888844237042334,
     "journals": 5.3996698608083245,
     "sites": 5.3996698608083245,
-    "animals": 4.3010575721402144,
     "pets": 4.3010575721402144,
+    "animals": 4.3010575721402144,
     "animal": 5.3996698608083245,
     "products": 4.888844237042334,
     "wildlife": 5.3996698608083245,
-    "estate": 3.5538431703099933,
     "real": 3.5538431703099933,
+    "estate": 3.5538431703099933,
     "development": 5.3996698608083245,
-    "properties": 5.3996698608083245,
-    "vacation": 5.3996698608083245,
     "timeshares": 5.3996698608083245,
+    "vacation": 5.3996698608083245,
+    "properties": 5.3996698608083245,
     "investment": 5.3996698608083245,
     "listings": 5.3996698608083245,
     "apartments": 5.3996698608083245,
-    "rentals": 5.3996698608083245,
     "residential": 5.3996698608083245,
+    "rentals": 5.3996698608083245,
     "agencies": 4.888844237042334,
     "management": 5.3996698608083245,
     "inspections": 5.3996698608083245,
@@ -324,10 +324,10 @@
     "recreation": 3.5538431703099933,
     "crafts": 5.3996698608083245,
     "occasions": 5.3996698608083245,
-    "organizations": 5.3996698608083245,
     "clubs": 5.3996698608083245,
-    "aviation": 5.3996698608083245,
+    "organizations": 5.3996698608083245,
     "recreational": 5.3996698608083245,
+    "aviation": 5.3996698608083245,
     "modeling": 5.3996698608083245,
     "paintball": 5.3996698608083245,
     "outdoors": 4.888844237042334,
@@ -336,8 +336,8 @@
     "language": 3.790231948374224,
     "general": 5.3996698608083245,
     "technical": 5.3996698608083245,
-    "museums": 4.888844237042334,
     "libraries": 5.3996698608083245,
+    "museums": 4.888844237042334,
     "humanities": 5.3996698608083245,
     "geographic": 5.3996698608083245,
     "science": 3.202445283472105,
@@ -351,38 +351,38 @@
     "engineering": 5.3996698608083245,
     "space": 5.3996698608083245,
     "astronomy": 5.3996698608083245,
-    "environment": 5.3996698608083245,
     "ecology": 5.3996698608083245,
+    "environment": 5.3996698608083245,
     "shopping": 2.4207447055707143,
     "free": 5.3996698608083245,
     "stuff": 5.3996698608083245,
     "auctions": 5.3996698608083245,
     "stores": 5.3996698608083245,
     "gifts": 5.3996698608083245,
-    "items": 5.3996698608083245,
     "event": 5.3996698608083245,
-    "liquidators": 5.3996698608083245,
+    "items": 5.3996698608083245,
     "wholesalers": 5.3996698608083245,
+    "liquidators": 5.3996698608083245,
     "footwear": 5.3996698608083245,
     "apparel": 5.3996698608083245,
-    "supplies": 5.3996698608083245,
     "office": 5.3996698608083245,
+    "supplies": 5.3996698608083245,
     "customer": 5.3996698608083245,
     "car": 4.888844237042334,
+    "swap": 5.3996698608083245,
     "meets": 5.3996698608083245,
     "outdoor": 5.3996698608083245,
     "markets": 5.3996698608083245,
-    "swap": 5.3996698608083245,
     "antiques": 5.3996698608083245,
     "collectibles": 5.3996698608083245,
     "videos": 5.3996698608083245,
-    "offers": 5.3996698608083245,
     "coupons": 5.3996698608083245,
     "discount": 5.3996698608083245,
+    "offers": 5.3996698608083245,
     "toys": 5.3996698608083245,
-    "reviews": 5.3996698608083245,
-    "product": 5.3996698608083245,
     "affairs": 5.3996698608083245,
+    "product": 5.3996698608083245,
+    "reviews": 5.3996698608083245,
     "tobacco": 5.3996698608083245,
     "classifieds": 5.3996698608083245,
     "sporting": 5.3996698608083245,
@@ -411,11 +411,11 @@
     "golf": 5.3996698608083245,
     "baseball": 5.3996698608083245,
     "travel": 3.202445283472105,
-    "travelogues": 5.3996698608083245,
     "guides": 5.3996698608083245,
+    "travelogues": 5.3996698608083245,
     "air": 5.3996698608083245,
-    "accommodations": 5.3996698608083245,
     "hotels": 5.3996698608083245,
+    "accommodations": 5.3996698608083245,
     "cruises": 5.3996698608083245,
     "charters": 5.3996698608083245,
     "tourist": 5.3996698608083245,
@@ -426,8 +426,8 @@
     "rail": 5.3996698608083245,
     "galleries": 5.3996698608083245,
     "amusement": 5.3996698608083245,
-    "parks": 5.3996698608083245,
     "theme": 5.3996698608083245,
+    "parks": 5.3996698608083245,
     "luggage": 5.3996698608083245,
     "localities": 3.5538431703099933,
     "middle": 5.3996698608083245,
@@ -504,10 +504,10 @@
     "offbeat": [
       "arts-and-entertainment/offbeat"
     ],
-    "trivia": [
+    "fun": [
       "arts-and-entertainment/fun-and-trivia"
     ],
-    "fun": [
+    "trivia": [
       "arts-and-entertainment/fun-and-trivia"
     ],
     "comics": [
@@ -520,16 +520,19 @@
       "arts-and-entertainment/music",
       "shopping/music"
     ],
-    "design": [
-      "arts-and-entertainment/visual-art-and-design",
-      "internet-and-telecom/web-design"
+    "visual": [
+      "arts-and-entertainment/visual-art-and-design"
     ],
     "art": [
       "arts-and-entertainment/visual-art-and-design",
       "beauty-and-personal-care/body-art-and-tattoos"
     ],
-    "visual": [
-      "arts-and-entertainment/visual-art-and-design"
+    "design": [
+      "arts-and-entertainment/visual-art-and-design",
+      "internet-and-telecom/web-design"
+    ],
+    "celebrity": [
+      "arts-and-entertainment/celebrity-news"
     ],
     "news": [
       "arts-and-entertainment/celebrity-news",
@@ -545,21 +548,18 @@
       "news/politics",
       "news/journalism-and-news-industry"
     ],
-    "celebrity": [
-      "arts-and-entertainment/celebrity-news"
-    ],
     "movies": [
       "arts-and-entertainment/movies"
+    ],
+    "tv": [
+      "arts-and-entertainment/tv-and-video",
+      "computers-and-electronics/tv"
     ],
     "video": [
       "arts-and-entertainment/tv-and-video",
       "games/computer-and-video-games",
       "online-communities/photo-and-video-sharing",
       "shopping/photo-and-video-services"
-    ],
-    "tv": [
-      "arts-and-entertainment/tv-and-video",
-      "computers-and-electronics/tv"
     ],
     "humor": [
       "arts-and-entertainment/humor"
@@ -568,10 +568,10 @@
       "arts-and-entertainment/radio",
       "recreation/radio-control-and-modeling"
     ],
-    "events": [
+    "nightlife": [
       "arts-and-entertainment/nightlife-events"
     ],
-    "nightlife": [
+    "events": [
       "arts-and-entertainment/nightlife-events"
     ],
     "performing": [
@@ -619,16 +619,16 @@
       "autos-and-vehicles/motorcycles",
       "autos-and-vehicles/vehicle-brands"
     ],
-    "watercraft": [
-      "autos-and-vehicles/boats-and-watercraft"
-    ],
     "boats": [
       "autos-and-vehicles/boats-and-watercraft"
     ],
-    "trains": [
-      "autos-and-vehicles/locomotives-and-trains"
+    "watercraft": [
+      "autos-and-vehicles/boats-and-watercraft"
     ],
     "locomotives": [
+      "autos-and-vehicles/locomotives-and-trains"
+    ],
+    "trains": [
       "autos-and-vehicles/locomotives-and-trains"
     ],
     "hybrid": [
@@ -667,11 +667,6 @@
     "mopeds": [
       "autos-and-vehicles/scooters-and-mopeds"
     ],
-    "accessories": [
-      "autos-and-vehicles/vehicle-parts-and-accessories",
-      "shopping/accessories",
-      "travel/luggage-and-travel-accessories"
-    ],
     "vehicle": [
       "autos-and-vehicles/vehicle-parts-and-accessories",
       "autos-and-vehicles/vehicle-maintenance",
@@ -679,6 +674,11 @@
     ],
     "parts": [
       "autos-and-vehicles/vehicle-parts-and-accessories"
+    ],
+    "accessories": [
+      "autos-and-vehicles/vehicle-parts-and-accessories",
+      "shopping/accessories",
+      "travel/luggage-and-travel-accessories"
     ],
     "commercial": [
       "autos-and-vehicles/commercial-vehicles",
@@ -709,19 +709,19 @@
       "autos-and-vehicles/classic-vehicles",
       "books-and-literature/classic-literature"
     ],
-    "road": [
+    "off": [
       "autos-and-vehicles/off-road-vehicles"
     ],
-    "off": [
+    "road": [
       "autos-and-vehicles/off-road-vehicles"
     ],
     "concept": [
       "autos-and-vehicles/concept-vehicles"
     ],
-    "rvs": [
+    "campers": [
       "autos-and-vehicles/campers-and-rvs"
     ],
-    "campers": [
+    "rvs": [
       "autos-and-vehicles/campers-and-rvs"
     ],
     "motorcycles": [
@@ -762,12 +762,12 @@
     "skin": [
       "beauty-and-personal-care/skin-care"
     ],
-    "loss": [
-      "beauty-and-personal-care/weight-loss"
-    ],
     "weight": [
       "beauty-and-personal-care/weight-loss",
       "sports/weight-lifting"
+    ],
+    "loss": [
+      "beauty-and-personal-care/weight-loss"
     ],
     "cosmetology": [
       "beauty-and-personal-care/cosmetology"
@@ -798,10 +798,10 @@
     "hair": [
       "beauty-and-personal-care/hair-care"
     ],
-    "tattoos": [
+    "body": [
       "beauty-and-personal-care/body-art-and-tattoos"
     ],
-    "body": [
+    "tattoos": [
       "beauty-and-personal-care/body-art-and-tattoos"
     ],
     "fitness": [
@@ -816,18 +816,6 @@
     "style": [
       "beauty-and-personal-care/fashion-and-style"
     ],
-    "literature": [
-      "books-and-literature",
-      "books-and-literature/magazines",
-      "books-and-literature/classic-literature",
-      "books-and-literature/fan-fiction",
-      "books-and-literature/e-books",
-      "books-and-literature/writers-resources",
-      "books-and-literature/children-s-literature",
-      "books-and-literature/poetry",
-      "books-and-literature/book-retailers",
-      "health/medical-literature-and-resources"
-    ],
     "books": [
       "books-and-literature",
       "books-and-literature/magazines",
@@ -840,6 +828,18 @@
       "books-and-literature/book-retailers",
       "shopping/books"
     ],
+    "literature": [
+      "books-and-literature",
+      "books-and-literature/magazines",
+      "books-and-literature/classic-literature",
+      "books-and-literature/fan-fiction",
+      "books-and-literature/e-books",
+      "books-and-literature/writers-resources",
+      "books-and-literature/children-s-literature",
+      "books-and-literature/poetry",
+      "books-and-literature/book-retailers",
+      "health/medical-literature-and-resources"
+    ],
     "magazines": [
       "books-and-literature/magazines"
     ],
@@ -849,14 +849,14 @@
     "fiction": [
       "books-and-literature/fan-fiction"
     ],
+    "writers": [
+      "books-and-literature/writers-resources"
+    ],
     "resources": [
       "books-and-literature/writers-resources",
       "health/medical-literature-and-resources",
       "online-communities/blogging-resources-and-services",
       "reference-and-language/language-resources"
-    ],
-    "writers": [
-      "books-and-literature/writers-resources"
     ],
     "children": [
       "books-and-literature/children-s-literature",
@@ -865,12 +865,12 @@
     "poetry": [
       "books-and-literature/poetry"
     ],
+    "book": [
+      "books-and-literature/book-retailers"
+    ],
     "retailers": [
       "books-and-literature/book-retailers",
       "food-and-drink/grocery-and-food-retailers"
-    ],
-    "book": [
-      "books-and-literature/book-retailers"
     ],
     "business": [
       "business-and-industry",
@@ -920,27 +920,27 @@
     "defense": [
       "business-and-industry/aerospace-and-defense"
     ],
-    "trade": [
-      "business-and-industry/retail-trade",
-      "business-and-industry/professional-and-trade-associations"
-    ],
     "retail": [
       "business-and-industry/retail-trade",
       "shopping/retail-stores"
     ],
+    "trade": [
+      "business-and-industry/retail-trade",
+      "business-and-industry/professional-and-trade-associations"
+    ],
     "opportunities": [
       "business-and-industry/opportunities"
-    ],
-    "marketing": [
-      "business-and-industry/advertising-and-marketing"
     ],
     "advertising": [
       "business-and-industry/advertising-and-marketing"
     ],
-    "associations": [
-      "business-and-industry/professional-and-trade-associations"
+    "marketing": [
+      "business-and-industry/advertising-and-marketing"
     ],
     "professional": [
+      "business-and-industry/professional-and-trade-associations"
+    ],
+    "associations": [
       "business-and-industry/professional-and-trade-associations"
     ],
     "operations": [
@@ -964,33 +964,33 @@
       "education/college-and-university",
       "health/health-education-and-medical-training"
     ],
-    "utilities": [
-      "business-and-industry/energy-and-utilities"
-    ],
     "energy": [
       "business-and-industry/energy-and-utilities"
     ],
-    "biotech": [
-      "business-and-industry/pharmaceuticals-and-biotech"
+    "utilities": [
+      "business-and-industry/energy-and-utilities"
     ],
     "pharmaceuticals": [
       "business-and-industry/pharmaceuticals-and-biotech"
     ],
-    "logistics": [
-      "business-and-industry/transportation-and-logistics"
+    "biotech": [
+      "business-and-industry/pharmaceuticals-and-biotech"
     ],
     "transportation": [
       "business-and-industry/transportation-and-logistics",
       "travel/transportation"
+    ],
+    "logistics": [
+      "business-and-industry/transportation-and-logistics"
+    ],
+    "intellectual": [
+      "business-and-industry/intellectual-property"
     ],
     "property": [
       "business-and-industry/intellectual-property",
       "real-estate/property-development",
       "real-estate/property-management",
       "real-estate/property-inspections-and-appraisals"
-    ],
-    "intellectual": [
-      "business-and-industry/intellectual-property"
     ],
     "computers": [
       "computers-and-electronics",
@@ -1042,10 +1042,10 @@
     "hardware": [
       "computers-and-electronics/hardware"
     ],
-    "phones": [
+    "cell": [
       "computers-and-electronics/cell-phones"
     ],
-    "cell": [
+    "phones": [
       "computers-and-electronics/cell-phones"
     ],
     "pdas": [
@@ -1155,14 +1155,14 @@
     "auditing": [
       "finance/accounting-and-auditing"
     ],
+    "grants": [
+      "finance/grants-and-financial-assistance"
+    ],
     "financial": [
       "finance/grants-and-financial-assistance",
       "finance/financial-planning"
     ],
     "assistance": [
-      "finance/grants-and-financial-assistance"
-    ],
-    "grants": [
       "finance/grants-and-financial-assistance"
     ],
     "taxes": [
@@ -1171,20 +1171,20 @@
     "planning": [
       "finance/financial-planning"
     ],
-    "pension": [
-      "finance/retirement-and-pension"
-    ],
     "retirement": [
       "finance/retirement-and-pension",
       "lifestyles/seniors-and-retirement"
     ],
-    "exchange": [
+    "pension": [
+      "finance/retirement-and-pension"
+    ],
+    "currencies": [
       "finance/currencies-and-foreign-exchange"
     ],
     "foreign": [
       "finance/currencies-and-foreign-exchange"
     ],
-    "currencies": [
+    "exchange": [
       "finance/currencies-and-foreign-exchange"
     ],
     "mortgages": [
@@ -1215,16 +1215,16 @@
       "food-and-drink/non-alcoholic-beverages",
       "food-and-drink/grocery-and-food-retailers"
     ],
-    "recipes": [
-      "food-and-drink/cooking-and-recipes"
-    ],
     "cooking": [
       "food-and-drink/cooking-and-recipes"
     ],
-    "sweets": [
-      "food-and-drink/candy-and-sweets"
+    "recipes": [
+      "food-and-drink/cooking-and-recipes"
     ],
     "candy": [
+      "food-and-drink/candy-and-sweets"
+    ],
+    "sweets": [
       "food-and-drink/candy-and-sweets"
     ],
     "vegetarian": [
@@ -1266,10 +1266,10 @@
       "games/online-games",
       "shopping/games"
     ],
-    "coin": [
+    "arcade": [
       "games/arcade-and-coin-op-games"
     ],
-    "arcade": [
+    "coin": [
       "games/arcade-and-coin-op-games"
     ],
     "op": [
@@ -1358,9 +1358,6 @@
     "reproductive": [
       "health/reproductive-health"
     ],
-    "equipment": [
-      "health/medical-devices-and-equipment"
-    ],
     "medical": [
       "health/medical-devices-and-equipment",
       "health/health-foundations-and-medical-research",
@@ -1370,6 +1367,9 @@
       "science/medical-science"
     ],
     "devices": [
+      "health/medical-devices-and-equipment"
+    ],
+    "equipment": [
       "health/medical-devices-and-equipment"
     ],
     "nursing": [
@@ -1411,10 +1411,10 @@
     "vision": [
       "health/vision-care"
     ],
-    "dental": [
+    "oral": [
       "health/oral-and-dental-care"
     ],
-    "oral": [
+    "dental": [
       "health/oral-and-dental-care"
     ],
     "natural": [
@@ -1452,19 +1452,19 @@
     "furnishings": [
       "home-and-garden/home-furnishings"
     ],
-    "patio": [
+    "yard": [
       "home-and-garden/yard-and-patio"
     ],
-    "yard": [
+    "patio": [
       "home-and-garden/yard-and-patio"
     ],
     "appliances": [
       "home-and-garden/home-appliances"
     ],
-    "pools": [
+    "swimming": [
       "home-and-garden/swimming-pools-and-spas"
     ],
-    "swimming": [
+    "pools": [
       "home-and-garden/swimming-pools-and-spas"
     ],
     "gardening": [
@@ -1483,16 +1483,16 @@
     "domestic": [
       "home-and-garden/domestic-services"
     ],
-    "dining": [
-      "home-and-garden/kitchen-and-dining"
-    ],
     "kitchen": [
       "home-and-garden/kitchen-and-dining"
     ],
-    "bath": [
-      "home-and-garden/bed-and-bath"
+    "dining": [
+      "home-and-garden/kitchen-and-dining"
     ],
     "bed": [
+      "home-and-garden/bed-and-bath"
+    ],
+    "bath": [
       "home-and-garden/bed-and-bath"
     ],
     "improvement": [
@@ -1548,10 +1548,10 @@
       "internet-and-telecom/web-portals",
       "shopping/shopping-portals-and-search-engines"
     ],
-    "wireless": [
+    "mobile": [
       "internet-and-telecom/mobile-and-wireless"
     ],
-    "mobile": [
+    "wireless": [
       "internet-and-telecom/mobile-and-wireless"
     ],
     "apps": [
@@ -1560,16 +1560,16 @@
     "tools": [
       "internet-and-telecom/web-apps-and-online-tools"
     ],
-    "messaging": [
-      "internet-and-telecom/email-and-messaging"
-    ],
     "email": [
       "internet-and-telecom/email-and-messaging"
     ],
-    "telephony": [
-      "internet-and-telecom/voip-and-internet-telephony"
+    "messaging": [
+      "internet-and-telecom/email-and-messaging"
     ],
     "voip": [
+      "internet-and-telecom/voip-and-internet-telephony"
+    ],
+    "telephony": [
       "internet-and-telecom/voip-and-internet-telephony"
     ],
     "culture": [
@@ -1634,16 +1634,19 @@
     "groups": [
       "lifestyles/ethnic-and-identity-groups"
     ],
-    "belief": [
+    "religion": [
       "lifestyles/religion-and-belief"
     ],
-    "religion": [
+    "belief": [
       "lifestyles/religion-and-belief"
     ],
     "interests": [
       "lifestyles/women-s-interests",
       "lifestyles/men-s-interests",
       "lifestyles/subcultures-and-niche-interests"
+    ],
+    "disabled": [
+      "lifestyles/disabled-and-special-needs"
     ],
     "special": [
       "lifestyles/disabled-and-special-needs",
@@ -1653,19 +1656,16 @@
     "needs": [
       "lifestyles/disabled-and-special-needs"
     ],
-    "disabled": [
-      "lifestyles/disabled-and-special-needs"
-    ],
     "subcultures": [
       "lifestyles/subcultures-and-niche-interests"
     ],
     "niche": [
       "lifestyles/subcultures-and-niche-interests"
     ],
-    "teens": [
+    "kids": [
       "lifestyles/kids-and-teens"
     ],
-    "kids": [
+    "teens": [
       "lifestyles/kids-and-teens"
     ],
     "sciences": [
@@ -1706,10 +1706,10 @@
     "weather": [
       "news/weather"
     ],
-    "network": [
+    "broadcast": [
       "news/broadcast-and-network-news"
     ],
-    "broadcast": [
+    "network": [
       "news/broadcast-and-network-news"
     ],
     "sports": [
@@ -1763,10 +1763,10 @@
     "goodies": [
       "online-communities/online-goodies"
     ],
-    "chat": [
+    "forum": [
       "online-communities/forum-and-chat-providers"
     ],
-    "forum": [
+    "chat": [
       "online-communities/forum-and-chat-providers"
     ],
     "file": [
@@ -1779,10 +1779,10 @@
     "hosting": [
       "online-communities/file-sharing-and-hosting"
     ],
-    "worlds": [
+    "virtual": [
       "online-communities/virtual-worlds"
     ],
-    "virtual": [
+    "worlds": [
       "online-communities/virtual-worlds"
     ],
     "dating": [
@@ -1807,13 +1807,13 @@
     "sites": [
       "online-communities/online-journals-and-personal-sites"
     ],
-    "animals": [
+    "pets": [
       "pets-and-animals",
       "pets-and-animals/animal-products-and-services",
       "pets-and-animals/wildlife",
       "pets-and-animals/pets"
     ],
-    "pets": [
+    "animals": [
       "pets-and-animals",
       "pets-and-animals/animal-products-and-services",
       "pets-and-animals/wildlife",
@@ -1829,7 +1829,7 @@
     "wildlife": [
       "pets-and-animals/wildlife"
     ],
-    "estate": [
+    "real": [
       "real-estate",
       "real-estate/property-development",
       "real-estate/timeshares-and-vacation-properties",
@@ -1840,7 +1840,7 @@
       "real-estate/property-management",
       "real-estate/property-inspections-and-appraisals"
     ],
-    "real": [
+    "estate": [
       "real-estate",
       "real-estate/property-development",
       "real-estate/timeshares-and-vacation-properties",
@@ -1854,13 +1854,13 @@
     "development": [
       "real-estate/property-development"
     ],
-    "properties": [
+    "timeshares": [
       "real-estate/timeshares-and-vacation-properties"
     ],
     "vacation": [
       "real-estate/timeshares-and-vacation-properties"
     ],
-    "timeshares": [
+    "properties": [
       "real-estate/timeshares-and-vacation-properties"
     ],
     "investment": [
@@ -1872,10 +1872,10 @@
     "apartments": [
       "real-estate/apartments-and-residential-rentals"
     ],
-    "rentals": [
+    "residential": [
       "real-estate/apartments-and-residential-rentals"
     ],
-    "residential": [
+    "rentals": [
       "real-estate/apartments-and-residential-rentals"
     ],
     "agencies": [
@@ -1908,16 +1908,16 @@
     "occasions": [
       "recreation/special-occasions"
     ],
-    "organizations": [
-      "recreation/clubs-and-organizations"
-    ],
     "clubs": [
       "recreation/clubs-and-organizations"
     ],
-    "aviation": [
-      "recreation/recreational-aviation"
+    "organizations": [
+      "recreation/clubs-and-organizations"
     ],
     "recreational": [
+      "recreation/recreational-aviation"
+    ],
+    "aviation": [
       "recreation/recreational-aviation"
     ],
     "modeling": [
@@ -1958,12 +1958,12 @@
     "technical": [
       "reference-and-language/technical-reference"
     ],
+    "libraries": [
+      "reference-and-language/libraries-and-museums"
+    ],
     "museums": [
       "reference-and-language/libraries-and-museums",
       "travel/museums-and-galleries"
-    ],
-    "libraries": [
-      "reference-and-language/libraries-and-museums"
     ],
     "humanities": [
       "reference-and-language/humanities"
@@ -2016,10 +2016,10 @@
     "astronomy": [
       "science/astronomy"
     ],
-    "environment": [
+    "ecology": [
       "science/ecology-and-environment"
     ],
-    "ecology": [
+    "environment": [
       "science/ecology-and-environment"
     ],
     "shopping": [
@@ -2068,16 +2068,16 @@
     "gifts": [
       "shopping/gifts-and-special-event-items"
     ],
-    "items": [
-      "shopping/gifts-and-special-event-items"
-    ],
     "event": [
       "shopping/gifts-and-special-event-items"
     ],
-    "liquidators": [
-      "shopping/wholesalers-and-liquidators"
+    "items": [
+      "shopping/gifts-and-special-event-items"
     ],
     "wholesalers": [
+      "shopping/wholesalers-and-liquidators"
+    ],
+    "liquidators": [
       "shopping/wholesalers-and-liquidators"
     ],
     "footwear": [
@@ -2086,10 +2086,10 @@
     "apparel": [
       "shopping/apparel"
     ],
-    "supplies": [
+    "office": [
       "shopping/office-supplies"
     ],
-    "office": [
+    "supplies": [
       "shopping/office-supplies"
     ],
     "customer": [
@@ -2099,6 +2099,9 @@
       "shopping/car-shopping",
       "travel/car-rental-and-taxi-services"
     ],
+    "swap": [
+      "shopping/swap-meets-and-outdoor-markets"
+    ],
     "meets": [
       "shopping/swap-meets-and-outdoor-markets"
     ],
@@ -2106,9 +2109,6 @@
       "shopping/swap-meets-and-outdoor-markets"
     ],
     "markets": [
-      "shopping/swap-meets-and-outdoor-markets"
-    ],
-    "swap": [
       "shopping/swap-meets-and-outdoor-markets"
     ],
     "antiques": [
@@ -2120,25 +2120,25 @@
     "videos": [
       "shopping/videos"
     ],
-    "offers": [
-      "shopping/coupons-and-discount-offers"
-    ],
     "coupons": [
       "shopping/coupons-and-discount-offers"
     ],
     "discount": [
       "shopping/coupons-and-discount-offers"
     ],
+    "offers": [
+      "shopping/coupons-and-discount-offers"
+    ],
     "toys": [
       "shopping/toys"
     ],
-    "reviews": [
+    "affairs": [
       "shopping/consumer-affairs-and-product-reviews"
     ],
     "product": [
       "shopping/consumer-affairs-and-product-reviews"
     ],
-    "affairs": [
+    "reviews": [
       "shopping/consumer-affairs-and-product-reviews"
     ],
     "tobacco": [
@@ -2238,19 +2238,19 @@
       "travel/amusement-and-theme-parks",
       "travel/luggage-and-travel-accessories"
     ],
-    "travelogues": [
+    "guides": [
       "travel/travel-guides-and-travelogues"
     ],
-    "guides": [
+    "travelogues": [
       "travel/travel-guides-and-travelogues"
     ],
     "air": [
       "travel/air-travel"
     ],
-    "accommodations": [
+    "hotels": [
       "travel/hotels-and-accommodations"
     ],
-    "hotels": [
+    "accommodations": [
       "travel/hotels-and-accommodations"
     ],
     "cruises": [
@@ -2283,10 +2283,10 @@
     "amusement": [
       "travel/amusement-and-theme-parks"
     ],
-    "parks": [
+    "theme": [
       "travel/amusement-and-theme-parks"
     ],
-    "theme": [
+    "parks": [
       "travel/amusement-and-theme-parks"
     ],
     "luggage": [

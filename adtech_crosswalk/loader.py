@@ -22,6 +22,7 @@ class Loader:
                 for m in self._index["mappings"]
                 if m["source_provider"] == t["provider"]
                 and m["source_version"] == t["version"]
+                and m["taxonomy_type"] == t["taxonomy_type"]
             ]
             result.append({
                 "provider": t["provider"],

@@ -159,7 +159,7 @@ def detect_changes(new_data: dict, path: Path) -> bool:
             return {
                 key: strip_generated_values(child)
                 for key, child in value.items()
-                if key not in ("fetched_at", "generated_at")
+                if key not in ("fetched_at", "generated_at", "snapshot_date")
             }
         if isinstance(value, list):
             return [strip_generated_values(item) for item in value]
@@ -185,16 +185,22 @@ def register_taxonomy(index_path: Path, entry: dict) -> None:
         index = json.load(file)
 
     key = (entry["provider"], entry["taxonomy_type"], entry["version"])
+    changed = False
     for i, taxonomy in enumerate(index["taxonomies"]):
         if (taxonomy["provider"], taxonomy["taxonomy_type"], taxonomy["version"]) == key:
+            if taxonomy == entry:
+                return
             index["taxonomies"][i] = entry
+            changed = True
             break
     else:
         index["taxonomies"].append(entry)
+        changed = True
 
-    index["generated_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    with index_path.open("w") as file:
-        json.dump(index, file, indent=2)
+    if changed:
+        index["generated_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        with index_path.open("w") as file:
+            json.dump(index, file, indent=2)
 
 
 def register_mapping(index_path: Path, entry: dict) -> None:
@@ -208,6 +214,7 @@ def register_mapping(index_path: Path, entry: dict) -> None:
         entry["target_version"],
         entry["taxonomy_type"],
     )
+    changed = False
     for i, mapping in enumerate(index["mappings"]):
         if (
             mapping["source_provider"],
@@ -216,11 +223,16 @@ def register_mapping(index_path: Path, entry: dict) -> None:
             mapping["target_version"],
             mapping["taxonomy_type"],
         ) == key:
+            if mapping == entry:
+                return
             index["mappings"][i] = entry
+            changed = True
             break
     else:
         index["mappings"].append(entry)
+        changed = True
 
-    index["generated_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    with index_path.open("w") as file:
-        json.dump(index, file, indent=2)
+    if changed:
+        index["generated_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        with index_path.open("w") as file:
+            json.dump(index, file, indent=2)

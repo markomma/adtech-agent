@@ -39,6 +39,10 @@ def test_build_index_inverted(small_taxonomy):
     assert "1" in index["inverted"]["beer"]
     assert set(index["inverted"]["alcohol"]) == {"1", "2", "3"}
 
+def test_build_index_inverted_order_is_deterministic(small_taxonomy):
+    index = build_index(small_taxonomy)
+    assert list(index["inverted"]) == ["beer", "alcohol", "wine", "spirits"]
+
 def test_build_index_avgdl(small_taxonomy):
     index = build_index(small_taxonomy)
     assert index["avgdl"] == 2.0

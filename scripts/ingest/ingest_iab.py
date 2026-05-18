@@ -83,6 +83,11 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Ingest IAB taxonomies")
     parser.add_argument("--type", choices=list(SOURCES), dest="taxonomy_type")
     parser.add_argument("--version")
+    parser.add_argument(
+        "--fail-on-change",
+        action="store_true",
+        help="Exit 1 when taxonomy data changed; default exits 0 unless an error occurs.",
+    )
     args = parser.parse_args()
 
     types = [args.taxonomy_type] if args.taxonomy_type else list(SOURCES)
@@ -102,7 +107,7 @@ def main() -> None:
 
     if errors:
         sys.exit(2)
-    if any_changed:
+    if any_changed and args.fail_on_change:
         sys.exit(1)
 
 

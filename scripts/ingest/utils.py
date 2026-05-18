@@ -29,15 +29,31 @@ def fetch_url(url: str, retries: int = 3) -> str:
 
 
 def parse_tsv(content: str) -> list[dict]:
-    reader = csv.DictReader(content.splitlines(), delimiter="\t")
+    lines = content.splitlines()
+    header_index = next(
+        (
+            index
+            for index, line in enumerate(lines)
+            if "Unique ID" in line or "IAB Code" in line
+        ),
+        0,
+    )
+    reader = csv.DictReader(lines[header_index:], delimiter="\t")
     tier_cols = [col for col in reader.fieldnames or [] if col.startswith("Tier ")]
     entries = []
     seen: dict[str, int] = {}
 
     for row in reader:
-        uid = row.get("Unique ID", "").strip()
-        parent_id = row.get("Parent ID", "").strip() or None
-        name = row.get("Name", "").strip()
+        uid = _first_nonempty(row, ["Unique ID", "IAB Code", "ID"])
+        parent_id = _first_nonempty(row, ["Parent ID", "Parent"]) or None
+        if parent_id is None and row.get("IAB Code"):
+            parent_id = _infer_iab_parent_id(uid)
+        path_parts = [row.get(col, "").strip() for col in tier_cols if row.get(col, "").strip()]
+        name = _first_nonempty(row, ["Name", "IAB Category", "Category"])
+        if not name and path_parts:
+            name = path_parts[-1]
+        if not name:
+            name = _first_nonempty(row, ["Condensed Name (1st, 2nd, Last Tier)"])
         if not uid or not name:
             continue
 
@@ -47,17 +63,30 @@ def parse_tsv(content: str) -> list[dict]:
         else:
             seen[uid] = 1
 
-        path_parts = [row.get(col, "").strip() for col in tier_cols if row.get(col, "").strip()]
         entries.append(
             {
                 "id": uid,
                 "parent_id": parent_id,
                 "name": name,
-                "full_path": " > ".join(path_parts),
+                "full_path": " > ".join(path_parts) if path_parts else name,
             }
         )
 
     return entries
+
+
+def _first_nonempty(row: dict, keys: list[str]) -> str:
+    for key in keys:
+        value = row.get(key, "")
+        if value and value.strip():
+            return value.strip()
+    return ""
+
+
+def _infer_iab_parent_id(uid: str) -> str | None:
+    if "-" not in uid:
+        return None
+    return uid.rsplit("-", 1)[0]
 
 
 def parse_markdown_table(markdown: str) -> list[dict]:
@@ -86,13 +115,21 @@ def parse_markdown_table(markdown: str) -> list[dict]:
 def parse_html_table(html: str, caption_pattern: str) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     target_table = None
+    fallback_table = None
+    pattern = caption_pattern.lower()
 
     for table in soup.find_all("table"):
         preceding = table.find_previous(["h1", "h2", "h3", "h4", "h5", "caption"])
-        if preceding and caption_pattern.lower() in preceding.get_text().lower():
+        if not preceding:
+            continue
+        caption = preceding.get_text(strip=True).lower()
+        if caption == pattern:
             target_table = table
             break
+        if pattern in caption and fallback_table is None:
+            fallback_table = table
 
+    target_table = target_table or fallback_table
     if target_table is None:
         raise ValueError(f"No table found matching caption pattern '{caption_pattern}'")
 

@@ -65,7 +65,7 @@ def ingest_ad_product(repo_root: Path = REPO_ROOT) -> bool:
 def ingest_content(repo_root: Path = REPO_ROOT) -> bool:
     """Scrape FreeWheel Streaming Hub IDs from API docs."""
     html = fetch_url(API_DOCS_URL)
-    rows = parse_html_table(html, "Streaming Hub")
+    rows = parse_html_table(html, "Streaming Hub IDs")
     if len(rows) < MIN_STREAMING_HUB:
         raise ValueError(f"Expected >= {MIN_STREAMING_HUB} Streaming Hub entries, got {len(rows)}")
 

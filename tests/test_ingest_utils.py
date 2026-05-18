@@ -67,6 +67,63 @@ def test_parse_tsv_deduplicates_ids():
     assert "51_2" in ids
 
 
+def test_parse_tsv_supports_iab_content_v1_headers():
+    tsv = (
+        "\t".join(["IAB Code", "Tier", "IAB Category"])
+        + "\n"
+        + "\t".join(["IAB1", "Tier 1", "Arts & Entertainment"])
+        + "\n"
+        + "\t".join(["IAB1-1", "Tier 2", "Books & Literature"])
+        + "\n"
+    )
+    entries = utils.parse_tsv(tsv)
+    assert entries[0]["id"] == "IAB1"
+    assert entries[0]["name"] == "Arts & Entertainment"
+    assert entries[1]["parent_id"] == "IAB1"
+    assert entries[1]["full_path"] == "Books & Literature"
+
+
+def test_parse_tsv_supports_iab_audience_condensed_name():
+    tsv = (
+        "\t".join(
+            [
+                "",
+                "Unique ID",
+                "Parent ID",
+                "Condensed Name (1st, 2nd, Last Tier)",
+                "Tier 1",
+                "Tier 2",
+            ]
+        )
+        + "\n"
+        + "\t".join(["", "1", "", "Demographic", "Demographic", ""])
+        + "\n"
+        + "\t".join(["", "2", "1", "Demographic | Age Range", "Demographic", "Age Range"])
+        + "\n"
+    )
+    entries = utils.parse_tsv(tsv)
+    assert entries[1]["id"] == "2"
+    assert entries[1]["parent_id"] == "1"
+    assert entries[1]["name"] == "Age Range"
+    assert entries[1]["full_path"] == "Demographic > Age Range"
+
+
+def test_parse_tsv_skips_iab_title_row_and_reads_parent_column():
+    tsv = (
+        "New Relational ID System\t\t\tContent Taxonomy v2 with Tiered Categories\t\t\t\n"
+        + "\t".join(["Unique ID", "Parent", "Name", "Tier 1", "Tier 2"])
+        + "\n"
+        + "\t".join(["1", "", "Arts & Entertainment", "Arts & Entertainment", ""])
+        + "\n"
+        + "\t".join(["2", "1", "Books & Literature", "Arts & Entertainment", "Books & Literature"])
+        + "\n"
+    )
+    entries = utils.parse_tsv(tsv)
+    assert len(entries) == 2
+    assert entries[1]["parent_id"] == "1"
+    assert entries[1]["full_path"] == "Arts & Entertainment > Books & Literature"
+
+
 MD_TABLE = """
 ## Categories
 
@@ -126,6 +183,25 @@ def test_parse_html_table_selects_correct_table():
     rows = utils.parse_html_table(HTML_FIXTURE, "Platform")
     assert len(rows) == 1
     assert rows[0]["Platform"] == "Desktop"
+
+
+def test_parse_html_table_prefers_exact_caption_match():
+    html = """
+    <html><body>
+    <h3>Clearcast Codes to Streaming Hub IDs</h3>
+    <table>
+      <tr><th>ID</th><th>Name</th></tr>
+      <tr><td>1</td><td>Wrong table</td></tr>
+    </table>
+    <h3>Streaming Hub IDs</h3>
+    <table>
+      <tr><th>ID</th><th>Name</th></tr>
+      <tr><td>2</td><td>Right table</td></tr>
+    </table>
+    </body></html>
+    """
+    rows = utils.parse_html_table(html, "Streaming Hub IDs")
+    assert rows[0]["Name"] == "Right table"
 
 
 def test_parse_html_table_raises_when_not_found():

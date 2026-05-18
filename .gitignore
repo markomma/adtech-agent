@@ -4,6 +4,7 @@ __pycache__/
 .DS_Store
 docs/
 CLAUDE.md
+AGENTS.md
 adtech_crosswalk/data/**/__pycache__/
 .venv/
 dist/

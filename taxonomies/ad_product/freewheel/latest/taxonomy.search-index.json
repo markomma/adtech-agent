@@ -1,0 +1,657 @@
+{
+  "corpus_size": 44,
+  "avgdl": 1.7045454545454546,
+  "idf": {
+    "manufacturing": 3.4011973816621555,
+    "financial": 3.4011973816621555,
+    "services": 2.302585092994046,
+    "entertainment": 2.8903717578961645,
+    "business": 3.4011973816621555,
+    "food": 2.553899521274952,
+    "airlines": 3.4011973816621555,
+    "travel": 3.4011973816621555,
+    "hotels": 3.4011973816621555,
+    "amusement": 3.4011973816621555,
+    "recreation": 3.4011973816621555,
+    "apparel": 3.4011973816621555,
+    "municipal": 3.4011973816621555,
+    "government": 3.4011973816621555,
+    "automotive": 3.4011973816621555,
+    "liquor": 3.4011973816621555,
+    "wine": 3.4011973816621555,
+    "beer": 3.4011973816621555,
+    "beverages": 3.4011973816621555,
+    "pharmaceuticals": 3.4011973816621555,
+    "retail": 3.4011973816621555,
+    "chains": 3.4011973816621555,
+    "stores": 2.8903717578961645,
+    "publishing": 3.4011973816621555,
+    "educational": 3.4011973816621555,
+    "health": 3.4011973816621555,
+    "care": 3.4011973816621555,
+    "restaurant": 3.4011973816621555,
+    "fast": 3.4011973816621555,
+    "equipment": 2.553899521274952,
+    "supplies": 2.8903717578961645,
+    "office": 3.4011973816621555,
+    "computing": 2.8903717578961645,
+    "product": 2.8903717578961645,
+    "cosmetics": 3.4011973816621555,
+    "toiletries": 3.4011973816621555,
+    "household": 3.4011973816621555,
+    "products": 3.4011973816621555,
+    "gaming": 3.4011973816621555,
+    "gambling": 3.4011973816621555,
+    "appliances": 3.4011973816621555,
+    "estate": 3.4011973816621555,
+    "real": 3.4011973816621555,
+    "telecommunications": 3.4011973816621555,
+    "jewelry": 3.4011973816621555,
+    "filmed": 3.4011973816621555,
+    "associations": 3.4011973816621555,
+    "pet": 3.4011973816621555,
+    "photographic": 3.4011973816621555,
+    "professional": 3.4011973816621555,
+    "sports": 3.4011973816621555,
+    "tobacco": 3.4011973816621555,
+    "games": 3.4011973816621555,
+    "toys": 3.4011973816621555,
+    "aerospace": 3.4011973816621555,
+    "military": 3.4011973816621555,
+    "video": 3.4011973816621555,
+    "audio": 3.4011973816621555,
+    "drug": 3.4011973816621555,
+    "furnishings": 3.4011973816621555,
+    "home": 3.4011973816621555,
+    "insurance": 3.4011973816621555,
+    "news": 3.4011973816621555
+  },
+  "inverted": {
+    "manufacturing": [
+      "390"
+    ],
+    "financial": [
+      "391"
+    ],
+    "services": [
+      "391",
+      "393",
+      "405",
+      "406"
+    ],
+    "entertainment": [
+      "392",
+      "419"
+    ],
+    "business": [
+      "393"
+    ],
+    "food": [
+      "394",
+      "407",
+      "423"
+    ],
+    "airlines": [
+      "395"
+    ],
+    "travel": [
+      "395"
+    ],
+    "hotels": [
+      "395"
+    ],
+    "amusement": [
+      "396"
+    ],
+    "recreation": [
+      "396"
+    ],
+    "apparel": [
+      "397"
+    ],
+    "municipal": [
+      "398"
+    ],
+    "government": [
+      "398"
+    ],
+    "automotive": [
+      "399"
+    ],
+    "liquor": [
+      "400"
+    ],
+    "wine": [
+      "400"
+    ],
+    "beer": [
+      "400"
+    ],
+    "beverages": [
+      "401"
+    ],
+    "pharmaceuticals": [
+      "402"
+    ],
+    "retail": [
+      "403"
+    ],
+    "chains": [
+      "403"
+    ],
+    "stores": [
+      "403",
+      "433"
+    ],
+    "publishing": [
+      "404"
+    ],
+    "educational": [
+      "405"
+    ],
+    "health": [
+      "406"
+    ],
+    "care": [
+      "406"
+    ],
+    "restaurant": [
+      "407"
+    ],
+    "fast": [
+      "407"
+    ],
+    "equipment": [
+      "408",
+      "424",
+      "432"
+    ],
+    "supplies": [
+      "408",
+      "423"
+    ],
+    "office": [
+      "408"
+    ],
+    "computing": [
+      "409",
+      "431"
+    ],
+    "product": [
+      "409",
+      "410"
+    ],
+    "cosmetics": [
+      "411"
+    ],
+    "toiletries": [
+      "411"
+    ],
+    "household": [
+      "412"
+    ],
+    "products": [
+      "412"
+    ],
+    "gaming": [
+      "413"
+    ],
+    "gambling": [
+      "414"
+    ],
+    "appliances": [
+      "415"
+    ],
+    "estate": [
+      "416"
+    ],
+    "real": [
+      "416"
+    ],
+    "telecommunications": [
+      "417"
+    ],
+    "jewelry": [
+      "418"
+    ],
+    "filmed": [
+      "419"
+    ],
+    "associations": [
+      "421"
+    ],
+    "pet": [
+      "423"
+    ],
+    "photographic": [
+      "424"
+    ],
+    "professional": [
+      "425"
+    ],
+    "sports": [
+      "425"
+    ],
+    "tobacco": [
+      "426"
+    ],
+    "games": [
+      "427"
+    ],
+    "toys": [
+      "427"
+    ],
+    "aerospace": [
+      "428"
+    ],
+    "military": [
+      "429"
+    ],
+    "video": [
+      "432"
+    ],
+    "audio": [
+      "432"
+    ],
+    "drug": [
+      "433"
+    ],
+    "furnishings": [
+      "434"
+    ],
+    "home": [
+      "434"
+    ],
+    "insurance": [
+      "436"
+    ],
+    "news": [
+      "438"
+    ]
+  },
+  "documents": {
+    "390": {
+      "name": "Manufacturing",
+      "full_path": "Manufacturing",
+      "tokens": [
+        "manufacturing"
+      ],
+      "dl": 1
+    },
+    "391": {
+      "name": "Financial Services",
+      "full_path": "Financial Services",
+      "tokens": [
+        "financial",
+        "services"
+      ],
+      "dl": 2
+    },
+    "392": {
+      "name": "Entertainment",
+      "full_path": "Entertainment",
+      "tokens": [
+        "entertainment"
+      ],
+      "dl": 1
+    },
+    "393": {
+      "name": "Business Services",
+      "full_path": "Business Services",
+      "tokens": [
+        "business",
+        "services"
+      ],
+      "dl": 2
+    },
+    "394": {
+      "name": "Food",
+      "full_path": "Food",
+      "tokens": [
+        "food"
+      ],
+      "dl": 1
+    },
+    "395": {
+      "name": "Travel/Hotels/Airlines",
+      "full_path": "Travel/Hotels/Airlines",
+      "tokens": [
+        "travel",
+        "hotels",
+        "airlines"
+      ],
+      "dl": 3
+    },
+    "396": {
+      "name": "Amusement and Recreation",
+      "full_path": "Amusement and Recreation",
+      "tokens": [
+        "amusement",
+        "recreation"
+      ],
+      "dl": 2
+    },
+    "397": {
+      "name": "Apparel",
+      "full_path": "Apparel",
+      "tokens": [
+        "apparel"
+      ],
+      "dl": 1
+    },
+    "398": {
+      "name": "Government/Municipal",
+      "full_path": "Government/Municipal",
+      "tokens": [
+        "government",
+        "municipal"
+      ],
+      "dl": 2
+    },
+    "399": {
+      "name": "Automotive",
+      "full_path": "Automotive",
+      "tokens": [
+        "automotive"
+      ],
+      "dl": 1
+    },
+    "400": {
+      "name": "Beer/Wine/Liquor",
+      "full_path": "Beer/Wine/Liquor",
+      "tokens": [
+        "beer",
+        "wine",
+        "liquor"
+      ],
+      "dl": 3
+    },
+    "401": {
+      "name": "Beverages",
+      "full_path": "Beverages",
+      "tokens": [
+        "beverages"
+      ],
+      "dl": 1
+    },
+    "402": {
+      "name": "Pharmaceuticals",
+      "full_path": "Pharmaceuticals",
+      "tokens": [
+        "pharmaceuticals"
+      ],
+      "dl": 1
+    },
+    "403": {
+      "name": "Retail Stores/Chains",
+      "full_path": "Retail Stores/Chains",
+      "tokens": [
+        "retail",
+        "stores",
+        "chains"
+      ],
+      "dl": 3
+    },
+    "404": {
+      "name": "Publishing",
+      "full_path": "Publishing",
+      "tokens": [
+        "publishing"
+      ],
+      "dl": 1
+    },
+    "405": {
+      "name": "Educational Services",
+      "full_path": "Educational Services",
+      "tokens": [
+        "educational",
+        "services"
+      ],
+      "dl": 2
+    },
+    "406": {
+      "name": "Health Care Services",
+      "full_path": "Health Care Services",
+      "tokens": [
+        "health",
+        "care",
+        "services"
+      ],
+      "dl": 3
+    },
+    "407": {
+      "name": "Restaurant/Fast Food",
+      "full_path": "Restaurant/Fast Food",
+      "tokens": [
+        "restaurant",
+        "fast",
+        "food"
+      ],
+      "dl": 3
+    },
+    "408": {
+      "name": "Office Equipment/Supplies",
+      "full_path": "Office Equipment/Supplies",
+      "tokens": [
+        "office",
+        "equipment",
+        "supplies"
+      ],
+      "dl": 3
+    },
+    "409": {
+      "name": "Computing Product",
+      "full_path": "Computing Product",
+      "tokens": [
+        "computing",
+        "product"
+      ],
+      "dl": 2
+    },
+    "410": {
+      "name": "Product",
+      "full_path": "Product",
+      "tokens": [
+        "product"
+      ],
+      "dl": 1
+    },
+    "411": {
+      "name": "Cosmetics/Toiletries",
+      "full_path": "Cosmetics/Toiletries",
+      "tokens": [
+        "cosmetics",
+        "toiletries"
+      ],
+      "dl": 2
+    },
+    "412": {
+      "name": "Household Products",
+      "full_path": "Household Products",
+      "tokens": [
+        "household",
+        "products"
+      ],
+      "dl": 2
+    },
+    "413": {
+      "name": "Gaming",
+      "full_path": "Gaming",
+      "tokens": [
+        "gaming"
+      ],
+      "dl": 1
+    },
+    "414": {
+      "name": "Gambling",
+      "full_path": "Gambling",
+      "tokens": [
+        "gambling"
+      ],
+      "dl": 1
+    },
+    "415": {
+      "name": "Appliances",
+      "full_path": "Appliances",
+      "tokens": [
+        "appliances"
+      ],
+      "dl": 1
+    },
+    "416": {
+      "name": "Real Estate",
+      "full_path": "Real Estate",
+      "tokens": [
+        "real",
+        "estate"
+      ],
+      "dl": 2
+    },
+    "417": {
+      "name": "Telecommunications",
+      "full_path": "Telecommunications",
+      "tokens": [
+        "telecommunications"
+      ],
+      "dl": 1
+    },
+    "418": {
+      "name": "Jewelry",
+      "full_path": "Jewelry",
+      "tokens": [
+        "jewelry"
+      ],
+      "dl": 1
+    },
+    "419": {
+      "name": "Filmed Entertainment",
+      "full_path": "Filmed Entertainment",
+      "tokens": [
+        "filmed",
+        "entertainment"
+      ],
+      "dl": 2
+    },
+    "421": {
+      "name": "Associations",
+      "full_path": "Associations",
+      "tokens": [
+        "associations"
+      ],
+      "dl": 1
+    },
+    "423": {
+      "name": "Pet Food/Supplies",
+      "full_path": "Pet Food/Supplies",
+      "tokens": [
+        "pet",
+        "food",
+        "supplies"
+      ],
+      "dl": 3
+    },
+    "424": {
+      "name": "Photographic Equipment",
+      "full_path": "Photographic Equipment",
+      "tokens": [
+        "photographic",
+        "equipment"
+      ],
+      "dl": 2
+    },
+    "425": {
+      "name": "Professional Sports",
+      "full_path": "Professional Sports",
+      "tokens": [
+        "professional",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "426": {
+      "name": "Tobacco",
+      "full_path": "Tobacco",
+      "tokens": [
+        "tobacco"
+      ],
+      "dl": 1
+    },
+    "427": {
+      "name": "Toys/Games",
+      "full_path": "Toys/Games",
+      "tokens": [
+        "toys",
+        "games"
+      ],
+      "dl": 2
+    },
+    "428": {
+      "name": "Aerospace",
+      "full_path": "Aerospace",
+      "tokens": [
+        "aerospace"
+      ],
+      "dl": 1
+    },
+    "429": {
+      "name": "Military",
+      "full_path": "Military",
+      "tokens": [
+        "military"
+      ],
+      "dl": 1
+    },
+    "431": {
+      "name": "Computing",
+      "full_path": "Computing",
+      "tokens": [
+        "computing"
+      ],
+      "dl": 1
+    },
+    "432": {
+      "name": "Audio and Video Equipment",
+      "full_path": "Audio and Video Equipment",
+      "tokens": [
+        "audio",
+        "video",
+        "equipment"
+      ],
+      "dl": 3
+    },
+    "433": {
+      "name": "Drug Stores",
+      "full_path": "Drug Stores",
+      "tokens": [
+        "drug",
+        "stores"
+      ],
+      "dl": 2
+    },
+    "434": {
+      "name": "Home Furnishings",
+      "full_path": "Home Furnishings",
+      "tokens": [
+        "home",
+        "furnishings"
+      ],
+      "dl": 2
+    },
+    "436": {
+      "name": "Insurance",
+      "full_path": "Insurance",
+      "tokens": [
+        "insurance"
+      ],
+      "dl": 1
+    },
+    "438": {
+      "name": "News",
+      "full_path": "News",
+      "tokens": [
+        "news"
+      ],
+      "dl": 1
+    }
+  }
+}

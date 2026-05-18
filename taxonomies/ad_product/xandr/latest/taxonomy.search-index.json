@@ -1,0 +1,2818 @@
+{
+  "corpus_size": 167,
+  "avgdl": 2.3652694610778444,
+  "idf": {
+    "airlines": 4.718498871295094,
+    "apparel": 4.718498871295094,
+    "appliances": 4.718498871295094,
+    "automotive": 4.718498871295094,
+    "vehicles": 4.718498871295094,
+    "computers": 4.718498871295094,
+    "electronics": 4.718498871295094,
+    "context": 4.718498871295094,
+    "providers": 4.718498871295094,
+    "link": 4.718498871295094,
+    "cosmetics": 4.207673247529104,
+    "hygiene": 4.718498871295094,
+    "dating": 4.207673247529104,
+    "education": 3.871201010907891,
+    "employment": 4.718498871295094,
+    "financial": 4.207673247529104,
+    "food": 4.207673247529104,
+    "drink": 4.207673247529104,
+    "online": 3.109060958860994,
+    "games": 3.419215887164834,
+    "health": 3.871201010907891,
+    "care": 4.718498871295094,
+    "hotels": 4.718498871295094,
+    "home": 4.207673247529104,
+    "decor": 4.718498871295094,
+    "internet": 4.718498871295094,
+    "properties": 4.718498871295094,
+    "insurance": 4.718498871295094,
+    "jewelry": 4.718498871295094,
+    "movies": 4.718498871295094,
+    "music": 4.718498871295094,
+    "supplies": 4.718498871295094,
+    "office": 4.718498871295094,
+    "print": 4.718498871295094,
+    "publications": 4.718498871295094,
+    "political": 3.871201010907891,
+    "retail": 4.718498871295094,
+    "premium": 4.207673247529104,
+    "services": 2.983897815906988,
+    "sporting": 4.207673247529104,
+    "goods": 4.207673247529104,
+    "telecommunications": 4.718498871295094,
+    "television": 4.718498871295094,
+    "toys": 4.207673247529104,
+    "travel": 3.871201010907891,
+    "destinations": 4.718498871295094,
+    "supplements": 3.419215887164834,
+    "pharmaceuticals": 2.983897815906988,
+    "pets": 4.718498871295094,
+    "software": 4.207673247529104,
+    "apps": 4.718498871295094,
+    "web": 4.718498871295094,
+    "profit": 4.718498871295094,
+    "non": 3.619886582626985,
+    "misc": 4.718498871295094,
+    "other": 4.207673247529104,
+    "religion": 4.718498871295094,
+    "video": 4.718498871295094,
+    "loss": 4.718498871295094,
+    "weight": 4.718498871295094,
+    "procedures": 4.207673247529104,
+    "cosmetic": 3.871201010907891,
+    "sexual": 3.871201010907891,
+    "ringtones": 4.718498871295094,
+    "subscriptions": 4.718498871295094,
+    "mobile": 4.207673247529104,
+    "events": 4.718498871295094,
+    "sports": 4.207673247529104,
+    "offers": 4.718498871295094,
+    "affiliate": 4.718498871295094,
+    "advertising": 3.871201010907891,
+    "companies": 4.718498871295094,
+    "tier": 4.718498871295094,
+    "consumer": 4.718498871295094,
+    "loans": 4.718498871295094,
+    "free": 4.718498871295094,
+    "giveaways": 4.718498871295094,
+    "misleading": 3.871201010907891,
+    "claims": 4.207673247529104,
+    "references": 4.207673247529104,
+    "rich": 4.718498871295094,
+    "quick": 4.718498871295094,
+    "get": 4.718498871295094,
+    "sexually": 4.207673247529104,
+    "suggestive": 4.207673247529104,
+    "estate": 4.718498871295094,
+    "real": 4.718498871295094,
+    "family": 4.718498871295094,
+    "parenting": 4.718498871295094,
+    "weather": 4.718498871295094,
+    "holidays": 4.718498871295094,
+    "legal": 4.718498871295094,
+    "weapons": 3.419215887164834,
+    "firearms": 3.619886582626985,
+    "tobacco": 4.718498871295094,
+    "smoking": 4.718498871295094,
+    "products": 4.207673247529104,
+    "gambling": 2.44981532997673,
+    "fitness": 4.718498871295094,
+    "deals": 4.718498871295094,
+    "coupons": 4.718498871295094,
+    "toolbars": 4.718498871295094,
+    "alcoholic": 4.718498871295094,
+    "beverages": 4.718498871295094,
+    "targeted": 4.207673247529104,
+    "behaviorally": 4.718498871295094,
+    "remarketing": 4.207673247529104,
+    "cookie": 4.718498871295094,
+    "quizzes": 4.718498871295094,
+    "surveys": 4.718498871295094,
+    "strobing": 4.718498871295094,
+    "flashing": 4.718498871295094,
+    "closing": 4.718498871295094,
+    "fake": 4.718498871295094,
+    "action": 4.718498871295094,
+    "survey": 4.718498871295094,
+    "popup": 4.718498871295094,
+    "creative": 3.419215887164834,
+    "game": 4.718498871295094,
+    "match": 4.207673247529104,
+    "landing": 4.207673247529104,
+    "does": 4.718498871295094,
+    "page": 4.207673247529104,
+    "content": 4.207673247529104,
+    "generic": 4.718498871295094,
+    "not": 4.207673247529104,
+    "blood": 4.718498871295094,
+    "gore": 4.718498871295094,
+    "news": 4.718498871295094,
+    "gifts": 4.718498871295094,
+    "flowers": 4.718498871295094,
+    "government": 3.871201010907891,
+    "personalization": 4.718498871295094,
+    "use": 4.718498871295094,
+    "button": 4.207673247529104,
+    "hot": 4.718498871295094,
+    "commercial": 4.718498871295094,
+    "issue": 4.718498871295094,
+    "no": 4.718498871295094,
+    "privacy": 4.718498871295094,
+    "policy": 4.718498871295094,
+    "characteristics": 4.718498871295094,
+    "implies": 4.718498871295094,
+    "personal": 4.718498871295094,
+    "user": 4.718498871295094,
+    "prescription": 4.207673247529104,
+    "herbal": 4.718498871295094,
+    "like": 4.718498871295094,
+    "steroid": 4.718498871295094,
+    "un": 4.718498871295094,
+    "disclosed": 4.718498871295094,
+    "subscription": 4.718498871295094,
+    "interface": 4.718498871295094,
+    "facebook": 4.718498871295094,
+    "mimics": 4.718498871295094,
+    "betting": 4.718498871295094,
+    "card": 4.718498871295094,
+    "scratch": 4.718498871295094,
+    "site": 4.718498871295094,
+    "resort": 4.718498871295094,
+    "casino": 4.207673247529104,
+    "lottery": 4.207673247529104,
+    "run": 4.718498871295094,
+    "penny": 4.718498871295094,
+    "auctions": 4.718498871295094,
+    "tools": 4.718498871295094,
+    "educational": 4.718498871295094,
+    "sweepstakes": 4.718498871295094,
+    "mild": 4.718498871295094,
+    "profanity": 4.718498871295094,
+    "borders": 4.718498871295094,
+    "undefined": 4.718498871295094,
+    "rotating": 4.718498871295094,
+    "play": 4.718498871295094,
+    "watch": 4.718498871295094,
+    "download": 4.718498871295094,
+    "horoscope": 4.718498871295094,
+    "astrology": 4.718498871295094,
+    "downloads": 4.718498871295094,
+    "app": 4.718498871295094,
+    "unbranded": 4.718498871295094,
+    "contextual": 4.718498871295094,
+    "nudity": 3.871201010907891,
+    "records": 4.718498871295094,
+    "arrest": 4.718498871295094,
+    "system": 4.718498871295094,
+    "update": 4.718498871295094,
+    "auto": 3.619886582626985,
+    "manufacturers": 4.718498871295094,
+    "dealerships": 4.718498871295094,
+    "parts": 4.718498871295094,
+    "classifieds": 4.718498871295094,
+    "watercraft": 4.718498871295094,
+    "boats": 4.718498871295094,
+    "mahjong": 4.718498871295094,
+    "cash": 4.718498871295094,
+    "operator": 4.718498871295094,
+    "country": 4.718498871295094,
+    "approved": 4.718498871295094,
+    "explicit": 4.718498871295094,
+    "medical": 4.718498871295094,
+    "devices": 4.718498871295094,
+    "clinical": 4.718498871295094,
+    "recruitment": 4.718498871295094,
+    "trial": 4.718498871295094,
+    "tests": 4.718498871295094,
+    "hiv": 4.718498871295094,
+    "paternity": 4.718498871295094,
+    "test": 4.207673247529104,
+    "abortion": 4.718498871295094,
+    "birth": 4.718498871295094,
+    "fertility": 4.718498871295094,
+    "control": 4.718498871295094,
+    "surgery": 4.718498871295094,
+    "plastic": 4.718498871295094,
+    "moderate": 4.718498871295094,
+    "procedure": 4.718498871295094,
+    "alcohol": 4.207673247529104,
+    "sales": 4.718498871295094,
+    "prohibited": 4.718498871295094,
+    "pharm": 4.718498871295094,
+    "lipostabil": 4.718498871295094,
+    "imagery": 4.718498871295094,
+    "graphic": 4.718498871295094,
+    "violence": 4.718498871295094,
+    "stores": 4.718498871295094,
+    "accessories": 4.207673247529104,
+    "gun": 4.718498871295094,
+    "ads": 4.718498871295094,
+    "negative": 4.718498871295094,
+    "attack": 4.718498871295094,
+    "beauty": 4.718498871295094,
+    "on": 4.718498871295094,
+    "offer": 4.718498871295094,
+    "actionable": 4.718498871295094,
+    "functional": 4.718498871295094,
+    "has": 4.718498871295094,
+    "elements": 4.718498871295094,
+    "tabloid": 4.718498871295094,
+    "advertorial": 4.718498871295094,
+    "gentlemans": 4.718498871295094,
+    "club": 4.718498871295094,
+    "strip": 4.718498871295094,
+    "universities": 4.718498871295094,
+    "unaccredited": 4.718498871295094,
+    "underwear": 4.718498871295094,
+    "lingerie": 4.718498871295094,
+    "gdn": 4.718498871295094,
+    "forex": 4.718498871295094,
+    "unsubstantiated": 4.718498871295094,
+    "rate": 4.718498871295094,
+    "deterrent": 4.718498871295094,
+    "price": 4.718498871295094,
+    "guarantee": 4.718498871295094,
+    "ydn": 4.718498871295094,
+    "profiteering": 4.718498871295094,
+    "state": 4.718498871295094,
+    "emergency": 4.718498871295094,
+    "restaurants": 4.718498871295094,
+    "delivery": 4.718498871295094,
+    "power": 4.718498871295094,
+    "utilities": 4.718498871295094,
+    "topical": 4.718498871295094,
+    "ingestible": 4.718498871295094,
+    "lawsuits": 4.718498871295094,
+    "pharmacy": 4.718498871295094,
+    "addiction": 4.718498871295094,
+    "treatment": 4.718498871295094,
+    "center": 4.718498871295094,
+    "beer": 4.718498871295094,
+    "wine": 4.718498871295094,
+    "liquor": 4.718498871295094,
+    "pregnancy": 4.718498871295094,
+    "determination": 4.718498871295094,
+    "prenatal": 4.718498871295094,
+    "sex": 4.718498871295094,
+    "after": 4.718498871295094,
+    "pills": 4.718498871295094,
+    "morning": 4.718498871295094,
+    "clickbait": 4.718498871295094,
+    "general": 4.718498871295094,
+    "image": 4.718498871295094,
+    "defect": 4.718498871295094
+  },
+  "inverted": {
+    "airlines": [
+      "1"
+    ],
+    "apparel": [
+      "2"
+    ],
+    "appliances": [
+      "3"
+    ],
+    "automotive": [
+      "4"
+    ],
+    "vehicles": [
+      "4"
+    ],
+    "computers": [
+      "5"
+    ],
+    "electronics": [
+      "5"
+    ],
+    "context": [
+      "6"
+    ],
+    "providers": [
+      "6"
+    ],
+    "link": [
+      "6"
+    ],
+    "cosmetics": [
+      "7",
+      "168"
+    ],
+    "hygiene": [
+      "7"
+    ],
+    "dating": [
+      "8",
+      "147"
+    ],
+    "education": [
+      "9",
+      "165",
+      "192"
+    ],
+    "employment": [
+      "10"
+    ],
+    "financial": [
+      "11",
+      "176"
+    ],
+    "food": [
+      "12",
+      "182"
+    ],
+    "drink": [
+      "12",
+      "182"
+    ],
+    "online": [
+      "13",
+      "53",
+      "118",
+      "145",
+      "158",
+      "162",
+      "173"
+    ],
+    "games": [
+      "13",
+      "29",
+      "39",
+      "145",
+      "162"
+    ],
+    "health": [
+      "14",
+      "43",
+      "69"
+    ],
+    "care": [
+      "14"
+    ],
+    "hotels": [
+      "15"
+    ],
+    "home": [
+      "16",
+      "150"
+    ],
+    "decor": [
+      "16"
+    ],
+    "internet": [
+      "17"
+    ],
+    "properties": [
+      "17"
+    ],
+    "insurance": [
+      "18"
+    ],
+    "jewelry": [
+      "19"
+    ],
+    "movies": [
+      "20"
+    ],
+    "music": [
+      "21"
+    ],
+    "supplies": [
+      "22"
+    ],
+    "office": [
+      "22"
+    ],
+    "print": [
+      "23"
+    ],
+    "publications": [
+      "23"
+    ],
+    "political": [
+      "37",
+      "109",
+      "166"
+    ],
+    "retail": [
+      "24"
+    ],
+    "premium": [
+      "25",
+      "183"
+    ],
+    "services": [
+      "25",
+      "30",
+      "54",
+      "116",
+      "141",
+      "165",
+      "182",
+      "183"
+    ],
+    "sporting": [
+      "26",
+      "163"
+    ],
+    "goods": [
+      "26",
+      "163"
+    ],
+    "telecommunications": [
+      "27"
+    ],
+    "television": [
+      "28"
+    ],
+    "toys": [
+      "29",
+      "167"
+    ],
+    "travel": [
+      "30",
+      "31",
+      "178"
+    ],
+    "destinations": [
+      "31"
+    ],
+    "supplements": [
+      "32",
+      "114",
+      "115",
+      "185",
+      "186"
+    ],
+    "pharmaceuticals": [
+      "32",
+      "112",
+      "113",
+      "114",
+      "115",
+      "161",
+      "185",
+      "186"
+    ],
+    "pets": [
+      "33"
+    ],
+    "software": [
+      "34",
+      "138"
+    ],
+    "apps": [
+      "34"
+    ],
+    "web": [
+      "34"
+    ],
+    "profit": [
+      "35"
+    ],
+    "non": [
+      "35",
+      "113",
+      "124",
+      "170"
+    ],
+    "misc": [
+      "36"
+    ],
+    "other": [
+      "36",
+      "68"
+    ],
+    "religion": [
+      "38"
+    ],
+    "video": [
+      "39"
+    ],
+    "loss": [
+      "41"
+    ],
+    "weight": [
+      "41"
+    ],
+    "procedures": [
+      "42",
+      "154"
+    ],
+    "cosmetic": [
+      "42",
+      "154",
+      "157"
+    ],
+    "sexual": [
+      "43",
+      "58",
+      "167"
+    ],
+    "ringtones": [
+      "50"
+    ],
+    "subscriptions": [
+      "50"
+    ],
+    "mobile": [
+      "50",
+      "133"
+    ],
+    "events": [
+      "51"
+    ],
+    "sports": [
+      "51",
+      "119"
+    ],
+    "offers": [
+      "52"
+    ],
+    "affiliate": [
+      "52"
+    ],
+    "advertising": [
+      "53",
+      "121",
+      "122"
+    ],
+    "companies": [
+      "53"
+    ],
+    "tier": [
+      "54"
+    ],
+    "consumer": [
+      "55"
+    ],
+    "loans": [
+      "55"
+    ],
+    "free": [
+      "56"
+    ],
+    "giveaways": [
+      "56"
+    ],
+    "misleading": [
+      "57",
+      "108",
+      "168"
+    ],
+    "claims": [
+      "57",
+      "168"
+    ],
+    "references": [
+      "58",
+      "74"
+    ],
+    "rich": [
+      "59"
+    ],
+    "quick": [
+      "59"
+    ],
+    "get": [
+      "59"
+    ],
+    "sexually": [
+      "60",
+      "147"
+    ],
+    "suggestive": [
+      "60",
+      "128"
+    ],
+    "estate": [
+      "61"
+    ],
+    "real": [
+      "61"
+    ],
+    "family": [
+      "62"
+    ],
+    "parenting": [
+      "62"
+    ],
+    "weather": [
+      "63"
+    ],
+    "holidays": [
+      "64"
+    ],
+    "legal": [
+      "65"
+    ],
+    "weapons": [
+      "66",
+      "162",
+      "163",
+      "164",
+      "165"
+    ],
+    "firearms": [
+      "66",
+      "163",
+      "164",
+      "165"
+    ],
+    "tobacco": [
+      "67"
+    ],
+    "smoking": [
+      "67"
+    ],
+    "products": [
+      "67",
+      "153"
+    ],
+    "gambling": [
+      "68",
+      "118",
+      "119",
+      "120",
+      "121",
+      "122",
+      "123",
+      "124",
+      "125",
+      "126",
+      "144",
+      "145",
+      "146",
+      "192"
+    ],
+    "fitness": [
+      "69"
+    ],
+    "deals": [
+      "71"
+    ],
+    "coupons": [
+      "71"
+    ],
+    "toolbars": [
+      "73"
+    ],
+    "alcoholic": [
+      "74"
+    ],
+    "beverages": [
+      "74"
+    ],
+    "targeted": [
+      "75",
+      "77"
+    ],
+    "behaviorally": [
+      "75"
+    ],
+    "remarketing": [
+      "76",
+      "175"
+    ],
+    "cookie": [
+      "77"
+    ],
+    "quizzes": [
+      "78"
+    ],
+    "surveys": [
+      "78"
+    ],
+    "strobing": [
+      "79"
+    ],
+    "flashing": [
+      "79"
+    ],
+    "closing": [
+      "80"
+    ],
+    "fake": [
+      "80"
+    ],
+    "action": [
+      "80"
+    ],
+    "survey": [
+      "81"
+    ],
+    "popup": [
+      "81"
+    ],
+    "creative": [
+      "82",
+      "83",
+      "130",
+      "135",
+      "170"
+    ],
+    "game": [
+      "82"
+    ],
+    "match": [
+      "83",
+      "179"
+    ],
+    "landing": [
+      "83",
+      "169"
+    ],
+    "does": [
+      "83"
+    ],
+    "page": [
+      "83",
+      "169"
+    ],
+    "content": [
+      "83",
+      "159"
+    ],
+    "generic": [
+      "83"
+    ],
+    "not": [
+      "83",
+      "169"
+    ],
+    "blood": [
+      "84"
+    ],
+    "gore": [
+      "84"
+    ],
+    "news": [
+      "85"
+    ],
+    "gifts": [
+      "86"
+    ],
+    "flowers": [
+      "86"
+    ],
+    "government": [
+      "87",
+      "123",
+      "124"
+    ],
+    "personalization": [
+      "108"
+    ],
+    "use": [
+      "109"
+    ],
+    "button": [
+      "109",
+      "131"
+    ],
+    "hot": [
+      "109"
+    ],
+    "commercial": [
+      "109"
+    ],
+    "issue": [
+      "109"
+    ],
+    "no": [
+      "110"
+    ],
+    "privacy": [
+      "110"
+    ],
+    "policy": [
+      "110"
+    ],
+    "characteristics": [
+      "111"
+    ],
+    "implies": [
+      "111"
+    ],
+    "personal": [
+      "111"
+    ],
+    "user": [
+      "111"
+    ],
+    "prescription": [
+      "112",
+      "113"
+    ],
+    "herbal": [
+      "114"
+    ],
+    "like": [
+      "115"
+    ],
+    "steroid": [
+      "115"
+    ],
+    "un": [
+      "116"
+    ],
+    "disclosed": [
+      "116"
+    ],
+    "subscription": [
+      "116"
+    ],
+    "interface": [
+      "117"
+    ],
+    "facebook": [
+      "117"
+    ],
+    "mimics": [
+      "117"
+    ],
+    "betting": [
+      "119"
+    ],
+    "card": [
+      "120"
+    ],
+    "scratch": [
+      "120"
+    ],
+    "site": [
+      "120"
+    ],
+    "resort": [
+      "121"
+    ],
+    "casino": [
+      "121",
+      "122"
+    ],
+    "lottery": [
+      "123",
+      "124"
+    ],
+    "run": [
+      "123"
+    ],
+    "penny": [
+      "125"
+    ],
+    "auctions": [
+      "125"
+    ],
+    "tools": [
+      "126"
+    ],
+    "educational": [
+      "126"
+    ],
+    "sweepstakes": [
+      "127"
+    ],
+    "mild": [
+      "128"
+    ],
+    "profanity": [
+      "128"
+    ],
+    "borders": [
+      "129"
+    ],
+    "undefined": [
+      "129"
+    ],
+    "rotating": [
+      "130"
+    ],
+    "play": [
+      "131"
+    ],
+    "watch": [
+      "131"
+    ],
+    "download": [
+      "131"
+    ],
+    "horoscope": [
+      "132"
+    ],
+    "astrology": [
+      "132"
+    ],
+    "downloads": [
+      "133"
+    ],
+    "app": [
+      "133"
+    ],
+    "unbranded": [
+      "135"
+    ],
+    "contextual": [
+      "136"
+    ],
+    "nudity": [
+      "136",
+      "156",
+      "157"
+    ],
+    "records": [
+      "137"
+    ],
+    "arrest": [
+      "137"
+    ],
+    "system": [
+      "138"
+    ],
+    "update": [
+      "138"
+    ],
+    "auto": [
+      "139",
+      "140",
+      "141",
+      "142"
+    ],
+    "manufacturers": [
+      "139"
+    ],
+    "dealerships": [
+      "140"
+    ],
+    "parts": [
+      "141"
+    ],
+    "classifieds": [
+      "142"
+    ],
+    "watercraft": [
+      "143"
+    ],
+    "boats": [
+      "143"
+    ],
+    "mahjong": [
+      "144"
+    ],
+    "cash": [
+      "145"
+    ],
+    "operator": [
+      "146"
+    ],
+    "country": [
+      "146"
+    ],
+    "approved": [
+      "146"
+    ],
+    "explicit": [
+      "147"
+    ],
+    "medical": [
+      "148"
+    ],
+    "devices": [
+      "148"
+    ],
+    "clinical": [
+      "149"
+    ],
+    "recruitment": [
+      "149"
+    ],
+    "trial": [
+      "149"
+    ],
+    "tests": [
+      "150"
+    ],
+    "hiv": [
+      "150"
+    ],
+    "paternity": [
+      "151"
+    ],
+    "test": [
+      "151",
+      "699"
+    ],
+    "abortion": [
+      "152"
+    ],
+    "birth": [
+      "153"
+    ],
+    "fertility": [
+      "153"
+    ],
+    "control": [
+      "153"
+    ],
+    "surgery": [
+      "155"
+    ],
+    "plastic": [
+      "155"
+    ],
+    "moderate": [
+      "156"
+    ],
+    "procedure": [
+      "157"
+    ],
+    "alcohol": [
+      "158",
+      "159"
+    ],
+    "sales": [
+      "158"
+    ],
+    "prohibited": [
+      "159"
+    ],
+    "pharm": [
+      "160"
+    ],
+    "lipostabil": [
+      "160"
+    ],
+    "imagery": [
+      "161"
+    ],
+    "graphic": [
+      "161"
+    ],
+    "violence": [
+      "162"
+    ],
+    "stores": [
+      "163"
+    ],
+    "accessories": [
+      "164",
+      "167"
+    ],
+    "gun": [
+      "164"
+    ],
+    "ads": [
+      "166"
+    ],
+    "negative": [
+      "166"
+    ],
+    "attack": [
+      "166"
+    ],
+    "beauty": [
+      "168"
+    ],
+    "on": [
+      "169"
+    ],
+    "offer": [
+      "169"
+    ],
+    "actionable": [
+      "169"
+    ],
+    "functional": [
+      "170"
+    ],
+    "has": [
+      "170"
+    ],
+    "elements": [
+      "170"
+    ],
+    "tabloid": [
+      "171"
+    ],
+    "advertorial": [
+      "171"
+    ],
+    "gentlemans": [
+      "172"
+    ],
+    "club": [
+      "172"
+    ],
+    "strip": [
+      "172"
+    ],
+    "universities": [
+      "173"
+    ],
+    "unaccredited": [
+      "173"
+    ],
+    "underwear": [
+      "174"
+    ],
+    "lingerie": [
+      "174"
+    ],
+    "gdn": [
+      "175"
+    ],
+    "forex": [
+      "176"
+    ],
+    "unsubstantiated": [
+      "177"
+    ],
+    "rate": [
+      "177"
+    ],
+    "deterrent": [
+      "178"
+    ],
+    "price": [
+      "179"
+    ],
+    "guarantee": [
+      "179"
+    ],
+    "ydn": [
+      "180"
+    ],
+    "profiteering": [
+      "181"
+    ],
+    "state": [
+      "181"
+    ],
+    "emergency": [
+      "181"
+    ],
+    "restaurants": [
+      "182"
+    ],
+    "delivery": [
+      "182"
+    ],
+    "power": [
+      "183"
+    ],
+    "utilities": [
+      "183"
+    ],
+    "topical": [
+      "185"
+    ],
+    "ingestible": [
+      "186"
+    ],
+    "lawsuits": [
+      "190"
+    ],
+    "pharmacy": [
+      "205"
+    ],
+    "addiction": [
+      "207"
+    ],
+    "treatment": [
+      "207"
+    ],
+    "center": [
+      "207"
+    ],
+    "beer": [
+      "208"
+    ],
+    "wine": [
+      "209"
+    ],
+    "liquor": [
+      "210"
+    ],
+    "pregnancy": [
+      "699"
+    ],
+    "determination": [
+      "700"
+    ],
+    "prenatal": [
+      "700"
+    ],
+    "sex": [
+      "700"
+    ],
+    "after": [
+      "701"
+    ],
+    "pills": [
+      "701"
+    ],
+    "morning": [
+      "701"
+    ],
+    "clickbait": [
+      "694"
+    ],
+    "general": [
+      "695"
+    ],
+    "image": [
+      "695"
+    ],
+    "defect": [
+      "695"
+    ]
+  },
+  "documents": {
+    "1": {
+      "name": "Airlines",
+      "full_path": "Airlines",
+      "tokens": [
+        "airlines"
+      ],
+      "dl": 1
+    },
+    "2": {
+      "name": "Apparel",
+      "full_path": "Apparel",
+      "tokens": [
+        "apparel"
+      ],
+      "dl": 1
+    },
+    "3": {
+      "name": "Appliances",
+      "full_path": "Appliances",
+      "tokens": [
+        "appliances"
+      ],
+      "dl": 1
+    },
+    "4": {
+      "name": "Automotive and Vehicles",
+      "full_path": "Automotive and Vehicles",
+      "tokens": [
+        "automotive",
+        "vehicles"
+      ],
+      "dl": 2
+    },
+    "5": {
+      "name": "Computers and Electronics",
+      "full_path": "Computers and Electronics",
+      "tokens": [
+        "computers",
+        "electronics"
+      ],
+      "dl": 2
+    },
+    "6": {
+      "name": "Context Link Providers",
+      "full_path": "Context Link Providers",
+      "tokens": [
+        "context",
+        "link",
+        "providers"
+      ],
+      "dl": 3
+    },
+    "7": {
+      "name": "Cosmetics and Hygiene",
+      "full_path": "Cosmetics and Hygiene",
+      "tokens": [
+        "cosmetics",
+        "hygiene"
+      ],
+      "dl": 2
+    },
+    "8": {
+      "name": "Dating",
+      "full_path": "Dating",
+      "tokens": [
+        "dating"
+      ],
+      "dl": 1
+    },
+    "9": {
+      "name": "Education",
+      "full_path": "Education",
+      "tokens": [
+        "education"
+      ],
+      "dl": 1
+    },
+    "10": {
+      "name": "Employment",
+      "full_path": "Employment",
+      "tokens": [
+        "employment"
+      ],
+      "dl": 1
+    },
+    "11": {
+      "name": "Financial",
+      "full_path": "Financial",
+      "tokens": [
+        "financial"
+      ],
+      "dl": 1
+    },
+    "12": {
+      "name": "Food and Drink",
+      "full_path": "Food and Drink",
+      "tokens": [
+        "food",
+        "drink"
+      ],
+      "dl": 2
+    },
+    "13": {
+      "name": "Online Games",
+      "full_path": "Online Games",
+      "tokens": [
+        "online",
+        "games"
+      ],
+      "dl": 2
+    },
+    "14": {
+      "name": "Health-care",
+      "full_path": "Health-care",
+      "tokens": [
+        "health",
+        "care"
+      ],
+      "dl": 2
+    },
+    "15": {
+      "name": "Hotels",
+      "full_path": "Hotels",
+      "tokens": [
+        "hotels"
+      ],
+      "dl": 1
+    },
+    "16": {
+      "name": "Home and Decor",
+      "full_path": "Home and Decor",
+      "tokens": [
+        "home",
+        "decor"
+      ],
+      "dl": 2
+    },
+    "17": {
+      "name": "Internet Properties",
+      "full_path": "Internet Properties",
+      "tokens": [
+        "internet",
+        "properties"
+      ],
+      "dl": 2
+    },
+    "18": {
+      "name": "Insurance",
+      "full_path": "Insurance",
+      "tokens": [
+        "insurance"
+      ],
+      "dl": 1
+    },
+    "19": {
+      "name": "Jewelry",
+      "full_path": "Jewelry",
+      "tokens": [
+        "jewelry"
+      ],
+      "dl": 1
+    },
+    "20": {
+      "name": "Movies",
+      "full_path": "Movies",
+      "tokens": [
+        "movies"
+      ],
+      "dl": 1
+    },
+    "21": {
+      "name": "Music",
+      "full_path": "Music",
+      "tokens": [
+        "music"
+      ],
+      "dl": 1
+    },
+    "22": {
+      "name": "Office Supplies",
+      "full_path": "Office Supplies",
+      "tokens": [
+        "office",
+        "supplies"
+      ],
+      "dl": 2
+    },
+    "23": {
+      "name": "Print and Publications",
+      "full_path": "Print and Publications",
+      "tokens": [
+        "print",
+        "publications"
+      ],
+      "dl": 2
+    },
+    "37": {
+      "name": "Political",
+      "full_path": "Political",
+      "tokens": [
+        "political"
+      ],
+      "dl": 1
+    },
+    "24": {
+      "name": "Retail",
+      "full_path": "Retail",
+      "tokens": [
+        "retail"
+      ],
+      "dl": 1
+    },
+    "25": {
+      "name": "Premium Services",
+      "full_path": "Premium Services",
+      "tokens": [
+        "premium",
+        "services"
+      ],
+      "dl": 2
+    },
+    "26": {
+      "name": "Sporting Goods",
+      "full_path": "Sporting Goods",
+      "tokens": [
+        "sporting",
+        "goods"
+      ],
+      "dl": 2
+    },
+    "27": {
+      "name": "Telecommunications",
+      "full_path": "Telecommunications",
+      "tokens": [
+        "telecommunications"
+      ],
+      "dl": 1
+    },
+    "28": {
+      "name": "Television",
+      "full_path": "Television",
+      "tokens": [
+        "television"
+      ],
+      "dl": 1
+    },
+    "29": {
+      "name": "Toys/Games",
+      "full_path": "Toys/Games",
+      "tokens": [
+        "toys",
+        "games"
+      ],
+      "dl": 2
+    },
+    "30": {
+      "name": "Travel Services",
+      "full_path": "Travel Services",
+      "tokens": [
+        "travel",
+        "services"
+      ],
+      "dl": 2
+    },
+    "31": {
+      "name": "Travel Destinations",
+      "full_path": "Travel Destinations",
+      "tokens": [
+        "travel",
+        "destinations"
+      ],
+      "dl": 2
+    },
+    "32": {
+      "name": "Pharmaceuticals and Supplements",
+      "full_path": "Pharmaceuticals and Supplements",
+      "tokens": [
+        "pharmaceuticals",
+        "supplements"
+      ],
+      "dl": 2
+    },
+    "33": {
+      "name": "Pets",
+      "full_path": "Pets",
+      "tokens": [
+        "pets"
+      ],
+      "dl": 1
+    },
+    "34": {
+      "name": "Software and Web Apps",
+      "full_path": "Software and Web Apps",
+      "tokens": [
+        "software",
+        "web",
+        "apps"
+      ],
+      "dl": 3
+    },
+    "35": {
+      "name": "Non Profit",
+      "full_path": "Non Profit",
+      "tokens": [
+        "non",
+        "profit"
+      ],
+      "dl": 2
+    },
+    "36": {
+      "name": "Misc. Other",
+      "full_path": "Misc. Other",
+      "tokens": [
+        "misc",
+        "other"
+      ],
+      "dl": 2
+    },
+    "38": {
+      "name": "Religion",
+      "full_path": "Religion",
+      "tokens": [
+        "religion"
+      ],
+      "dl": 1
+    },
+    "39": {
+      "name": "Video Games",
+      "full_path": "Video Games",
+      "tokens": [
+        "video",
+        "games"
+      ],
+      "dl": 2
+    },
+    "41": {
+      "name": "Weight Loss",
+      "full_path": "Weight Loss",
+      "tokens": [
+        "weight",
+        "loss"
+      ],
+      "dl": 2
+    },
+    "42": {
+      "name": "Cosmetic Procedures",
+      "full_path": "Cosmetic Procedures",
+      "tokens": [
+        "cosmetic",
+        "procedures"
+      ],
+      "dl": 2
+    },
+    "43": {
+      "name": "Sexual Health",
+      "full_path": "Sexual Health",
+      "tokens": [
+        "sexual",
+        "health"
+      ],
+      "dl": 2
+    },
+    "50": {
+      "name": "Ringtones/Mobile Subscriptions",
+      "full_path": "Ringtones/Mobile Subscriptions",
+      "tokens": [
+        "ringtones",
+        "mobile",
+        "subscriptions"
+      ],
+      "dl": 3
+    },
+    "51": {
+      "name": "Sports and Events",
+      "full_path": "Sports and Events",
+      "tokens": [
+        "sports",
+        "events"
+      ],
+      "dl": 2
+    },
+    "52": {
+      "name": "Affiliate Offers",
+      "full_path": "Affiliate Offers",
+      "tokens": [
+        "affiliate",
+        "offers"
+      ],
+      "dl": 2
+    },
+    "53": {
+      "name": "Online Advertising Companies",
+      "full_path": "Online Advertising Companies",
+      "tokens": [
+        "online",
+        "advertising",
+        "companies"
+      ],
+      "dl": 3
+    },
+    "54": {
+      "name": "Tier 2 Services",
+      "full_path": "Tier 2 Services",
+      "tokens": [
+        "tier",
+        "services"
+      ],
+      "dl": 2
+    },
+    "55": {
+      "name": "Consumer Loans",
+      "full_path": "Consumer Loans",
+      "tokens": [
+        "consumer",
+        "loans"
+      ],
+      "dl": 2
+    },
+    "56": {
+      "name": "Free Giveaways",
+      "full_path": "Free Giveaways",
+      "tokens": [
+        "free",
+        "giveaways"
+      ],
+      "dl": 2
+    },
+    "57": {
+      "name": "Misleading Claims",
+      "full_path": "Misleading Claims",
+      "tokens": [
+        "misleading",
+        "claims"
+      ],
+      "dl": 2
+    },
+    "58": {
+      "name": "Sexual References",
+      "full_path": "Sexual References",
+      "tokens": [
+        "sexual",
+        "references"
+      ],
+      "dl": 2
+    },
+    "59": {
+      "name": "Get Rich Quick",
+      "full_path": "Get Rich Quick",
+      "tokens": [
+        "get",
+        "rich",
+        "quick"
+      ],
+      "dl": 3
+    },
+    "60": {
+      "name": "Sexually Suggestive",
+      "full_path": "Sexually Suggestive",
+      "tokens": [
+        "sexually",
+        "suggestive"
+      ],
+      "dl": 2
+    },
+    "61": {
+      "name": "Real Estate",
+      "full_path": "Real Estate",
+      "tokens": [
+        "real",
+        "estate"
+      ],
+      "dl": 2
+    },
+    "62": {
+      "name": "Family and Parenting",
+      "full_path": "Family and Parenting",
+      "tokens": [
+        "family",
+        "parenting"
+      ],
+      "dl": 2
+    },
+    "63": {
+      "name": "Weather",
+      "full_path": "Weather",
+      "tokens": [
+        "weather"
+      ],
+      "dl": 1
+    },
+    "64": {
+      "name": "Holidays",
+      "full_path": "Holidays",
+      "tokens": [
+        "holidays"
+      ],
+      "dl": 1
+    },
+    "65": {
+      "name": "Legal",
+      "full_path": "Legal",
+      "tokens": [
+        "legal"
+      ],
+      "dl": 1
+    },
+    "66": {
+      "name": "Firearms and Weapons",
+      "full_path": "Firearms and Weapons",
+      "tokens": [
+        "firearms",
+        "weapons"
+      ],
+      "dl": 2
+    },
+    "67": {
+      "name": "Tobacco and Smoking Products",
+      "full_path": "Tobacco and Smoking Products",
+      "tokens": [
+        "tobacco",
+        "smoking",
+        "products"
+      ],
+      "dl": 3
+    },
+    "68": {
+      "name": "Gambling - Other",
+      "full_path": "Gambling - Other",
+      "tokens": [
+        "gambling",
+        "other"
+      ],
+      "dl": 2
+    },
+    "69": {
+      "name": "Fitness and Health",
+      "full_path": "Fitness and Health",
+      "tokens": [
+        "fitness",
+        "health"
+      ],
+      "dl": 2
+    },
+    "71": {
+      "name": "Deals and Coupons",
+      "full_path": "Deals and Coupons",
+      "tokens": [
+        "deals",
+        "coupons"
+      ],
+      "dl": 2
+    },
+    "73": {
+      "name": "Toolbars",
+      "full_path": "Toolbars",
+      "tokens": [
+        "toolbars"
+      ],
+      "dl": 1
+    },
+    "74": {
+      "name": "Alcoholic Beverages and References",
+      "full_path": "Alcoholic Beverages and References",
+      "tokens": [
+        "alcoholic",
+        "beverages",
+        "references"
+      ],
+      "dl": 3
+    },
+    "75": {
+      "name": "is behaviorally targeted",
+      "full_path": "is behaviorally targeted",
+      "tokens": [
+        "behaviorally",
+        "targeted"
+      ],
+      "dl": 2
+    },
+    "76": {
+      "name": "is remarketing",
+      "full_path": "is remarketing",
+      "tokens": [
+        "remarketing"
+      ],
+      "dl": 1
+    },
+    "77": {
+      "name": "is cookie targeted",
+      "full_path": "is cookie targeted",
+      "tokens": [
+        "cookie",
+        "targeted"
+      ],
+      "dl": 2
+    },
+    "78": {
+      "name": "Quizzes and Surveys",
+      "full_path": "Quizzes and Surveys",
+      "tokens": [
+        "quizzes",
+        "surveys"
+      ],
+      "dl": 2
+    },
+    "79": {
+      "name": "Flashing and Strobing",
+      "full_path": "Flashing and Strobing",
+      "tokens": [
+        "flashing",
+        "strobing"
+      ],
+      "dl": 2
+    },
+    "80": {
+      "name": "Fake Closing Action",
+      "full_path": "Fake Closing Action",
+      "tokens": [
+        "fake",
+        "closing",
+        "action"
+      ],
+      "dl": 3
+    },
+    "81": {
+      "name": "survey popup",
+      "full_path": "survey popup",
+      "tokens": [
+        "survey",
+        "popup"
+      ],
+      "dl": 2
+    },
+    "82": {
+      "name": "Creative is a game",
+      "full_path": "Creative is a game",
+      "tokens": [
+        "creative",
+        "game"
+      ],
+      "dl": 2
+    },
+    "83": {
+      "name": "Generic Creative (creative content does not match landing page)",
+      "full_path": "Generic Creative (creative content does not match landing page)",
+      "tokens": [
+        "generic",
+        "creative",
+        "content",
+        "does",
+        "not",
+        "match",
+        "landing",
+        "page"
+      ],
+      "dl": 8
+    },
+    "84": {
+      "name": "Blood/Gore",
+      "full_path": "Blood/Gore",
+      "tokens": [
+        "blood",
+        "gore"
+      ],
+      "dl": 2
+    },
+    "85": {
+      "name": "News",
+      "full_path": "News",
+      "tokens": [
+        "news"
+      ],
+      "dl": 1
+    },
+    "86": {
+      "name": "Flowers and Gifts",
+      "full_path": "Flowers and Gifts",
+      "tokens": [
+        "flowers",
+        "gifts"
+      ],
+      "dl": 2
+    },
+    "87": {
+      "name": "Government",
+      "full_path": "Government",
+      "tokens": [
+        "government"
+      ],
+      "dl": 1
+    },
+    "108": {
+      "name": "Misleading personalization",
+      "full_path": "Misleading personalization",
+      "tokens": [
+        "misleading",
+        "personalization"
+      ],
+      "dl": 2
+    },
+    "109": {
+      "name": "Political: \"Hot button\" issue for commercial use",
+      "full_path": "Political: \"Hot button\" issue for commercial use",
+      "tokens": [
+        "political",
+        "hot",
+        "button",
+        "issue",
+        "commercial",
+        "use"
+      ],
+      "dl": 6
+    },
+    "110": {
+      "name": "No privacy policy",
+      "full_path": "No privacy policy",
+      "tokens": [
+        "no",
+        "privacy",
+        "policy"
+      ],
+      "dl": 3
+    },
+    "111": {
+      "name": "Implies personal characteristics of user",
+      "full_path": "Implies personal characteristics of user",
+      "tokens": [
+        "implies",
+        "personal",
+        "characteristics",
+        "user"
+      ],
+      "dl": 4
+    },
+    "112": {
+      "name": "Pharmaceuticals - Prescription",
+      "full_path": "Pharmaceuticals - Prescription",
+      "tokens": [
+        "pharmaceuticals",
+        "prescription"
+      ],
+      "dl": 2
+    },
+    "113": {
+      "name": "Pharmaceuticals - Non-prescription",
+      "full_path": "Pharmaceuticals - Non-prescription",
+      "tokens": [
+        "pharmaceuticals",
+        "non",
+        "prescription"
+      ],
+      "dl": 3
+    },
+    "114": {
+      "name": "Pharmaceuticals - Herbal supplements",
+      "full_path": "Pharmaceuticals - Herbal supplements",
+      "tokens": [
+        "pharmaceuticals",
+        "herbal",
+        "supplements"
+      ],
+      "dl": 3
+    },
+    "115": {
+      "name": "Pharmaceuticals - Steroid-like supplements",
+      "full_path": "Pharmaceuticals - Steroid-like supplements",
+      "tokens": [
+        "pharmaceuticals",
+        "steroid",
+        "like",
+        "supplements"
+      ],
+      "dl": 4
+    },
+    "116": {
+      "name": "Un-disclosed subscription services",
+      "full_path": "Un-disclosed subscription services",
+      "tokens": [
+        "un",
+        "disclosed",
+        "subscription",
+        "services"
+      ],
+      "dl": 4
+    },
+    "117": {
+      "name": "Mimics Facebook Interface",
+      "full_path": "Mimics Facebook Interface",
+      "tokens": [
+        "mimics",
+        "facebook",
+        "interface"
+      ],
+      "dl": 3
+    },
+    "118": {
+      "name": "Gambling - Online gambling",
+      "full_path": "Gambling - Online gambling",
+      "tokens": [
+        "gambling",
+        "online"
+      ],
+      "dl": 2
+    },
+    "119": {
+      "name": "Gambling - Sports betting",
+      "full_path": "Gambling - Sports betting",
+      "tokens": [
+        "gambling",
+        "sports",
+        "betting"
+      ],
+      "dl": 3
+    },
+    "120": {
+      "name": "Gambling - Scratch card site",
+      "full_path": "Gambling - Scratch card site",
+      "tokens": [
+        "gambling",
+        "scratch",
+        "card",
+        "site"
+      ],
+      "dl": 4
+    },
+    "121": {
+      "name": "Gambling - Casino advertising resort",
+      "full_path": "Gambling - Casino advertising resort",
+      "tokens": [
+        "gambling",
+        "casino",
+        "advertising",
+        "resort"
+      ],
+      "dl": 4
+    },
+    "122": {
+      "name": "Gambling - Casino advertising gambling",
+      "full_path": "Gambling - Casino advertising gambling",
+      "tokens": [
+        "gambling",
+        "casino",
+        "advertising"
+      ],
+      "dl": 3
+    },
+    "123": {
+      "name": "Gambling - Government-run lottery",
+      "full_path": "Gambling - Government-run lottery",
+      "tokens": [
+        "gambling",
+        "government",
+        "run",
+        "lottery"
+      ],
+      "dl": 4
+    },
+    "124": {
+      "name": "Gambling - Non-government lottery",
+      "full_path": "Gambling - Non-government lottery",
+      "tokens": [
+        "gambling",
+        "non",
+        "government",
+        "lottery"
+      ],
+      "dl": 4
+    },
+    "125": {
+      "name": "Gambling - Penny auctions",
+      "full_path": "Gambling - Penny auctions",
+      "tokens": [
+        "gambling",
+        "penny",
+        "auctions"
+      ],
+      "dl": 3
+    },
+    "126": {
+      "name": "Gambling - Educational or tools",
+      "full_path": "Gambling - Educational or tools",
+      "tokens": [
+        "gambling",
+        "educational",
+        "tools"
+      ],
+      "dl": 3
+    },
+    "127": {
+      "name": "Sweepstakes",
+      "full_path": "Sweepstakes",
+      "tokens": [
+        "sweepstakes"
+      ],
+      "dl": 1
+    },
+    "128": {
+      "name": "Mild or Suggestive Profanity",
+      "full_path": "Mild or Suggestive Profanity",
+      "tokens": [
+        "mild",
+        "suggestive",
+        "profanity"
+      ],
+      "dl": 3
+    },
+    "129": {
+      "name": "Undefined Borders",
+      "full_path": "Undefined Borders",
+      "tokens": [
+        "undefined",
+        "borders"
+      ],
+      "dl": 2
+    },
+    "130": {
+      "name": "Rotating creative",
+      "full_path": "Rotating creative",
+      "tokens": [
+        "rotating",
+        "creative"
+      ],
+      "dl": 2
+    },
+    "131": {
+      "name": "Download/Watch/Play Button",
+      "full_path": "Download/Watch/Play Button",
+      "tokens": [
+        "download",
+        "watch",
+        "play",
+        "button"
+      ],
+      "dl": 4
+    },
+    "132": {
+      "name": "Horoscope or Astrology",
+      "full_path": "Horoscope or Astrology",
+      "tokens": [
+        "horoscope",
+        "astrology"
+      ],
+      "dl": 2
+    },
+    "133": {
+      "name": "Mobile App Downloads",
+      "full_path": "Mobile App Downloads",
+      "tokens": [
+        "mobile",
+        "app",
+        "downloads"
+      ],
+      "dl": 3
+    },
+    "135": {
+      "name": "Unbranded Creative",
+      "full_path": "Unbranded Creative",
+      "tokens": [
+        "unbranded",
+        "creative"
+      ],
+      "dl": 2
+    },
+    "136": {
+      "name": "Contextual Nudity",
+      "full_path": "Contextual Nudity",
+      "tokens": [
+        "contextual",
+        "nudity"
+      ],
+      "dl": 2
+    },
+    "137": {
+      "name": "Arrest Records",
+      "full_path": "Arrest Records",
+      "tokens": [
+        "arrest",
+        "records"
+      ],
+      "dl": 2
+    },
+    "138": {
+      "name": "Software or System update",
+      "full_path": "Software or System update",
+      "tokens": [
+        "software",
+        "system",
+        "update"
+      ],
+      "dl": 3
+    },
+    "139": {
+      "name": "Auto: Manufacturers",
+      "full_path": "Auto: Manufacturers",
+      "tokens": [
+        "auto",
+        "manufacturers"
+      ],
+      "dl": 2
+    },
+    "140": {
+      "name": "Auto: Dealerships",
+      "full_path": "Auto: Dealerships",
+      "tokens": [
+        "auto",
+        "dealerships"
+      ],
+      "dl": 2
+    },
+    "141": {
+      "name": "Auto: Parts and Services",
+      "full_path": "Auto: Parts and Services",
+      "tokens": [
+        "auto",
+        "parts",
+        "services"
+      ],
+      "dl": 3
+    },
+    "142": {
+      "name": "Auto: Classifieds",
+      "full_path": "Auto: Classifieds",
+      "tokens": [
+        "auto",
+        "classifieds"
+      ],
+      "dl": 2
+    },
+    "143": {
+      "name": "Boats and Watercraft",
+      "full_path": "Boats and Watercraft",
+      "tokens": [
+        "boats",
+        "watercraft"
+      ],
+      "dl": 2
+    },
+    "144": {
+      "name": "Gambling - Mahjong",
+      "full_path": "Gambling - Mahjong",
+      "tokens": [
+        "gambling",
+        "mahjong"
+      ],
+      "dl": 2
+    },
+    "145": {
+      "name": "Gambling - Online Cash Games",
+      "full_path": "Gambling - Online Cash Games",
+      "tokens": [
+        "gambling",
+        "online",
+        "cash",
+        "games"
+      ],
+      "dl": 4
+    },
+    "146": {
+      "name": "Gambling - Country approved operator",
+      "full_path": "Gambling - Country approved operator",
+      "tokens": [
+        "gambling",
+        "country",
+        "approved",
+        "operator"
+      ],
+      "dl": 4
+    },
+    "147": {
+      "name": "Dating - Sexually Explicit",
+      "full_path": "Dating - Sexually Explicit",
+      "tokens": [
+        "dating",
+        "sexually",
+        "explicit"
+      ],
+      "dl": 3
+    },
+    "148": {
+      "name": "Medical Devices",
+      "full_path": "Medical Devices",
+      "tokens": [
+        "medical",
+        "devices"
+      ],
+      "dl": 2
+    },
+    "149": {
+      "name": "Clinical Trial Recruitment",
+      "full_path": "Clinical Trial Recruitment",
+      "tokens": [
+        "clinical",
+        "trial",
+        "recruitment"
+      ],
+      "dl": 3
+    },
+    "150": {
+      "name": "HIV home tests",
+      "full_path": "HIV home tests",
+      "tokens": [
+        "hiv",
+        "home",
+        "tests"
+      ],
+      "dl": 3
+    },
+    "151": {
+      "name": "Paternity Test",
+      "full_path": "Paternity Test",
+      "tokens": [
+        "paternity",
+        "test"
+      ],
+      "dl": 2
+    },
+    "152": {
+      "name": "Abortion",
+      "full_path": "Abortion",
+      "tokens": [
+        "abortion"
+      ],
+      "dl": 1
+    },
+    "153": {
+      "name": "Birth Control or Fertility Products",
+      "full_path": "Birth Control or Fertility Products",
+      "tokens": [
+        "birth",
+        "control",
+        "fertility",
+        "products"
+      ],
+      "dl": 4
+    },
+    "154": {
+      "name": "Cosmetic Procedures",
+      "full_path": "Cosmetic Procedures",
+      "tokens": [
+        "cosmetic",
+        "procedures"
+      ],
+      "dl": 2
+    },
+    "155": {
+      "name": "Plastic Surgery",
+      "full_path": "Plastic Surgery",
+      "tokens": [
+        "plastic",
+        "surgery"
+      ],
+      "dl": 2
+    },
+    "156": {
+      "name": "Moderate Nudity",
+      "full_path": "Moderate Nudity",
+      "tokens": [
+        "moderate",
+        "nudity"
+      ],
+      "dl": 2
+    },
+    "157": {
+      "name": "Cosmetic Procedure Nudity",
+      "full_path": "Cosmetic Procedure Nudity",
+      "tokens": [
+        "cosmetic",
+        "procedure",
+        "nudity"
+      ],
+      "dl": 3
+    },
+    "158": {
+      "name": "Alcohol - Online Sales",
+      "full_path": "Alcohol - Online Sales",
+      "tokens": [
+        "alcohol",
+        "online",
+        "sales"
+      ],
+      "dl": 3
+    },
+    "159": {
+      "name": "Alcohol - Prohibited Content",
+      "full_path": "Alcohol - Prohibited Content",
+      "tokens": [
+        "alcohol",
+        "prohibited",
+        "content"
+      ],
+      "dl": 3
+    },
+    "160": {
+      "name": "Pharm: Lipostabil",
+      "full_path": "Pharm: Lipostabil",
+      "tokens": [
+        "pharm",
+        "lipostabil"
+      ],
+      "dl": 2
+    },
+    "161": {
+      "name": "Pharmaceuticals - Graphic Imagery",
+      "full_path": "Pharmaceuticals - Graphic Imagery",
+      "tokens": [
+        "pharmaceuticals",
+        "graphic",
+        "imagery"
+      ],
+      "dl": 3
+    },
+    "162": {
+      "name": "Online Games - Weapons / Violence",
+      "full_path": "Online Games - Weapons / Violence",
+      "tokens": [
+        "online",
+        "games",
+        "weapons",
+        "violence"
+      ],
+      "dl": 4
+    },
+    "163": {
+      "name": "Firearms and Weapons: Sporting Goods Stores",
+      "full_path": "Firearms and Weapons: Sporting Goods Stores",
+      "tokens": [
+        "firearms",
+        "weapons",
+        "sporting",
+        "goods",
+        "stores"
+      ],
+      "dl": 5
+    },
+    "164": {
+      "name": "Firearms and Weapons: Gun Accessories",
+      "full_path": "Firearms and Weapons: Gun Accessories",
+      "tokens": [
+        "firearms",
+        "weapons",
+        "gun",
+        "accessories"
+      ],
+      "dl": 4
+    },
+    "165": {
+      "name": "Firearms and Weapons: Services and Education",
+      "full_path": "Firearms and Weapons: Services and Education",
+      "tokens": [
+        "firearms",
+        "weapons",
+        "services",
+        "education"
+      ],
+      "dl": 4
+    },
+    "166": {
+      "name": "Political: Negative Attack Ads",
+      "full_path": "Political: Negative Attack Ads",
+      "tokens": [
+        "political",
+        "negative",
+        "attack",
+        "ads"
+      ],
+      "dl": 4
+    },
+    "167": {
+      "name": "Sexual Toys and Accessories",
+      "full_path": "Sexual Toys and Accessories",
+      "tokens": [
+        "sexual",
+        "toys",
+        "accessories"
+      ],
+      "dl": 3
+    },
+    "168": {
+      "name": "Misleading Claims - Beauty and Cosmetics",
+      "full_path": "Misleading Claims - Beauty and Cosmetics",
+      "tokens": [
+        "misleading",
+        "claims",
+        "beauty",
+        "cosmetics"
+      ],
+      "dl": 4
+    },
+    "169": {
+      "name": "Offer Not Actionable on Landing Page",
+      "full_path": "Offer Not Actionable on Landing Page",
+      "tokens": [
+        "offer",
+        "not",
+        "actionable",
+        "on",
+        "landing",
+        "page"
+      ],
+      "dl": 6
+    },
+    "170": {
+      "name": "Creative has non-functional elements",
+      "full_path": "Creative has non-functional elements",
+      "tokens": [
+        "creative",
+        "has",
+        "non",
+        "functional",
+        "elements"
+      ],
+      "dl": 5
+    },
+    "171": {
+      "name": "Tabloid / Advertorial",
+      "full_path": "Tabloid / Advertorial",
+      "tokens": [
+        "tabloid",
+        "advertorial"
+      ],
+      "dl": 2
+    },
+    "172": {
+      "name": "Strip Club / Gentlemans Club",
+      "full_path": "Strip Club / Gentlemans Club",
+      "tokens": [
+        "strip",
+        "club",
+        "gentlemans"
+      ],
+      "dl": 3
+    },
+    "173": {
+      "name": "Unaccredited Online Universities",
+      "full_path": "Unaccredited Online Universities",
+      "tokens": [
+        "unaccredited",
+        "online",
+        "universities"
+      ],
+      "dl": 3
+    },
+    "174": {
+      "name": "Underwear / Lingerie",
+      "full_path": "Underwear / Lingerie",
+      "tokens": [
+        "underwear",
+        "lingerie"
+      ],
+      "dl": 2
+    },
+    "175": {
+      "name": "GDN Remarketing",
+      "full_path": "GDN Remarketing",
+      "tokens": [
+        "gdn",
+        "remarketing"
+      ],
+      "dl": 2
+    },
+    "176": {
+      "name": "Financial: Forex",
+      "full_path": "Financial: Forex",
+      "tokens": [
+        "financial",
+        "forex"
+      ],
+      "dl": 2
+    },
+    "177": {
+      "name": "Unsubstantiated Rate",
+      "full_path": "Unsubstantiated Rate",
+      "tokens": [
+        "unsubstantiated",
+        "rate"
+      ],
+      "dl": 2
+    },
+    "178": {
+      "name": "Travel Deterrent",
+      "full_path": "Travel Deterrent",
+      "tokens": [
+        "travel",
+        "deterrent"
+      ],
+      "dl": 2
+    },
+    "179": {
+      "name": "Price Match Guarantee",
+      "full_path": "Price Match Guarantee",
+      "tokens": [
+        "price",
+        "match",
+        "guarantee"
+      ],
+      "dl": 3
+    },
+    "180": {
+      "name": "YDN",
+      "full_path": "YDN",
+      "tokens": [
+        "ydn"
+      ],
+      "dl": 1
+    },
+    "181": {
+      "name": "State of Emergency Profiteering",
+      "full_path": "State of Emergency Profiteering",
+      "tokens": [
+        "state",
+        "emergency",
+        "profiteering"
+      ],
+      "dl": 3
+    },
+    "182": {
+      "name": "Food and Drink: Restaurants/Delivery Services",
+      "full_path": "Food and Drink: Restaurants/Delivery Services",
+      "tokens": [
+        "food",
+        "drink",
+        "restaurants",
+        "delivery",
+        "services"
+      ],
+      "dl": 5
+    },
+    "183": {
+      "name": "Premium Services: Power Utilities",
+      "full_path": "Premium Services: Power Utilities",
+      "tokens": [
+        "premium",
+        "services",
+        "power",
+        "utilities"
+      ],
+      "dl": 4
+    },
+    "185": {
+      "name": "Pharmaceuticals and Supplements: Topical",
+      "full_path": "Pharmaceuticals and Supplements: Topical",
+      "tokens": [
+        "pharmaceuticals",
+        "supplements",
+        "topical"
+      ],
+      "dl": 3
+    },
+    "186": {
+      "name": "Pharmaceuticals and Supplements: Ingestible",
+      "full_path": "Pharmaceuticals and Supplements: Ingestible",
+      "tokens": [
+        "pharmaceuticals",
+        "supplements",
+        "ingestible"
+      ],
+      "dl": 3
+    },
+    "190": {
+      "name": "Lawsuits",
+      "full_path": "Lawsuits",
+      "tokens": [
+        "lawsuits"
+      ],
+      "dl": 1
+    },
+    "192": {
+      "name": "Gambling: Education",
+      "full_path": "Gambling: Education",
+      "tokens": [
+        "gambling",
+        "education"
+      ],
+      "dl": 2
+    },
+    "205": {
+      "name": "Pharmacy",
+      "full_path": "Pharmacy",
+      "tokens": [
+        "pharmacy"
+      ],
+      "dl": 1
+    },
+    "207": {
+      "name": "Addiction Treatment Center",
+      "full_path": "Addiction Treatment Center",
+      "tokens": [
+        "addiction",
+        "treatment",
+        "center"
+      ],
+      "dl": 3
+    },
+    "208": {
+      "name": "Beer",
+      "full_path": "Beer",
+      "tokens": [
+        "beer"
+      ],
+      "dl": 1
+    },
+    "209": {
+      "name": "Wine",
+      "full_path": "Wine",
+      "tokens": [
+        "wine"
+      ],
+      "dl": 1
+    },
+    "210": {
+      "name": "Liquor",
+      "full_path": "Liquor",
+      "tokens": [
+        "liquor"
+      ],
+      "dl": 1
+    },
+    "699": {
+      "name": "Pregnancy Test",
+      "full_path": "Pregnancy Test",
+      "tokens": [
+        "pregnancy",
+        "test"
+      ],
+      "dl": 2
+    },
+    "700": {
+      "name": "Prenatal Sex Determination",
+      "full_path": "Prenatal Sex Determination",
+      "tokens": [
+        "prenatal",
+        "sex",
+        "determination"
+      ],
+      "dl": 3
+    },
+    "701": {
+      "name": "Morning After Pills",
+      "full_path": "Morning After Pills",
+      "tokens": [
+        "morning",
+        "after",
+        "pills"
+      ],
+      "dl": 3
+    },
+    "694": {
+      "name": "Clickbait",
+      "full_path": "Clickbait",
+      "tokens": [
+        "clickbait"
+      ],
+      "dl": 1
+    },
+    "695": {
+      "name": "Image Defect: General",
+      "full_path": "Image Defect: General",
+      "tokens": [
+        "image",
+        "defect",
+        "general"
+      ],
+      "dl": 3
+    }
+  }
+}

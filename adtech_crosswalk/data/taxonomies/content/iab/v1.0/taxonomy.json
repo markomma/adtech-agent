@@ -1,0 +1,2364 @@
+{
+  "metadata": {
+    "provider": "iab",
+    "taxonomy_type": "content",
+    "version": "v1.0",
+    "snapshot_date": "2026-05-18",
+    "source_url": "https://raw.githubusercontent.com/InteractiveAdvertisingBureau/Taxonomies/main/Content%20Taxonomies/Content%20Taxonomy%201.0.tsv",
+    "fetched_at": "2026-05-18T02:34:43Z"
+  },
+  "entries": [
+    {
+      "id": "IAB1",
+      "parent_id": null,
+      "name": "Arts & Entertainment",
+      "full_path": "Arts & Entertainment"
+    },
+    {
+      "id": "IAB1-1",
+      "parent_id": "IAB1",
+      "name": "Books & Literature",
+      "full_path": "Books & Literature"
+    },
+    {
+      "id": "IAB1-2",
+      "parent_id": "IAB1",
+      "name": "Celebrity Fan/Gossip",
+      "full_path": "Celebrity Fan/Gossip"
+    },
+    {
+      "id": "IAB1-3",
+      "parent_id": "IAB1",
+      "name": "Fine Art",
+      "full_path": "Fine Art"
+    },
+    {
+      "id": "IAB1-4",
+      "parent_id": "IAB1",
+      "name": "Humor",
+      "full_path": "Humor"
+    },
+    {
+      "id": "IAB1-5",
+      "parent_id": "IAB1",
+      "name": "Movies",
+      "full_path": "Movies"
+    },
+    {
+      "id": "IAB1-6",
+      "parent_id": "IAB1",
+      "name": "Music",
+      "full_path": "Music"
+    },
+    {
+      "id": "IAB1-7",
+      "parent_id": "IAB1",
+      "name": "Television",
+      "full_path": "Television"
+    },
+    {
+      "id": "IAB2",
+      "parent_id": null,
+      "name": "Automotive",
+      "full_path": "Automotive"
+    },
+    {
+      "id": "IAB2-1",
+      "parent_id": "IAB2",
+      "name": "Auto Parts",
+      "full_path": "Auto Parts"
+    },
+    {
+      "id": "IAB2-2",
+      "parent_id": "IAB2",
+      "name": "Auto Repair",
+      "full_path": "Auto Repair"
+    },
+    {
+      "id": "IAB2-3",
+      "parent_id": "IAB2",
+      "name": "Buying/Selling Cars",
+      "full_path": "Buying/Selling Cars"
+    },
+    {
+      "id": "IAB2-4",
+      "parent_id": "IAB2",
+      "name": "Car Culture",
+      "full_path": "Car Culture"
+    },
+    {
+      "id": "IAB2-5",
+      "parent_id": "IAB2",
+      "name": "Certified Pre-Owned",
+      "full_path": "Certified Pre-Owned"
+    },
+    {
+      "id": "IAB2-6",
+      "parent_id": "IAB2",
+      "name": "Convertible",
+      "full_path": "Convertible"
+    },
+    {
+      "id": "IAB2-7",
+      "parent_id": "IAB2",
+      "name": "Coupe",
+      "full_path": "Coupe"
+    },
+    {
+      "id": "IAB2-8",
+      "parent_id": "IAB2",
+      "name": "Crossover",
+      "full_path": "Crossover"
+    },
+    {
+      "id": "IAB2-9",
+      "parent_id": "IAB2",
+      "name": "Diesel",
+      "full_path": "Diesel"
+    },
+    {
+      "id": "IAB2-10",
+      "parent_id": "IAB2",
+      "name": "Electric Vehicle",
+      "full_path": "Electric Vehicle"
+    },
+    {
+      "id": "IAB2-11",
+      "parent_id": "IAB2",
+      "name": "Hatchback",
+      "full_path": "Hatchback"
+    },
+    {
+      "id": "IAB2-12",
+      "parent_id": "IAB2",
+      "name": "Hybrid",
+      "full_path": "Hybrid"
+    },
+    {
+      "id": "IAB2-13",
+      "parent_id": "IAB2",
+      "name": "Luxury",
+      "full_path": "Luxury"
+    },
+    {
+      "id": "IAB2-14",
+      "parent_id": "IAB2",
+      "name": "MiniVan",
+      "full_path": "MiniVan"
+    },
+    {
+      "id": "IAB2-15",
+      "parent_id": "IAB2",
+      "name": "Mororcycles",
+      "full_path": "Mororcycles"
+    },
+    {
+      "id": "IAB2-16",
+      "parent_id": "IAB2",
+      "name": "Off-Road Vehicles",
+      "full_path": "Off-Road Vehicles"
+    },
+    {
+      "id": "IAB2-17",
+      "parent_id": "IAB2",
+      "name": "Performance Vehicles",
+      "full_path": "Performance Vehicles"
+    },
+    {
+      "id": "IAB2-18",
+      "parent_id": "IAB2",
+      "name": "Pickup",
+      "full_path": "Pickup"
+    },
+    {
+      "id": "IAB2-19",
+      "parent_id": "IAB2",
+      "name": "Road-Side Assistance",
+      "full_path": "Road-Side Assistance"
+    },
+    {
+      "id": "IAB2-20",
+      "parent_id": "IAB2",
+      "name": "Sedan",
+      "full_path": "Sedan"
+    },
+    {
+      "id": "IAB2-21",
+      "parent_id": "IAB2",
+      "name": "Trucks & Accessories",
+      "full_path": "Trucks & Accessories"
+    },
+    {
+      "id": "IAB2-22",
+      "parent_id": "IAB2",
+      "name": "Vintage Cars",
+      "full_path": "Vintage Cars"
+    },
+    {
+      "id": "IAB2-23",
+      "parent_id": "IAB2",
+      "name": "Wagon",
+      "full_path": "Wagon"
+    },
+    {
+      "id": "IAB3",
+      "parent_id": null,
+      "name": "Business",
+      "full_path": "Business"
+    },
+    {
+      "id": "IAB3-1",
+      "parent_id": "IAB3",
+      "name": "Advertising",
+      "full_path": "Advertising"
+    },
+    {
+      "id": "IAB3-2",
+      "parent_id": "IAB3",
+      "name": "Agriculture",
+      "full_path": "Agriculture"
+    },
+    {
+      "id": "IAB3-3",
+      "parent_id": "IAB3",
+      "name": "Biotech/Biomedical",
+      "full_path": "Biotech/Biomedical"
+    },
+    {
+      "id": "IAB3-4",
+      "parent_id": "IAB3",
+      "name": "Business Software",
+      "full_path": "Business Software"
+    },
+    {
+      "id": "IAB3-5",
+      "parent_id": "IAB3",
+      "name": "Construction",
+      "full_path": "Construction"
+    },
+    {
+      "id": "IAB3-6",
+      "parent_id": "IAB3",
+      "name": "Forestry",
+      "full_path": "Forestry"
+    },
+    {
+      "id": "IAB3-7",
+      "parent_id": "IAB3",
+      "name": "Government",
+      "full_path": "Government"
+    },
+    {
+      "id": "IAB3-8",
+      "parent_id": "IAB3",
+      "name": "Green Solutions",
+      "full_path": "Green Solutions"
+    },
+    {
+      "id": "IAB3-9",
+      "parent_id": "IAB3",
+      "name": "Human Resources",
+      "full_path": "Human Resources"
+    },
+    {
+      "id": "IAB3-10",
+      "parent_id": "IAB3",
+      "name": "Logistics",
+      "full_path": "Logistics"
+    },
+    {
+      "id": "IAB3-11",
+      "parent_id": "IAB3",
+      "name": "Marketing",
+      "full_path": "Marketing"
+    },
+    {
+      "id": "IAB3-12",
+      "parent_id": "IAB3",
+      "name": "Metals",
+      "full_path": "Metals"
+    },
+    {
+      "id": "IAB4",
+      "parent_id": null,
+      "name": "Careers",
+      "full_path": "Careers"
+    },
+    {
+      "id": "IAB4-1",
+      "parent_id": "IAB4",
+      "name": "Career Planning",
+      "full_path": "Career Planning"
+    },
+    {
+      "id": "IAB4-2",
+      "parent_id": "IAB4",
+      "name": "College",
+      "full_path": "College"
+    },
+    {
+      "id": "IAB4-3",
+      "parent_id": "IAB4",
+      "name": "Financial Aid",
+      "full_path": "Financial Aid"
+    },
+    {
+      "id": "IAB4-4",
+      "parent_id": "IAB4",
+      "name": "Job Fairs",
+      "full_path": "Job Fairs"
+    },
+    {
+      "id": "IAB4-5",
+      "parent_id": "IAB4",
+      "name": "Job Search",
+      "full_path": "Job Search"
+    },
+    {
+      "id": "IAB4-6",
+      "parent_id": "IAB4",
+      "name": "Resume Writing/Advice",
+      "full_path": "Resume Writing/Advice"
+    },
+    {
+      "id": "IAB4-7",
+      "parent_id": "IAB4",
+      "name": "Nursing",
+      "full_path": "Nursing"
+    },
+    {
+      "id": "IAB4-8",
+      "parent_id": "IAB4",
+      "name": "Scholarships",
+      "full_path": "Scholarships"
+    },
+    {
+      "id": "IAB4-9",
+      "parent_id": "IAB4",
+      "name": "Telecommuting",
+      "full_path": "Telecommuting"
+    },
+    {
+      "id": "IAB4-10",
+      "parent_id": "IAB4",
+      "name": "U.S. Military",
+      "full_path": "U.S. Military"
+    },
+    {
+      "id": "IAB4-11",
+      "parent_id": "IAB4",
+      "name": "Career Advice",
+      "full_path": "Career Advice"
+    },
+    {
+      "id": "IAB5",
+      "parent_id": null,
+      "name": "Education",
+      "full_path": "Education"
+    },
+    {
+      "id": "IAB5-1",
+      "parent_id": "IAB5",
+      "name": "41832 Education",
+      "full_path": "41832 Education"
+    },
+    {
+      "id": "IAB5-2",
+      "parent_id": "IAB5",
+      "name": "Adult Education",
+      "full_path": "Adult Education"
+    },
+    {
+      "id": "IAB5-3",
+      "parent_id": "IAB5",
+      "name": "Art History",
+      "full_path": "Art History"
+    },
+    {
+      "id": "IAB5-4",
+      "parent_id": "IAB5",
+      "name": "Colledge Administration",
+      "full_path": "Colledge Administration"
+    },
+    {
+      "id": "IAB5-5",
+      "parent_id": "IAB5",
+      "name": "College Life",
+      "full_path": "College Life"
+    },
+    {
+      "id": "IAB5-6",
+      "parent_id": "IAB5",
+      "name": "Distance Learning",
+      "full_path": "Distance Learning"
+    },
+    {
+      "id": "IAB5-7",
+      "parent_id": "IAB5",
+      "name": "English as a 2nd Language",
+      "full_path": "English as a 2nd Language"
+    },
+    {
+      "id": "IAB5-8",
+      "parent_id": "IAB5",
+      "name": "Language Learning",
+      "full_path": "Language Learning"
+    },
+    {
+      "id": "IAB5-9",
+      "parent_id": "IAB5",
+      "name": "Graduate School",
+      "full_path": "Graduate School"
+    },
+    {
+      "id": "IAB5-10",
+      "parent_id": "IAB5",
+      "name": "Homeschooling",
+      "full_path": "Homeschooling"
+    },
+    {
+      "id": "IAB5-11",
+      "parent_id": "IAB5",
+      "name": "Homework/Study Tips",
+      "full_path": "Homework/Study Tips"
+    },
+    {
+      "id": "IAB5-12",
+      "parent_id": "IAB5",
+      "name": "K-6 Educators",
+      "full_path": "K-6 Educators"
+    },
+    {
+      "id": "IAB5-13",
+      "parent_id": "IAB5",
+      "name": "Private School",
+      "full_path": "Private School"
+    },
+    {
+      "id": "IAB5-14",
+      "parent_id": "IAB5",
+      "name": "Special Education",
+      "full_path": "Special Education"
+    },
+    {
+      "id": "IAB5-15",
+      "parent_id": "IAB5",
+      "name": "Studying Business",
+      "full_path": "Studying Business"
+    },
+    {
+      "id": "IAB6",
+      "parent_id": null,
+      "name": "Family & Parenting",
+      "full_path": "Family & Parenting"
+    },
+    {
+      "id": "IAB6-1",
+      "parent_id": "IAB6",
+      "name": "Adoption",
+      "full_path": "Adoption"
+    },
+    {
+      "id": "IAB6-2",
+      "parent_id": "IAB6",
+      "name": "Babies & Toddlers",
+      "full_path": "Babies & Toddlers"
+    },
+    {
+      "id": "IAB6-3",
+      "parent_id": "IAB6",
+      "name": "Daycare/Pre School",
+      "full_path": "Daycare/Pre School"
+    },
+    {
+      "id": "IAB6-4",
+      "parent_id": "IAB6",
+      "name": "Family Internet",
+      "full_path": "Family Internet"
+    },
+    {
+      "id": "IAB6-5",
+      "parent_id": "IAB6",
+      "name": "Parenting - K-6 Kids",
+      "full_path": "Parenting - K-6 Kids"
+    },
+    {
+      "id": "IAB6-6",
+      "parent_id": "IAB6",
+      "name": "Parenting teens",
+      "full_path": "Parenting teens"
+    },
+    {
+      "id": "IAB6-7",
+      "parent_id": "IAB6",
+      "name": "Pregnancy",
+      "full_path": "Pregnancy"
+    },
+    {
+      "id": "IAB6-8",
+      "parent_id": "IAB6",
+      "name": "Special Needs Kids",
+      "full_path": "Special Needs Kids"
+    },
+    {
+      "id": "IAB6-9",
+      "parent_id": "IAB6",
+      "name": "Eldercare",
+      "full_path": "Eldercare"
+    },
+    {
+      "id": "IAB7",
+      "parent_id": null,
+      "name": "Health & Fitness",
+      "full_path": "Health & Fitness"
+    },
+    {
+      "id": "IAB7-1",
+      "parent_id": "IAB7",
+      "name": "Exercise",
+      "full_path": "Exercise"
+    },
+    {
+      "id": "IAB7-2",
+      "parent_id": "IAB7",
+      "name": "A.D.D.",
+      "full_path": "A.D.D."
+    },
+    {
+      "id": "IAB7-3",
+      "parent_id": "IAB7",
+      "name": "AIDS/HIV",
+      "full_path": "AIDS/HIV"
+    },
+    {
+      "id": "IAB7-4",
+      "parent_id": "IAB7",
+      "name": "Allergies",
+      "full_path": "Allergies"
+    },
+    {
+      "id": "IAB7-5",
+      "parent_id": "IAB7",
+      "name": "Alternative Medicine",
+      "full_path": "Alternative Medicine"
+    },
+    {
+      "id": "IAB7-6",
+      "parent_id": "IAB7",
+      "name": "Arthritis",
+      "full_path": "Arthritis"
+    },
+    {
+      "id": "IAB7-7",
+      "parent_id": "IAB7",
+      "name": "Asthma",
+      "full_path": "Asthma"
+    },
+    {
+      "id": "IAB7-8",
+      "parent_id": "IAB7",
+      "name": "Autism/PDD",
+      "full_path": "Autism/PDD"
+    },
+    {
+      "id": "IAB7-9",
+      "parent_id": "IAB7",
+      "name": "Bipolar Disorder",
+      "full_path": "Bipolar Disorder"
+    },
+    {
+      "id": "IAB7-10",
+      "parent_id": "IAB7",
+      "name": "Brain Tumor",
+      "full_path": "Brain Tumor"
+    },
+    {
+      "id": "IAB7-11",
+      "parent_id": "IAB7",
+      "name": "Cancer",
+      "full_path": "Cancer"
+    },
+    {
+      "id": "IAB7-12",
+      "parent_id": "IAB7",
+      "name": "Cholesterol",
+      "full_path": "Cholesterol"
+    },
+    {
+      "id": "IAB7-13",
+      "parent_id": "IAB7",
+      "name": "Chronic Fatigue Syndrome",
+      "full_path": "Chronic Fatigue Syndrome"
+    },
+    {
+      "id": "IAB7-14",
+      "parent_id": "IAB7",
+      "name": "Chronic Pain",
+      "full_path": "Chronic Pain"
+    },
+    {
+      "id": "IAB7-15",
+      "parent_id": "IAB7",
+      "name": "Cold & Flu",
+      "full_path": "Cold & Flu"
+    },
+    {
+      "id": "IAB7-16",
+      "parent_id": "IAB7",
+      "name": "Deafness",
+      "full_path": "Deafness"
+    },
+    {
+      "id": "IAB7-17",
+      "parent_id": "IAB7",
+      "name": "Dental Care",
+      "full_path": "Dental Care"
+    },
+    {
+      "id": "IAB7-18",
+      "parent_id": "IAB7",
+      "name": "Depression",
+      "full_path": "Depression"
+    },
+    {
+      "id": "IAB7-19",
+      "parent_id": "IAB7",
+      "name": "Dermatology",
+      "full_path": "Dermatology"
+    },
+    {
+      "id": "IAB7-20",
+      "parent_id": "IAB7",
+      "name": "Diabetes",
+      "full_path": "Diabetes"
+    },
+    {
+      "id": "IAB7-21",
+      "parent_id": "IAB7",
+      "name": "Epilepsy",
+      "full_path": "Epilepsy"
+    },
+    {
+      "id": "IAB7-22",
+      "parent_id": "IAB7",
+      "name": "GERD/Acid Reflux",
+      "full_path": "GERD/Acid Reflux"
+    },
+    {
+      "id": "IAB7-23",
+      "parent_id": "IAB7",
+      "name": "Headaches/Migraines",
+      "full_path": "Headaches/Migraines"
+    },
+    {
+      "id": "IAB7-24",
+      "parent_id": "IAB7",
+      "name": "Heart Disease",
+      "full_path": "Heart Disease"
+    },
+    {
+      "id": "IAB7-25",
+      "parent_id": "IAB7",
+      "name": "Herbs for Health",
+      "full_path": "Herbs for Health"
+    },
+    {
+      "id": "IAB7-26",
+      "parent_id": "IAB7",
+      "name": "Holistic Healing",
+      "full_path": "Holistic Healing"
+    },
+    {
+      "id": "IAB7-27",
+      "parent_id": "IAB7",
+      "name": "IBS/Crohn's Disease",
+      "full_path": "IBS/Crohn's Disease"
+    },
+    {
+      "id": "IAB7-28",
+      "parent_id": "IAB7",
+      "name": "Incest/Abuse Support",
+      "full_path": "Incest/Abuse Support"
+    },
+    {
+      "id": "IAB7-29",
+      "parent_id": "IAB7",
+      "name": "Incontinence",
+      "full_path": "Incontinence"
+    },
+    {
+      "id": "IAB7-30",
+      "parent_id": "IAB7",
+      "name": "Infertility",
+      "full_path": "Infertility"
+    },
+    {
+      "id": "IAB7-31",
+      "parent_id": "IAB7",
+      "name": "Men's Health",
+      "full_path": "Men's Health"
+    },
+    {
+      "id": "IAB7-32",
+      "parent_id": "IAB7",
+      "name": "Nutrition",
+      "full_path": "Nutrition"
+    },
+    {
+      "id": "IAB7-33",
+      "parent_id": "IAB7",
+      "name": "Orthopedics",
+      "full_path": "Orthopedics"
+    },
+    {
+      "id": "IAB7-34",
+      "parent_id": "IAB7",
+      "name": "Panic/Anxiety Disorders",
+      "full_path": "Panic/Anxiety Disorders"
+    },
+    {
+      "id": "IAB7-35",
+      "parent_id": "IAB7",
+      "name": "Pediatrics",
+      "full_path": "Pediatrics"
+    },
+    {
+      "id": "IAB7-36",
+      "parent_id": "IAB7",
+      "name": "Physical Therapy",
+      "full_path": "Physical Therapy"
+    },
+    {
+      "id": "IAB7-37",
+      "parent_id": "IAB7",
+      "name": "Psychology/Psychiatry",
+      "full_path": "Psychology/Psychiatry"
+    },
+    {
+      "id": "IAB7-38",
+      "parent_id": "IAB7",
+      "name": "Senor Health",
+      "full_path": "Senor Health"
+    },
+    {
+      "id": "IAB7-39",
+      "parent_id": "IAB7",
+      "name": "Sexuality",
+      "full_path": "Sexuality"
+    },
+    {
+      "id": "IAB7-40",
+      "parent_id": "IAB7",
+      "name": "Sleep Disorders",
+      "full_path": "Sleep Disorders"
+    },
+    {
+      "id": "IAB7-41",
+      "parent_id": "IAB7",
+      "name": "Smoking Cessation",
+      "full_path": "Smoking Cessation"
+    },
+    {
+      "id": "IAB7-42",
+      "parent_id": "IAB7",
+      "name": "Substance Abuse",
+      "full_path": "Substance Abuse"
+    },
+    {
+      "id": "IAB7-43",
+      "parent_id": "IAB7",
+      "name": "Thyroid Disease",
+      "full_path": "Thyroid Disease"
+    },
+    {
+      "id": "IAB7-44",
+      "parent_id": "IAB7",
+      "name": "Weight Loss",
+      "full_path": "Weight Loss"
+    },
+    {
+      "id": "IAB7-45",
+      "parent_id": "IAB7",
+      "name": "Women's Health",
+      "full_path": "Women's Health"
+    },
+    {
+      "id": "IAB8",
+      "parent_id": null,
+      "name": "Food & Drink",
+      "full_path": "Food & Drink"
+    },
+    {
+      "id": "IAB8-1",
+      "parent_id": "IAB8",
+      "name": "American Cuisine",
+      "full_path": "American Cuisine"
+    },
+    {
+      "id": "IAB8-2",
+      "parent_id": "IAB8",
+      "name": "Barbecues & Grilling",
+      "full_path": "Barbecues & Grilling"
+    },
+    {
+      "id": "IAB8-3",
+      "parent_id": "IAB8",
+      "name": "Cajun/Creole",
+      "full_path": "Cajun/Creole"
+    },
+    {
+      "id": "IAB8-4",
+      "parent_id": "IAB8",
+      "name": "Chinese Cuisine",
+      "full_path": "Chinese Cuisine"
+    },
+    {
+      "id": "IAB8-5",
+      "parent_id": "IAB8",
+      "name": "Cocktails/Beer",
+      "full_path": "Cocktails/Beer"
+    },
+    {
+      "id": "IAB8-6",
+      "parent_id": "IAB8",
+      "name": "Coffee/Tea",
+      "full_path": "Coffee/Tea"
+    },
+    {
+      "id": "IAB8-7",
+      "parent_id": "IAB8",
+      "name": "Cuisine-Specific",
+      "full_path": "Cuisine-Specific"
+    },
+    {
+      "id": "IAB8-8",
+      "parent_id": "IAB8",
+      "name": "Desserts & Baking",
+      "full_path": "Desserts & Baking"
+    },
+    {
+      "id": "IAB8-9",
+      "parent_id": "IAB8",
+      "name": "Dining Out",
+      "full_path": "Dining Out"
+    },
+    {
+      "id": "IAB8-10",
+      "parent_id": "IAB8",
+      "name": "Food Allergies",
+      "full_path": "Food Allergies"
+    },
+    {
+      "id": "IAB8-11",
+      "parent_id": "IAB8",
+      "name": "French Cuisine",
+      "full_path": "French Cuisine"
+    },
+    {
+      "id": "IAB8-12",
+      "parent_id": "IAB8",
+      "name": "Health/Lowfat Cooking",
+      "full_path": "Health/Lowfat Cooking"
+    },
+    {
+      "id": "IAB8-13",
+      "parent_id": "IAB8",
+      "name": "Italian Cuisine",
+      "full_path": "Italian Cuisine"
+    },
+    {
+      "id": "IAB8-14",
+      "parent_id": "IAB8",
+      "name": "Japanese Cuisine",
+      "full_path": "Japanese Cuisine"
+    },
+    {
+      "id": "IAB8-15",
+      "parent_id": "IAB8",
+      "name": "Mexican Cuisine",
+      "full_path": "Mexican Cuisine"
+    },
+    {
+      "id": "IAB8-16",
+      "parent_id": "IAB8",
+      "name": "Vegan",
+      "full_path": "Vegan"
+    },
+    {
+      "id": "IAB8-17",
+      "parent_id": "IAB8",
+      "name": "Vegetarian",
+      "full_path": "Vegetarian"
+    },
+    {
+      "id": "IAB8-18",
+      "parent_id": "IAB8",
+      "name": "Wine",
+      "full_path": "Wine"
+    },
+    {
+      "id": "IAB9",
+      "parent_id": null,
+      "name": "Hobbies & Interests",
+      "full_path": "Hobbies & Interests"
+    },
+    {
+      "id": "IAB9-1",
+      "parent_id": "IAB9",
+      "name": "Art/Technology",
+      "full_path": "Art/Technology"
+    },
+    {
+      "id": "IAB9-2",
+      "parent_id": "IAB9",
+      "name": "Arts & Crafts",
+      "full_path": "Arts & Crafts"
+    },
+    {
+      "id": "IAB9-3",
+      "parent_id": "IAB9",
+      "name": "Beadwork",
+      "full_path": "Beadwork"
+    },
+    {
+      "id": "IAB9-4",
+      "parent_id": "IAB9",
+      "name": "Birdwatching",
+      "full_path": "Birdwatching"
+    },
+    {
+      "id": "IAB9-5",
+      "parent_id": "IAB9",
+      "name": "Board Games/Puzzles",
+      "full_path": "Board Games/Puzzles"
+    },
+    {
+      "id": "IAB9-6",
+      "parent_id": "IAB9",
+      "name": "Candle & Soap Making",
+      "full_path": "Candle & Soap Making"
+    },
+    {
+      "id": "IAB9-7",
+      "parent_id": "IAB9",
+      "name": "Card Games",
+      "full_path": "Card Games"
+    },
+    {
+      "id": "IAB9-8",
+      "parent_id": "IAB9",
+      "name": "Chess",
+      "full_path": "Chess"
+    },
+    {
+      "id": "IAB9-9",
+      "parent_id": "IAB9",
+      "name": "Cigars",
+      "full_path": "Cigars"
+    },
+    {
+      "id": "IAB9-10",
+      "parent_id": "IAB9",
+      "name": "Collecting",
+      "full_path": "Collecting"
+    },
+    {
+      "id": "IAB9-11",
+      "parent_id": "IAB9",
+      "name": "Comic Books",
+      "full_path": "Comic Books"
+    },
+    {
+      "id": "IAB9-12",
+      "parent_id": "IAB9",
+      "name": "Drawing/Sketching",
+      "full_path": "Drawing/Sketching"
+    },
+    {
+      "id": "IAB9-13",
+      "parent_id": "IAB9",
+      "name": "Freelance Writing",
+      "full_path": "Freelance Writing"
+    },
+    {
+      "id": "IAB9-14",
+      "parent_id": "IAB9",
+      "name": "Genealogy",
+      "full_path": "Genealogy"
+    },
+    {
+      "id": "IAB9-15",
+      "parent_id": "IAB9",
+      "name": "Getting Published",
+      "full_path": "Getting Published"
+    },
+    {
+      "id": "IAB9-16",
+      "parent_id": "IAB9",
+      "name": "Guitar",
+      "full_path": "Guitar"
+    },
+    {
+      "id": "IAB9-17",
+      "parent_id": "IAB9",
+      "name": "Home Recording",
+      "full_path": "Home Recording"
+    },
+    {
+      "id": "IAB9-18",
+      "parent_id": "IAB9",
+      "name": "Investors & Patents",
+      "full_path": "Investors & Patents"
+    },
+    {
+      "id": "IAB9-19",
+      "parent_id": "IAB9",
+      "name": "Jewelry Making",
+      "full_path": "Jewelry Making"
+    },
+    {
+      "id": "IAB9-20",
+      "parent_id": "IAB9",
+      "name": "Magic & Illusion",
+      "full_path": "Magic & Illusion"
+    },
+    {
+      "id": "IAB9-21",
+      "parent_id": "IAB9",
+      "name": "Needlework",
+      "full_path": "Needlework"
+    },
+    {
+      "id": "IAB9-22",
+      "parent_id": "IAB9",
+      "name": "Painting",
+      "full_path": "Painting"
+    },
+    {
+      "id": "IAB9-23",
+      "parent_id": "IAB9",
+      "name": "Photography",
+      "full_path": "Photography"
+    },
+    {
+      "id": "IAB9-24",
+      "parent_id": "IAB9",
+      "name": "Radio",
+      "full_path": "Radio"
+    },
+    {
+      "id": "IAB9-25",
+      "parent_id": "IAB9",
+      "name": "Roleplaying Games",
+      "full_path": "Roleplaying Games"
+    },
+    {
+      "id": "IAB9-26",
+      "parent_id": "IAB9",
+      "name": "Sci-Fi & Fantasy",
+      "full_path": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": "IAB9-27",
+      "parent_id": "IAB9",
+      "name": "Scrapbooking",
+      "full_path": "Scrapbooking"
+    },
+    {
+      "id": "IAB9-28",
+      "parent_id": "IAB9",
+      "name": "Screenwriting",
+      "full_path": "Screenwriting"
+    },
+    {
+      "id": "IAB9-29",
+      "parent_id": "IAB9",
+      "name": "Stamps & Coins",
+      "full_path": "Stamps & Coins"
+    },
+    {
+      "id": "IAB9-30",
+      "parent_id": "IAB9",
+      "name": "Video & Computer Games",
+      "full_path": "Video & Computer Games"
+    },
+    {
+      "id": "IAB9-31",
+      "parent_id": "IAB9",
+      "name": "Woodworking",
+      "full_path": "Woodworking"
+    },
+    {
+      "id": "IAB10",
+      "parent_id": null,
+      "name": "Home & Garden",
+      "full_path": "Home & Garden"
+    },
+    {
+      "id": "IAB10-1",
+      "parent_id": "IAB10",
+      "name": "Appliances",
+      "full_path": "Appliances"
+    },
+    {
+      "id": "IAB10-2",
+      "parent_id": "IAB10",
+      "name": "Entertaining",
+      "full_path": "Entertaining"
+    },
+    {
+      "id": "IAB10-3",
+      "parent_id": "IAB10",
+      "name": "Environmental Safety",
+      "full_path": "Environmental Safety"
+    },
+    {
+      "id": "IAB10-4",
+      "parent_id": "IAB10",
+      "name": "Gardening",
+      "full_path": "Gardening"
+    },
+    {
+      "id": "IAB10-5",
+      "parent_id": "IAB10",
+      "name": "Home Repair",
+      "full_path": "Home Repair"
+    },
+    {
+      "id": "IAB10-6",
+      "parent_id": "IAB10",
+      "name": "Home Theater",
+      "full_path": "Home Theater"
+    },
+    {
+      "id": "IAB10-7",
+      "parent_id": "IAB10",
+      "name": "Interior Decorating",
+      "full_path": "Interior Decorating"
+    },
+    {
+      "id": "IAB10-8",
+      "parent_id": "IAB10",
+      "name": "Landscaping",
+      "full_path": "Landscaping"
+    },
+    {
+      "id": "IAB10-9",
+      "parent_id": "IAB10",
+      "name": "Remodeling & Construction",
+      "full_path": "Remodeling & Construction"
+    },
+    {
+      "id": "IAB11",
+      "parent_id": null,
+      "name": "Law, Gov't & Politics",
+      "full_path": "Law, Gov't & Politics"
+    },
+    {
+      "id": "IAB11-1",
+      "parent_id": "IAB11",
+      "name": "Immigration",
+      "full_path": "Immigration"
+    },
+    {
+      "id": "IAB11-2",
+      "parent_id": "IAB11",
+      "name": "Legal Issues",
+      "full_path": "Legal Issues"
+    },
+    {
+      "id": "IAB11-3",
+      "parent_id": "IAB11",
+      "name": "U.S. Government Resources",
+      "full_path": "U.S. Government Resources"
+    },
+    {
+      "id": "IAB11-4",
+      "parent_id": "IAB11",
+      "name": "Politics",
+      "full_path": "Politics"
+    },
+    {
+      "id": "IAB11-5",
+      "parent_id": "IAB11",
+      "name": "Commentary",
+      "full_path": "Commentary"
+    },
+    {
+      "id": "IAB12",
+      "parent_id": null,
+      "name": "News",
+      "full_path": "News"
+    },
+    {
+      "id": "IAB12-1",
+      "parent_id": "IAB12",
+      "name": "International News",
+      "full_path": "International News"
+    },
+    {
+      "id": "IAB12-2",
+      "parent_id": "IAB12",
+      "name": "National News",
+      "full_path": "National News"
+    },
+    {
+      "id": "IAB12-3",
+      "parent_id": "IAB12",
+      "name": "Local News",
+      "full_path": "Local News"
+    },
+    {
+      "id": "IAB13",
+      "parent_id": null,
+      "name": "Personal Finance",
+      "full_path": "Personal Finance"
+    },
+    {
+      "id": "IAB13-1",
+      "parent_id": "IAB13",
+      "name": "Beginning Investing",
+      "full_path": "Beginning Investing"
+    },
+    {
+      "id": "IAB13-2",
+      "parent_id": "IAB13",
+      "name": "Credit/Debt & Loans",
+      "full_path": "Credit/Debt & Loans"
+    },
+    {
+      "id": "IAB13-3",
+      "parent_id": "IAB13",
+      "name": "Financial News",
+      "full_path": "Financial News"
+    },
+    {
+      "id": "IAB13-4",
+      "parent_id": "IAB13",
+      "name": "Financial Planning",
+      "full_path": "Financial Planning"
+    },
+    {
+      "id": "IAB13-5",
+      "parent_id": "IAB13",
+      "name": "Hedge Fund",
+      "full_path": "Hedge Fund"
+    },
+    {
+      "id": "IAB13-6",
+      "parent_id": "IAB13",
+      "name": "Insurance",
+      "full_path": "Insurance"
+    },
+    {
+      "id": "IAB13-7",
+      "parent_id": "IAB13",
+      "name": "Investing",
+      "full_path": "Investing"
+    },
+    {
+      "id": "IAB13-8",
+      "parent_id": "IAB13",
+      "name": "Mutual Funds",
+      "full_path": "Mutual Funds"
+    },
+    {
+      "id": "IAB13-9",
+      "parent_id": "IAB13",
+      "name": "Options",
+      "full_path": "Options"
+    },
+    {
+      "id": "IAB13-10",
+      "parent_id": "IAB13",
+      "name": "Retirement Planning",
+      "full_path": "Retirement Planning"
+    },
+    {
+      "id": "IAB13-11",
+      "parent_id": "IAB13",
+      "name": "Stocks",
+      "full_path": "Stocks"
+    },
+    {
+      "id": "IAB13-12",
+      "parent_id": "IAB13",
+      "name": "Tax Planning",
+      "full_path": "Tax Planning"
+    },
+    {
+      "id": "IAB14",
+      "parent_id": null,
+      "name": "Society",
+      "full_path": "Society"
+    },
+    {
+      "id": "IAB14-1",
+      "parent_id": "IAB14",
+      "name": "Dating",
+      "full_path": "Dating"
+    },
+    {
+      "id": "IAB14-2",
+      "parent_id": "IAB14",
+      "name": "Divorce Support",
+      "full_path": "Divorce Support"
+    },
+    {
+      "id": "IAB14-3",
+      "parent_id": "IAB14",
+      "name": "Gay Life",
+      "full_path": "Gay Life"
+    },
+    {
+      "id": "IAB14-4",
+      "parent_id": "IAB14",
+      "name": "Marriage",
+      "full_path": "Marriage"
+    },
+    {
+      "id": "IAB14-5",
+      "parent_id": "IAB14",
+      "name": "Senior Living",
+      "full_path": "Senior Living"
+    },
+    {
+      "id": "IAB14-6",
+      "parent_id": "IAB14",
+      "name": "Teens",
+      "full_path": "Teens"
+    },
+    {
+      "id": "IAB14-7",
+      "parent_id": "IAB14",
+      "name": "Weddings",
+      "full_path": "Weddings"
+    },
+    {
+      "id": "IAB14-8",
+      "parent_id": "IAB14",
+      "name": "Ethnic Specific",
+      "full_path": "Ethnic Specific"
+    },
+    {
+      "id": "IAB15",
+      "parent_id": null,
+      "name": "Science",
+      "full_path": "Science"
+    },
+    {
+      "id": "IAB15-1",
+      "parent_id": "IAB15",
+      "name": "Astrology",
+      "full_path": "Astrology"
+    },
+    {
+      "id": "IAB15-2",
+      "parent_id": "IAB15",
+      "name": "Biology",
+      "full_path": "Biology"
+    },
+    {
+      "id": "IAB15-3",
+      "parent_id": "IAB15",
+      "name": "Chemistry",
+      "full_path": "Chemistry"
+    },
+    {
+      "id": "IAB15-4",
+      "parent_id": "IAB15",
+      "name": "Geology",
+      "full_path": "Geology"
+    },
+    {
+      "id": "IAB15-5",
+      "parent_id": "IAB15",
+      "name": "Paranormal Phenomena",
+      "full_path": "Paranormal Phenomena"
+    },
+    {
+      "id": "IAB15-6",
+      "parent_id": "IAB15",
+      "name": "Physics",
+      "full_path": "Physics"
+    },
+    {
+      "id": "IAB15-7",
+      "parent_id": "IAB15",
+      "name": "Space/Astronomy",
+      "full_path": "Space/Astronomy"
+    },
+    {
+      "id": "IAB15-8",
+      "parent_id": "IAB15",
+      "name": "Geography",
+      "full_path": "Geography"
+    },
+    {
+      "id": "IAB15-9",
+      "parent_id": "IAB15",
+      "name": "Botany",
+      "full_path": "Botany"
+    },
+    {
+      "id": "IAB15-10",
+      "parent_id": "IAB15",
+      "name": "Weather",
+      "full_path": "Weather"
+    },
+    {
+      "id": "IAB16",
+      "parent_id": null,
+      "name": "Pets",
+      "full_path": "Pets"
+    },
+    {
+      "id": "IAB16-1",
+      "parent_id": "IAB16",
+      "name": "Aquariums",
+      "full_path": "Aquariums"
+    },
+    {
+      "id": "IAB16-2",
+      "parent_id": "IAB16",
+      "name": "Birds",
+      "full_path": "Birds"
+    },
+    {
+      "id": "IAB16-3",
+      "parent_id": "IAB16",
+      "name": "Cats",
+      "full_path": "Cats"
+    },
+    {
+      "id": "IAB16-4",
+      "parent_id": "IAB16",
+      "name": "Dogs",
+      "full_path": "Dogs"
+    },
+    {
+      "id": "IAB16-5",
+      "parent_id": "IAB16",
+      "name": "Large Animals",
+      "full_path": "Large Animals"
+    },
+    {
+      "id": "IAB16-6",
+      "parent_id": "IAB16",
+      "name": "Reptiles",
+      "full_path": "Reptiles"
+    },
+    {
+      "id": "IAB16-7",
+      "parent_id": "IAB16",
+      "name": "Veterinary Medicine",
+      "full_path": "Veterinary Medicine"
+    },
+    {
+      "id": "IAB17",
+      "parent_id": null,
+      "name": "Sports",
+      "full_path": "Sports"
+    },
+    {
+      "id": "IAB17-1",
+      "parent_id": "IAB17",
+      "name": "Auto Racing",
+      "full_path": "Auto Racing"
+    },
+    {
+      "id": "IAB17-2",
+      "parent_id": "IAB17",
+      "name": "Baseball",
+      "full_path": "Baseball"
+    },
+    {
+      "id": "IAB17-3",
+      "parent_id": "IAB17",
+      "name": "Bicycling",
+      "full_path": "Bicycling"
+    },
+    {
+      "id": "IAB17-4",
+      "parent_id": "IAB17",
+      "name": "Bodybuilding",
+      "full_path": "Bodybuilding"
+    },
+    {
+      "id": "IAB17-5",
+      "parent_id": "IAB17",
+      "name": "Boxing",
+      "full_path": "Boxing"
+    },
+    {
+      "id": "IAB17-6",
+      "parent_id": "IAB17",
+      "name": "Canoeing/Kayaking",
+      "full_path": "Canoeing/Kayaking"
+    },
+    {
+      "id": "IAB17-7",
+      "parent_id": "IAB17",
+      "name": "Cheerleading",
+      "full_path": "Cheerleading"
+    },
+    {
+      "id": "IAB17-8",
+      "parent_id": "IAB17",
+      "name": "Climbing",
+      "full_path": "Climbing"
+    },
+    {
+      "id": "IAB17-9",
+      "parent_id": "IAB17",
+      "name": "Cricket",
+      "full_path": "Cricket"
+    },
+    {
+      "id": "IAB17-10",
+      "parent_id": "IAB17",
+      "name": "Figure Skating",
+      "full_path": "Figure Skating"
+    },
+    {
+      "id": "IAB17-11",
+      "parent_id": "IAB17",
+      "name": "Fly Fishing",
+      "full_path": "Fly Fishing"
+    },
+    {
+      "id": "IAB17-12",
+      "parent_id": "IAB17",
+      "name": "Football",
+      "full_path": "Football"
+    },
+    {
+      "id": "IAB17-13",
+      "parent_id": "IAB17",
+      "name": "Freshwater Fishing",
+      "full_path": "Freshwater Fishing"
+    },
+    {
+      "id": "IAB17-14",
+      "parent_id": "IAB17",
+      "name": "Game & Fish",
+      "full_path": "Game & Fish"
+    },
+    {
+      "id": "IAB17-15",
+      "parent_id": "IAB17",
+      "name": "Golf",
+      "full_path": "Golf"
+    },
+    {
+      "id": "IAB17-16",
+      "parent_id": "IAB17",
+      "name": "Horse Racing",
+      "full_path": "Horse Racing"
+    },
+    {
+      "id": "IAB17-17",
+      "parent_id": "IAB17",
+      "name": "Horses",
+      "full_path": "Horses"
+    },
+    {
+      "id": "IAB17-18",
+      "parent_id": "IAB17",
+      "name": "Hunting/Shooting",
+      "full_path": "Hunting/Shooting"
+    },
+    {
+      "id": "IAB17-19",
+      "parent_id": "IAB17",
+      "name": "Inline Skating",
+      "full_path": "Inline Skating"
+    },
+    {
+      "id": "IAB17-20",
+      "parent_id": "IAB17",
+      "name": "Martial Arts",
+      "full_path": "Martial Arts"
+    },
+    {
+      "id": "IAB17-21",
+      "parent_id": "IAB17",
+      "name": "Mountain Biking",
+      "full_path": "Mountain Biking"
+    },
+    {
+      "id": "IAB17-22",
+      "parent_id": "IAB17",
+      "name": "NASCAR Racing",
+      "full_path": "NASCAR Racing"
+    },
+    {
+      "id": "IAB17-23",
+      "parent_id": "IAB17",
+      "name": "Olympics",
+      "full_path": "Olympics"
+    },
+    {
+      "id": "IAB17-24",
+      "parent_id": "IAB17",
+      "name": "Paintball",
+      "full_path": "Paintball"
+    },
+    {
+      "id": "IAB17-25",
+      "parent_id": "IAB17",
+      "name": "Power & Motorcycles",
+      "full_path": "Power & Motorcycles"
+    },
+    {
+      "id": "IAB17-26",
+      "parent_id": "IAB17",
+      "name": "Pro Basketball",
+      "full_path": "Pro Basketball"
+    },
+    {
+      "id": "IAB17-27",
+      "parent_id": "IAB17",
+      "name": "Pro Ice Hockey",
+      "full_path": "Pro Ice Hockey"
+    },
+    {
+      "id": "IAB17-28",
+      "parent_id": "IAB17",
+      "name": "Rodeo",
+      "full_path": "Rodeo"
+    },
+    {
+      "id": "IAB17-29",
+      "parent_id": "IAB17",
+      "name": "Rugby",
+      "full_path": "Rugby"
+    },
+    {
+      "id": "IAB17-30",
+      "parent_id": "IAB17",
+      "name": "Running/Jogging",
+      "full_path": "Running/Jogging"
+    },
+    {
+      "id": "IAB17-31",
+      "parent_id": "IAB17",
+      "name": "Sailing",
+      "full_path": "Sailing"
+    },
+    {
+      "id": "IAB17-32",
+      "parent_id": "IAB17",
+      "name": "Saltwater Fishing",
+      "full_path": "Saltwater Fishing"
+    },
+    {
+      "id": "IAB17-33",
+      "parent_id": "IAB17",
+      "name": "Scuba Diving",
+      "full_path": "Scuba Diving"
+    },
+    {
+      "id": "IAB17-34",
+      "parent_id": "IAB17",
+      "name": "Skateboarding",
+      "full_path": "Skateboarding"
+    },
+    {
+      "id": "IAB17-35",
+      "parent_id": "IAB17",
+      "name": "Skiing",
+      "full_path": "Skiing"
+    },
+    {
+      "id": "IAB17-36",
+      "parent_id": "IAB17",
+      "name": "Snowboarding",
+      "full_path": "Snowboarding"
+    },
+    {
+      "id": "IAB17-37",
+      "parent_id": "IAB17",
+      "name": "Surfing/Bodyboarding",
+      "full_path": "Surfing/Bodyboarding"
+    },
+    {
+      "id": "IAB17-38",
+      "parent_id": "IAB17",
+      "name": "Swimming",
+      "full_path": "Swimming"
+    },
+    {
+      "id": "IAB17-39",
+      "parent_id": "IAB17",
+      "name": "Table Tennis/Ping-Pong",
+      "full_path": "Table Tennis/Ping-Pong"
+    },
+    {
+      "id": "IAB17-40",
+      "parent_id": "IAB17",
+      "name": "Tennis",
+      "full_path": "Tennis"
+    },
+    {
+      "id": "IAB17-41",
+      "parent_id": "IAB17",
+      "name": "Volleyball",
+      "full_path": "Volleyball"
+    },
+    {
+      "id": "IAB17-42",
+      "parent_id": "IAB17",
+      "name": "Walking",
+      "full_path": "Walking"
+    },
+    {
+      "id": "IAB17-43",
+      "parent_id": "IAB17",
+      "name": "Waterski/Wakeboard",
+      "full_path": "Waterski/Wakeboard"
+    },
+    {
+      "id": "IAB17-44",
+      "parent_id": "IAB17",
+      "name": "World Soccer",
+      "full_path": "World Soccer"
+    },
+    {
+      "id": "IAB18",
+      "parent_id": null,
+      "name": "Style & Fashion",
+      "full_path": "Style & Fashion"
+    },
+    {
+      "id": "IAB18-1",
+      "parent_id": "IAB18",
+      "name": "Beauty",
+      "full_path": "Beauty"
+    },
+    {
+      "id": "IAB18-2",
+      "parent_id": "IAB18",
+      "name": "Body Art",
+      "full_path": "Body Art"
+    },
+    {
+      "id": "IAB18-3",
+      "parent_id": "IAB18",
+      "name": "Fashion",
+      "full_path": "Fashion"
+    },
+    {
+      "id": "IAB18-4",
+      "parent_id": "IAB18",
+      "name": "Jewelry",
+      "full_path": "Jewelry"
+    },
+    {
+      "id": "IAB18-5",
+      "parent_id": "IAB18",
+      "name": "Clothing",
+      "full_path": "Clothing"
+    },
+    {
+      "id": "IAB18-6",
+      "parent_id": "IAB18",
+      "name": "Accessories",
+      "full_path": "Accessories"
+    },
+    {
+      "id": "IAB19",
+      "parent_id": null,
+      "name": "Technology & Computing",
+      "full_path": "Technology & Computing"
+    },
+    {
+      "id": "IAB19-1",
+      "parent_id": "IAB19",
+      "name": "3-D Graphics",
+      "full_path": "3-D Graphics"
+    },
+    {
+      "id": "IAB19-2",
+      "parent_id": "IAB19",
+      "name": "Animation",
+      "full_path": "Animation"
+    },
+    {
+      "id": "IAB19-3",
+      "parent_id": "IAB19",
+      "name": "Antivirus Software",
+      "full_path": "Antivirus Software"
+    },
+    {
+      "id": "IAB19-4",
+      "parent_id": "IAB19",
+      "name": "C/C++",
+      "full_path": "C/C++"
+    },
+    {
+      "id": "IAB19-5",
+      "parent_id": "IAB19",
+      "name": "Cameras & Camcorders",
+      "full_path": "Cameras & Camcorders"
+    },
+    {
+      "id": "IAB19-6",
+      "parent_id": "IAB19",
+      "name": "Cell Phones",
+      "full_path": "Cell Phones"
+    },
+    {
+      "id": "IAB19-7",
+      "parent_id": "IAB19",
+      "name": "Computer Certification",
+      "full_path": "Computer Certification"
+    },
+    {
+      "id": "IAB19-8",
+      "parent_id": "IAB19",
+      "name": "Computer Networking",
+      "full_path": "Computer Networking"
+    },
+    {
+      "id": "IAB19-9",
+      "parent_id": "IAB19",
+      "name": "Computer Peripherals",
+      "full_path": "Computer Peripherals"
+    },
+    {
+      "id": "IAB19-10",
+      "parent_id": "IAB19",
+      "name": "Computer Reviews",
+      "full_path": "Computer Reviews"
+    },
+    {
+      "id": "IAB19-11",
+      "parent_id": "IAB19",
+      "name": "Data Centers",
+      "full_path": "Data Centers"
+    },
+    {
+      "id": "IAB19-12",
+      "parent_id": "IAB19",
+      "name": "Databases",
+      "full_path": "Databases"
+    },
+    {
+      "id": "IAB19-13",
+      "parent_id": "IAB19",
+      "name": "Desktop Publishing",
+      "full_path": "Desktop Publishing"
+    },
+    {
+      "id": "IAB19-14",
+      "parent_id": "IAB19",
+      "name": "Desktop Video",
+      "full_path": "Desktop Video"
+    },
+    {
+      "id": "IAB19-15",
+      "parent_id": "IAB19",
+      "name": "Email",
+      "full_path": "Email"
+    },
+    {
+      "id": "IAB19-16",
+      "parent_id": "IAB19",
+      "name": "Graphics Software",
+      "full_path": "Graphics Software"
+    },
+    {
+      "id": "IAB19-17",
+      "parent_id": "IAB19",
+      "name": "Home Video/DVD",
+      "full_path": "Home Video/DVD"
+    },
+    {
+      "id": "IAB19-18",
+      "parent_id": "IAB19",
+      "name": "Internet Technology",
+      "full_path": "Internet Technology"
+    },
+    {
+      "id": "IAB19-19",
+      "parent_id": "IAB19",
+      "name": "Java",
+      "full_path": "Java"
+    },
+    {
+      "id": "IAB19-20",
+      "parent_id": "IAB19",
+      "name": "JavaScript",
+      "full_path": "JavaScript"
+    },
+    {
+      "id": "IAB19-21",
+      "parent_id": "IAB19",
+      "name": "Mac Support",
+      "full_path": "Mac Support"
+    },
+    {
+      "id": "IAB19-22",
+      "parent_id": "IAB19",
+      "name": "MP3/MIDI",
+      "full_path": "MP3/MIDI"
+    },
+    {
+      "id": "IAB19-23",
+      "parent_id": "IAB19",
+      "name": "Net Conferencing",
+      "full_path": "Net Conferencing"
+    },
+    {
+      "id": "IAB19-24",
+      "parent_id": "IAB19",
+      "name": "Net for Beginners",
+      "full_path": "Net for Beginners"
+    },
+    {
+      "id": "IAB19-25",
+      "parent_id": "IAB19",
+      "name": "Network Security",
+      "full_path": "Network Security"
+    },
+    {
+      "id": "IAB19-26",
+      "parent_id": "IAB19",
+      "name": "Palmtops/PDAs",
+      "full_path": "Palmtops/PDAs"
+    },
+    {
+      "id": "IAB19-27",
+      "parent_id": "IAB19",
+      "name": "PC Support",
+      "full_path": "PC Support"
+    },
+    {
+      "id": "IAB19-28",
+      "parent_id": "IAB19",
+      "name": "Portable",
+      "full_path": "Portable"
+    },
+    {
+      "id": "IAB19-29",
+      "parent_id": "IAB19",
+      "name": "Entertainment",
+      "full_path": "Entertainment"
+    },
+    {
+      "id": "IAB19-30",
+      "parent_id": "IAB19",
+      "name": "Shareware/Freeware",
+      "full_path": "Shareware/Freeware"
+    },
+    {
+      "id": "IAB19-31",
+      "parent_id": "IAB19",
+      "name": "Unix",
+      "full_path": "Unix"
+    },
+    {
+      "id": "IAB19-32",
+      "parent_id": "IAB19",
+      "name": "Visual Basic",
+      "full_path": "Visual Basic"
+    },
+    {
+      "id": "IAB19-33",
+      "parent_id": "IAB19",
+      "name": "Web Clip Art",
+      "full_path": "Web Clip Art"
+    },
+    {
+      "id": "IAB19-34",
+      "parent_id": "IAB19",
+      "name": "Web Design/HTML",
+      "full_path": "Web Design/HTML"
+    },
+    {
+      "id": "IAB19-35",
+      "parent_id": "IAB19",
+      "name": "Web Search",
+      "full_path": "Web Search"
+    },
+    {
+      "id": "IAB19-36",
+      "parent_id": "IAB19",
+      "name": "Windows",
+      "full_path": "Windows"
+    },
+    {
+      "id": "IAB20",
+      "parent_id": null,
+      "name": "Travel",
+      "full_path": "Travel"
+    },
+    {
+      "id": "IAB20-1",
+      "parent_id": "IAB20",
+      "name": "Adventure Travel",
+      "full_path": "Adventure Travel"
+    },
+    {
+      "id": "IAB20-2",
+      "parent_id": "IAB20",
+      "name": "Africa",
+      "full_path": "Africa"
+    },
+    {
+      "id": "IAB20-3",
+      "parent_id": "IAB20",
+      "name": "Air Travel",
+      "full_path": "Air Travel"
+    },
+    {
+      "id": "IAB20-4",
+      "parent_id": "IAB20",
+      "name": "Australia & New Zealand",
+      "full_path": "Australia & New Zealand"
+    },
+    {
+      "id": "IAB20-5",
+      "parent_id": "IAB20",
+      "name": "Bed & Breakfasts",
+      "full_path": "Bed & Breakfasts"
+    },
+    {
+      "id": "IAB20-6",
+      "parent_id": "IAB20",
+      "name": "Budget Travel",
+      "full_path": "Budget Travel"
+    },
+    {
+      "id": "IAB20-7",
+      "parent_id": "IAB20",
+      "name": "Business Travel",
+      "full_path": "Business Travel"
+    },
+    {
+      "id": "IAB20-8",
+      "parent_id": "IAB20",
+      "name": "By US Locale",
+      "full_path": "By US Locale"
+    },
+    {
+      "id": "IAB20-9",
+      "parent_id": "IAB20",
+      "name": "Camping",
+      "full_path": "Camping"
+    },
+    {
+      "id": "IAB20-10",
+      "parent_id": "IAB20",
+      "name": "Canada",
+      "full_path": "Canada"
+    },
+    {
+      "id": "IAB20-11",
+      "parent_id": "IAB20",
+      "name": "Caribbean",
+      "full_path": "Caribbean"
+    },
+    {
+      "id": "IAB20-12",
+      "parent_id": "IAB20",
+      "name": "Cruises",
+      "full_path": "Cruises"
+    },
+    {
+      "id": "IAB20-13",
+      "parent_id": "IAB20",
+      "name": "Eastern Europe",
+      "full_path": "Eastern Europe"
+    },
+    {
+      "id": "IAB20-14",
+      "parent_id": "IAB20",
+      "name": "Europe",
+      "full_path": "Europe"
+    },
+    {
+      "id": "IAB20-15",
+      "parent_id": "IAB20",
+      "name": "France",
+      "full_path": "France"
+    },
+    {
+      "id": "IAB20-16",
+      "parent_id": "IAB20",
+      "name": "Greece",
+      "full_path": "Greece"
+    },
+    {
+      "id": "IAB20-17",
+      "parent_id": "IAB20",
+      "name": "Honeymoons/Getaways",
+      "full_path": "Honeymoons/Getaways"
+    },
+    {
+      "id": "IAB20-18",
+      "parent_id": "IAB20",
+      "name": "Hotels",
+      "full_path": "Hotels"
+    },
+    {
+      "id": "IAB20-19",
+      "parent_id": "IAB20",
+      "name": "Italy",
+      "full_path": "Italy"
+    },
+    {
+      "id": "IAB20-20",
+      "parent_id": "IAB20",
+      "name": "Japan",
+      "full_path": "Japan"
+    },
+    {
+      "id": "IAB20-21",
+      "parent_id": "IAB20",
+      "name": "Mexico & Central America",
+      "full_path": "Mexico & Central America"
+    },
+    {
+      "id": "IAB20-22",
+      "parent_id": "IAB20",
+      "name": "National Parks",
+      "full_path": "National Parks"
+    },
+    {
+      "id": "IAB20-23",
+      "parent_id": "IAB20",
+      "name": "South America",
+      "full_path": "South America"
+    },
+    {
+      "id": "IAB20-24",
+      "parent_id": "IAB20",
+      "name": "Spas",
+      "full_path": "Spas"
+    },
+    {
+      "id": "IAB20-25",
+      "parent_id": "IAB20",
+      "name": "Theme Parks",
+      "full_path": "Theme Parks"
+    },
+    {
+      "id": "IAB20-26",
+      "parent_id": "IAB20",
+      "name": "Traveling with Kids",
+      "full_path": "Traveling with Kids"
+    },
+    {
+      "id": "IAB20-27",
+      "parent_id": "IAB20",
+      "name": "United Kingdom",
+      "full_path": "United Kingdom"
+    },
+    {
+      "id": "IAB21",
+      "parent_id": null,
+      "name": "Real Estate",
+      "full_path": "Real Estate"
+    },
+    {
+      "id": "IAB21-1",
+      "parent_id": "IAB21",
+      "name": "Apartments",
+      "full_path": "Apartments"
+    },
+    {
+      "id": "IAB21-2",
+      "parent_id": "IAB21",
+      "name": "Architects",
+      "full_path": "Architects"
+    },
+    {
+      "id": "IAB21-3",
+      "parent_id": "IAB21",
+      "name": "Buying/Selling Homes",
+      "full_path": "Buying/Selling Homes"
+    },
+    {
+      "id": "IAB22",
+      "parent_id": null,
+      "name": "Shopping",
+      "full_path": "Shopping"
+    },
+    {
+      "id": "IAB22-1",
+      "parent_id": "IAB22",
+      "name": "Contests & Freebies",
+      "full_path": "Contests & Freebies"
+    },
+    {
+      "id": "IAB22-2",
+      "parent_id": "IAB22",
+      "name": "Couponing",
+      "full_path": "Couponing"
+    },
+    {
+      "id": "IAB22-3",
+      "parent_id": "IAB22",
+      "name": "Comparison",
+      "full_path": "Comparison"
+    },
+    {
+      "id": "IAB22-4",
+      "parent_id": "IAB22",
+      "name": "Engines",
+      "full_path": "Engines"
+    },
+    {
+      "id": "IAB23",
+      "parent_id": null,
+      "name": "Religion & Spirituality",
+      "full_path": "Religion & Spirituality"
+    },
+    {
+      "id": "IAB23-1",
+      "parent_id": "IAB23",
+      "name": "Alternative Religions",
+      "full_path": "Alternative Religions"
+    },
+    {
+      "id": "IAB23-2",
+      "parent_id": "IAB23",
+      "name": "Atheism/Agnosticism",
+      "full_path": "Atheism/Agnosticism"
+    },
+    {
+      "id": "IAB23-3",
+      "parent_id": "IAB23",
+      "name": "Buddhism",
+      "full_path": "Buddhism"
+    },
+    {
+      "id": "IAB23-4",
+      "parent_id": "IAB23",
+      "name": "Catholicism",
+      "full_path": "Catholicism"
+    },
+    {
+      "id": "IAB23-5",
+      "parent_id": "IAB23",
+      "name": "Christianity",
+      "full_path": "Christianity"
+    },
+    {
+      "id": "IAB23-6",
+      "parent_id": "IAB23",
+      "name": "Hinduism",
+      "full_path": "Hinduism"
+    },
+    {
+      "id": "IAB23-7",
+      "parent_id": "IAB23",
+      "name": "Islam",
+      "full_path": "Islam"
+    },
+    {
+      "id": "IAB23-8",
+      "parent_id": "IAB23",
+      "name": "Judaism",
+      "full_path": "Judaism"
+    },
+    {
+      "id": "IAB23-9",
+      "parent_id": "IAB23",
+      "name": "Latter-Day Saints",
+      "full_path": "Latter-Day Saints"
+    },
+    {
+      "id": "IAB23-10",
+      "parent_id": "IAB23",
+      "name": "Pagan/Wiccan",
+      "full_path": "Pagan/Wiccan"
+    },
+    {
+      "id": "IAB24",
+      "parent_id": null,
+      "name": "Uncategorized",
+      "full_path": "Uncategorized"
+    },
+    {
+      "id": "IAB25",
+      "parent_id": null,
+      "name": "Non-Standard Content",
+      "full_path": "Non-Standard Content"
+    },
+    {
+      "id": "IAB25-1",
+      "parent_id": "IAB25",
+      "name": "Unmoderated UGC",
+      "full_path": "Unmoderated UGC"
+    },
+    {
+      "id": "IAB25-2",
+      "parent_id": "IAB25",
+      "name": "Extreme Graphic/Explicit Violence",
+      "full_path": "Extreme Graphic/Explicit Violence"
+    },
+    {
+      "id": "IAB25-3",
+      "parent_id": "IAB25",
+      "name": "Pornography",
+      "full_path": "Pornography"
+    },
+    {
+      "id": "IAB25-4",
+      "parent_id": "IAB25",
+      "name": "Profane Content",
+      "full_path": "Profane Content"
+    },
+    {
+      "id": "IAB25-5",
+      "parent_id": "IAB25",
+      "name": "Hate Content",
+      "full_path": "Hate Content"
+    },
+    {
+      "id": "IAB25-6",
+      "parent_id": "IAB25",
+      "name": "Under Construction",
+      "full_path": "Under Construction"
+    },
+    {
+      "id": "IAB25-7",
+      "parent_id": "IAB25",
+      "name": "Incentivized",
+      "full_path": "Incentivized"
+    },
+    {
+      "id": "IAB26",
+      "parent_id": null,
+      "name": "Illegal Content",
+      "full_path": "Illegal Content"
+    },
+    {
+      "id": "IAB26-1",
+      "parent_id": "IAB26",
+      "name": "Illegal Content",
+      "full_path": "Illegal Content"
+    },
+    {
+      "id": "IAB26-2",
+      "parent_id": "IAB26",
+      "name": "Warez",
+      "full_path": "Warez"
+    },
+    {
+      "id": "IAB26-3",
+      "parent_id": "IAB26",
+      "name": "Spyware/Malware",
+      "full_path": "Spyware/Malware"
+    },
+    {
+      "id": "IAB26-4",
+      "parent_id": "IAB26",
+      "name": "Copyright Infringement",
+      "full_path": "Copyright Infringement"
+    }
+  ]
+}

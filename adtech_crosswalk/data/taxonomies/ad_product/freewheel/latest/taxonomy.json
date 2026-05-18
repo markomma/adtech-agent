@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "provider": "freewheel",
+    "taxonomy_type": "ad_product",
+    "version": "latest",
+    "snapshot_date": "2026-05-18",
+    "source_url": "https://cdn.jsdelivr.net/gh/prebid/category-mapping-file@1/freewheel-mapping.json",
+    "fetched_at": "2026-05-18T02:35:52Z"
+  },
+  "entries": [
+    {
+      "id": "390",
+      "parent_id": null,
+      "name": "Manufacturing",
+      "full_path": "Manufacturing"
+    },
+    {
+      "id": "391",
+      "parent_id": null,
+      "name": "Financial Services",
+      "full_path": "Financial Services"
+    },
+    {
+      "id": "392",
+      "parent_id": null,
+      "name": "Entertainment",
+      "full_path": "Entertainment"
+    },
+    {
+      "id": "393",
+      "parent_id": null,
+      "name": "Business Services",
+      "full_path": "Business Services"
+    },
+    {
+      "id": "394",
+      "parent_id": null,
+      "name": "Food",
+      "full_path": "Food"
+    },
+    {
+      "id": "395",
+      "parent_id": null,
+      "name": "Travel/Hotels/Airlines",
+      "full_path": "Travel/Hotels/Airlines"
+    },
+    {
+      "id": "396",
+      "parent_id": null,
+      "name": "Amusement and Recreation",
+      "full_path": "Amusement and Recreation"
+    },
+    {
+      "id": "397",
+      "parent_id": null,
+      "name": "Apparel",
+      "full_path": "Apparel"
+    },
+    {
+      "id": "398",
+      "parent_id": null,
+      "name": "Government/Municipal",
+      "full_path": "Government/Municipal"
+    },
+    {
+      "id": "399",
+      "parent_id": null,
+      "name": "Automotive",
+      "full_path": "Automotive"
+    },
+    {
+      "id": "400",
+      "parent_id": null,
+      "name": "Beer/Wine/Liquor",
+      "full_path": "Beer/Wine/Liquor"
+    },
+    {
+      "id": "401",
+      "parent_id": null,
+      "name": "Beverages",
+      "full_path": "Beverages"
+    },
+    {
+      "id": "402",
+      "parent_id": null,
+      "name": "Pharmaceuticals",
+      "full_path": "Pharmaceuticals"
+    },
+    {
+      "id": "403",
+      "parent_id": null,
+      "name": "Retail Stores/Chains",
+      "full_path": "Retail Stores/Chains"
+    },
+    {
+      "id": "404",
+      "parent_id": null,
+      "name": "Publishing",
+      "full_path": "Publishing"
+    },
+    {
+      "id": "405",
+      "parent_id": null,
+      "name": "Educational Services",
+      "full_path": "Educational Services"
+    },
+    {
+      "id": "406",
+      "parent_id": null,
+      "name": "Health Care Services",
+      "full_path": "Health Care Services"
+    },
+    {
+      "id": "407",
+      "parent_id": null,
+      "name": "Restaurant/Fast Food",
+      "full_path": "Restaurant/Fast Food"
+    },
+    {
+      "id": "408",
+      "parent_id": null,
+      "name": "Office Equipment/Supplies",
+      "full_path": "Office Equipment/Supplies"
+    },
+    {
+      "id": "409",
+      "parent_id": null,
+      "name": "Computing Product",
+      "full_path": "Computing Product"
+    },
+    {
+      "id": "410",
+      "parent_id": null,
+      "name": "Product",
+      "full_path": "Product"
+    },
+    {
+      "id": "411",
+      "parent_id": null,
+      "name": "Cosmetics/Toiletries",
+      "full_path": "Cosmetics/Toiletries"
+    },
+    {
+      "id": "412",
+      "parent_id": null,
+      "name": "Household Products",
+      "full_path": "Household Products"
+    },
+    {
+      "id": "413",
+      "parent_id": null,
+      "name": "Gaming",
+      "full_path": "Gaming"
+    },
+    {
+      "id": "414",
+      "parent_id": null,
+      "name": "Gambling",
+      "full_path": "Gambling"
+    },
+    {
+      "id": "415",
+      "parent_id": null,
+      "name": "Appliances",
+      "full_path": "Appliances"
+    },
+    {
+      "id": "416",
+      "parent_id": null,
+      "name": "Real Estate",
+      "full_path": "Real Estate"
+    },
+    {
+      "id": "417",
+      "parent_id": null,
+      "name": "Telecommunications",
+      "full_path": "Telecommunications"
+    },
+    {
+      "id": "418",
+      "parent_id": null,
+      "name": "Jewelry",
+      "full_path": "Jewelry"
+    },
+    {
+      "id": "419",
+      "parent_id": null,
+      "name": "Filmed Entertainment",
+      "full_path": "Filmed Entertainment"
+    },
+    {
+      "id": "421",
+      "parent_id": null,
+      "name": "Associations",
+      "full_path": "Associations"
+    },
+    {
+      "id": "423",
+      "parent_id": null,
+      "name": "Pet Food/Supplies",
+      "full_path": "Pet Food/Supplies"
+    },
+    {
+      "id": "424",
+      "parent_id": null,
+      "name": "Photographic Equipment",
+      "full_path": "Photographic Equipment"
+    },
+    {
+      "id": "425",
+      "parent_id": null,
+      "name": "Professional Sports",
+      "full_path": "Professional Sports"
+    },
+    {
+      "id": "426",
+      "parent_id": null,
+      "name": "Tobacco",
+      "full_path": "Tobacco"
+    },
+    {
+      "id": "427",
+      "parent_id": null,
+      "name": "Toys/Games",
+      "full_path": "Toys/Games"
+    },
+    {
+      "id": "428",
+      "parent_id": null,
+      "name": "Aerospace",
+      "full_path": "Aerospace"
+    },
+    {
+      "id": "429",
+      "parent_id": null,
+      "name": "Military",
+      "full_path": "Military"
+    },
+    {
+      "id": "431",
+      "parent_id": null,
+      "name": "Computing",
+      "full_path": "Computing"
+    },
+    {
+      "id": "432",
+      "parent_id": null,
+      "name": "Audio and Video Equipment",
+      "full_path": "Audio and Video Equipment"
+    },
+    {
+      "id": "433",
+      "parent_id": null,
+      "name": "Drug Stores",
+      "full_path": "Drug Stores"
+    },
+    {
+      "id": "434",
+      "parent_id": null,
+      "name": "Home Furnishings",
+      "full_path": "Home Furnishings"
+    },
+    {
+      "id": "436",
+      "parent_id": null,
+      "name": "Insurance",
+      "full_path": "Insurance"
+    },
+    {
+      "id": "438",
+      "parent_id": null,
+      "name": "News",
+      "full_path": "News"
+    }
+  ]
+}

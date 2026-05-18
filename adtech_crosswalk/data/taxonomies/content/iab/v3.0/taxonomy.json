@@ -1,0 +1,4230 @@
+{
+  "metadata": {
+    "provider": "iab",
+    "taxonomy_type": "content",
+    "version": "v3.0",
+    "snapshot_date": "2026-05-18",
+    "source_url": "https://raw.githubusercontent.com/InteractiveAdvertisingBureau/Taxonomies/main/Content%20Taxonomies/Content%20Taxonomy%203.0.tsv",
+    "fetched_at": "2026-05-18T02:35:35Z"
+  },
+  "entries": [
+    {
+      "id": "150",
+      "parent_id": null,
+      "name": "Attractions",
+      "full_path": "Attractions"
+    },
+    {
+      "id": "151",
+      "parent_id": "150",
+      "name": "Amusement and Theme Parks",
+      "full_path": "Attractions > Amusement and Theme Parks"
+    },
+    {
+      "id": "179",
+      "parent_id": "150",
+      "name": "Bars & Restaurants",
+      "full_path": "Attractions > Bars & Restaurants"
+    },
+    {
+      "id": "181",
+      "parent_id": "150",
+      "name": "Casinos & Gambling",
+      "full_path": "Attractions > Casinos & Gambling"
+    },
+    {
+      "id": "153",
+      "parent_id": "150",
+      "name": "Historic Site and Landmark Tours",
+      "full_path": "Attractions > Historic Site and Landmark Tours"
+    },
+    {
+      "id": "154",
+      "parent_id": "150",
+      "name": "Malls & Shopping Centers",
+      "full_path": "Attractions > Malls & Shopping Centers"
+    },
+    {
+      "id": "155",
+      "parent_id": "150",
+      "name": "Museums & Galleries",
+      "full_path": "Attractions > Museums & Galleries"
+    },
+    {
+      "id": "158",
+      "parent_id": "150",
+      "name": "Nightclubs",
+      "full_path": "Attractions > Nightclubs"
+    },
+    {
+      "id": "159",
+      "parent_id": "150",
+      "name": "Outdoor Activities",
+      "full_path": "Attractions > Outdoor Activities"
+    },
+    {
+      "id": "160",
+      "parent_id": "150",
+      "name": "Parks & Nature",
+      "full_path": "Attractions > Parks & Nature"
+    },
+    {
+      "id": "177",
+      "parent_id": "150",
+      "name": "Theater Venues",
+      "full_path": "Attractions > Theater Venues"
+    },
+    {
+      "id": "178",
+      "parent_id": "150",
+      "name": "Zoos & Aquariums",
+      "full_path": "Attractions > Zoos & Aquariums"
+    },
+    {
+      "id": "1",
+      "parent_id": null,
+      "name": "Automotive",
+      "full_path": "Automotive"
+    },
+    {
+      "id": "2",
+      "parent_id": "1",
+      "name": "Auto Body Styles",
+      "full_path": "Automotive > Auto Body Styles"
+    },
+    {
+      "id": "3",
+      "parent_id": "2",
+      "name": "Commercial Trucks",
+      "full_path": "Automotive > Auto Body Styles > Commercial Trucks"
+    },
+    {
+      "id": "8",
+      "parent_id": "2",
+      "name": "Convertible",
+      "full_path": "Automotive > Auto Body Styles > Convertible"
+    },
+    {
+      "id": "9",
+      "parent_id": "2",
+      "name": "Coupe",
+      "full_path": "Automotive > Auto Body Styles > Coupe"
+    },
+    {
+      "id": "10",
+      "parent_id": "2",
+      "name": "Crossover",
+      "full_path": "Automotive > Auto Body Styles > Crossover"
+    },
+    {
+      "id": "11",
+      "parent_id": "2",
+      "name": "Hatchback",
+      "full_path": "Automotive > Auto Body Styles > Hatchback"
+    },
+    {
+      "id": "12",
+      "parent_id": "2",
+      "name": "Microcar",
+      "full_path": "Automotive > Auto Body Styles > Microcar"
+    },
+    {
+      "id": "13",
+      "parent_id": "2",
+      "name": "Minivan",
+      "full_path": "Automotive > Auto Body Styles > Minivan"
+    },
+    {
+      "id": "14",
+      "parent_id": "2",
+      "name": "Off-Road Vehicles",
+      "full_path": "Automotive > Auto Body Styles > Off-Road Vehicles"
+    },
+    {
+      "id": "15",
+      "parent_id": "2",
+      "name": "Pickup Trucks",
+      "full_path": "Automotive > Auto Body Styles > Pickup Trucks"
+    },
+    {
+      "id": "4",
+      "parent_id": "2",
+      "name": "Sedan",
+      "full_path": "Automotive > Auto Body Styles > Sedan"
+    },
+    {
+      "id": "5",
+      "parent_id": "2",
+      "name": "Station Wagon",
+      "full_path": "Automotive > Auto Body Styles > Station Wagon"
+    },
+    {
+      "id": "6",
+      "parent_id": "2",
+      "name": "SUV",
+      "full_path": "Automotive > Auto Body Styles > SUV"
+    },
+    {
+      "id": "7",
+      "parent_id": "2",
+      "name": "Van",
+      "full_path": "Automotive > Auto Body Styles > Van"
+    },
+    {
+      "id": "30",
+      "parent_id": "1",
+      "name": "Auto Buying and Selling",
+      "full_path": "Automotive > Auto Buying and Selling"
+    },
+    {
+      "id": "31",
+      "parent_id": "1",
+      "name": "Auto Insurance",
+      "full_path": "Automotive > Auto Insurance"
+    },
+    {
+      "id": "32",
+      "parent_id": "1",
+      "name": "Auto Parts",
+      "full_path": "Automotive > Auto Parts"
+    },
+    {
+      "id": "33",
+      "parent_id": "1",
+      "name": "Auto Recalls",
+      "full_path": "Automotive > Auto Recalls"
+    },
+    {
+      "id": "41",
+      "parent_id": "1",
+      "name": "Auto Rentals",
+      "full_path": "Automotive > Auto Rentals"
+    },
+    {
+      "id": "34",
+      "parent_id": "1",
+      "name": "Auto Repair",
+      "full_path": "Automotive > Auto Repair"
+    },
+    {
+      "id": "35",
+      "parent_id": "1",
+      "name": "Auto Safety",
+      "full_path": "Automotive > Auto Safety"
+    },
+    {
+      "id": "36",
+      "parent_id": "1",
+      "name": "Auto Shows",
+      "full_path": "Automotive > Auto Shows"
+    },
+    {
+      "id": "37",
+      "parent_id": "1",
+      "name": "Auto Technology",
+      "full_path": "Automotive > Auto Technology"
+    },
+    {
+      "id": "38",
+      "parent_id": "37",
+      "name": "Auto Infotainment Technologies",
+      "full_path": "Automotive > Auto Technology > Auto Infotainment Technologies"
+    },
+    {
+      "id": "39",
+      "parent_id": "37",
+      "name": "Auto Navigation Systems",
+      "full_path": "Automotive > Auto Technology > Auto Navigation Systems"
+    },
+    {
+      "id": "40",
+      "parent_id": "37",
+      "name": "Auto Safety Technologies",
+      "full_path": "Automotive > Auto Technology > Auto Safety Technologies"
+    },
+    {
+      "id": "16",
+      "parent_id": "1",
+      "name": "Auto Type",
+      "full_path": "Automotive > Auto Type"
+    },
+    {
+      "id": "17",
+      "parent_id": "16",
+      "name": "Budget Cars",
+      "full_path": "Automotive > Auto Type > Budget Cars"
+    },
+    {
+      "id": "18",
+      "parent_id": "16",
+      "name": "Certified Pre-Owned Cars",
+      "full_path": "Automotive > Auto Type > Certified Pre-Owned Cars"
+    },
+    {
+      "id": "19",
+      "parent_id": "16",
+      "name": "Classic Cars",
+      "full_path": "Automotive > Auto Type > Classic Cars"
+    },
+    {
+      "id": "20",
+      "parent_id": "16",
+      "name": "Concept Cars",
+      "full_path": "Automotive > Auto Type > Concept Cars"
+    },
+    {
+      "id": "21",
+      "parent_id": "16",
+      "name": "Driverless Cars",
+      "full_path": "Automotive > Auto Type > Driverless Cars"
+    },
+    {
+      "id": "22",
+      "parent_id": "16",
+      "name": "Green Vehicles",
+      "full_path": "Automotive > Auto Type > Green Vehicles"
+    },
+    {
+      "id": "23",
+      "parent_id": "16",
+      "name": "Luxury Cars",
+      "full_path": "Automotive > Auto Type > Luxury Cars"
+    },
+    {
+      "id": "24",
+      "parent_id": "16",
+      "name": "Performance Cars",
+      "full_path": "Automotive > Auto Type > Performance Cars"
+    },
+    {
+      "id": "25",
+      "parent_id": "1",
+      "name": "Car Culture",
+      "full_path": "Automotive > Car Culture"
+    },
+    {
+      "id": "26",
+      "parent_id": "1",
+      "name": "Dash Cam Videos",
+      "full_path": "Automotive > Dash Cam Videos"
+    },
+    {
+      "id": "27",
+      "parent_id": "1",
+      "name": "Motorcycles",
+      "full_path": "Automotive > Motorcycles"
+    },
+    {
+      "id": "28",
+      "parent_id": "1",
+      "name": "Road-Side Assistance",
+      "full_path": "Automotive > Road-Side Assistance"
+    },
+    {
+      "id": "29",
+      "parent_id": "1",
+      "name": "Scooters",
+      "full_path": "Automotive > Scooters"
+    },
+    {
+      "id": "42",
+      "parent_id": null,
+      "name": "Books and Literature",
+      "full_path": "Books and Literature"
+    },
+    {
+      "id": "43",
+      "parent_id": "42",
+      "name": "Art and Photography",
+      "full_path": "Books and Literature > Art and Photography"
+    },
+    {
+      "id": "46",
+      "parent_id": "42",
+      "name": "Comics and Graphic Novels",
+      "full_path": "Books and Literature > Comics and Graphic Novels"
+    },
+    {
+      "id": "48",
+      "parent_id": "42",
+      "name": "Fiction",
+      "full_path": "Books and Literature > Fiction"
+    },
+    {
+      "id": "49",
+      "parent_id": "42",
+      "name": "Poetry",
+      "full_path": "Books and Literature > Poetry"
+    },
+    {
+      "id": "52",
+      "parent_id": null,
+      "name": "Business and Finance",
+      "full_path": "Business and Finance"
+    },
+    {
+      "id": "53",
+      "parent_id": "52",
+      "name": "Business",
+      "full_path": "Business and Finance > Business"
+    },
+    {
+      "id": "54",
+      "parent_id": "53",
+      "name": "Business Accounting & Finance",
+      "full_path": "Business and Finance > Business > Business Accounting & Finance"
+    },
+    {
+      "id": "62",
+      "parent_id": "53",
+      "name": "Business Administration",
+      "full_path": "Business and Finance > Business > Business Administration"
+    },
+    {
+      "id": "63",
+      "parent_id": "53",
+      "name": "Business Banking & Finance",
+      "full_path": "Business and Finance > Business > Business Banking & Finance"
+    },
+    {
+      "id": "64",
+      "parent_id": "63",
+      "name": "Angel Investment",
+      "full_path": "Business and Finance > Business > Business Banking & Finance > Angel Investment"
+    },
+    {
+      "id": "65",
+      "parent_id": "63",
+      "name": "Bankruptcy",
+      "full_path": "Business and Finance > Business > Business Banking & Finance > Bankruptcy"
+    },
+    {
+      "id": "66",
+      "parent_id": "63",
+      "name": "Business Loans",
+      "full_path": "Business and Finance > Business > Business Banking & Finance > Business Loans"
+    },
+    {
+      "id": "67",
+      "parent_id": "63",
+      "name": "Debt Factoring & Invoice Discounting",
+      "full_path": "Business and Finance > Business > Business Banking & Finance > Debt Factoring & Invoice Discounting"
+    },
+    {
+      "id": "68",
+      "parent_id": "63",
+      "name": "Mergers and Acquisitions",
+      "full_path": "Business and Finance > Business > Business Banking & Finance > Mergers and Acquisitions"
+    },
+    {
+      "id": "69",
+      "parent_id": "63",
+      "name": "Private Equity",
+      "full_path": "Business and Finance > Business > Business Banking & Finance > Private Equity"
+    },
+    {
+      "id": "70",
+      "parent_id": "63",
+      "name": "Sale & Lease Back",
+      "full_path": "Business and Finance > Business > Business Banking & Finance > Sale & Lease Back"
+    },
+    {
+      "id": "71",
+      "parent_id": "63",
+      "name": "Venture Capital",
+      "full_path": "Business and Finance > Business > Business Banking & Finance > Venture Capital"
+    },
+    {
+      "id": "72",
+      "parent_id": "53",
+      "name": "Business I.T.",
+      "full_path": "Business and Finance > Business > Business I.T."
+    },
+    {
+      "id": "73",
+      "parent_id": "53",
+      "name": "Business Operations",
+      "full_path": "Business and Finance > Business > Business Operations"
+    },
+    {
+      "id": "79",
+      "parent_id": "53",
+      "name": "Business Utilities",
+      "full_path": "Business and Finance > Business > Business Utilities"
+    },
+    {
+      "id": "74",
+      "parent_id": "53",
+      "name": "Consumer Issues",
+      "full_path": "Business and Finance > Business > Consumer Issues"
+    },
+    {
+      "id": "75",
+      "parent_id": "74",
+      "name": "Recalls",
+      "full_path": "Business and Finance > Business > Consumer Issues > Recalls"
+    },
+    {
+      "id": "76",
+      "parent_id": "53",
+      "name": "Executive Leadership & Management",
+      "full_path": "Business and Finance > Business > Executive Leadership & Management"
+    },
+    {
+      "id": "77",
+      "parent_id": "53",
+      "name": "Government Business",
+      "full_path": "Business and Finance > Business > Government Business"
+    },
+    {
+      "id": "78",
+      "parent_id": "53",
+      "name": "Green Solutions",
+      "full_path": "Business and Finance > Business > Green Solutions"
+    },
+    {
+      "id": "55",
+      "parent_id": "53",
+      "name": "Human Resources",
+      "full_path": "Business and Finance > Business > Human Resources"
+    },
+    {
+      "id": "56",
+      "parent_id": "53",
+      "name": "Large Business",
+      "full_path": "Business and Finance > Business > Large Business"
+    },
+    {
+      "id": "57",
+      "parent_id": "53",
+      "name": "Logistics",
+      "full_path": "Business and Finance > Business > Logistics"
+    },
+    {
+      "id": "58",
+      "parent_id": "53",
+      "name": "Marketing and Advertising",
+      "full_path": "Business and Finance > Business > Marketing and Advertising"
+    },
+    {
+      "id": "59",
+      "parent_id": "53",
+      "name": "Sales",
+      "full_path": "Business and Finance > Business > Sales"
+    },
+    {
+      "id": "60",
+      "parent_id": "53",
+      "name": "Small and Medium-sized Business",
+      "full_path": "Business and Finance > Business > Small and Medium-sized Business"
+    },
+    {
+      "id": "61",
+      "parent_id": "53",
+      "name": "Startups",
+      "full_path": "Business and Finance > Business > Startups"
+    },
+    {
+      "id": "80",
+      "parent_id": "52",
+      "name": "Economy",
+      "full_path": "Business and Finance > Economy"
+    },
+    {
+      "id": "81",
+      "parent_id": "80",
+      "name": "Commodities",
+      "full_path": "Business and Finance > Economy > Commodities"
+    },
+    {
+      "id": "82",
+      "parent_id": "80",
+      "name": "Currencies",
+      "full_path": "Business and Finance > Economy > Currencies"
+    },
+    {
+      "id": "83",
+      "parent_id": "80",
+      "name": "Financial Crisis",
+      "full_path": "Business and Finance > Economy > Financial Crisis"
+    },
+    {
+      "id": "84",
+      "parent_id": "80",
+      "name": "Financial Reform",
+      "full_path": "Business and Finance > Economy > Financial Reform"
+    },
+    {
+      "id": "85",
+      "parent_id": "80",
+      "name": "Financial Regulation",
+      "full_path": "Business and Finance > Economy > Financial Regulation"
+    },
+    {
+      "id": "86",
+      "parent_id": "80",
+      "name": "Gasoline Prices",
+      "full_path": "Business and Finance > Economy > Gasoline Prices"
+    },
+    {
+      "id": "87",
+      "parent_id": "80",
+      "name": "Housing Market",
+      "full_path": "Business and Finance > Economy > Housing Market"
+    },
+    {
+      "id": "88",
+      "parent_id": "80",
+      "name": "Interest Rates",
+      "full_path": "Business and Finance > Economy > Interest Rates"
+    },
+    {
+      "id": "89",
+      "parent_id": "80",
+      "name": "Job Market",
+      "full_path": "Business and Finance > Economy > Job Market"
+    },
+    {
+      "id": "90",
+      "parent_id": "52",
+      "name": "Industries",
+      "full_path": "Business and Finance > Industries"
+    },
+    {
+      "id": "91",
+      "parent_id": "90",
+      "name": "Advertising Industry",
+      "full_path": "Business and Finance > Industries > Advertising Industry"
+    },
+    {
+      "id": "102",
+      "parent_id": "90",
+      "name": "Agriculture",
+      "full_path": "Business and Finance > Industries > Agriculture"
+    },
+    {
+      "id": "113",
+      "parent_id": "90",
+      "name": "Apparel Industry",
+      "full_path": "Business and Finance > Industries > Apparel Industry"
+    },
+    {
+      "id": "117",
+      "parent_id": "90",
+      "name": "Automotive Industry",
+      "full_path": "Business and Finance > Industries > Automotive Industry"
+    },
+    {
+      "id": "118",
+      "parent_id": "90",
+      "name": "Aviation Industry",
+      "full_path": "Business and Finance > Industries > Aviation Industry"
+    },
+    {
+      "id": "119",
+      "parent_id": "90",
+      "name": "Biotech and Biomedical Industry",
+      "full_path": "Business and Finance > Industries > Biotech and Biomedical Industry"
+    },
+    {
+      "id": "120",
+      "parent_id": "90",
+      "name": "Civil Engineering Industry",
+      "full_path": "Business and Finance > Industries > Civil Engineering Industry"
+    },
+    {
+      "id": "121",
+      "parent_id": "90",
+      "name": "Construction Industry",
+      "full_path": "Business and Finance > Industries > Construction Industry"
+    },
+    {
+      "id": "122",
+      "parent_id": "90",
+      "name": "Defense Industry",
+      "full_path": "Business and Finance > Industries > Defense Industry"
+    },
+    {
+      "id": "92",
+      "parent_id": "90",
+      "name": "Education industry",
+      "full_path": "Business and Finance > Industries > Education industry"
+    },
+    {
+      "id": "93",
+      "parent_id": "90",
+      "name": "Entertainment Industry",
+      "full_path": "Business and Finance > Industries > Entertainment Industry"
+    },
+    {
+      "id": "94",
+      "parent_id": "90",
+      "name": "Environmental Services Industry",
+      "full_path": "Business and Finance > Industries > Environmental Services Industry"
+    },
+    {
+      "id": "95",
+      "parent_id": "90",
+      "name": "Financial Industry",
+      "full_path": "Business and Finance > Industries > Financial Industry"
+    },
+    {
+      "id": "96",
+      "parent_id": "90",
+      "name": "Food Industry",
+      "full_path": "Business and Finance > Industries > Food Industry"
+    },
+    {
+      "id": "97",
+      "parent_id": "90",
+      "name": "Healthcare Industry",
+      "full_path": "Business and Finance > Industries > Healthcare Industry"
+    },
+    {
+      "id": "98",
+      "parent_id": "90",
+      "name": "Hospitality Industry",
+      "full_path": "Business and Finance > Industries > Hospitality Industry"
+    },
+    {
+      "id": "99",
+      "parent_id": "90",
+      "name": "Information Services Industry",
+      "full_path": "Business and Finance > Industries > Information Services Industry"
+    },
+    {
+      "id": "100",
+      "parent_id": "90",
+      "name": "Legal Services Industry",
+      "full_path": "Business and Finance > Industries > Legal Services Industry"
+    },
+    {
+      "id": "101",
+      "parent_id": "90",
+      "name": "Logistics and Transportation Industry",
+      "full_path": "Business and Finance > Industries > Logistics and Transportation Industry"
+    },
+    {
+      "id": "103",
+      "parent_id": "90",
+      "name": "Management Consulting Industry",
+      "full_path": "Business and Finance > Industries > Management Consulting Industry"
+    },
+    {
+      "id": "104",
+      "parent_id": "90",
+      "name": "Manufacturing Industry",
+      "full_path": "Business and Finance > Industries > Manufacturing Industry"
+    },
+    {
+      "id": "105",
+      "parent_id": "90",
+      "name": "Mechanical and Industrial Engineering Industry",
+      "full_path": "Business and Finance > Industries > Mechanical and Industrial Engineering Industry"
+    },
+    {
+      "id": "106",
+      "parent_id": "90",
+      "name": "Media Industry",
+      "full_path": "Business and Finance > Industries > Media Industry"
+    },
+    {
+      "id": "107",
+      "parent_id": "90",
+      "name": "Metals Industry",
+      "full_path": "Business and Finance > Industries > Metals Industry"
+    },
+    {
+      "id": "108",
+      "parent_id": "90",
+      "name": "Non-Profit Organizations",
+      "full_path": "Business and Finance > Industries > Non-Profit Organizations"
+    },
+    {
+      "id": "109",
+      "parent_id": "90",
+      "name": "Pharmaceutical Industry",
+      "full_path": "Business and Finance > Industries > Pharmaceutical Industry"
+    },
+    {
+      "id": "110",
+      "parent_id": "90",
+      "name": "Power and Energy Industry",
+      "full_path": "Business and Finance > Industries > Power and Energy Industry"
+    },
+    {
+      "id": "111",
+      "parent_id": "90",
+      "name": "Publishing Industry",
+      "full_path": "Business and Finance > Industries > Publishing Industry"
+    },
+    {
+      "id": "112",
+      "parent_id": "90",
+      "name": "Real Estate Industry",
+      "full_path": "Business and Finance > Industries > Real Estate Industry"
+    },
+    {
+      "id": "114",
+      "parent_id": "90",
+      "name": "Retail Industry",
+      "full_path": "Business and Finance > Industries > Retail Industry"
+    },
+    {
+      "id": "115",
+      "parent_id": "90",
+      "name": "Technology Industry",
+      "full_path": "Business and Finance > Industries > Technology Industry"
+    },
+    {
+      "id": "116",
+      "parent_id": "90",
+      "name": "Telecommunications Industry",
+      "full_path": "Business and Finance > Industries > Telecommunications Industry"
+    },
+    {
+      "id": "123",
+      "parent_id": null,
+      "name": "Careers",
+      "full_path": "Careers"
+    },
+    {
+      "id": "124",
+      "parent_id": "123",
+      "name": "Apprenticeships",
+      "full_path": "Careers > Apprenticeships"
+    },
+    {
+      "id": "125",
+      "parent_id": "123",
+      "name": "Career Advice",
+      "full_path": "Careers > Career Advice"
+    },
+    {
+      "id": "126",
+      "parent_id": "123",
+      "name": "Career Planning",
+      "full_path": "Careers > Career Planning"
+    },
+    {
+      "id": "127",
+      "parent_id": "123",
+      "name": "Job Search",
+      "full_path": "Careers > Job Search"
+    },
+    {
+      "id": "128",
+      "parent_id": "127",
+      "name": "Job Fairs",
+      "full_path": "Careers > Job Search > Job Fairs"
+    },
+    {
+      "id": "129",
+      "parent_id": "127",
+      "name": "Resume Writing and Advice",
+      "full_path": "Careers > Job Search > Resume Writing and Advice"
+    },
+    {
+      "id": "130",
+      "parent_id": "123",
+      "name": "Remote Working",
+      "full_path": "Careers > Remote Working"
+    },
+    {
+      "id": "131",
+      "parent_id": "123",
+      "name": "Vocational Training",
+      "full_path": "Careers > Vocational Training"
+    },
+    {
+      "id": "80DV8O",
+      "parent_id": "602",
+      "name": "Communication",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Communication"
+    },
+    {
+      "id": "380",
+      "parent_id": null,
+      "name": "Crime",
+      "full_path": "Crime"
+    },
+    {
+      "id": "381",
+      "parent_id": null,
+      "name": "Disasters",
+      "full_path": "Disasters"
+    },
+    {
+      "id": "132",
+      "parent_id": null,
+      "name": "Education",
+      "full_path": "Education"
+    },
+    {
+      "id": "133",
+      "parent_id": "132",
+      "name": "Adult Education",
+      "full_path": "Education > Adult Education"
+    },
+    {
+      "id": "137",
+      "parent_id": "132",
+      "name": "College Education",
+      "full_path": "Education > College Education"
+    },
+    {
+      "id": "138",
+      "parent_id": "137",
+      "name": "College Planning",
+      "full_path": "Education > College Education > College Planning"
+    },
+    {
+      "id": "139",
+      "parent_id": "137",
+      "name": "Postgraduate Education",
+      "full_path": "Education > College Education > Postgraduate Education"
+    },
+    {
+      "id": "140",
+      "parent_id": "139",
+      "name": "Professional School",
+      "full_path": "Education > College Education > Postgraduate Education > Professional School"
+    },
+    {
+      "id": "141",
+      "parent_id": "137",
+      "name": "Undergraduate Education",
+      "full_path": "Education > College Education > Undergraduate Education"
+    },
+    {
+      "id": "142",
+      "parent_id": "132",
+      "name": "Early Childhood Education",
+      "full_path": "Education > Early Childhood Education"
+    },
+    {
+      "id": "143",
+      "parent_id": "132",
+      "name": "Educational Assessment",
+      "full_path": "Education > Educational Assessment"
+    },
+    {
+      "id": "144",
+      "parent_id": "143",
+      "name": "Standardized Testing",
+      "full_path": "Education > Educational Assessment > Standardized Testing"
+    },
+    {
+      "id": "145",
+      "parent_id": "132",
+      "name": "Homeschooling",
+      "full_path": "Education > Homeschooling"
+    },
+    {
+      "id": "146",
+      "parent_id": "132",
+      "name": "Homework and Study",
+      "full_path": "Education > Homework and Study"
+    },
+    {
+      "id": "147",
+      "parent_id": "132",
+      "name": "Language Learning",
+      "full_path": "Education > Language Learning"
+    },
+    {
+      "id": "148",
+      "parent_id": "132",
+      "name": "Online Education",
+      "full_path": "Education > Online Education"
+    },
+    {
+      "id": "149",
+      "parent_id": "132",
+      "name": "Primary Education",
+      "full_path": "Education > Primary Education"
+    },
+    {
+      "id": "134",
+      "parent_id": "132",
+      "name": "Private School",
+      "full_path": "Education > Private School"
+    },
+    {
+      "id": "135",
+      "parent_id": "132",
+      "name": "Secondary Education",
+      "full_path": "Education > Secondary Education"
+    },
+    {
+      "id": "136",
+      "parent_id": "132",
+      "name": "Special Education",
+      "full_path": "Education > Special Education"
+    },
+    {
+      "id": "JLBCU7",
+      "parent_id": null,
+      "name": "Entertainment",
+      "full_path": "Entertainment"
+    },
+    {
+      "id": "324",
+      "parent_id": "JLBCU7",
+      "name": "Movies",
+      "full_path": "Entertainment > Movies"
+    },
+    {
+      "id": "338",
+      "parent_id": "JLBCU7",
+      "name": "Music",
+      "full_path": "Entertainment > Music"
+    },
+    {
+      "id": "640",
+      "parent_id": "JLBCU7",
+      "name": "Television",
+      "full_path": "Entertainment > Television"
+    },
+    {
+      "id": "8VZQHL",
+      "parent_id": null,
+      "name": "Events",
+      "full_path": "Events"
+    },
+    {
+      "id": "162",
+      "parent_id": "8VZQHL",
+      "name": "Awards Shows",
+      "full_path": "Events > Awards Shows"
+    },
+    {
+      "id": "180",
+      "parent_id": "8VZQHL",
+      "name": "Business Expos & Conferences",
+      "full_path": "Events > Business Expos & Conferences"
+    },
+    {
+      "id": "185",
+      "parent_id": "8VZQHL",
+      "name": "Fan Conventions",
+      "full_path": "Events > Fan Conventions"
+    },
+    {
+      "id": "186",
+      "parent_id": null,
+      "name": "Family and Relationships",
+      "full_path": "Family and Relationships"
+    },
+    {
+      "id": "187",
+      "parent_id": "186",
+      "name": "Bereavement",
+      "full_path": "Family and Relationships > Bereavement"
+    },
+    {
+      "id": "188",
+      "parent_id": "186",
+      "name": "Dating",
+      "full_path": "Family and Relationships > Dating"
+    },
+    {
+      "id": "189",
+      "parent_id": "186",
+      "name": "Divorce",
+      "full_path": "Family and Relationships > Divorce"
+    },
+    {
+      "id": "190",
+      "parent_id": "186",
+      "name": "Eldercare",
+      "full_path": "Family and Relationships > Eldercare"
+    },
+    {
+      "id": "191",
+      "parent_id": "186",
+      "name": "Marriage and Civil Unions",
+      "full_path": "Family and Relationships > Marriage and Civil Unions"
+    },
+    {
+      "id": "192",
+      "parent_id": "186",
+      "name": "Parenting",
+      "full_path": "Family and Relationships > Parenting"
+    },
+    {
+      "id": "193",
+      "parent_id": "192",
+      "name": "Adoption and Fostering",
+      "full_path": "Family and Relationships > Parenting > Adoption and Fostering"
+    },
+    {
+      "id": "194",
+      "parent_id": "192",
+      "name": "Daycare and Pre-School",
+      "full_path": "Family and Relationships > Parenting > Daycare and Pre-School"
+    },
+    {
+      "id": "195",
+      "parent_id": "192",
+      "name": "Internet Safety",
+      "full_path": "Family and Relationships > Parenting > Internet Safety"
+    },
+    {
+      "id": "196",
+      "parent_id": "192",
+      "name": "Parenting Babies and Toddlers",
+      "full_path": "Family and Relationships > Parenting > Parenting Babies and Toddlers"
+    },
+    {
+      "id": "197",
+      "parent_id": "192",
+      "name": "Parenting Children Aged 4-11",
+      "full_path": "Family and Relationships > Parenting > Parenting Children Aged 4-11"
+    },
+    {
+      "id": "198",
+      "parent_id": "192",
+      "name": "Parenting Teens",
+      "full_path": "Family and Relationships > Parenting > Parenting Teens"
+    },
+    {
+      "id": "199",
+      "parent_id": "192",
+      "name": "Special Needs Kids",
+      "full_path": "Family and Relationships > Parenting > Special Needs Kids"
+    },
+    {
+      "id": "200",
+      "parent_id": "186",
+      "name": "Single Life",
+      "full_path": "Family and Relationships > Single Life"
+    },
+    {
+      "id": "201",
+      "parent_id": null,
+      "name": "Fine Art",
+      "full_path": "Fine Art"
+    },
+    {
+      "id": "202",
+      "parent_id": "201",
+      "name": "Costume",
+      "full_path": "Fine Art > Costume"
+    },
+    {
+      "id": "203",
+      "parent_id": "201",
+      "name": "Dance",
+      "full_path": "Fine Art > Dance"
+    },
+    {
+      "id": "204",
+      "parent_id": "201",
+      "name": "Design",
+      "full_path": "Fine Art > Design"
+    },
+    {
+      "id": "205",
+      "parent_id": "201",
+      "name": "Digital Arts",
+      "full_path": "Fine Art > Digital Arts"
+    },
+    {
+      "id": "206",
+      "parent_id": "201",
+      "name": "Fine Art Photography",
+      "full_path": "Fine Art > Fine Art Photography"
+    },
+    {
+      "id": "207",
+      "parent_id": "201",
+      "name": "Modern Art",
+      "full_path": "Fine Art > Modern Art"
+    },
+    {
+      "id": "208",
+      "parent_id": "201",
+      "name": "Opera",
+      "full_path": "Fine Art > Opera"
+    },
+    {
+      "id": "209",
+      "parent_id": "201",
+      "name": "Theater",
+      "full_path": "Fine Art > Theater"
+    },
+    {
+      "id": "210",
+      "parent_id": null,
+      "name": "Food & Drink",
+      "full_path": "Food & Drink"
+    },
+    {
+      "id": "211",
+      "parent_id": "210",
+      "name": "Alcoholic Beverages",
+      "full_path": "Food & Drink > Alcoholic Beverages"
+    },
+    {
+      "id": "215",
+      "parent_id": "210",
+      "name": "Barbecues and Grilling",
+      "full_path": "Food & Drink > Barbecues and Grilling"
+    },
+    {
+      "id": "216",
+      "parent_id": "210",
+      "name": "Cooking",
+      "full_path": "Food & Drink > Cooking"
+    },
+    {
+      "id": "217",
+      "parent_id": "210",
+      "name": "Desserts and Baking",
+      "full_path": "Food & Drink > Desserts and Baking"
+    },
+    {
+      "id": "218",
+      "parent_id": "210",
+      "name": "Dining Out",
+      "full_path": "Food & Drink > Dining Out"
+    },
+    {
+      "id": "219",
+      "parent_id": "210",
+      "name": "Food Allergies",
+      "full_path": "Food & Drink > Food Allergies"
+    },
+    {
+      "id": "220",
+      "parent_id": "210",
+      "name": "Food Movements",
+      "full_path": "Food & Drink > Food Movements"
+    },
+    {
+      "id": "221",
+      "parent_id": "210",
+      "name": "Healthy Cooking and Eating",
+      "full_path": "Food & Drink > Healthy Cooking and Eating"
+    },
+    {
+      "id": "222",
+      "parent_id": "210",
+      "name": "Non-Alcoholic Beverages",
+      "full_path": "Food & Drink > Non-Alcoholic Beverages"
+    },
+    {
+      "id": "212",
+      "parent_id": "210",
+      "name": "Vegan Diets",
+      "full_path": "Food & Drink > Vegan Diets"
+    },
+    {
+      "id": "213",
+      "parent_id": "210",
+      "name": "Vegetarian Diets",
+      "full_path": "Food & Drink > Vegetarian Diets"
+    },
+    {
+      "id": "214",
+      "parent_id": "210",
+      "name": "World Cuisines",
+      "full_path": "Food & Drink > World Cuisines"
+    },
+    {
+      "id": "SPSHQ5",
+      "parent_id": null,
+      "name": "Genres",
+      "full_path": "Genres"
+    },
+    {
+      "id": "VKIV56",
+      "parent_id": "SPSHQ5",
+      "name": "Nature",
+      "full_path": "Genres > Nature"
+    },
+    {
+      "id": "325",
+      "parent_id": "SPSHQ5",
+      "name": "Action/Adventure",
+      "full_path": "Genres > Action/Adventure"
+    },
+    {
+      "id": "641",
+      "parent_id": "SPSHQ5",
+      "name": "Animation & Anime",
+      "full_path": "Genres > Animation & Anime"
+    },
+    {
+      "id": "44",
+      "parent_id": "SPSHQ5",
+      "name": "Biographies",
+      "full_path": "Genres > Biographies"
+    },
+    {
+      "id": "646",
+      "parent_id": "SPSHQ5",
+      "name": "Comedy",
+      "full_path": "Genres > Comedy"
+    },
+    {
+      "id": "332",
+      "parent_id": "SPSHQ5",
+      "name": "Documentary",
+      "full_path": "Genres > Documentary"
+    },
+    {
+      "id": "647",
+      "parent_id": "SPSHQ5",
+      "name": "Drama",
+      "full_path": "Genres > Drama"
+    },
+    {
+      "id": "648",
+      "parent_id": "SPSHQ5",
+      "name": "Factual",
+      "full_path": "Genres > Factual"
+    },
+    {
+      "id": "645",
+      "parent_id": "SPSHQ5",
+      "name": "Family/Children",
+      "full_path": "Genres > Family/Children"
+    },
+    {
+      "id": "335",
+      "parent_id": "SPSHQ5",
+      "name": "Fantasy",
+      "full_path": "Genres > Fantasy"
+    },
+    {
+      "id": "EZWB7V",
+      "parent_id": "SPSHQ5",
+      "name": "History",
+      "full_path": "Genres > History"
+    },
+    {
+      "id": "649",
+      "parent_id": "SPSHQ5",
+      "name": "Holiday",
+      "full_path": "Genres > Holiday"
+    },
+    {
+      "id": "336",
+      "parent_id": "SPSHQ5",
+      "name": "Horror",
+      "full_path": "Genres > Horror"
+    },
+    {
+      "id": "TIFQA5",
+      "parent_id": "SPSHQ5",
+      "name": "Lifestyle",
+      "full_path": "Genres > Lifestyle"
+    },
+    {
+      "id": "650",
+      "parent_id": "SPSHQ5",
+      "name": "Music Video",
+      "full_path": "Genres > Music Video"
+    },
+    {
+      "id": "156",
+      "parent_id": "SPSHQ5",
+      "name": "Musicals",
+      "full_path": "Genres > Musical"
+    },
+    {
+      "id": "331",
+      "parent_id": "SPSHQ5",
+      "name": "Mystery",
+      "full_path": "Genres > Mystery"
+    },
+    {
+      "id": "651",
+      "parent_id": "SPSHQ5",
+      "name": "Reality TV",
+      "full_path": "Genres > Reality TV"
+    },
+    {
+      "id": "326",
+      "parent_id": "SPSHQ5",
+      "name": "Romance",
+      "full_path": "Genres > Romance"
+    },
+    {
+      "id": "652",
+      "parent_id": "SPSHQ5",
+      "name": "Science Fiction",
+      "full_path": "Genres > Science Fiction"
+    },
+    {
+      "id": "642",
+      "parent_id": "SPSHQ5",
+      "name": "Soap Opera",
+      "full_path": "Genres > Soap Opera"
+    },
+    {
+      "id": "643",
+      "parent_id": "SPSHQ5",
+      "name": "Special Interest (Indie/Art House)",
+      "full_path": "Genres > Special Interest (Indie/Art House)"
+    },
+    {
+      "id": "370",
+      "parent_id": "SPSHQ5",
+      "name": "Sports Radio",
+      "full_path": "Genres > Sports Radio"
+    },
+    {
+      "id": "371",
+      "parent_id": "SPSHQ5",
+      "name": "Talk Radio",
+      "full_path": "Genres > Talk Radio"
+    },
+    {
+      "id": "376",
+      "parent_id": "371",
+      "name": "Public Radio",
+      "full_path": "Genres > Talk Radio > Public Radio"
+    },
+    {
+      "id": "A0AH3G",
+      "parent_id": "SPSHQ5",
+      "name": "Talk Show",
+      "full_path": "Genres > Talk Show"
+    },
+    {
+      "id": "KHPC5A",
+      "parent_id": "SPSHQ5",
+      "name": "True Crime",
+      "full_path": "Genres > True Crime"
+    },
+    {
+      "id": "KHPC6A",
+      "parent_id": "SPSHQ5",
+      "name": "Western",
+      "full_path": "Genres > Western"
+    },
+    {
+      "id": "51",
+      "parent_id": "SPSHQ5",
+      "name": "Young Adult",
+      "full_path": "Genres > Young Adult"
+    },
+    {
+      "id": "223",
+      "parent_id": null,
+      "name": "Healthy Living",
+      "full_path": "Healthy Living"
+    },
+    {
+      "id": "224",
+      "parent_id": "223",
+      "name": "Children's Health",
+      "full_path": "Healthy Living > Children's Health"
+    },
+    {
+      "id": "225",
+      "parent_id": "223",
+      "name": "Fitness and Exercise",
+      "full_path": "Healthy Living > Fitness and Exercise"
+    },
+    {
+      "id": "226",
+      "parent_id": "225",
+      "name": "Participant Sports",
+      "full_path": "Healthy Living > Fitness and Exercise > Participant Sports"
+    },
+    {
+      "id": "227",
+      "parent_id": "225",
+      "name": "Running and Jogging",
+      "full_path": "Healthy Living > Fitness and Exercise > Running and Jogging"
+    },
+    {
+      "id": "228",
+      "parent_id": "223",
+      "name": "Men's Health",
+      "full_path": "Healthy Living > Men's Health"
+    },
+    {
+      "id": "229",
+      "parent_id": "223",
+      "name": "Nutrition",
+      "full_path": "Healthy Living > Nutrition"
+    },
+    {
+      "id": "230",
+      "parent_id": "223",
+      "name": "Senior Health",
+      "full_path": "Healthy Living > Senior Health"
+    },
+    {
+      "id": "231",
+      "parent_id": "223",
+      "name": "Weight Loss",
+      "full_path": "Healthy Living > Weight Loss"
+    },
+    {
+      "id": "232",
+      "parent_id": "223",
+      "name": "Wellness",
+      "full_path": "Healthy Living > Wellness"
+    },
+    {
+      "id": "233",
+      "parent_id": "232",
+      "name": "Alternative Medicine",
+      "full_path": "Healthy Living > Wellness > Alternative Medicine"
+    },
+    {
+      "id": "234",
+      "parent_id": "233",
+      "name": "Herbs and Supplements",
+      "full_path": "Healthy Living > Wellness > Alternative Medicine > Herbs and Supplements"
+    },
+    {
+      "id": "235",
+      "parent_id": "233",
+      "name": "Holistic Health",
+      "full_path": "Healthy Living > Wellness > Alternative Medicine > Holistic Health"
+    },
+    {
+      "id": "236",
+      "parent_id": "232",
+      "name": "Physical Therapy",
+      "full_path": "Healthy Living > Wellness > Physical Therapy"
+    },
+    {
+      "id": "237",
+      "parent_id": "232",
+      "name": "Smoking Cessation",
+      "full_path": "Healthy Living > Wellness > Smoking Cessation"
+    },
+    {
+      "id": "238",
+      "parent_id": "223",
+      "name": "Women's Health",
+      "full_path": "Healthy Living > Women's Health"
+    },
+    {
+      "id": "239",
+      "parent_id": null,
+      "name": "Hobbies & Interests",
+      "full_path": "Hobbies & Interests"
+    },
+    {
+      "id": "240",
+      "parent_id": "239",
+      "name": "Antiquing and Antiques",
+      "full_path": "Hobbies & Interests > Antiquing and Antiques"
+    },
+    {
+      "id": "248",
+      "parent_id": "239",
+      "name": "Arts and Crafts",
+      "full_path": "Hobbies & Interests > Arts and Crafts"
+    },
+    {
+      "id": "249",
+      "parent_id": "248",
+      "name": "Beadwork",
+      "full_path": "Hobbies & Interests > Arts and Crafts > Beadwork"
+    },
+    {
+      "id": "250",
+      "parent_id": "248",
+      "name": "Candle and Soap Making",
+      "full_path": "Hobbies & Interests > Arts and Crafts > Candle and Soap Making"
+    },
+    {
+      "id": "251",
+      "parent_id": "248",
+      "name": "Drawing and Sketching",
+      "full_path": "Hobbies & Interests > Arts and Crafts > Drawing and Sketching"
+    },
+    {
+      "id": "252",
+      "parent_id": "248",
+      "name": "Jewelry Making",
+      "full_path": "Hobbies & Interests > Arts and Crafts > Jewelry Making"
+    },
+    {
+      "id": "253",
+      "parent_id": "248",
+      "name": "Needlework",
+      "full_path": "Hobbies & Interests > Arts and Crafts > Needlework"
+    },
+    {
+      "id": "254",
+      "parent_id": "248",
+      "name": "Painting",
+      "full_path": "Hobbies & Interests > Arts and Crafts > Painting"
+    },
+    {
+      "id": "255",
+      "parent_id": "248",
+      "name": "Photography",
+      "full_path": "Hobbies & Interests > Arts and Crafts > Photography"
+    },
+    {
+      "id": "256",
+      "parent_id": "248",
+      "name": "Scrapbooking",
+      "full_path": "Hobbies & Interests > Arts and Crafts > Scrapbooking"
+    },
+    {
+      "id": "257",
+      "parent_id": "248",
+      "name": "Woodworking",
+      "full_path": "Hobbies & Interests > Arts and Crafts > Woodworking"
+    },
+    {
+      "id": "258",
+      "parent_id": "239",
+      "name": "Beekeeping",
+      "full_path": "Hobbies & Interests > Beekeeping"
+    },
+    {
+      "id": "259",
+      "parent_id": "239",
+      "name": "Birdwatching",
+      "full_path": "Hobbies & Interests > Birdwatching"
+    },
+    {
+      "id": "260",
+      "parent_id": "239",
+      "name": "Cigars",
+      "full_path": "Hobbies & Interests > Cigars"
+    },
+    {
+      "id": "261",
+      "parent_id": "239",
+      "name": "Collecting",
+      "full_path": "Hobbies & Interests > Collecting"
+    },
+    {
+      "id": "262",
+      "parent_id": "261",
+      "name": "Comic Books",
+      "full_path": "Hobbies & Interests > Collecting > Comic Books"
+    },
+    {
+      "id": "263",
+      "parent_id": "261",
+      "name": "Stamps and Coins",
+      "full_path": "Hobbies & Interests > Collecting > Stamps and Coins"
+    },
+    {
+      "id": "264",
+      "parent_id": "239",
+      "name": "Content Production",
+      "full_path": "Hobbies & Interests > Content Production"
+    },
+    {
+      "id": "265",
+      "parent_id": "264",
+      "name": "Audio Production",
+      "full_path": "Hobbies & Interests > Content Production > Audio Production"
+    },
+    {
+      "id": "266",
+      "parent_id": "264",
+      "name": "Freelance Writing",
+      "full_path": "Hobbies & Interests > Content Production > Freelance Writing"
+    },
+    {
+      "id": "267",
+      "parent_id": "264",
+      "name": "Screenwriting",
+      "full_path": "Hobbies & Interests > Content Production > Screenwriting"
+    },
+    {
+      "id": "268",
+      "parent_id": "264",
+      "name": "Video Production",
+      "full_path": "Hobbies & Interests > Content Production > Video Production"
+    },
+    {
+      "id": "269",
+      "parent_id": "239",
+      "name": "Games and Puzzles",
+      "full_path": "Hobbies & Interests > Games and Puzzles"
+    },
+    {
+      "id": "270",
+      "parent_id": "269",
+      "name": "Board Games and Puzzles",
+      "full_path": "Hobbies & Interests > Games and Puzzles > Board Games and Puzzles"
+    },
+    {
+      "id": "271",
+      "parent_id": "269",
+      "name": "Card Games",
+      "full_path": "Hobbies & Interests > Games and Puzzles > Card Games"
+    },
+    {
+      "id": "272",
+      "parent_id": "269",
+      "name": "Roleplaying Games",
+      "full_path": "Hobbies & Interests > Games and Puzzles > Roleplaying Games"
+    },
+    {
+      "id": "273",
+      "parent_id": "239",
+      "name": "Genealogy and Ancestry",
+      "full_path": "Hobbies & Interests > Genealogy and Ancestry"
+    },
+    {
+      "id": "241",
+      "parent_id": "239",
+      "name": "Magic and Illusion",
+      "full_path": "Hobbies & Interests > Magic and Illusion"
+    },
+    {
+      "id": "242",
+      "parent_id": "239",
+      "name": "Model Toys",
+      "full_path": "Hobbies & Interests > Model Toys"
+    },
+    {
+      "id": "243",
+      "parent_id": "239",
+      "name": "Musical Instruments",
+      "full_path": "Hobbies & Interests > Musical Instruments"
+    },
+    {
+      "id": "244",
+      "parent_id": "239",
+      "name": "Paranormal Phenomena",
+      "full_path": "Hobbies & Interests > Paranormal Phenomena"
+    },
+    {
+      "id": "245",
+      "parent_id": "239",
+      "name": "Radio Control",
+      "full_path": "Hobbies & Interests > Radio Control"
+    },
+    {
+      "id": "246",
+      "parent_id": "239",
+      "name": "Sci-fi and Fantasy",
+      "full_path": "Hobbies & Interests > Sci-fi and Fantasy"
+    },
+    {
+      "id": "247",
+      "parent_id": "239",
+      "name": "Workshops and Classes",
+      "full_path": "Hobbies & Interests > Workshops and Classes"
+    },
+    {
+      "id": "1KXCLD",
+      "parent_id": null,
+      "name": "Holidays",
+      "full_path": "Holidays"
+    },
+    {
+      "id": "157",
+      "parent_id": "1KXCLD",
+      "name": "National & Civic Holidays",
+      "full_path": "Holidays > National & Civic Holidays"
+    },
+    {
+      "id": "274",
+      "parent_id": null,
+      "name": "Home & Garden",
+      "full_path": "Home & Garden"
+    },
+    {
+      "id": "275",
+      "parent_id": "274",
+      "name": "Gardening",
+      "full_path": "Home & Garden > Gardening"
+    },
+    {
+      "id": "278",
+      "parent_id": "274",
+      "name": "Home Appliances",
+      "full_path": "Home & Garden > Home Appliances"
+    },
+    {
+      "id": "279",
+      "parent_id": "274",
+      "name": "Home Entertaining",
+      "full_path": "Home & Garden > Home Entertaining"
+    },
+    {
+      "id": "280",
+      "parent_id": "274",
+      "name": "Home Improvement",
+      "full_path": "Home & Garden > Home Improvement"
+    },
+    {
+      "id": "281",
+      "parent_id": "274",
+      "name": "Home Security",
+      "full_path": "Home & Garden > Home Security"
+    },
+    {
+      "id": "282",
+      "parent_id": "274",
+      "name": "Indoor Environmental Quality",
+      "full_path": "Home & Garden > Indoor Environmental Quality"
+    },
+    {
+      "id": "283",
+      "parent_id": "274",
+      "name": "Interior Decorating",
+      "full_path": "Home & Garden > Interior Decorating"
+    },
+    {
+      "id": "284",
+      "parent_id": "274",
+      "name": "Landscaping",
+      "full_path": "Home & Garden > Landscaping"
+    },
+    {
+      "id": "285",
+      "parent_id": "274",
+      "name": "Outdoor Decorating",
+      "full_path": "Home & Garden > Outdoor Decorating"
+    },
+    {
+      "id": "276",
+      "parent_id": "274",
+      "name": "Remodeling & Construction",
+      "full_path": "Home & Garden > Remodeling & Construction"
+    },
+    {
+      "id": "277",
+      "parent_id": "274",
+      "name": "Smart Home",
+      "full_path": "Home & Garden > Smart Home"
+    },
+    {
+      "id": "383",
+      "parent_id": null,
+      "name": "Law",
+      "full_path": "Law"
+    },
+    {
+      "id": "WQC6HR",
+      "parent_id": "602",
+      "name": "Maps & Navigation",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Maps & Navigation"
+    },
+    {
+      "id": "286",
+      "parent_id": null,
+      "name": "Medical Health",
+      "full_path": "Medical Health"
+    },
+    {
+      "id": "323",
+      "parent_id": "286",
+      "name": "Cosmetic Medical Services",
+      "full_path": "Medical Health > Cosmetic Medical Services"
+    },
+    {
+      "id": "287",
+      "parent_id": "286",
+      "name": "Diseases and Conditions",
+      "full_path": "Medical Health > Diseases and Conditions"
+    },
+    {
+      "id": "288",
+      "parent_id": "287",
+      "name": "Allergies",
+      "full_path": "Medical Health > Diseases and Conditions > Allergies"
+    },
+    {
+      "id": "306",
+      "parent_id": "287",
+      "name": "Blood Disorders",
+      "full_path": "Medical Health > Diseases and Conditions > Blood Disorders"
+    },
+    {
+      "id": "312",
+      "parent_id": "287",
+      "name": "Bone and Joint Conditions",
+      "full_path": "Medical Health > Diseases and Conditions > Bone and Joint Conditions"
+    },
+    {
+      "id": "313",
+      "parent_id": "287",
+      "name": "Brain and Nervous System Disorders",
+      "full_path": "Medical Health > Diseases and Conditions > Brain and Nervous System Disorders"
+    },
+    {
+      "id": "314",
+      "parent_id": "287",
+      "name": "Cancer",
+      "full_path": "Medical Health > Diseases and Conditions > Cancer"
+    },
+    {
+      "id": "315",
+      "parent_id": "287",
+      "name": "Cold and Flu",
+      "full_path": "Medical Health > Diseases and Conditions > Cold and Flu"
+    },
+    {
+      "id": "316",
+      "parent_id": "287",
+      "name": "Dental Health",
+      "full_path": "Medical Health > Diseases and Conditions > Dental Health"
+    },
+    {
+      "id": "317",
+      "parent_id": "287",
+      "name": "Diabetes",
+      "full_path": "Medical Health > Diseases and Conditions > Diabetes"
+    },
+    {
+      "id": "318",
+      "parent_id": "287",
+      "name": "Digestive Disorders",
+      "full_path": "Medical Health > Diseases and Conditions > Digestive Disorders"
+    },
+    {
+      "id": "289",
+      "parent_id": "287",
+      "name": "Ear, Nose and Throat Conditions",
+      "full_path": "Medical Health > Diseases and Conditions > Ear, Nose and Throat Conditions"
+    },
+    {
+      "id": "290",
+      "parent_id": "287",
+      "name": "Endocrine and Metabolic Diseases",
+      "full_path": "Medical Health > Diseases and Conditions > Endocrine and Metabolic Diseases"
+    },
+    {
+      "id": "291",
+      "parent_id": "290",
+      "name": "Hormonal Disorders",
+      "full_path": "Medical Health > Diseases and Conditions > Endocrine and Metabolic Diseases > Hormonal Disorders"
+    },
+    {
+      "id": "292",
+      "parent_id": "290",
+      "name": "Menopause",
+      "full_path": "Medical Health > Diseases and Conditions > Endocrine and Metabolic Diseases > Menopause"
+    },
+    {
+      "id": "293",
+      "parent_id": "290",
+      "name": "Thyroid Disorders",
+      "full_path": "Medical Health > Diseases and Conditions > Endocrine and Metabolic Diseases > Thyroid Disorders"
+    },
+    {
+      "id": "294",
+      "parent_id": "287",
+      "name": "Eye and Vision Conditions",
+      "full_path": "Medical Health > Diseases and Conditions > Eye and Vision Conditions"
+    },
+    {
+      "id": "295",
+      "parent_id": "287",
+      "name": "Foot Health",
+      "full_path": "Medical Health > Diseases and Conditions > Foot Health"
+    },
+    {
+      "id": "296",
+      "parent_id": "287",
+      "name": "Heart and Cardiovascular Diseases",
+      "full_path": "Medical Health > Diseases and Conditions > Heart and Cardiovascular Diseases"
+    },
+    {
+      "id": "297",
+      "parent_id": "287",
+      "name": "Infectious Diseases",
+      "full_path": "Medical Health > Diseases and Conditions > Infectious Diseases"
+    },
+    {
+      "id": "298",
+      "parent_id": "287",
+      "name": "Injuries",
+      "full_path": "Medical Health > Diseases and Conditions > Injuries"
+    },
+    {
+      "id": "299",
+      "parent_id": "298",
+      "name": "First Aid",
+      "full_path": "Medical Health > Diseases and Conditions > Injuries > First Aid"
+    },
+    {
+      "id": "300",
+      "parent_id": "287",
+      "name": "Lung and Respiratory Health",
+      "full_path": "Medical Health > Diseases and Conditions > Lung and Respiratory Health"
+    },
+    {
+      "id": "301",
+      "parent_id": "287",
+      "name": "Mental Health",
+      "full_path": "Medical Health > Diseases and Conditions > Mental Health"
+    },
+    {
+      "id": "302",
+      "parent_id": "287",
+      "name": "Reproductive Health",
+      "full_path": "Medical Health > Diseases and Conditions > Reproductive Health"
+    },
+    {
+      "id": "303",
+      "parent_id": "302",
+      "name": "Birth Control",
+      "full_path": "Medical Health > Diseases and Conditions > Reproductive Health > Birth Control"
+    },
+    {
+      "id": "304",
+      "parent_id": "302",
+      "name": "Infertility",
+      "full_path": "Medical Health > Diseases and Conditions > Reproductive Health > Infertility"
+    },
+    {
+      "id": "305",
+      "parent_id": "302",
+      "name": "Pregnancy",
+      "full_path": "Medical Health > Diseases and Conditions > Reproductive Health > Pregnancy"
+    },
+    {
+      "id": "307",
+      "parent_id": "287",
+      "name": "Sexual Health",
+      "full_path": "Medical Health > Diseases and Conditions > Sexual Health"
+    },
+    {
+      "id": "308",
+      "parent_id": "307",
+      "name": "Sexual Conditions",
+      "full_path": "Medical Health > Diseases and Conditions > Sexual Health > Sexual Conditions"
+    },
+    {
+      "id": "309",
+      "parent_id": "287",
+      "name": "Skin and Dermatology",
+      "full_path": "Medical Health > Diseases and Conditions > Skin and Dermatology"
+    },
+    {
+      "id": "310",
+      "parent_id": "287",
+      "name": "Sleep Disorders",
+      "full_path": "Medical Health > Diseases and Conditions > Sleep Disorders"
+    },
+    {
+      "id": "311",
+      "parent_id": "287",
+      "name": "Substance Abuse",
+      "full_path": "Medical Health > Diseases and Conditions > Substance Abuse"
+    },
+    {
+      "id": "319",
+      "parent_id": "286",
+      "name": "Medical Tests",
+      "full_path": "Medical Health > Medical Tests"
+    },
+    {
+      "id": "320",
+      "parent_id": "286",
+      "name": "Pharmaceutical Drugs",
+      "full_path": "Medical Health > Pharmaceutical Drugs"
+    },
+    {
+      "id": "321",
+      "parent_id": "286",
+      "name": "Surgery",
+      "full_path": "Medical Health > Surgery"
+    },
+    {
+      "id": "322",
+      "parent_id": "286",
+      "name": "Vaccines",
+      "full_path": "Medical Health > Vaccines"
+    },
+    {
+      "id": "342",
+      "parent_id": "338",
+      "name": "Adult Album Alternative",
+      "full_path": "Entertainment > Music > Adult Album Alternative"
+    },
+    {
+      "id": "339",
+      "parent_id": "338",
+      "name": "Adult Contemporary Music",
+      "full_path": "Entertainment > Music > Adult Contemporary Music"
+    },
+    {
+      "id": "340",
+      "parent_id": "339",
+      "name": "Soft AC Music",
+      "full_path": "Entertainment > Music > Adult Contemporary Music > Soft AC Music"
+    },
+    {
+      "id": "341",
+      "parent_id": "339",
+      "name": "Urban AC Music",
+      "full_path": "Entertainment > Music > Adult Contemporary Music > Urban AC Music"
+    },
+    {
+      "id": "343",
+      "parent_id": "338",
+      "name": "Alternative Music",
+      "full_path": "Entertainment > Music > Alternative Music"
+    },
+    {
+      "id": "360",
+      "parent_id": "338",
+      "name": "Blues",
+      "full_path": "Entertainment > Music > Blues"
+    },
+    {
+      "id": "344",
+      "parent_id": "338",
+      "name": "Children's Music",
+      "full_path": "Entertainment > Music > Children's Music"
+    },
+    {
+      "id": "345",
+      "parent_id": "338",
+      "name": "Classic Hits",
+      "full_path": "Entertainment > Music > Classic Hits"
+    },
+    {
+      "id": "346",
+      "parent_id": "338",
+      "name": "Classical Music",
+      "full_path": "Entertainment > Music > Classical Music"
+    },
+    {
+      "id": "347",
+      "parent_id": "338",
+      "name": "College Radio",
+      "full_path": "Entertainment > Music > College Radio"
+    },
+    {
+      "id": "348",
+      "parent_id": "338",
+      "name": "Comedy (Music and Audio)",
+      "full_path": "Entertainment > Music > Comedy (Music and Audio)"
+    },
+    {
+      "id": "349",
+      "parent_id": "338",
+      "name": "Contemporary Hits/Pop/Top 40",
+      "full_path": "Entertainment > Music > Contemporary Hits/Pop/Top 40"
+    },
+    {
+      "id": "350",
+      "parent_id": "338",
+      "name": "Country Music",
+      "full_path": "Entertainment > Music > Country Music"
+    },
+    {
+      "id": "351",
+      "parent_id": "338",
+      "name": "Dance and Electronic Music",
+      "full_path": "Entertainment > Music > Dance and Electronic Music"
+    },
+    {
+      "id": "354",
+      "parent_id": "338",
+      "name": "Gospel Music",
+      "full_path": "Entertainment > Music > Gospel Music"
+    },
+    {
+      "id": "355",
+      "parent_id": "338",
+      "name": "Hip Hop Music",
+      "full_path": "Entertainment > Music > Hip Hop Music"
+    },
+    {
+      "id": "356",
+      "parent_id": "338",
+      "name": "Inspirational/New Age Music",
+      "full_path": "Entertainment > Music > Inspirational/New Age Music"
+    },
+    {
+      "id": "357",
+      "parent_id": "338",
+      "name": "Jazz",
+      "full_path": "Entertainment > Music > Jazz"
+    },
+    {
+      "id": "358",
+      "parent_id": "338",
+      "name": "Oldies/Adult Standards",
+      "full_path": "Entertainment > Music > Oldies/Adult Standards"
+    },
+    {
+      "id": "362",
+      "parent_id": "338",
+      "name": "R&B/Soul/Funk",
+      "full_path": "Entertainment > Music > R&B/Soul/Funk"
+    },
+    {
+      "id": "359",
+      "parent_id": "338",
+      "name": "Reggae",
+      "full_path": "Entertainment > Music > Reggae"
+    },
+    {
+      "id": "361",
+      "parent_id": "338",
+      "name": "Religious (Music and Audio)",
+      "full_path": "Entertainment > Music > Religious (Music and Audio)"
+    },
+    {
+      "id": "363",
+      "parent_id": "338",
+      "name": "Rock Music",
+      "full_path": "Entertainment > Music > Rock Music"
+    },
+    {
+      "id": "364",
+      "parent_id": "363",
+      "name": "Album-oriented Rock",
+      "full_path": "Entertainment > Music > Rock Music > Album-oriented Rock"
+    },
+    {
+      "id": "365",
+      "parent_id": "363",
+      "name": "Alternative Rock",
+      "full_path": "Entertainment > Music > Rock Music > Alternative Rock"
+    },
+    {
+      "id": "366",
+      "parent_id": "363",
+      "name": "Classic Rock",
+      "full_path": "Entertainment > Music > Rock Music > Classic Rock"
+    },
+    {
+      "id": "367",
+      "parent_id": "363",
+      "name": "Hard Rock",
+      "full_path": "Entertainment > Music > Rock Music > Hard Rock"
+    },
+    {
+      "id": "368",
+      "parent_id": "363",
+      "name": "Soft Rock",
+      "full_path": "Entertainment > Music > Rock Music > Soft Rock"
+    },
+    {
+      "id": "353",
+      "parent_id": "338",
+      "name": "Songwriters/Folk",
+      "full_path": "Entertainment > Music > Songwriters/Folk"
+    },
+    {
+      "id": "369",
+      "parent_id": "338",
+      "name": "Soundtracks, TV and Showtunes",
+      "full_path": "Entertainment > Music > Soundtracks, TV and Showtunes"
+    },
+    {
+      "id": "352",
+      "parent_id": "338",
+      "name": "World/International Music",
+      "full_path": "Entertainment > Music > World/International Music"
+    },
+    {
+      "id": "377",
+      "parent_id": "338",
+      "name": "Urban Contemporary Music",
+      "full_path": "Entertainment > Music > Urban Contemporary Music"
+    },
+    {
+      "id": "378",
+      "parent_id": "338",
+      "name": "Variety (Music and Audio)",
+      "full_path": "Entertainment > Music > Variety (Music and Audio)"
+    },
+    {
+      "id": "163",
+      "parent_id": null,
+      "name": "Personal Celebrations & Life Events",
+      "full_path": "Personal Celebrations & Life Events"
+    },
+    {
+      "id": "164",
+      "parent_id": "163",
+      "name": "Anniversary",
+      "full_path": "Personal Celebrations & Life Events > Anniversary"
+    },
+    {
+      "id": "166",
+      "parent_id": "163",
+      "name": "Baby Shower",
+      "full_path": "Personal Celebrations & Life Events > Baby Shower"
+    },
+    {
+      "id": "167",
+      "parent_id": "163",
+      "name": "Bachelor Party",
+      "full_path": "Personal Celebrations & Life Events > Bachelor Party"
+    },
+    {
+      "id": "168",
+      "parent_id": "163",
+      "name": "Bachelorette Party",
+      "full_path": "Personal Celebrations & Life Events > Bachelorette Party"
+    },
+    {
+      "id": "169",
+      "parent_id": "163",
+      "name": "Birth",
+      "full_path": "Personal Celebrations & Life Events > Birth"
+    },
+    {
+      "id": "170",
+      "parent_id": "163",
+      "name": "Birthday",
+      "full_path": "Personal Celebrations & Life Events > Birthday"
+    },
+    {
+      "id": "171",
+      "parent_id": "163",
+      "name": "Funeral",
+      "full_path": "Personal Celebrations & Life Events > Funeral"
+    },
+    {
+      "id": "172",
+      "parent_id": "163",
+      "name": "Graduation",
+      "full_path": "Personal Celebrations & Life Events > Graduation"
+    },
+    {
+      "id": "173",
+      "parent_id": "163",
+      "name": "Prom",
+      "full_path": "Personal Celebrations & Life Events > Prom"
+    },
+    {
+      "id": "165",
+      "parent_id": "163",
+      "name": "Wedding",
+      "full_path": "Personal Celebrations & Life Events > Wedding"
+    },
+    {
+      "id": "391",
+      "parent_id": null,
+      "name": "Personal Finance",
+      "full_path": "Personal Finance"
+    },
+    {
+      "id": "392",
+      "parent_id": "391",
+      "name": "Consumer Banking",
+      "full_path": "Personal Finance > Consumer Banking"
+    },
+    {
+      "id": "393",
+      "parent_id": "391",
+      "name": "Financial Assistance",
+      "full_path": "Personal Finance > Financial Assistance"
+    },
+    {
+      "id": "394",
+      "parent_id": "393",
+      "name": "Government Support and Welfare",
+      "full_path": "Personal Finance > Financial Assistance > Government Support and Welfare"
+    },
+    {
+      "id": "395",
+      "parent_id": "393",
+      "name": "Student Financial Aid",
+      "full_path": "Personal Finance > Financial Assistance > Student Financial Aid"
+    },
+    {
+      "id": "396",
+      "parent_id": "391",
+      "name": "Financial Planning",
+      "full_path": "Personal Finance > Financial Planning"
+    },
+    {
+      "id": "397",
+      "parent_id": "391",
+      "name": "Frugal Living",
+      "full_path": "Personal Finance > Frugal Living"
+    },
+    {
+      "id": "417",
+      "parent_id": "391",
+      "name": "Home Utilities",
+      "full_path": "Personal Finance > Home Utilities"
+    },
+    {
+      "id": "418",
+      "parent_id": "417",
+      "name": "Gas and Electric",
+      "full_path": "Personal Finance > Home Utilities > Gas and Electric"
+    },
+    {
+      "id": "419",
+      "parent_id": "417",
+      "name": "Internet Service Providers",
+      "full_path": "Personal Finance > Home Utilities > Internet Service Providers"
+    },
+    {
+      "id": "420",
+      "parent_id": "417",
+      "name": "Phone Services",
+      "full_path": "Personal Finance > Home Utilities > Phone Services"
+    },
+    {
+      "id": "421",
+      "parent_id": "417",
+      "name": "Water Services",
+      "full_path": "Personal Finance > Home Utilities > Water Services"
+    },
+    {
+      "id": "398",
+      "parent_id": "391",
+      "name": "Insurance",
+      "full_path": "Personal Finance > Insurance"
+    },
+    {
+      "id": "399",
+      "parent_id": "398",
+      "name": "Health Insurance",
+      "full_path": "Personal Finance > Insurance > Health Insurance"
+    },
+    {
+      "id": "400",
+      "parent_id": "398",
+      "name": "Home Insurance",
+      "full_path": "Personal Finance > Insurance > Home Insurance"
+    },
+    {
+      "id": "401",
+      "parent_id": "398",
+      "name": "Life Insurance",
+      "full_path": "Personal Finance > Insurance > Life Insurance"
+    },
+    {
+      "id": "402",
+      "parent_id": "398",
+      "name": "Motor Insurance",
+      "full_path": "Personal Finance > Insurance > Motor Insurance"
+    },
+    {
+      "id": "403",
+      "parent_id": "398",
+      "name": "Pet Insurance",
+      "full_path": "Personal Finance > Insurance > Pet Insurance"
+    },
+    {
+      "id": "404",
+      "parent_id": "398",
+      "name": "Travel Insurance",
+      "full_path": "Personal Finance > Insurance > Travel Insurance"
+    },
+    {
+      "id": "405",
+      "parent_id": "391",
+      "name": "Personal Debt",
+      "full_path": "Personal Finance > Personal Debt"
+    },
+    {
+      "id": "406",
+      "parent_id": "405",
+      "name": "Credit Cards",
+      "full_path": "Personal Finance > Personal Debt > Credit Cards"
+    },
+    {
+      "id": "407",
+      "parent_id": "405",
+      "name": "Home Financing",
+      "full_path": "Personal Finance > Personal Debt > Home Financing"
+    },
+    {
+      "id": "408",
+      "parent_id": "405",
+      "name": "Personal Loans",
+      "full_path": "Personal Finance > Personal Debt > Personal Loans"
+    },
+    {
+      "id": "409",
+      "parent_id": "405",
+      "name": "Student Loans",
+      "full_path": "Personal Finance > Personal Debt > Student Loans"
+    },
+    {
+      "id": "410",
+      "parent_id": "391",
+      "name": "Personal Investing",
+      "full_path": "Personal Finance > Personal Investing"
+    },
+    {
+      "id": "411",
+      "parent_id": "410",
+      "name": "Hedge Funds",
+      "full_path": "Personal Finance > Personal Investing > Hedge Funds"
+    },
+    {
+      "id": "412",
+      "parent_id": "410",
+      "name": "Mutual Funds",
+      "full_path": "Personal Finance > Personal Investing > Mutual Funds"
+    },
+    {
+      "id": "413",
+      "parent_id": "410",
+      "name": "Options",
+      "full_path": "Personal Finance > Personal Investing > Options"
+    },
+    {
+      "id": "414",
+      "parent_id": "410",
+      "name": "Stocks and Bonds",
+      "full_path": "Personal Finance > Personal Investing > Stocks and Bonds"
+    },
+    {
+      "id": "415",
+      "parent_id": "391",
+      "name": "Personal Taxes",
+      "full_path": "Personal Finance > Personal Taxes"
+    },
+    {
+      "id": "416",
+      "parent_id": "391",
+      "name": "Retirement Planning",
+      "full_path": "Personal Finance > Retirement Planning"
+    },
+    {
+      "id": "422",
+      "parent_id": null,
+      "name": "Pets",
+      "full_path": "Pets"
+    },
+    {
+      "id": "423",
+      "parent_id": "422",
+      "name": "Birds",
+      "full_path": "Pets > Birds"
+    },
+    {
+      "id": "424",
+      "parent_id": "422",
+      "name": "Cats",
+      "full_path": "Pets > Cats"
+    },
+    {
+      "id": "425",
+      "parent_id": "422",
+      "name": "Dogs",
+      "full_path": "Pets > Dogs"
+    },
+    {
+      "id": "426",
+      "parent_id": "422",
+      "name": "Fish and Aquariums",
+      "full_path": "Pets > Fish and Aquariums"
+    },
+    {
+      "id": "427",
+      "parent_id": "422",
+      "name": "Large Animals",
+      "full_path": "Pets > Large Animals"
+    },
+    {
+      "id": "428",
+      "parent_id": "422",
+      "name": "Pet Adoptions",
+      "full_path": "Pets > Pet Adoptions"
+    },
+    {
+      "id": "431",
+      "parent_id": "422",
+      "name": "Pet Supplies",
+      "full_path": "Pets > Pet Supplies"
+    },
+    {
+      "id": "429",
+      "parent_id": "422",
+      "name": "Reptiles",
+      "full_path": "Pets > Reptiles"
+    },
+    {
+      "id": "430",
+      "parent_id": "422",
+      "name": "Veterinary Medicine",
+      "full_path": "Pets > Veterinary Medicine"
+    },
+    {
+      "id": "386",
+      "parent_id": null,
+      "name": "Politics",
+      "full_path": "Politics"
+    },
+    {
+      "id": "8YPBBL",
+      "parent_id": "386",
+      "name": "Civic affairs",
+      "full_path": "Politics > Civic affairs"
+    },
+    {
+      "id": "387",
+      "parent_id": "386",
+      "name": "Elections",
+      "full_path": "Politics > Elections"
+    },
+    {
+      "id": "388",
+      "parent_id": "386",
+      "name": "Political Issues & Policy",
+      "full_path": "Politics > Political Issues & policy"
+    },
+    {
+      "id": "432",
+      "parent_id": null,
+      "name": "Pop Culture",
+      "full_path": "Pop Culture"
+    },
+    {
+      "id": "433",
+      "parent_id": "432",
+      "name": "Celebrity Deaths",
+      "full_path": "Pop Culture > Celebrity Deaths"
+    },
+    {
+      "id": "434",
+      "parent_id": "432",
+      "name": "Celebrity Families",
+      "full_path": "Pop Culture > Celebrity Families"
+    },
+    {
+      "id": "435",
+      "parent_id": "432",
+      "name": "Celebrity Homes",
+      "full_path": "Pop Culture > Celebrity Homes"
+    },
+    {
+      "id": "436",
+      "parent_id": "432",
+      "name": "Celebrity Pregnancy",
+      "full_path": "Pop Culture > Celebrity Pregnancy"
+    },
+    {
+      "id": "437",
+      "parent_id": "432",
+      "name": "Celebrity Relationships",
+      "full_path": "Pop Culture > Celebrity Relationships"
+    },
+    {
+      "id": "438",
+      "parent_id": "432",
+      "name": "Celebrity Scandal",
+      "full_path": "Pop Culture > Celebrity Scandal"
+    },
+    {
+      "id": "439",
+      "parent_id": "432",
+      "name": "Celebrity Style",
+      "full_path": "Pop Culture > Celebrity Style"
+    },
+    {
+      "id": "440",
+      "parent_id": "432",
+      "name": "Humor and Satire",
+      "full_path": "Pop Culture > Humor and Satire"
+    },
+    {
+      "id": "W3CW2J",
+      "parent_id": "602",
+      "name": "Productivity",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Productivity"
+    },
+    {
+      "id": "441",
+      "parent_id": null,
+      "name": "Real Estate",
+      "full_path": "Real Estate"
+    },
+    {
+      "id": "442",
+      "parent_id": "441",
+      "name": "Apartments",
+      "full_path": "Real Estate > Apartments"
+    },
+    {
+      "id": "445",
+      "parent_id": "441",
+      "name": "Developmental Sites",
+      "full_path": "Real Estate > Developmental Sites"
+    },
+    {
+      "id": "446",
+      "parent_id": "441",
+      "name": "Hotel Properties",
+      "full_path": "Real Estate > Hotel Properties"
+    },
+    {
+      "id": "447",
+      "parent_id": "441",
+      "name": "Houses",
+      "full_path": "Real Estate > Houses"
+    },
+    {
+      "id": "448",
+      "parent_id": "441",
+      "name": "Industrial Property",
+      "full_path": "Real Estate > Industrial Property"
+    },
+    {
+      "id": "449",
+      "parent_id": "441",
+      "name": "Land and Farms",
+      "full_path": "Real Estate > Land and Farms"
+    },
+    {
+      "id": "450",
+      "parent_id": "441",
+      "name": "Office Property",
+      "full_path": "Real Estate > Office Property"
+    },
+    {
+      "id": "451",
+      "parent_id": "441",
+      "name": "Real Estate Buying and Selling",
+      "full_path": "Real Estate > Real Estate Buying and Selling"
+    },
+    {
+      "id": "452",
+      "parent_id": "441",
+      "name": "Real Estate Renting and Leasing",
+      "full_path": "Real Estate > Real Estate Renting and Leasing"
+    },
+    {
+      "id": "443",
+      "parent_id": "441",
+      "name": "Retail Property",
+      "full_path": "Real Estate > Retail Property"
+    },
+    {
+      "id": "444",
+      "parent_id": "441",
+      "name": "Vacation Properties",
+      "full_path": "Real Estate > Vacation Properties"
+    },
+    {
+      "id": "453",
+      "parent_id": null,
+      "name": "Religion & Spirituality",
+      "full_path": "Religion & Spirituality"
+    },
+    {
+      "id": "454",
+      "parent_id": "453",
+      "name": "Agnosticism",
+      "full_path": "Religion & Spirituality > Agnosticism"
+    },
+    {
+      "id": "456",
+      "parent_id": "453",
+      "name": "Astrology",
+      "full_path": "Religion & Spirituality > Astrology"
+    },
+    {
+      "id": "457",
+      "parent_id": "453",
+      "name": "Atheism",
+      "full_path": "Religion & Spirituality > Atheism"
+    },
+    {
+      "id": "458",
+      "parent_id": "453",
+      "name": "Buddhism",
+      "full_path": "Religion & Spirituality > Buddhism"
+    },
+    {
+      "id": "459",
+      "parent_id": "453",
+      "name": "Christianity",
+      "full_path": "Religion & Spirituality > Christianity"
+    },
+    {
+      "id": "460",
+      "parent_id": "453",
+      "name": "Hinduism",
+      "full_path": "Religion & Spirituality > Hinduism"
+    },
+    {
+      "id": "461",
+      "parent_id": "453",
+      "name": "Islam",
+      "full_path": "Religion & Spirituality > Islam"
+    },
+    {
+      "id": "462",
+      "parent_id": "453",
+      "name": "Judaism",
+      "full_path": "Religion & Spirituality > Judaism"
+    },
+    {
+      "id": "463",
+      "parent_id": "453",
+      "name": "Sikhism",
+      "full_path": "Religion & Spirituality > Sikhism"
+    },
+    {
+      "id": "455",
+      "parent_id": "453",
+      "name": "Spirituality",
+      "full_path": "Religion & Spirituality > Spirituality"
+    },
+    {
+      "id": "464",
+      "parent_id": null,
+      "name": "Science",
+      "full_path": "Science"
+    },
+    {
+      "id": "465",
+      "parent_id": "464",
+      "name": "Biological Sciences",
+      "full_path": "Science > Biological Sciences"
+    },
+    {
+      "id": "466",
+      "parent_id": "464",
+      "name": "Chemistry",
+      "full_path": "Science > Chemistry"
+    },
+    {
+      "id": "467",
+      "parent_id": "464",
+      "name": "Environment",
+      "full_path": "Science > Environment"
+    },
+    {
+      "id": "468",
+      "parent_id": "464",
+      "name": "Genetics",
+      "full_path": "Science > Genetics"
+    },
+    {
+      "id": "469",
+      "parent_id": "464",
+      "name": "Geography",
+      "full_path": "Science > Geography"
+    },
+    {
+      "id": "470",
+      "parent_id": "464",
+      "name": "Geology",
+      "full_path": "Science > Geology"
+    },
+    {
+      "id": "471",
+      "parent_id": "464",
+      "name": "Physics",
+      "full_path": "Science > Physics"
+    },
+    {
+      "id": "472",
+      "parent_id": "464",
+      "name": "Space and Astronomy",
+      "full_path": "Science > Space and Astronomy"
+    },
+    {
+      "id": "390",
+      "parent_id": "464",
+      "name": "Weather",
+      "full_path": "Science > Weather"
+    },
+    {
+      "id": "v9i3On",
+      "parent_id": null,
+      "name": "Sensitive Topics",
+      "full_path": "Sensitive Topics"
+    },
+    {
+      "id": "Rm3SiT",
+      "parent_id": "v9i3On",
+      "name": "Adult & Explicit Sexual Content",
+      "full_path": "Sensitive Topics > Adult & Explicit Sexual Content"
+    },
+    {
+      "id": "avbNf2",
+      "parent_id": "v9i3On",
+      "name": "Arms & Ammunition",
+      "full_path": "Sensitive Topics > Arms & Ammunition"
+    },
+    {
+      "id": "XtODT3",
+      "parent_id": "v9i3On",
+      "name": "Crime & Harmful Acts to Individuals, Society & Human Right Violations",
+      "full_path": "Sensitive Topics > Crime & Harmful Acts to Individuals, Society & Human Right Violations"
+    },
+    {
+      "id": "I4GWl6",
+      "parent_id": "v9i3On",
+      "name": "Death, Injury, or Military Conflict",
+      "full_path": "Sensitive Topics > Death, Injury, or Military Conflict"
+    },
+    {
+      "id": "Z7rJBM",
+      "parent_id": "v9i3On",
+      "name": "Debated Sensitive Social Issues",
+      "full_path": "Sensitive Topics > Debated Sensitive Social Issues"
+    },
+    {
+      "id": "HxqYV1",
+      "parent_id": "v9i3On",
+      "name": "Hate Speech and Acts of Aggression",
+      "full_path": "Sensitive Topics > Hate Speech and Acts of Aggression"
+    },
+    {
+      "id": "pg0WhF",
+      "parent_id": "v9i3On",
+      "name": "Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol",
+      "full_path": "Sensitive Topics > Illegal Drugs, Tobacco, eCigarettes, Vaping, Alcohol"
+    },
+    {
+      "id": "j9PaO9",
+      "parent_id": "v9i3On",
+      "name": "Obscenity and Profanity",
+      "full_path": "Sensitive Topics > Obscenity and Profanity"
+    },
+    {
+      "id": "mm3UXx",
+      "parent_id": "v9i3On",
+      "name": "Online Piracy",
+      "full_path": "Sensitive Topics > Online Piracy"
+    },
+    {
+      "id": "6i4dB6",
+      "parent_id": "v9i3On",
+      "name": "Spam or Harmful Content",
+      "full_path": "Sensitive Topics > Spam or Harmful Content"
+    },
+    {
+      "id": "8FD8nI",
+      "parent_id": "v9i3On",
+      "name": "Terrorism",
+      "full_path": "Sensitive Topics > Terrorism"
+    },
+    {
+      "id": "473",
+      "parent_id": null,
+      "name": "Shopping",
+      "full_path": "Shopping"
+    },
+    {
+      "id": "482",
+      "parent_id": "473",
+      "name": "Children's Games and Toys",
+      "full_path": "Shopping > Children's Games and Toys"
+    },
+    {
+      "id": "474",
+      "parent_id": "473",
+      "name": "Coupons and Discounts",
+      "full_path": "Shopping > Coupons and Discounts"
+    },
+    {
+      "id": "475",
+      "parent_id": "473",
+      "name": "Flower Shopping",
+      "full_path": "Shopping > Flower Shopping"
+    },
+    {
+      "id": "476",
+      "parent_id": "473",
+      "name": "Gifts and Greetings Cards",
+      "full_path": "Shopping > Gifts and Greetings Cards"
+    },
+    {
+      "id": "477",
+      "parent_id": "473",
+      "name": "Grocery Shopping",
+      "full_path": "Shopping > Grocery Shopping"
+    },
+    {
+      "id": "478",
+      "parent_id": "473",
+      "name": "Holiday Shopping",
+      "full_path": "Shopping > Holiday Shopping"
+    },
+    {
+      "id": "479",
+      "parent_id": "473",
+      "name": "Household Supplies",
+      "full_path": "Shopping > Household Supplies"
+    },
+    {
+      "id": "480",
+      "parent_id": "473",
+      "name": "Lotteries and Scratchcards",
+      "full_path": "Shopping > Lotteries and Scratchcards"
+    },
+    {
+      "id": "161",
+      "parent_id": "473",
+      "name": "Party Supplies and Decorations",
+      "full_path": "Shopping > Party Supplies and Decorations"
+    },
+    {
+      "id": "481",
+      "parent_id": "473",
+      "name": "Sales and Promotions",
+      "full_path": "Shopping > Sales and Promotions"
+    },
+    {
+      "id": "483",
+      "parent_id": null,
+      "name": "Sports",
+      "full_path": "Sports"
+    },
+    {
+      "id": "484",
+      "parent_id": "483",
+      "name": "American Football",
+      "full_path": "Sports > American Football"
+    },
+    {
+      "id": "507",
+      "parent_id": "483",
+      "name": "Australian Rules Football",
+      "full_path": "Sports > Australian Rules Football"
+    },
+    {
+      "id": "518",
+      "parent_id": "483",
+      "name": "Auto Racing",
+      "full_path": "Sports > Auto Racing"
+    },
+    {
+      "id": "519",
+      "parent_id": "518",
+      "name": "Motorcycle Sports",
+      "full_path": "Sports > Auto Racing > Motorcycle Sports"
+    },
+    {
+      "id": "534",
+      "parent_id": "483",
+      "name": "Badminton",
+      "full_path": "Sports > Badminton"
+    },
+    {
+      "id": "545",
+      "parent_id": "483",
+      "name": "Baseball",
+      "full_path": "Sports > Baseball"
+    },
+    {
+      "id": "547",
+      "parent_id": "483",
+      "name": "Basketball",
+      "full_path": "Sports > Basketball"
+    },
+    {
+      "id": "548",
+      "parent_id": "483",
+      "name": "Beach Volleyball",
+      "full_path": "Sports > Beach Volleyball"
+    },
+    {
+      "id": "549",
+      "parent_id": "483",
+      "name": "Bodybuilding",
+      "full_path": "Sports > Bodybuilding"
+    },
+    {
+      "id": "550",
+      "parent_id": "483",
+      "name": "Bowling",
+      "full_path": "Sports > Bowling"
+    },
+    {
+      "id": "485",
+      "parent_id": "483",
+      "name": "Boxing",
+      "full_path": "Sports > Boxing"
+    },
+    {
+      "id": "486",
+      "parent_id": "483",
+      "name": "Cheerleading",
+      "full_path": "Sports > Cheerleading"
+    },
+    {
+      "id": "487",
+      "parent_id": "483",
+      "name": "College Sports",
+      "full_path": "Sports > College Sports"
+    },
+    {
+      "id": "490",
+      "parent_id": "487",
+      "name": "College Baseball",
+      "full_path": "Sports > College Sports > College Baseball"
+    },
+    {
+      "id": "489",
+      "parent_id": "487",
+      "name": "College Basketball",
+      "full_path": "Sports > College Sports > College Basketball"
+    },
+    {
+      "id": "488",
+      "parent_id": "487",
+      "name": "College Football",
+      "full_path": "Sports > College Sports > College Football"
+    },
+    {
+      "id": "491",
+      "parent_id": "483",
+      "name": "Cricket",
+      "full_path": "Sports > Cricket"
+    },
+    {
+      "id": "492",
+      "parent_id": "483",
+      "name": "Cycling",
+      "full_path": "Sports > Cycling"
+    },
+    {
+      "id": "493",
+      "parent_id": "483",
+      "name": "Darts",
+      "full_path": "Sports > Darts"
+    },
+    {
+      "id": "494",
+      "parent_id": "483",
+      "name": "Disabled Sports",
+      "full_path": "Sports > Disabled Sports"
+    },
+    {
+      "id": "495",
+      "parent_id": "483",
+      "name": "Diving",
+      "full_path": "Sports > Diving"
+    },
+    {
+      "id": "496",
+      "parent_id": "483",
+      "name": "Equine Sports",
+      "full_path": "Sports > Equine Sports"
+    },
+    {
+      "id": "497",
+      "parent_id": "496",
+      "name": "Horse Racing",
+      "full_path": "Sports > Equine Sports > Horse Racing"
+    },
+    {
+      "id": "498",
+      "parent_id": "483",
+      "name": "Extreme Sports",
+      "full_path": "Sports > Extreme Sports"
+    },
+    {
+      "id": "499",
+      "parent_id": "498",
+      "name": "Canoeing and Kayaking",
+      "full_path": "Sports > Extreme Sports > Canoeing and Kayaking"
+    },
+    {
+      "id": "500",
+      "parent_id": "498",
+      "name": "Climbing",
+      "full_path": "Sports > Extreme Sports > Climbing"
+    },
+    {
+      "id": "501",
+      "parent_id": "498",
+      "name": "Paintball",
+      "full_path": "Sports > Extreme Sports > Paintball"
+    },
+    {
+      "id": "502",
+      "parent_id": "498",
+      "name": "Scuba Diving",
+      "full_path": "Sports > Extreme Sports > Scuba Diving"
+    },
+    {
+      "id": "503",
+      "parent_id": "498",
+      "name": "Skateboarding",
+      "full_path": "Sports > Extreme Sports > Skateboarding"
+    },
+    {
+      "id": "504",
+      "parent_id": "498",
+      "name": "Snowboarding",
+      "full_path": "Sports > Extreme Sports > Snowboarding"
+    },
+    {
+      "id": "505",
+      "parent_id": "498",
+      "name": "Surfing and Bodyboarding",
+      "full_path": "Sports > Extreme Sports > Surfing and Bodyboarding"
+    },
+    {
+      "id": "506",
+      "parent_id": "498",
+      "name": "Waterskiing and Wakeboarding",
+      "full_path": "Sports > Extreme Sports > Waterskiing and Wakeboarding"
+    },
+    {
+      "id": "508",
+      "parent_id": "483",
+      "name": "Fantasy Sports",
+      "full_path": "Sports > Fantasy Sports"
+    },
+    {
+      "id": "509",
+      "parent_id": "483",
+      "name": "Field Hockey",
+      "full_path": "Sports > Field Hockey"
+    },
+    {
+      "id": "510",
+      "parent_id": "483",
+      "name": "Figure Skating",
+      "full_path": "Sports > Figure Skating"
+    },
+    {
+      "id": "511",
+      "parent_id": "483",
+      "name": "Fishing Sports",
+      "full_path": "Sports > Fishing Sports"
+    },
+    {
+      "id": "512",
+      "parent_id": "483",
+      "name": "Golf",
+      "full_path": "Sports > Golf"
+    },
+    {
+      "id": "513",
+      "parent_id": "483",
+      "name": "Gymnastics",
+      "full_path": "Sports > Gymnastics"
+    },
+    {
+      "id": "514",
+      "parent_id": "483",
+      "name": "Hunting and Shooting",
+      "full_path": "Sports > Hunting and Shooting"
+    },
+    {
+      "id": "515",
+      "parent_id": "483",
+      "name": "Ice Hockey",
+      "full_path": "Sports > Ice Hockey"
+    },
+    {
+      "id": "516",
+      "parent_id": "483",
+      "name": "Inline Skating",
+      "full_path": "Sports > Inline Skating"
+    },
+    {
+      "id": "517",
+      "parent_id": "483",
+      "name": "Lacrosse",
+      "full_path": "Sports > Lacrosse"
+    },
+    {
+      "id": "520",
+      "parent_id": "483",
+      "name": "Martial Arts",
+      "full_path": "Sports > Martial Arts"
+    },
+    {
+      "id": "521",
+      "parent_id": "483",
+      "name": "Olympic Sports",
+      "full_path": "Sports > Olympic Sports"
+    },
+    {
+      "id": "522",
+      "parent_id": "521",
+      "name": "Summer Olympic Sports",
+      "full_path": "Sports > Olympic Sports > Summer Olympic Sports"
+    },
+    {
+      "id": "523",
+      "parent_id": "521",
+      "name": "Winter Olympic Sports",
+      "full_path": "Sports > Olympic Sports > Winter Olympic Sports"
+    },
+    {
+      "id": "524",
+      "parent_id": "483",
+      "name": "Poker and Professional Gambling",
+      "full_path": "Sports > Poker and Professional Gambling"
+    },
+    {
+      "id": "525",
+      "parent_id": "483",
+      "name": "Rodeo",
+      "full_path": "Sports > Rodeo"
+    },
+    {
+      "id": "526",
+      "parent_id": "483",
+      "name": "Rowing",
+      "full_path": "Sports > Rowing"
+    },
+    {
+      "id": "527",
+      "parent_id": "483",
+      "name": "Rugby",
+      "full_path": "Sports > Rugby"
+    },
+    {
+      "id": "528",
+      "parent_id": "527",
+      "name": "Rugby League",
+      "full_path": "Sports > Rugby > Rugby League"
+    },
+    {
+      "id": "529",
+      "parent_id": "527",
+      "name": "Rugby Union",
+      "full_path": "Sports > Rugby > Rugby Union"
+    },
+    {
+      "id": "530",
+      "parent_id": "483",
+      "name": "Sailing",
+      "full_path": "Sports > Sailing"
+    },
+    {
+      "id": "531",
+      "parent_id": "483",
+      "name": "Skiing",
+      "full_path": "Sports > Skiing"
+    },
+    {
+      "id": "532",
+      "parent_id": "483",
+      "name": "Snooker/Pool/Billiards",
+      "full_path": "Sports > Snooker/Pool/Billiards"
+    },
+    {
+      "id": "533",
+      "parent_id": "483",
+      "name": "Soccer",
+      "full_path": "Sports > Soccer"
+    },
+    {
+      "id": "535",
+      "parent_id": "483",
+      "name": "Softball",
+      "full_path": "Sports > Softball"
+    },
+    {
+      "id": "551",
+      "parent_id": "483",
+      "name": "Sports Equipment",
+      "full_path": "Sports > Sports Equipment"
+    },
+    {
+      "id": "536",
+      "parent_id": "483",
+      "name": "Squash",
+      "full_path": "Sports > Squash"
+    },
+    {
+      "id": "537",
+      "parent_id": "483",
+      "name": "Swimming",
+      "full_path": "Sports > Swimming"
+    },
+    {
+      "id": "538",
+      "parent_id": "483",
+      "name": "Table Tennis",
+      "full_path": "Sports > Table Tennis"
+    },
+    {
+      "id": "539",
+      "parent_id": "483",
+      "name": "Tennis",
+      "full_path": "Sports > Tennis"
+    },
+    {
+      "id": "540",
+      "parent_id": "483",
+      "name": "Track and Field",
+      "full_path": "Sports > Track and Field"
+    },
+    {
+      "id": "541",
+      "parent_id": "483",
+      "name": "Volleyball",
+      "full_path": "Sports > Volleyball"
+    },
+    {
+      "id": "542",
+      "parent_id": "483",
+      "name": "Walking",
+      "full_path": "Sports > Walking"
+    },
+    {
+      "id": "543",
+      "parent_id": "483",
+      "name": "Water Polo",
+      "full_path": "Sports > Water Polo"
+    },
+    {
+      "id": "544",
+      "parent_id": "483",
+      "name": "Weightlifting",
+      "full_path": "Sports > Weightlifting"
+    },
+    {
+      "id": "546",
+      "parent_id": "483",
+      "name": "Wrestling",
+      "full_path": "Sports > Wrestling"
+    },
+    {
+      "id": "552",
+      "parent_id": null,
+      "name": "Style & Fashion",
+      "full_path": "Style & Fashion"
+    },
+    {
+      "id": "553",
+      "parent_id": "552",
+      "name": "Beauty",
+      "full_path": "Style & Fashion > Beauty"
+    },
+    {
+      "id": "554",
+      "parent_id": "553",
+      "name": "Hair Care",
+      "full_path": "Style & Fashion > Beauty > Hair Care"
+    },
+    {
+      "id": "555",
+      "parent_id": "553",
+      "name": "Makeup and Accessories",
+      "full_path": "Style & Fashion > Beauty > Makeup and Accessories"
+    },
+    {
+      "id": "556",
+      "parent_id": "553",
+      "name": "Nail Care",
+      "full_path": "Style & Fashion > Beauty > Nail Care"
+    },
+    {
+      "id": "557",
+      "parent_id": "553",
+      "name": "Natural and Organic Beauty",
+      "full_path": "Style & Fashion > Beauty > Natural and Organic Beauty"
+    },
+    {
+      "id": "558",
+      "parent_id": "553",
+      "name": "Perfume and Fragrance",
+      "full_path": "Style & Fashion > Beauty > Perfume and Fragrance"
+    },
+    {
+      "id": "559",
+      "parent_id": "553",
+      "name": "Skin Care",
+      "full_path": "Style & Fashion > Beauty > Skin Care"
+    },
+    {
+      "id": "574",
+      "parent_id": "552",
+      "name": "Body Art",
+      "full_path": "Style & Fashion > Body Art"
+    },
+    {
+      "id": "575",
+      "parent_id": "552",
+      "name": "Children's Clothing",
+      "full_path": "Style & Fashion > Children's Clothing"
+    },
+    {
+      "id": "576",
+      "parent_id": "552",
+      "name": "Designer Clothing",
+      "full_path": "Style & Fashion > Designer Clothing"
+    },
+    {
+      "id": "577",
+      "parent_id": "552",
+      "name": "Fashion Trends",
+      "full_path": "Style & Fashion > Fashion Trends"
+    },
+    {
+      "id": "578",
+      "parent_id": "552",
+      "name": "High Fashion",
+      "full_path": "Style & Fashion > High Fashion"
+    },
+    {
+      "id": "579",
+      "parent_id": "552",
+      "name": "Men's Fashion",
+      "full_path": "Style & Fashion > Men's Fashion"
+    },
+    {
+      "id": "580",
+      "parent_id": "579",
+      "name": "Men's Accessories",
+      "full_path": "Style & Fashion > Men's Fashion > Men's Accessories"
+    },
+    {
+      "id": "581",
+      "parent_id": "580",
+      "name": "Men's Jewelry and Watches",
+      "full_path": "Style & Fashion > Men's Fashion > Men's Accessories > Men's Jewelry and Watches"
+    },
+    {
+      "id": "582",
+      "parent_id": "579",
+      "name": "Men's Clothing",
+      "full_path": "Style & Fashion > Men's Fashion > Men's Clothing"
+    },
+    {
+      "id": "583",
+      "parent_id": "582",
+      "name": "Men's Business Wear",
+      "full_path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Business Wear"
+    },
+    {
+      "id": "584",
+      "parent_id": "582",
+      "name": "Men's Casual Wear",
+      "full_path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Casual Wear"
+    },
+    {
+      "id": "585",
+      "parent_id": "582",
+      "name": "Men's Formal Wear",
+      "full_path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Formal Wear"
+    },
+    {
+      "id": "586",
+      "parent_id": "582",
+      "name": "Men's Outerwear",
+      "full_path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Outerwear"
+    },
+    {
+      "id": "587",
+      "parent_id": "582",
+      "name": "Men's Sportswear",
+      "full_path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Sportswear"
+    },
+    {
+      "id": "588",
+      "parent_id": "582",
+      "name": "Men's Underwear and Sleepwear",
+      "full_path": "Style & Fashion > Men's Fashion > Men's Clothing > Men's Underwear and Sleepwear"
+    },
+    {
+      "id": "589",
+      "parent_id": "579",
+      "name": "Men's Shoes and Footwear",
+      "full_path": "Style & Fashion > Men's Fashion > Men's Shoes and Footwear"
+    },
+    {
+      "id": "590",
+      "parent_id": "552",
+      "name": "Personal Care",
+      "full_path": "Style & Fashion > Personal Care"
+    },
+    {
+      "id": "591",
+      "parent_id": "590",
+      "name": "Bath and Shower",
+      "full_path": "Style & Fashion > Personal Care > Bath and Shower"
+    },
+    {
+      "id": "592",
+      "parent_id": "590",
+      "name": "Deodorant and Antiperspirant",
+      "full_path": "Style & Fashion > Personal Care > Deodorant and Antiperspirant"
+    },
+    {
+      "id": "593",
+      "parent_id": "590",
+      "name": "Oral care",
+      "full_path": "Style & Fashion > Personal Care > Oral care"
+    },
+    {
+      "id": "594",
+      "parent_id": "590",
+      "name": "Shaving",
+      "full_path": "Style & Fashion > Personal Care > Shaving"
+    },
+    {
+      "id": "595",
+      "parent_id": "552",
+      "name": "Street Style",
+      "full_path": "Style & Fashion > Street Style"
+    },
+    {
+      "id": "560",
+      "parent_id": "552",
+      "name": "Women's Fashion",
+      "full_path": "Style & Fashion > Women's Fashion"
+    },
+    {
+      "id": "561",
+      "parent_id": "560",
+      "name": "Women's Accessories",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Accessories"
+    },
+    {
+      "id": "562",
+      "parent_id": "561",
+      "name": "Women's Glasses",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Accessories > Women's Glasses"
+    },
+    {
+      "id": "563",
+      "parent_id": "561",
+      "name": "Women's Handbags and Wallets",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Accessories > Women's Handbags and Wallets"
+    },
+    {
+      "id": "564",
+      "parent_id": "561",
+      "name": "Women's Hats and Scarves",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Accessories > Women's Hats and Scarves"
+    },
+    {
+      "id": "565",
+      "parent_id": "561",
+      "name": "Women's Jewelry and Watches",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Accessories > Women's Jewelry and Watches"
+    },
+    {
+      "id": "566",
+      "parent_id": "560",
+      "name": "Women's Clothing",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Clothing"
+    },
+    {
+      "id": "567",
+      "parent_id": "566",
+      "name": "Women's Business Wear",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Business Wear"
+    },
+    {
+      "id": "568",
+      "parent_id": "566",
+      "name": "Women's Casual Wear",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Casual Wear"
+    },
+    {
+      "id": "569",
+      "parent_id": "566",
+      "name": "Women's Formal Wear",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Formal Wear"
+    },
+    {
+      "id": "570",
+      "parent_id": "566",
+      "name": "Women's Intimates and Sleepwear",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Intimates and Sleepwear"
+    },
+    {
+      "id": "571",
+      "parent_id": "566",
+      "name": "Women's Outerwear",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Outerwear"
+    },
+    {
+      "id": "572",
+      "parent_id": "566",
+      "name": "Women's Sportswear",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Clothing > Women's Sportswear"
+    },
+    {
+      "id": "573",
+      "parent_id": "560",
+      "name": "Women's Shoes and Footwear",
+      "full_path": "Style & Fashion > Women's Fashion > Women's Shoes and Footwear"
+    },
+    {
+      "id": "596",
+      "parent_id": null,
+      "name": "Technology & Computing",
+      "full_path": "Technology & Computing"
+    },
+    {
+      "id": "597",
+      "parent_id": "596",
+      "name": "Artificial Intelligence",
+      "full_path": "Technology & Computing > Artificial Intelligence"
+    },
+    {
+      "id": "598",
+      "parent_id": "596",
+      "name": "Augmented Reality",
+      "full_path": "Technology & Computing > Augmented Reality"
+    },
+    {
+      "id": "599",
+      "parent_id": "596",
+      "name": "Computing",
+      "full_path": "Technology & Computing > Computing"
+    },
+    {
+      "id": "600",
+      "parent_id": "599",
+      "name": "Computer Networking",
+      "full_path": "Technology & Computing > Computing > Computer Networking"
+    },
+    {
+      "id": "601",
+      "parent_id": "599",
+      "name": "Computer Peripherals",
+      "full_path": "Technology & Computing > Computing > Computer Peripherals"
+    },
+    {
+      "id": "602",
+      "parent_id": "599",
+      "name": "Software and Applications",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications"
+    },
+    {
+      "id": "603",
+      "parent_id": "602",
+      "name": "3-D Graphics",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > 3-D Graphics"
+    },
+    {
+      "id": "608",
+      "parent_id": "602",
+      "name": "Antivirus Software",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Antivirus Software"
+    },
+    {
+      "id": "609",
+      "parent_id": "602",
+      "name": "Browsers",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Browsers"
+    },
+    {
+      "id": "610",
+      "parent_id": "602",
+      "name": "Computer Animation",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Computer Animation"
+    },
+    {
+      "id": "611",
+      "parent_id": "602",
+      "name": "Databases",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Databases"
+    },
+    {
+      "id": "612",
+      "parent_id": "602",
+      "name": "Desktop Publishing",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Desktop Publishing"
+    },
+    {
+      "id": "613",
+      "parent_id": "602",
+      "name": "Digital Audio",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Digital Audio"
+    },
+    {
+      "id": "614",
+      "parent_id": "602",
+      "name": "Graphics Software",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Graphics Software"
+    },
+    {
+      "id": "615",
+      "parent_id": "602",
+      "name": "Operating Systems",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Operating Systems"
+    },
+    {
+      "id": "604",
+      "parent_id": "602",
+      "name": "Photo Editing Software",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Photo Editing Software"
+    },
+    {
+      "id": "605",
+      "parent_id": "602",
+      "name": "Shareware and Freeware",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Shareware and Freeware"
+    },
+    {
+      "id": "606",
+      "parent_id": "602",
+      "name": "Video Software",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Video Software"
+    },
+    {
+      "id": "607",
+      "parent_id": "602",
+      "name": "Web Conferencing",
+      "full_path": "Technology & Computing > Computing > Computer Software and Applications > Web Conferencing"
+    },
+    {
+      "id": "616",
+      "parent_id": "599",
+      "name": "Data Storage and Warehousing",
+      "full_path": "Technology & Computing > Computing > Data Storage and Warehousing"
+    },
+    {
+      "id": "617",
+      "parent_id": "599",
+      "name": "Desktops",
+      "full_path": "Technology & Computing > Computing > Desktops"
+    },
+    {
+      "id": "618",
+      "parent_id": "599",
+      "name": "Information and Network Security",
+      "full_path": "Technology & Computing > Computing > Information and Network Security"
+    },
+    {
+      "id": "619",
+      "parent_id": "599",
+      "name": "Internet",
+      "full_path": "Technology & Computing > Computing > Internet"
+    },
+    {
+      "id": "620",
+      "parent_id": "619",
+      "name": "Cloud Computing",
+      "full_path": "Technology & Computing > Computing > Internet > Cloud Computing"
+    },
+    {
+      "id": "623",
+      "parent_id": "619",
+      "name": "Email",
+      "full_path": "Technology & Computing > Computing > Internet > Email"
+    },
+    {
+      "id": "624",
+      "parent_id": "619",
+      "name": "Internet for Beginners",
+      "full_path": "Technology & Computing > Computing > Internet > Internet for Beginners"
+    },
+    {
+      "id": "625",
+      "parent_id": "619",
+      "name": "Internet of Things",
+      "full_path": "Technology & Computing > Computing > Internet > Internet of Things"
+    },
+    {
+      "id": "626",
+      "parent_id": "619",
+      "name": "IT and Internet Support",
+      "full_path": "Technology & Computing > Computing > Internet > IT and Internet Support"
+    },
+    {
+      "id": "627",
+      "parent_id": "619",
+      "name": "Search",
+      "full_path": "Technology & Computing > Computing > Internet > Search"
+    },
+    {
+      "id": "628",
+      "parent_id": "619",
+      "name": "Social Networking",
+      "full_path": "Technology & Computing > Computing > Internet > Social Networking"
+    },
+    {
+      "id": "629",
+      "parent_id": "619",
+      "name": "Web Design and HTML",
+      "full_path": "Technology & Computing > Computing > Internet > Web Design and HTML"
+    },
+    {
+      "id": "621",
+      "parent_id": "619",
+      "name": "Web Development",
+      "full_path": "Technology & Computing > Computing > Internet > Web Development"
+    },
+    {
+      "id": "622",
+      "parent_id": "619",
+      "name": "Web Hosting",
+      "full_path": "Technology & Computing > Computing > Internet > Web Hosting"
+    },
+    {
+      "id": "630",
+      "parent_id": "599",
+      "name": "Laptops",
+      "full_path": "Technology & Computing > Computing > Laptops"
+    },
+    {
+      "id": "631",
+      "parent_id": "599",
+      "name": "Programming Languages",
+      "full_path": "Technology & Computing > Computing > Programming Languages"
+    },
+    {
+      "id": "632",
+      "parent_id": "596",
+      "name": "Consumer Electronics",
+      "full_path": "Technology & Computing > Consumer Electronics"
+    },
+    {
+      "id": "633",
+      "parent_id": "632",
+      "name": "Cameras and Camcorders",
+      "full_path": "Technology & Computing > Consumer Electronics > Cameras and Camcorders"
+    },
+    {
+      "id": "634",
+      "parent_id": "632",
+      "name": "Home Entertainment Systems",
+      "full_path": "Technology & Computing > Consumer Electronics > Home Entertainment Systems"
+    },
+    {
+      "id": "635",
+      "parent_id": "632",
+      "name": "Smartphones",
+      "full_path": "Technology & Computing > Consumer Electronics > Smartphones"
+    },
+    {
+      "id": "636",
+      "parent_id": "632",
+      "name": "Tablets and E-readers",
+      "full_path": "Technology & Computing > Consumer Electronics > Tablets and E-readers"
+    },
+    {
+      "id": "637",
+      "parent_id": "632",
+      "name": "Wearable Technology",
+      "full_path": "Technology & Computing > Consumer Electronics > Wearable Technology"
+    },
+    {
+      "id": "638",
+      "parent_id": "596",
+      "name": "Robotics",
+      "full_path": "Technology & Computing > Robotics"
+    },
+    {
+      "id": "639",
+      "parent_id": "596",
+      "name": "Virtual Reality",
+      "full_path": "Technology & Computing > Virtual Reality"
+    },
+    {
+      "id": "653",
+      "parent_id": null,
+      "name": "Travel",
+      "full_path": "Travel"
+    },
+    {
+      "id": "654",
+      "parent_id": "653",
+      "name": "Travel Accessories",
+      "full_path": "Travel > Travel Accessories"
+    },
+    {
+      "id": "655",
+      "parent_id": "653",
+      "name": "Travel Locations",
+      "full_path": "Travel > Travel Locations"
+    },
+    {
+      "id": "656",
+      "parent_id": "655",
+      "name": "Africa Travel",
+      "full_path": "Travel > Travel Locations > Africa Travel"
+    },
+    {
+      "id": "657",
+      "parent_id": "655",
+      "name": "Asia Travel",
+      "full_path": "Travel > Travel Locations > Asia Travel"
+    },
+    {
+      "id": "658",
+      "parent_id": "655",
+      "name": "Australia and Oceania Travel",
+      "full_path": "Travel > Travel Locations > Australia and Oceania Travel"
+    },
+    {
+      "id": "659",
+      "parent_id": "655",
+      "name": "Europe Travel",
+      "full_path": "Travel > Travel Locations > Europe Travel"
+    },
+    {
+      "id": "660",
+      "parent_id": "655",
+      "name": "North America Travel",
+      "full_path": "Travel > Travel Locations > North America Travel"
+    },
+    {
+      "id": "661",
+      "parent_id": "655",
+      "name": "Polar Travel",
+      "full_path": "Travel > Travel Locations > Polar Travel"
+    },
+    {
+      "id": "662",
+      "parent_id": "655",
+      "name": "South America Travel",
+      "full_path": "Travel > Travel Locations > South America Travel"
+    },
+    {
+      "id": "663",
+      "parent_id": "653",
+      "name": "Travel Preparation and Advice",
+      "full_path": "Travel > Travel Preparation and Advice"
+    },
+    {
+      "id": "664",
+      "parent_id": "653",
+      "name": "Travel Type",
+      "full_path": "Travel > Travel Type"
+    },
+    {
+      "id": "665",
+      "parent_id": "664",
+      "name": "Adventure Travel",
+      "full_path": "Travel > Travel Type > Adventure Travel"
+    },
+    {
+      "id": "672",
+      "parent_id": "664",
+      "name": "Air Travel",
+      "full_path": "Travel > Travel Type > Air Travel"
+    },
+    {
+      "id": "673",
+      "parent_id": "664",
+      "name": "Beach Travel",
+      "full_path": "Travel > Travel Type > Beach Travel"
+    },
+    {
+      "id": "674",
+      "parent_id": "664",
+      "name": "Bed & Breakfasts",
+      "full_path": "Travel > Travel Type > Bed & Breakfasts"
+    },
+    {
+      "id": "675",
+      "parent_id": "664",
+      "name": "Budget Travel",
+      "full_path": "Travel > Travel Type > Budget Travel"
+    },
+    {
+      "id": "676",
+      "parent_id": "664",
+      "name": "Business Travel",
+      "full_path": "Travel > Travel Type > Business Travel"
+    },
+    {
+      "id": "677",
+      "parent_id": "664",
+      "name": "Camping",
+      "full_path": "Travel > Travel Type > Camping"
+    },
+    {
+      "id": "678",
+      "parent_id": "664",
+      "name": "Cruises",
+      "full_path": "Travel > Travel Type > Cruises"
+    },
+    {
+      "id": "679",
+      "parent_id": "664",
+      "name": "Day Trips",
+      "full_path": "Travel > Travel Type > Day Trips"
+    },
+    {
+      "id": "666",
+      "parent_id": "664",
+      "name": "Family Travel",
+      "full_path": "Travel > Travel Type > Family Travel"
+    },
+    {
+      "id": "667",
+      "parent_id": "664",
+      "name": "Honeymoons and Getaways",
+      "full_path": "Travel > Travel Type > Honeymoons and Getaways"
+    },
+    {
+      "id": "668",
+      "parent_id": "664",
+      "name": "Hotels and Motels",
+      "full_path": "Travel > Travel Type > Hotels and Motels"
+    },
+    {
+      "id": "669",
+      "parent_id": "664",
+      "name": "Rail Travel",
+      "full_path": "Travel > Travel Type > Rail Travel"
+    },
+    {
+      "id": "670",
+      "parent_id": "664",
+      "name": "Road Trips",
+      "full_path": "Travel > Travel Type > Road Trips"
+    },
+    {
+      "id": "671",
+      "parent_id": "664",
+      "name": "Spas",
+      "full_path": "Travel > Travel Type > Spas"
+    },
+    {
+      "id": "680",
+      "parent_id": null,
+      "name": "Video Gaming",
+      "full_path": "Video Gaming"
+    },
+    {
+      "id": "681",
+      "parent_id": "680",
+      "name": "Console Games",
+      "full_path": "Video Gaming > Console Games"
+    },
+    {
+      "id": "682",
+      "parent_id": "680",
+      "name": "eSports",
+      "full_path": "Video Gaming > eSports"
+    },
+    {
+      "id": "683",
+      "parent_id": "680",
+      "name": "Mobile Games",
+      "full_path": "Video Gaming > Mobile Games"
+    },
+    {
+      "id": "684",
+      "parent_id": "680",
+      "name": "PC Games",
+      "full_path": "Video Gaming > PC Games"
+    },
+    {
+      "id": "685",
+      "parent_id": "680",
+      "name": "Video Game Genres",
+      "full_path": "Video Gaming > Video Game Genres"
+    },
+    {
+      "id": "686",
+      "parent_id": "685",
+      "name": "Action Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Action Video Games"
+    },
+    {
+      "id": "691",
+      "parent_id": "685",
+      "name": "Action-Adventure Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Action-Adventure Video Games"
+    },
+    {
+      "id": "MQ2XML",
+      "parent_id": "685",
+      "name": "Adult Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Adult Video Games"
+    },
+    {
+      "id": "692",
+      "parent_id": "685",
+      "name": "Adventure Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Adventure Video Games"
+    },
+    {
+      "id": "ZJG29S",
+      "parent_id": "685",
+      "name": "Casino and Gambling Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Casino and Gambling Video Games"
+    },
+    {
+      "id": "693",
+      "parent_id": "685",
+      "name": "Casual Games",
+      "full_path": "Video Gaming > Video Game Genres > Casual Games"
+    },
+    {
+      "id": "694",
+      "parent_id": "685",
+      "name": "Educational Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Educational Video Games"
+    },
+    {
+      "id": "695",
+      "parent_id": "685",
+      "name": "Exercise and Fitness Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Exercise and Fitness Video Games"
+    },
+    {
+      "id": "VWGKS7",
+      "parent_id": "685",
+      "name": "Family Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Family Video Games"
+    },
+    {
+      "id": "II436J",
+      "parent_id": "685",
+      "name": "Horror Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Horror Video Games"
+    },
+    {
+      "id": "696",
+      "parent_id": "685",
+      "name": "MMOs",
+      "full_path": "Video Gaming > Video Game Genres > MMOs"
+    },
+    {
+      "id": "697",
+      "parent_id": "685",
+      "name": "Music and Party Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Music and Party Video Games"
+    },
+    {
+      "id": "698",
+      "parent_id": "685",
+      "name": "Puzzle Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Puzzle Video Games"
+    },
+    {
+      "id": "VK7KD0",
+      "parent_id": "685",
+      "name": "Racing Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Racing Video Games"
+    },
+    {
+      "id": "687",
+      "parent_id": "685",
+      "name": "Role-Playing Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Role-Playing Video Games"
+    },
+    {
+      "id": "688",
+      "parent_id": "685",
+      "name": "Simulation Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Simulation Video Games"
+    },
+    {
+      "id": "689",
+      "parent_id": "685",
+      "name": "Sports Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Sports Video Games"
+    },
+    {
+      "id": "690",
+      "parent_id": "685",
+      "name": "Strategy Video Games",
+      "full_path": "Video Gaming > Video Game Genres > Strategy Video Games"
+    },
+    {
+      "id": "389",
+      "parent_id": null,
+      "name": "War and Conflicts",
+      "full_path": "War and Conflicts"
+    }
+  ]
+}

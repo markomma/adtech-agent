@@ -1,0 +1,5606 @@
+{
+  "corpus_size": 392,
+  "avgdl": 1.6505102040816326,
+  "idf": {
+    "arts": 4.721046643373893,
+    "entertainment": 5.057518879995106,
+    "literature": 5.568344503761097,
+    "books": 5.057518879995106,
+    "fan": 5.568344503761097,
+    "gossip": 5.568344503761097,
+    "celebrity": 5.568344503761097,
+    "art": 4.269061519630836,
+    "fine": 5.568344503761097,
+    "humor": 5.568344503761097,
+    "movies": 5.568344503761097,
+    "music": 5.568344503761097,
+    "television": 5.568344503761097,
+    "automotive": 5.568344503761097,
+    "auto": 4.721046643373893,
+    "parts": 5.568344503761097,
+    "repair": 5.057518879995106,
+    "buying": 5.057518879995106,
+    "selling": 5.057518879995106,
+    "cars": 5.057518879995106,
+    "culture": 5.568344503761097,
+    "car": 5.568344503761097,
+    "owned": 5.568344503761097,
+    "certified": 5.568344503761097,
+    "pre": 5.057518879995106,
+    "convertible": 5.568344503761097,
+    "coupe": 5.568344503761097,
+    "crossover": 5.568344503761097,
+    "diesel": 5.568344503761097,
+    "electric": 5.568344503761097,
+    "vehicle": 5.568344503761097,
+    "hatchback": 5.568344503761097,
+    "hybrid": 5.568344503761097,
+    "luxury": 5.568344503761097,
+    "minivan": 5.568344503761097,
+    "mororcycles": 5.568344503761097,
+    "road": 5.057518879995106,
+    "vehicles": 5.057518879995106,
+    "off": 5.568344503761097,
+    "performance": 5.568344503761097,
+    "pickup": 5.568344503761097,
+    "assistance": 5.568344503761097,
+    "side": 5.568344503761097,
+    "sedan": 5.568344503761097,
+    "trucks": 5.568344503761097,
+    "accessories": 5.057518879995106,
+    "vintage": 5.568344503761097,
+    "wagon": 5.568344503761097,
+    "business": 4.4697322150929875,
+    "advertising": 5.568344503761097,
+    "agriculture": 5.568344503761097,
+    "biomedical": 5.568344503761097,
+    "biotech": 5.568344503761097,
+    "software": 4.721046643373893,
+    "construction": 4.721046643373893,
+    "forestry": 5.568344503761097,
+    "government": 5.057518879995106,
+    "solutions": 5.568344503761097,
+    "green": 5.568344503761097,
+    "resources": 5.057518879995106,
+    "human": 5.568344503761097,
+    "logistics": 5.568344503761097,
+    "marketing": 5.568344503761097,
+    "metals": 5.568344503761097,
+    "careers": 5.568344503761097,
+    "career": 5.057518879995106,
+    "planning": 4.4697322150929875,
+    "college": 5.057518879995106,
+    "financial": 4.721046643373893,
+    "aid": 5.568344503761097,
+    "fairs": 5.568344503761097,
+    "job": 5.057518879995106,
+    "search": 5.057518879995106,
+    "advice": 5.057518879995106,
+    "writing": 5.057518879995106,
+    "resume": 5.568344503761097,
+    "nursing": 5.568344503761097,
+    "scholarships": 5.568344503761097,
+    "telecommuting": 5.568344503761097,
+    "military": 5.568344503761097,
+    "education": 4.4697322150929875,
+    "41832": 5.568344503761097,
+    "adult": 5.568344503761097,
+    "history": 5.568344503761097,
+    "administration": 5.568344503761097,
+    "colledge": 5.568344503761097,
+    "life": 5.057518879995106,
+    "distance": 5.568344503761097,
+    "learning": 5.057518879995106,
+    "2nd": 5.568344503761097,
+    "language": 5.057518879995106,
+    "english": 5.568344503761097,
+    "as": 5.568344503761097,
+    "graduate": 5.568344503761097,
+    "school": 4.721046643373893,
+    "homeschooling": 5.568344503761097,
+    "tips": 5.568344503761097,
+    "homework": 5.568344503761097,
+    "study": 5.568344503761097,
+    "educators": 5.568344503761097,
+    "private": 5.568344503761097,
+    "special": 5.057518879995106,
+    "studying": 5.568344503761097,
+    "family": 5.057518879995106,
+    "parenting": 4.721046643373893,
+    "adoption": 5.568344503761097,
+    "toddlers": 5.568344503761097,
+    "babies": 5.568344503761097,
+    "daycare": 5.568344503761097,
+    "internet": 5.057518879995106,
+    "kids": 4.721046643373893,
+    "teens": 5.057518879995106,
+    "pregnancy": 5.568344503761097,
+    "needs": 5.568344503761097,
+    "eldercare": 5.568344503761097,
+    "health": 4.102007434967669,
+    "fitness": 5.568344503761097,
+    "exercise": 5.568344503761097,
+    "hiv": 5.568344503761097,
+    "aids": 5.568344503761097,
+    "allergies": 5.057518879995106,
+    "medicine": 5.057518879995106,
+    "alternative": 5.057518879995106,
+    "arthritis": 5.568344503761097,
+    "asthma": 5.568344503761097,
+    "pdd": 5.568344503761097,
+    "autism": 5.568344503761097,
+    "disorder": 5.568344503761097,
+    "bipolar": 5.568344503761097,
+    "brain": 5.568344503761097,
+    "tumor": 5.568344503761097,
+    "cancer": 5.568344503761097,
+    "cholesterol": 5.568344503761097,
+    "fatigue": 5.568344503761097,
+    "chronic": 5.057518879995106,
+    "syndrome": 5.568344503761097,
+    "pain": 5.568344503761097,
+    "cold": 5.568344503761097,
+    "flu": 5.568344503761097,
+    "deafness": 5.568344503761097,
+    "dental": 5.568344503761097,
+    "care": 5.568344503761097,
+    "depression": 5.568344503761097,
+    "dermatology": 5.568344503761097,
+    "diabetes": 5.568344503761097,
+    "epilepsy": 5.568344503761097,
+    "reflux": 5.568344503761097,
+    "acid": 5.568344503761097,
+    "gerd": 5.568344503761097,
+    "migraines": 5.568344503761097,
+    "headaches": 5.568344503761097,
+    "disease": 4.721046643373893,
+    "heart": 5.568344503761097,
+    "herbs": 5.568344503761097,
+    "healing": 5.568344503761097,
+    "holistic": 5.568344503761097,
+    "ibs": 5.568344503761097,
+    "crohn": 5.568344503761097,
+    "abuse": 5.057518879995106,
+    "incest": 5.568344503761097,
+    "support": 4.4697322150929875,
+    "incontinence": 5.568344503761097,
+    "infertility": 5.568344503761097,
+    "men": 5.568344503761097,
+    "nutrition": 5.568344503761097,
+    "orthopedics": 5.568344503761097,
+    "panic": 5.568344503761097,
+    "anxiety": 5.568344503761097,
+    "disorders": 5.057518879995106,
+    "pediatrics": 5.568344503761097,
+    "therapy": 5.568344503761097,
+    "physical": 5.568344503761097,
+    "psychology": 5.568344503761097,
+    "psychiatry": 5.568344503761097,
+    "senor": 5.568344503761097,
+    "sexuality": 5.568344503761097,
+    "sleep": 5.568344503761097,
+    "smoking": 5.568344503761097,
+    "cessation": 5.568344503761097,
+    "substance": 5.568344503761097,
+    "thyroid": 5.568344503761097,
+    "loss": 5.568344503761097,
+    "weight": 5.568344503761097,
+    "women": 5.568344503761097,
+    "food": 5.057518879995106,
+    "drink": 5.568344503761097,
+    "cuisine": 3.9589065913269965,
+    "american": 5.568344503761097,
+    "grilling": 5.568344503761097,
+    "barbecues": 5.568344503761097,
+    "creole": 5.568344503761097,
+    "cajun": 5.568344503761097,
+    "chinese": 5.568344503761097,
+    "cocktails": 5.568344503761097,
+    "beer": 5.568344503761097,
+    "tea": 5.568344503761097,
+    "coffee": 5.568344503761097,
+    "specific": 5.057518879995106,
+    "baking": 5.568344503761097,
+    "desserts": 5.568344503761097,
+    "out": 5.568344503761097,
+    "dining": 5.568344503761097,
+    "french": 5.568344503761097,
+    "lowfat": 5.568344503761097,
+    "cooking": 5.568344503761097,
+    "italian": 5.568344503761097,
+    "japanese": 5.568344503761097,
+    "mexican": 5.568344503761097,
+    "vegan": 5.568344503761097,
+    "vegetarian": 5.568344503761097,
+    "wine": 5.568344503761097,
+    "hobbies": 5.568344503761097,
+    "interests": 5.568344503761097,
+    "technology": 4.721046643373893,
+    "crafts": 5.568344503761097,
+    "beadwork": 5.568344503761097,
+    "birdwatching": 5.568344503761097,
+    "puzzles": 5.568344503761097,
+    "board": 5.568344503761097,
+    "games": 4.4697322150929875,
+    "candle": 5.568344503761097,
+    "soap": 5.568344503761097,
+    "making": 5.057518879995106,
+    "card": 5.568344503761097,
+    "chess": 5.568344503761097,
+    "cigars": 5.568344503761097,
+    "collecting": 5.568344503761097,
+    "comic": 5.568344503761097,
+    "drawing": 5.568344503761097,
+    "sketching": 5.568344503761097,
+    "freelance": 5.568344503761097,
+    "genealogy": 5.568344503761097,
+    "getting": 5.568344503761097,
+    "published": 5.568344503761097,
+    "guitar": 5.568344503761097,
+    "home": 4.269061519630836,
+    "recording": 5.568344503761097,
+    "patents": 5.568344503761097,
+    "investors": 5.568344503761097,
+    "jewelry": 5.057518879995106,
+    "magic": 5.568344503761097,
+    "illusion": 5.568344503761097,
+    "needlework": 5.568344503761097,
+    "painting": 5.568344503761097,
+    "photography": 5.568344503761097,
+    "radio": 5.568344503761097,
+    "roleplaying": 5.568344503761097,
+    "sci": 5.568344503761097,
+    "fantasy": 5.568344503761097,
+    "fi": 5.568344503761097,
+    "scrapbooking": 5.568344503761097,
+    "screenwriting": 5.568344503761097,
+    "coins": 5.568344503761097,
+    "stamps": 5.568344503761097,
+    "video": 4.721046643373893,
+    "computer": 4.269061519630836,
+    "woodworking": 5.568344503761097,
+    "garden": 5.568344503761097,
+    "appliances": 5.568344503761097,
+    "entertaining": 5.568344503761097,
+    "safety": 5.568344503761097,
+    "environmental": 5.568344503761097,
+    "gardening": 5.568344503761097,
+    "theater": 5.568344503761097,
+    "decorating": 5.568344503761097,
+    "interior": 5.568344503761097,
+    "landscaping": 5.568344503761097,
+    "remodeling": 5.568344503761097,
+    "law": 5.568344503761097,
+    "gov": 5.568344503761097,
+    "politics": 5.057518879995106,
+    "immigration": 5.568344503761097,
+    "issues": 5.568344503761097,
+    "legal": 5.568344503761097,
+    "commentary": 5.568344503761097,
+    "news": 4.269061519630836,
+    "international": 5.568344503761097,
+    "national": 5.057518879995106,
+    "local": 5.568344503761097,
+    "personal": 5.568344503761097,
+    "finance": 5.568344503761097,
+    "beginning": 5.568344503761097,
+    "investing": 5.057518879995106,
+    "credit": 5.568344503761097,
+    "debt": 5.568344503761097,
+    "loans": 5.568344503761097,
+    "fund": 5.568344503761097,
+    "hedge": 5.568344503761097,
+    "insurance": 5.568344503761097,
+    "mutual": 5.568344503761097,
+    "funds": 5.568344503761097,
+    "options": 5.568344503761097,
+    "retirement": 5.568344503761097,
+    "stocks": 5.568344503761097,
+    "tax": 5.568344503761097,
+    "society": 5.568344503761097,
+    "dating": 5.568344503761097,
+    "divorce": 5.568344503761097,
+    "gay": 5.568344503761097,
+    "marriage": 5.568344503761097,
+    "living": 5.568344503761097,
+    "senior": 5.568344503761097,
+    "weddings": 5.568344503761097,
+    "ethnic": 5.568344503761097,
+    "science": 5.568344503761097,
+    "astrology": 5.568344503761097,
+    "biology": 5.568344503761097,
+    "chemistry": 5.568344503761097,
+    "geology": 5.568344503761097,
+    "paranormal": 5.568344503761097,
+    "phenomena": 5.568344503761097,
+    "physics": 5.568344503761097,
+    "astronomy": 5.568344503761097,
+    "space": 5.568344503761097,
+    "geography": 5.568344503761097,
+    "botany": 5.568344503761097,
+    "weather": 5.568344503761097,
+    "pets": 5.568344503761097,
+    "aquariums": 5.568344503761097,
+    "birds": 5.568344503761097,
+    "cats": 5.568344503761097,
+    "dogs": 5.568344503761097,
+    "large": 5.568344503761097,
+    "animals": 5.568344503761097,
+    "reptiles": 5.568344503761097,
+    "veterinary": 5.568344503761097,
+    "sports": 5.568344503761097,
+    "racing": 4.721046643373893,
+    "baseball": 5.568344503761097,
+    "bicycling": 5.568344503761097,
+    "bodybuilding": 5.568344503761097,
+    "boxing": 5.568344503761097,
+    "canoeing": 5.568344503761097,
+    "kayaking": 5.568344503761097,
+    "cheerleading": 5.568344503761097,
+    "climbing": 5.568344503761097,
+    "cricket": 5.568344503761097,
+    "skating": 5.057518879995106,
+    "figure": 5.568344503761097,
+    "fishing": 4.721046643373893,
+    "fly": 5.568344503761097,
+    "football": 5.568344503761097,
+    "freshwater": 5.568344503761097,
+    "fish": 5.568344503761097,
+    "game": 5.568344503761097,
+    "golf": 5.568344503761097,
+    "horse": 5.568344503761097,
+    "horses": 5.568344503761097,
+    "shooting": 5.568344503761097,
+    "hunting": 5.568344503761097,
+    "inline": 5.568344503761097,
+    "martial": 5.568344503761097,
+    "biking": 5.568344503761097,
+    "mountain": 5.568344503761097,
+    "nascar": 5.568344503761097,
+    "olympics": 5.568344503761097,
+    "paintball": 5.568344503761097,
+    "power": 5.568344503761097,
+    "motorcycles": 5.568344503761097,
+    "basketball": 5.568344503761097,
+    "pro": 5.057518879995106,
+    "hockey": 5.568344503761097,
+    "ice": 5.568344503761097,
+    "rodeo": 5.568344503761097,
+    "rugby": 5.568344503761097,
+    "running": 5.568344503761097,
+    "jogging": 5.568344503761097,
+    "sailing": 5.568344503761097,
+    "saltwater": 5.568344503761097,
+    "scuba": 5.568344503761097,
+    "diving": 5.568344503761097,
+    "skateboarding": 5.568344503761097,
+    "skiing": 5.568344503761097,
+    "snowboarding": 5.568344503761097,
+    "bodyboarding": 5.568344503761097,
+    "surfing": 5.568344503761097,
+    "swimming": 5.568344503761097,
+    "table": 5.568344503761097,
+    "ping": 5.568344503761097,
+    "tennis": 5.057518879995106,
+    "pong": 5.568344503761097,
+    "volleyball": 5.568344503761097,
+    "walking": 5.568344503761097,
+    "waterski": 5.568344503761097,
+    "wakeboard": 5.568344503761097,
+    "soccer": 5.568344503761097,
+    "world": 5.568344503761097,
+    "style": 5.568344503761097,
+    "fashion": 5.057518879995106,
+    "beauty": 5.568344503761097,
+    "body": 5.568344503761097,
+    "clothing": 5.568344503761097,
+    "computing": 5.568344503761097,
+    "graphics": 5.057518879995106,
+    "animation": 5.568344503761097,
+    "antivirus": 5.568344503761097,
+    "cameras": 5.568344503761097,
+    "camcorders": 5.568344503761097,
+    "phones": 5.568344503761097,
+    "cell": 5.568344503761097,
+    "certification": 5.568344503761097,
+    "networking": 5.568344503761097,
+    "peripherals": 5.568344503761097,
+    "reviews": 5.568344503761097,
+    "data": 5.568344503761097,
+    "centers": 5.568344503761097,
+    "databases": 5.568344503761097,
+    "publishing": 5.568344503761097,
+    "desktop": 5.057518879995106,
+    "email": 5.568344503761097,
+    "dvd": 5.568344503761097,
+    "java": 5.568344503761097,
+    "javascript": 5.568344503761097,
+    "mac": 5.568344503761097,
+    "mp3": 5.568344503761097,
+    "midi": 5.568344503761097,
+    "net": 5.057518879995106,
+    "conferencing": 5.568344503761097,
+    "beginners": 5.568344503761097,
+    "security": 5.568344503761097,
+    "network": 5.568344503761097,
+    "palmtops": 5.568344503761097,
+    "pdas": 5.568344503761097,
+    "pc": 5.568344503761097,
+    "portable": 5.568344503761097,
+    "freeware": 5.568344503761097,
+    "shareware": 5.568344503761097,
+    "unix": 5.568344503761097,
+    "visual": 5.568344503761097,
+    "basic": 5.568344503761097,
+    "clip": 5.568344503761097,
+    "web": 4.721046643373893,
+    "design": 5.568344503761097,
+    "html": 5.568344503761097,
+    "windows": 5.568344503761097,
+    "travel": 4.269061519630836,
+    "adventure": 5.568344503761097,
+    "africa": 5.568344503761097,
+    "air": 5.568344503761097,
+    "new": 5.568344503761097,
+    "australia": 5.568344503761097,
+    "zealand": 5.568344503761097,
+    "bed": 5.568344503761097,
+    "breakfasts": 5.568344503761097,
+    "budget": 5.568344503761097,
+    "by": 5.568344503761097,
+    "locale": 5.568344503761097,
+    "us": 5.568344503761097,
+    "camping": 5.568344503761097,
+    "canada": 5.568344503761097,
+    "caribbean": 5.568344503761097,
+    "cruises": 5.568344503761097,
+    "europe": 5.057518879995106,
+    "eastern": 5.568344503761097,
+    "france": 5.568344503761097,
+    "greece": 5.568344503761097,
+    "honeymoons": 5.568344503761097,
+    "getaways": 5.568344503761097,
+    "hotels": 5.568344503761097,
+    "italy": 5.568344503761097,
+    "japan": 5.568344503761097,
+    "mexico": 5.568344503761097,
+    "central": 5.568344503761097,
+    "america": 5.057518879995106,
+    "parks": 5.057518879995106,
+    "south": 5.568344503761097,
+    "spas": 5.568344503761097,
+    "theme": 5.568344503761097,
+    "traveling": 5.568344503761097,
+    "with": 5.568344503761097,
+    "kingdom": 5.568344503761097,
+    "united": 5.568344503761097,
+    "estate": 5.568344503761097,
+    "real": 5.568344503761097,
+    "apartments": 5.568344503761097,
+    "architects": 5.568344503761097,
+    "homes": 5.568344503761097,
+    "shopping": 5.568344503761097,
+    "freebies": 5.568344503761097,
+    "contests": 5.568344503761097,
+    "couponing": 5.568344503761097,
+    "comparison": 5.568344503761097,
+    "engines": 5.568344503761097,
+    "religion": 5.568344503761097,
+    "spirituality": 5.568344503761097,
+    "religions": 5.568344503761097,
+    "agnosticism": 5.568344503761097,
+    "atheism": 5.568344503761097,
+    "buddhism": 5.568344503761097,
+    "catholicism": 5.568344503761097,
+    "christianity": 5.568344503761097,
+    "hinduism": 5.568344503761097,
+    "islam": 5.568344503761097,
+    "judaism": 5.568344503761097,
+    "saints": 5.568344503761097,
+    "latter": 5.568344503761097,
+    "day": 5.568344503761097,
+    "pagan": 5.568344503761097,
+    "wiccan": 5.568344503761097,
+    "uncategorized": 5.568344503761097,
+    "standard": 5.568344503761097,
+    "content": 4.269061519630836,
+    "non": 5.568344503761097,
+    "ugc": 5.568344503761097,
+    "unmoderated": 5.568344503761097,
+    "explicit": 5.568344503761097,
+    "extreme": 5.568344503761097,
+    "violence": 5.568344503761097,
+    "graphic": 5.568344503761097,
+    "pornography": 5.568344503761097,
+    "profane": 5.568344503761097,
+    "hate": 5.568344503761097,
+    "under": 5.568344503761097,
+    "incentivized": 5.568344503761097,
+    "illegal": 5.057518879995106,
+    "warez": 5.568344503761097,
+    "spyware": 5.568344503761097,
+    "malware": 5.568344503761097,
+    "infringement": 5.568344503761097,
+    "copyright": 5.568344503761097
+  },
+  "inverted": {
+    "arts": [
+      "IAB1",
+      "IAB9-2",
+      "IAB17-20"
+    ],
+    "entertainment": [
+      "IAB1",
+      "IAB19-29"
+    ],
+    "literature": [
+      "IAB1-1"
+    ],
+    "books": [
+      "IAB1-1",
+      "IAB9-11"
+    ],
+    "fan": [
+      "IAB1-2"
+    ],
+    "gossip": [
+      "IAB1-2"
+    ],
+    "celebrity": [
+      "IAB1-2"
+    ],
+    "art": [
+      "IAB1-3",
+      "IAB5-3",
+      "IAB9-1",
+      "IAB18-2",
+      "IAB19-33"
+    ],
+    "fine": [
+      "IAB1-3"
+    ],
+    "humor": [
+      "IAB1-4"
+    ],
+    "movies": [
+      "IAB1-5"
+    ],
+    "music": [
+      "IAB1-6"
+    ],
+    "television": [
+      "IAB1-7"
+    ],
+    "automotive": [
+      "IAB2"
+    ],
+    "auto": [
+      "IAB2-1",
+      "IAB2-2",
+      "IAB17-1"
+    ],
+    "parts": [
+      "IAB2-1"
+    ],
+    "repair": [
+      "IAB2-2",
+      "IAB10-5"
+    ],
+    "buying": [
+      "IAB2-3",
+      "IAB21-3"
+    ],
+    "selling": [
+      "IAB2-3",
+      "IAB21-3"
+    ],
+    "cars": [
+      "IAB2-3",
+      "IAB2-22"
+    ],
+    "culture": [
+      "IAB2-4"
+    ],
+    "car": [
+      "IAB2-4"
+    ],
+    "owned": [
+      "IAB2-5"
+    ],
+    "certified": [
+      "IAB2-5"
+    ],
+    "pre": [
+      "IAB2-5",
+      "IAB6-3"
+    ],
+    "convertible": [
+      "IAB2-6"
+    ],
+    "coupe": [
+      "IAB2-7"
+    ],
+    "crossover": [
+      "IAB2-8"
+    ],
+    "diesel": [
+      "IAB2-9"
+    ],
+    "electric": [
+      "IAB2-10"
+    ],
+    "vehicle": [
+      "IAB2-10"
+    ],
+    "hatchback": [
+      "IAB2-11"
+    ],
+    "hybrid": [
+      "IAB2-12"
+    ],
+    "luxury": [
+      "IAB2-13"
+    ],
+    "minivan": [
+      "IAB2-14"
+    ],
+    "mororcycles": [
+      "IAB2-15"
+    ],
+    "road": [
+      "IAB2-16",
+      "IAB2-19"
+    ],
+    "vehicles": [
+      "IAB2-16",
+      "IAB2-17"
+    ],
+    "off": [
+      "IAB2-16"
+    ],
+    "performance": [
+      "IAB2-17"
+    ],
+    "pickup": [
+      "IAB2-18"
+    ],
+    "assistance": [
+      "IAB2-19"
+    ],
+    "side": [
+      "IAB2-19"
+    ],
+    "sedan": [
+      "IAB2-20"
+    ],
+    "trucks": [
+      "IAB2-21"
+    ],
+    "accessories": [
+      "IAB2-21",
+      "IAB18-6"
+    ],
+    "vintage": [
+      "IAB2-22"
+    ],
+    "wagon": [
+      "IAB2-23"
+    ],
+    "business": [
+      "IAB3",
+      "IAB3-4",
+      "IAB5-15",
+      "IAB20-7"
+    ],
+    "advertising": [
+      "IAB3-1"
+    ],
+    "agriculture": [
+      "IAB3-2"
+    ],
+    "biomedical": [
+      "IAB3-3"
+    ],
+    "biotech": [
+      "IAB3-3"
+    ],
+    "software": [
+      "IAB3-4",
+      "IAB19-3",
+      "IAB19-16"
+    ],
+    "construction": [
+      "IAB3-5",
+      "IAB10-9",
+      "IAB25-6"
+    ],
+    "forestry": [
+      "IAB3-6"
+    ],
+    "government": [
+      "IAB3-7",
+      "IAB11-3"
+    ],
+    "solutions": [
+      "IAB3-8"
+    ],
+    "green": [
+      "IAB3-8"
+    ],
+    "resources": [
+      "IAB3-9",
+      "IAB11-3"
+    ],
+    "human": [
+      "IAB3-9"
+    ],
+    "logistics": [
+      "IAB3-10"
+    ],
+    "marketing": [
+      "IAB3-11"
+    ],
+    "metals": [
+      "IAB3-12"
+    ],
+    "careers": [
+      "IAB4"
+    ],
+    "career": [
+      "IAB4-1",
+      "IAB4-11"
+    ],
+    "planning": [
+      "IAB4-1",
+      "IAB13-4",
+      "IAB13-10",
+      "IAB13-12"
+    ],
+    "college": [
+      "IAB4-2",
+      "IAB5-5"
+    ],
+    "financial": [
+      "IAB4-3",
+      "IAB13-3",
+      "IAB13-4"
+    ],
+    "aid": [
+      "IAB4-3"
+    ],
+    "fairs": [
+      "IAB4-4"
+    ],
+    "job": [
+      "IAB4-4",
+      "IAB4-5"
+    ],
+    "search": [
+      "IAB4-5",
+      "IAB19-35"
+    ],
+    "advice": [
+      "IAB4-6",
+      "IAB4-11"
+    ],
+    "writing": [
+      "IAB4-6",
+      "IAB9-13"
+    ],
+    "resume": [
+      "IAB4-6"
+    ],
+    "nursing": [
+      "IAB4-7"
+    ],
+    "scholarships": [
+      "IAB4-8"
+    ],
+    "telecommuting": [
+      "IAB4-9"
+    ],
+    "military": [
+      "IAB4-10"
+    ],
+    "education": [
+      "IAB5",
+      "IAB5-1",
+      "IAB5-2",
+      "IAB5-14"
+    ],
+    "41832": [
+      "IAB5-1"
+    ],
+    "adult": [
+      "IAB5-2"
+    ],
+    "history": [
+      "IAB5-3"
+    ],
+    "administration": [
+      "IAB5-4"
+    ],
+    "colledge": [
+      "IAB5-4"
+    ],
+    "life": [
+      "IAB5-5",
+      "IAB14-3"
+    ],
+    "distance": [
+      "IAB5-6"
+    ],
+    "learning": [
+      "IAB5-6",
+      "IAB5-8"
+    ],
+    "2nd": [
+      "IAB5-7"
+    ],
+    "language": [
+      "IAB5-7",
+      "IAB5-8"
+    ],
+    "english": [
+      "IAB5-7"
+    ],
+    "as": [
+      "IAB5-7"
+    ],
+    "graduate": [
+      "IAB5-9"
+    ],
+    "school": [
+      "IAB5-9",
+      "IAB5-13",
+      "IAB6-3"
+    ],
+    "homeschooling": [
+      "IAB5-10"
+    ],
+    "tips": [
+      "IAB5-11"
+    ],
+    "homework": [
+      "IAB5-11"
+    ],
+    "study": [
+      "IAB5-11"
+    ],
+    "educators": [
+      "IAB5-12"
+    ],
+    "private": [
+      "IAB5-13"
+    ],
+    "special": [
+      "IAB5-14",
+      "IAB6-8"
+    ],
+    "studying": [
+      "IAB5-15"
+    ],
+    "family": [
+      "IAB6",
+      "IAB6-4"
+    ],
+    "parenting": [
+      "IAB6",
+      "IAB6-5",
+      "IAB6-6"
+    ],
+    "adoption": [
+      "IAB6-1"
+    ],
+    "toddlers": [
+      "IAB6-2"
+    ],
+    "babies": [
+      "IAB6-2"
+    ],
+    "daycare": [
+      "IAB6-3"
+    ],
+    "internet": [
+      "IAB6-4",
+      "IAB19-18"
+    ],
+    "kids": [
+      "IAB6-5",
+      "IAB6-8",
+      "IAB20-26"
+    ],
+    "teens": [
+      "IAB6-6",
+      "IAB14-6"
+    ],
+    "pregnancy": [
+      "IAB6-7"
+    ],
+    "needs": [
+      "IAB6-8"
+    ],
+    "eldercare": [
+      "IAB6-9"
+    ],
+    "health": [
+      "IAB7",
+      "IAB7-25",
+      "IAB7-31",
+      "IAB7-38",
+      "IAB7-45",
+      "IAB8-12"
+    ],
+    "fitness": [
+      "IAB7"
+    ],
+    "exercise": [
+      "IAB7-1"
+    ],
+    "hiv": [
+      "IAB7-3"
+    ],
+    "aids": [
+      "IAB7-3"
+    ],
+    "allergies": [
+      "IAB7-4",
+      "IAB8-10"
+    ],
+    "medicine": [
+      "IAB7-5",
+      "IAB16-7"
+    ],
+    "alternative": [
+      "IAB7-5",
+      "IAB23-1"
+    ],
+    "arthritis": [
+      "IAB7-6"
+    ],
+    "asthma": [
+      "IAB7-7"
+    ],
+    "pdd": [
+      "IAB7-8"
+    ],
+    "autism": [
+      "IAB7-8"
+    ],
+    "disorder": [
+      "IAB7-9"
+    ],
+    "bipolar": [
+      "IAB7-9"
+    ],
+    "brain": [
+      "IAB7-10"
+    ],
+    "tumor": [
+      "IAB7-10"
+    ],
+    "cancer": [
+      "IAB7-11"
+    ],
+    "cholesterol": [
+      "IAB7-12"
+    ],
+    "fatigue": [
+      "IAB7-13"
+    ],
+    "chronic": [
+      "IAB7-13",
+      "IAB7-14"
+    ],
+    "syndrome": [
+      "IAB7-13"
+    ],
+    "pain": [
+      "IAB7-14"
+    ],
+    "cold": [
+      "IAB7-15"
+    ],
+    "flu": [
+      "IAB7-15"
+    ],
+    "deafness": [
+      "IAB7-16"
+    ],
+    "dental": [
+      "IAB7-17"
+    ],
+    "care": [
+      "IAB7-17"
+    ],
+    "depression": [
+      "IAB7-18"
+    ],
+    "dermatology": [
+      "IAB7-19"
+    ],
+    "diabetes": [
+      "IAB7-20"
+    ],
+    "epilepsy": [
+      "IAB7-21"
+    ],
+    "reflux": [
+      "IAB7-22"
+    ],
+    "acid": [
+      "IAB7-22"
+    ],
+    "gerd": [
+      "IAB7-22"
+    ],
+    "migraines": [
+      "IAB7-23"
+    ],
+    "headaches": [
+      "IAB7-23"
+    ],
+    "disease": [
+      "IAB7-24",
+      "IAB7-27",
+      "IAB7-43"
+    ],
+    "heart": [
+      "IAB7-24"
+    ],
+    "herbs": [
+      "IAB7-25"
+    ],
+    "healing": [
+      "IAB7-26"
+    ],
+    "holistic": [
+      "IAB7-26"
+    ],
+    "ibs": [
+      "IAB7-27"
+    ],
+    "crohn": [
+      "IAB7-27"
+    ],
+    "abuse": [
+      "IAB7-28",
+      "IAB7-42"
+    ],
+    "incest": [
+      "IAB7-28"
+    ],
+    "support": [
+      "IAB7-28",
+      "IAB14-2",
+      "IAB19-21",
+      "IAB19-27"
+    ],
+    "incontinence": [
+      "IAB7-29"
+    ],
+    "infertility": [
+      "IAB7-30"
+    ],
+    "men": [
+      "IAB7-31"
+    ],
+    "nutrition": [
+      "IAB7-32"
+    ],
+    "orthopedics": [
+      "IAB7-33"
+    ],
+    "panic": [
+      "IAB7-34"
+    ],
+    "anxiety": [
+      "IAB7-34"
+    ],
+    "disorders": [
+      "IAB7-34",
+      "IAB7-40"
+    ],
+    "pediatrics": [
+      "IAB7-35"
+    ],
+    "therapy": [
+      "IAB7-36"
+    ],
+    "physical": [
+      "IAB7-36"
+    ],
+    "psychology": [
+      "IAB7-37"
+    ],
+    "psychiatry": [
+      "IAB7-37"
+    ],
+    "senor": [
+      "IAB7-38"
+    ],
+    "sexuality": [
+      "IAB7-39"
+    ],
+    "sleep": [
+      "IAB7-40"
+    ],
+    "smoking": [
+      "IAB7-41"
+    ],
+    "cessation": [
+      "IAB7-41"
+    ],
+    "substance": [
+      "IAB7-42"
+    ],
+    "thyroid": [
+      "IAB7-43"
+    ],
+    "loss": [
+      "IAB7-44"
+    ],
+    "weight": [
+      "IAB7-44"
+    ],
+    "women": [
+      "IAB7-45"
+    ],
+    "food": [
+      "IAB8",
+      "IAB8-10"
+    ],
+    "drink": [
+      "IAB8"
+    ],
+    "cuisine": [
+      "IAB8-1",
+      "IAB8-4",
+      "IAB8-7",
+      "IAB8-11",
+      "IAB8-13",
+      "IAB8-14",
+      "IAB8-15"
+    ],
+    "american": [
+      "IAB8-1"
+    ],
+    "grilling": [
+      "IAB8-2"
+    ],
+    "barbecues": [
+      "IAB8-2"
+    ],
+    "creole": [
+      "IAB8-3"
+    ],
+    "cajun": [
+      "IAB8-3"
+    ],
+    "chinese": [
+      "IAB8-4"
+    ],
+    "cocktails": [
+      "IAB8-5"
+    ],
+    "beer": [
+      "IAB8-5"
+    ],
+    "tea": [
+      "IAB8-6"
+    ],
+    "coffee": [
+      "IAB8-6"
+    ],
+    "specific": [
+      "IAB8-7",
+      "IAB14-8"
+    ],
+    "baking": [
+      "IAB8-8"
+    ],
+    "desserts": [
+      "IAB8-8"
+    ],
+    "out": [
+      "IAB8-9"
+    ],
+    "dining": [
+      "IAB8-9"
+    ],
+    "french": [
+      "IAB8-11"
+    ],
+    "lowfat": [
+      "IAB8-12"
+    ],
+    "cooking": [
+      "IAB8-12"
+    ],
+    "italian": [
+      "IAB8-13"
+    ],
+    "japanese": [
+      "IAB8-14"
+    ],
+    "mexican": [
+      "IAB8-15"
+    ],
+    "vegan": [
+      "IAB8-16"
+    ],
+    "vegetarian": [
+      "IAB8-17"
+    ],
+    "wine": [
+      "IAB8-18"
+    ],
+    "hobbies": [
+      "IAB9"
+    ],
+    "interests": [
+      "IAB9"
+    ],
+    "technology": [
+      "IAB9-1",
+      "IAB19",
+      "IAB19-18"
+    ],
+    "crafts": [
+      "IAB9-2"
+    ],
+    "beadwork": [
+      "IAB9-3"
+    ],
+    "birdwatching": [
+      "IAB9-4"
+    ],
+    "puzzles": [
+      "IAB9-5"
+    ],
+    "board": [
+      "IAB9-5"
+    ],
+    "games": [
+      "IAB9-5",
+      "IAB9-7",
+      "IAB9-25",
+      "IAB9-30"
+    ],
+    "candle": [
+      "IAB9-6"
+    ],
+    "soap": [
+      "IAB9-6"
+    ],
+    "making": [
+      "IAB9-6",
+      "IAB9-19"
+    ],
+    "card": [
+      "IAB9-7"
+    ],
+    "chess": [
+      "IAB9-8"
+    ],
+    "cigars": [
+      "IAB9-9"
+    ],
+    "collecting": [
+      "IAB9-10"
+    ],
+    "comic": [
+      "IAB9-11"
+    ],
+    "drawing": [
+      "IAB9-12"
+    ],
+    "sketching": [
+      "IAB9-12"
+    ],
+    "freelance": [
+      "IAB9-13"
+    ],
+    "genealogy": [
+      "IAB9-14"
+    ],
+    "getting": [
+      "IAB9-15"
+    ],
+    "published": [
+      "IAB9-15"
+    ],
+    "guitar": [
+      "IAB9-16"
+    ],
+    "home": [
+      "IAB9-17",
+      "IAB10",
+      "IAB10-5",
+      "IAB10-6",
+      "IAB19-17"
+    ],
+    "recording": [
+      "IAB9-17"
+    ],
+    "patents": [
+      "IAB9-18"
+    ],
+    "investors": [
+      "IAB9-18"
+    ],
+    "jewelry": [
+      "IAB9-19",
+      "IAB18-4"
+    ],
+    "magic": [
+      "IAB9-20"
+    ],
+    "illusion": [
+      "IAB9-20"
+    ],
+    "needlework": [
+      "IAB9-21"
+    ],
+    "painting": [
+      "IAB9-22"
+    ],
+    "photography": [
+      "IAB9-23"
+    ],
+    "radio": [
+      "IAB9-24"
+    ],
+    "roleplaying": [
+      "IAB9-25"
+    ],
+    "sci": [
+      "IAB9-26"
+    ],
+    "fantasy": [
+      "IAB9-26"
+    ],
+    "fi": [
+      "IAB9-26"
+    ],
+    "scrapbooking": [
+      "IAB9-27"
+    ],
+    "screenwriting": [
+      "IAB9-28"
+    ],
+    "coins": [
+      "IAB9-29"
+    ],
+    "stamps": [
+      "IAB9-29"
+    ],
+    "video": [
+      "IAB9-30",
+      "IAB19-14",
+      "IAB19-17"
+    ],
+    "computer": [
+      "IAB9-30",
+      "IAB19-7",
+      "IAB19-8",
+      "IAB19-9",
+      "IAB19-10"
+    ],
+    "woodworking": [
+      "IAB9-31"
+    ],
+    "garden": [
+      "IAB10"
+    ],
+    "appliances": [
+      "IAB10-1"
+    ],
+    "entertaining": [
+      "IAB10-2"
+    ],
+    "safety": [
+      "IAB10-3"
+    ],
+    "environmental": [
+      "IAB10-3"
+    ],
+    "gardening": [
+      "IAB10-4"
+    ],
+    "theater": [
+      "IAB10-6"
+    ],
+    "decorating": [
+      "IAB10-7"
+    ],
+    "interior": [
+      "IAB10-7"
+    ],
+    "landscaping": [
+      "IAB10-8"
+    ],
+    "remodeling": [
+      "IAB10-9"
+    ],
+    "law": [
+      "IAB11"
+    ],
+    "gov": [
+      "IAB11"
+    ],
+    "politics": [
+      "IAB11",
+      "IAB11-4"
+    ],
+    "immigration": [
+      "IAB11-1"
+    ],
+    "issues": [
+      "IAB11-2"
+    ],
+    "legal": [
+      "IAB11-2"
+    ],
+    "commentary": [
+      "IAB11-5"
+    ],
+    "news": [
+      "IAB12",
+      "IAB12-1",
+      "IAB12-2",
+      "IAB12-3",
+      "IAB13-3"
+    ],
+    "international": [
+      "IAB12-1"
+    ],
+    "national": [
+      "IAB12-2",
+      "IAB20-22"
+    ],
+    "local": [
+      "IAB12-3"
+    ],
+    "personal": [
+      "IAB13"
+    ],
+    "finance": [
+      "IAB13"
+    ],
+    "beginning": [
+      "IAB13-1"
+    ],
+    "investing": [
+      "IAB13-1",
+      "IAB13-7"
+    ],
+    "credit": [
+      "IAB13-2"
+    ],
+    "debt": [
+      "IAB13-2"
+    ],
+    "loans": [
+      "IAB13-2"
+    ],
+    "fund": [
+      "IAB13-5"
+    ],
+    "hedge": [
+      "IAB13-5"
+    ],
+    "insurance": [
+      "IAB13-6"
+    ],
+    "mutual": [
+      "IAB13-8"
+    ],
+    "funds": [
+      "IAB13-8"
+    ],
+    "options": [
+      "IAB13-9"
+    ],
+    "retirement": [
+      "IAB13-10"
+    ],
+    "stocks": [
+      "IAB13-11"
+    ],
+    "tax": [
+      "IAB13-12"
+    ],
+    "society": [
+      "IAB14"
+    ],
+    "dating": [
+      "IAB14-1"
+    ],
+    "divorce": [
+      "IAB14-2"
+    ],
+    "gay": [
+      "IAB14-3"
+    ],
+    "marriage": [
+      "IAB14-4"
+    ],
+    "living": [
+      "IAB14-5"
+    ],
+    "senior": [
+      "IAB14-5"
+    ],
+    "weddings": [
+      "IAB14-7"
+    ],
+    "ethnic": [
+      "IAB14-8"
+    ],
+    "science": [
+      "IAB15"
+    ],
+    "astrology": [
+      "IAB15-1"
+    ],
+    "biology": [
+      "IAB15-2"
+    ],
+    "chemistry": [
+      "IAB15-3"
+    ],
+    "geology": [
+      "IAB15-4"
+    ],
+    "paranormal": [
+      "IAB15-5"
+    ],
+    "phenomena": [
+      "IAB15-5"
+    ],
+    "physics": [
+      "IAB15-6"
+    ],
+    "astronomy": [
+      "IAB15-7"
+    ],
+    "space": [
+      "IAB15-7"
+    ],
+    "geography": [
+      "IAB15-8"
+    ],
+    "botany": [
+      "IAB15-9"
+    ],
+    "weather": [
+      "IAB15-10"
+    ],
+    "pets": [
+      "IAB16"
+    ],
+    "aquariums": [
+      "IAB16-1"
+    ],
+    "birds": [
+      "IAB16-2"
+    ],
+    "cats": [
+      "IAB16-3"
+    ],
+    "dogs": [
+      "IAB16-4"
+    ],
+    "large": [
+      "IAB16-5"
+    ],
+    "animals": [
+      "IAB16-5"
+    ],
+    "reptiles": [
+      "IAB16-6"
+    ],
+    "veterinary": [
+      "IAB16-7"
+    ],
+    "sports": [
+      "IAB17"
+    ],
+    "racing": [
+      "IAB17-1",
+      "IAB17-16",
+      "IAB17-22"
+    ],
+    "baseball": [
+      "IAB17-2"
+    ],
+    "bicycling": [
+      "IAB17-3"
+    ],
+    "bodybuilding": [
+      "IAB17-4"
+    ],
+    "boxing": [
+      "IAB17-5"
+    ],
+    "canoeing": [
+      "IAB17-6"
+    ],
+    "kayaking": [
+      "IAB17-6"
+    ],
+    "cheerleading": [
+      "IAB17-7"
+    ],
+    "climbing": [
+      "IAB17-8"
+    ],
+    "cricket": [
+      "IAB17-9"
+    ],
+    "skating": [
+      "IAB17-10",
+      "IAB17-19"
+    ],
+    "figure": [
+      "IAB17-10"
+    ],
+    "fishing": [
+      "IAB17-11",
+      "IAB17-13",
+      "IAB17-32"
+    ],
+    "fly": [
+      "IAB17-11"
+    ],
+    "football": [
+      "IAB17-12"
+    ],
+    "freshwater": [
+      "IAB17-13"
+    ],
+    "fish": [
+      "IAB17-14"
+    ],
+    "game": [
+      "IAB17-14"
+    ],
+    "golf": [
+      "IAB17-15"
+    ],
+    "horse": [
+      "IAB17-16"
+    ],
+    "horses": [
+      "IAB17-17"
+    ],
+    "shooting": [
+      "IAB17-18"
+    ],
+    "hunting": [
+      "IAB17-18"
+    ],
+    "inline": [
+      "IAB17-19"
+    ],
+    "martial": [
+      "IAB17-20"
+    ],
+    "biking": [
+      "IAB17-21"
+    ],
+    "mountain": [
+      "IAB17-21"
+    ],
+    "nascar": [
+      "IAB17-22"
+    ],
+    "olympics": [
+      "IAB17-23"
+    ],
+    "paintball": [
+      "IAB17-24"
+    ],
+    "power": [
+      "IAB17-25"
+    ],
+    "motorcycles": [
+      "IAB17-25"
+    ],
+    "basketball": [
+      "IAB17-26"
+    ],
+    "pro": [
+      "IAB17-26",
+      "IAB17-27"
+    ],
+    "hockey": [
+      "IAB17-27"
+    ],
+    "ice": [
+      "IAB17-27"
+    ],
+    "rodeo": [
+      "IAB17-28"
+    ],
+    "rugby": [
+      "IAB17-29"
+    ],
+    "running": [
+      "IAB17-30"
+    ],
+    "jogging": [
+      "IAB17-30"
+    ],
+    "sailing": [
+      "IAB17-31"
+    ],
+    "saltwater": [
+      "IAB17-32"
+    ],
+    "scuba": [
+      "IAB17-33"
+    ],
+    "diving": [
+      "IAB17-33"
+    ],
+    "skateboarding": [
+      "IAB17-34"
+    ],
+    "skiing": [
+      "IAB17-35"
+    ],
+    "snowboarding": [
+      "IAB17-36"
+    ],
+    "bodyboarding": [
+      "IAB17-37"
+    ],
+    "surfing": [
+      "IAB17-37"
+    ],
+    "swimming": [
+      "IAB17-38"
+    ],
+    "table": [
+      "IAB17-39"
+    ],
+    "ping": [
+      "IAB17-39"
+    ],
+    "tennis": [
+      "IAB17-39",
+      "IAB17-40"
+    ],
+    "pong": [
+      "IAB17-39"
+    ],
+    "volleyball": [
+      "IAB17-41"
+    ],
+    "walking": [
+      "IAB17-42"
+    ],
+    "waterski": [
+      "IAB17-43"
+    ],
+    "wakeboard": [
+      "IAB17-43"
+    ],
+    "soccer": [
+      "IAB17-44"
+    ],
+    "world": [
+      "IAB17-44"
+    ],
+    "style": [
+      "IAB18"
+    ],
+    "fashion": [
+      "IAB18",
+      "IAB18-3"
+    ],
+    "beauty": [
+      "IAB18-1"
+    ],
+    "body": [
+      "IAB18-2"
+    ],
+    "clothing": [
+      "IAB18-5"
+    ],
+    "computing": [
+      "IAB19"
+    ],
+    "graphics": [
+      "IAB19-1",
+      "IAB19-16"
+    ],
+    "animation": [
+      "IAB19-2"
+    ],
+    "antivirus": [
+      "IAB19-3"
+    ],
+    "cameras": [
+      "IAB19-5"
+    ],
+    "camcorders": [
+      "IAB19-5"
+    ],
+    "phones": [
+      "IAB19-6"
+    ],
+    "cell": [
+      "IAB19-6"
+    ],
+    "certification": [
+      "IAB19-7"
+    ],
+    "networking": [
+      "IAB19-8"
+    ],
+    "peripherals": [
+      "IAB19-9"
+    ],
+    "reviews": [
+      "IAB19-10"
+    ],
+    "data": [
+      "IAB19-11"
+    ],
+    "centers": [
+      "IAB19-11"
+    ],
+    "databases": [
+      "IAB19-12"
+    ],
+    "publishing": [
+      "IAB19-13"
+    ],
+    "desktop": [
+      "IAB19-13",
+      "IAB19-14"
+    ],
+    "email": [
+      "IAB19-15"
+    ],
+    "dvd": [
+      "IAB19-17"
+    ],
+    "java": [
+      "IAB19-19"
+    ],
+    "javascript": [
+      "IAB19-20"
+    ],
+    "mac": [
+      "IAB19-21"
+    ],
+    "mp3": [
+      "IAB19-22"
+    ],
+    "midi": [
+      "IAB19-22"
+    ],
+    "net": [
+      "IAB19-23",
+      "IAB19-24"
+    ],
+    "conferencing": [
+      "IAB19-23"
+    ],
+    "beginners": [
+      "IAB19-24"
+    ],
+    "security": [
+      "IAB19-25"
+    ],
+    "network": [
+      "IAB19-25"
+    ],
+    "palmtops": [
+      "IAB19-26"
+    ],
+    "pdas": [
+      "IAB19-26"
+    ],
+    "pc": [
+      "IAB19-27"
+    ],
+    "portable": [
+      "IAB19-28"
+    ],
+    "freeware": [
+      "IAB19-30"
+    ],
+    "shareware": [
+      "IAB19-30"
+    ],
+    "unix": [
+      "IAB19-31"
+    ],
+    "visual": [
+      "IAB19-32"
+    ],
+    "basic": [
+      "IAB19-32"
+    ],
+    "clip": [
+      "IAB19-33"
+    ],
+    "web": [
+      "IAB19-33",
+      "IAB19-34",
+      "IAB19-35"
+    ],
+    "design": [
+      "IAB19-34"
+    ],
+    "html": [
+      "IAB19-34"
+    ],
+    "windows": [
+      "IAB19-36"
+    ],
+    "travel": [
+      "IAB20",
+      "IAB20-1",
+      "IAB20-3",
+      "IAB20-6",
+      "IAB20-7"
+    ],
+    "adventure": [
+      "IAB20-1"
+    ],
+    "africa": [
+      "IAB20-2"
+    ],
+    "air": [
+      "IAB20-3"
+    ],
+    "new": [
+      "IAB20-4"
+    ],
+    "australia": [
+      "IAB20-4"
+    ],
+    "zealand": [
+      "IAB20-4"
+    ],
+    "bed": [
+      "IAB20-5"
+    ],
+    "breakfasts": [
+      "IAB20-5"
+    ],
+    "budget": [
+      "IAB20-6"
+    ],
+    "by": [
+      "IAB20-8"
+    ],
+    "locale": [
+      "IAB20-8"
+    ],
+    "us": [
+      "IAB20-8"
+    ],
+    "camping": [
+      "IAB20-9"
+    ],
+    "canada": [
+      "IAB20-10"
+    ],
+    "caribbean": [
+      "IAB20-11"
+    ],
+    "cruises": [
+      "IAB20-12"
+    ],
+    "europe": [
+      "IAB20-13",
+      "IAB20-14"
+    ],
+    "eastern": [
+      "IAB20-13"
+    ],
+    "france": [
+      "IAB20-15"
+    ],
+    "greece": [
+      "IAB20-16"
+    ],
+    "honeymoons": [
+      "IAB20-17"
+    ],
+    "getaways": [
+      "IAB20-17"
+    ],
+    "hotels": [
+      "IAB20-18"
+    ],
+    "italy": [
+      "IAB20-19"
+    ],
+    "japan": [
+      "IAB20-20"
+    ],
+    "mexico": [
+      "IAB20-21"
+    ],
+    "central": [
+      "IAB20-21"
+    ],
+    "america": [
+      "IAB20-21",
+      "IAB20-23"
+    ],
+    "parks": [
+      "IAB20-22",
+      "IAB20-25"
+    ],
+    "south": [
+      "IAB20-23"
+    ],
+    "spas": [
+      "IAB20-24"
+    ],
+    "theme": [
+      "IAB20-25"
+    ],
+    "traveling": [
+      "IAB20-26"
+    ],
+    "with": [
+      "IAB20-26"
+    ],
+    "kingdom": [
+      "IAB20-27"
+    ],
+    "united": [
+      "IAB20-27"
+    ],
+    "estate": [
+      "IAB21"
+    ],
+    "real": [
+      "IAB21"
+    ],
+    "apartments": [
+      "IAB21-1"
+    ],
+    "architects": [
+      "IAB21-2"
+    ],
+    "homes": [
+      "IAB21-3"
+    ],
+    "shopping": [
+      "IAB22"
+    ],
+    "freebies": [
+      "IAB22-1"
+    ],
+    "contests": [
+      "IAB22-1"
+    ],
+    "couponing": [
+      "IAB22-2"
+    ],
+    "comparison": [
+      "IAB22-3"
+    ],
+    "engines": [
+      "IAB22-4"
+    ],
+    "religion": [
+      "IAB23"
+    ],
+    "spirituality": [
+      "IAB23"
+    ],
+    "religions": [
+      "IAB23-1"
+    ],
+    "agnosticism": [
+      "IAB23-2"
+    ],
+    "atheism": [
+      "IAB23-2"
+    ],
+    "buddhism": [
+      "IAB23-3"
+    ],
+    "catholicism": [
+      "IAB23-4"
+    ],
+    "christianity": [
+      "IAB23-5"
+    ],
+    "hinduism": [
+      "IAB23-6"
+    ],
+    "islam": [
+      "IAB23-7"
+    ],
+    "judaism": [
+      "IAB23-8"
+    ],
+    "saints": [
+      "IAB23-9"
+    ],
+    "latter": [
+      "IAB23-9"
+    ],
+    "day": [
+      "IAB23-9"
+    ],
+    "pagan": [
+      "IAB23-10"
+    ],
+    "wiccan": [
+      "IAB23-10"
+    ],
+    "uncategorized": [
+      "IAB24"
+    ],
+    "standard": [
+      "IAB25"
+    ],
+    "content": [
+      "IAB25",
+      "IAB25-4",
+      "IAB25-5",
+      "IAB26",
+      "IAB26-1"
+    ],
+    "non": [
+      "IAB25"
+    ],
+    "ugc": [
+      "IAB25-1"
+    ],
+    "unmoderated": [
+      "IAB25-1"
+    ],
+    "explicit": [
+      "IAB25-2"
+    ],
+    "extreme": [
+      "IAB25-2"
+    ],
+    "violence": [
+      "IAB25-2"
+    ],
+    "graphic": [
+      "IAB25-2"
+    ],
+    "pornography": [
+      "IAB25-3"
+    ],
+    "profane": [
+      "IAB25-4"
+    ],
+    "hate": [
+      "IAB25-5"
+    ],
+    "under": [
+      "IAB25-6"
+    ],
+    "incentivized": [
+      "IAB25-7"
+    ],
+    "illegal": [
+      "IAB26",
+      "IAB26-1"
+    ],
+    "warez": [
+      "IAB26-2"
+    ],
+    "spyware": [
+      "IAB26-3"
+    ],
+    "malware": [
+      "IAB26-3"
+    ],
+    "infringement": [
+      "IAB26-4"
+    ],
+    "copyright": [
+      "IAB26-4"
+    ]
+  },
+  "documents": {
+    "IAB1": {
+      "name": "Arts & Entertainment",
+      "full_path": "Arts & Entertainment",
+      "tokens": [
+        "arts",
+        "entertainment"
+      ],
+      "dl": 2
+    },
+    "IAB1-1": {
+      "name": "Books & Literature",
+      "full_path": "Books & Literature",
+      "tokens": [
+        "books",
+        "literature"
+      ],
+      "dl": 2
+    },
+    "IAB1-2": {
+      "name": "Celebrity Fan/Gossip",
+      "full_path": "Celebrity Fan/Gossip",
+      "tokens": [
+        "celebrity",
+        "fan",
+        "gossip"
+      ],
+      "dl": 3
+    },
+    "IAB1-3": {
+      "name": "Fine Art",
+      "full_path": "Fine Art",
+      "tokens": [
+        "fine",
+        "art"
+      ],
+      "dl": 2
+    },
+    "IAB1-4": {
+      "name": "Humor",
+      "full_path": "Humor",
+      "tokens": [
+        "humor"
+      ],
+      "dl": 1
+    },
+    "IAB1-5": {
+      "name": "Movies",
+      "full_path": "Movies",
+      "tokens": [
+        "movies"
+      ],
+      "dl": 1
+    },
+    "IAB1-6": {
+      "name": "Music",
+      "full_path": "Music",
+      "tokens": [
+        "music"
+      ],
+      "dl": 1
+    },
+    "IAB1-7": {
+      "name": "Television",
+      "full_path": "Television",
+      "tokens": [
+        "television"
+      ],
+      "dl": 1
+    },
+    "IAB2": {
+      "name": "Automotive",
+      "full_path": "Automotive",
+      "tokens": [
+        "automotive"
+      ],
+      "dl": 1
+    },
+    "IAB2-1": {
+      "name": "Auto Parts",
+      "full_path": "Auto Parts",
+      "tokens": [
+        "auto",
+        "parts"
+      ],
+      "dl": 2
+    },
+    "IAB2-2": {
+      "name": "Auto Repair",
+      "full_path": "Auto Repair",
+      "tokens": [
+        "auto",
+        "repair"
+      ],
+      "dl": 2
+    },
+    "IAB2-3": {
+      "name": "Buying/Selling Cars",
+      "full_path": "Buying/Selling Cars",
+      "tokens": [
+        "buying",
+        "selling",
+        "cars"
+      ],
+      "dl": 3
+    },
+    "IAB2-4": {
+      "name": "Car Culture",
+      "full_path": "Car Culture",
+      "tokens": [
+        "car",
+        "culture"
+      ],
+      "dl": 2
+    },
+    "IAB2-5": {
+      "name": "Certified Pre-Owned",
+      "full_path": "Certified Pre-Owned",
+      "tokens": [
+        "certified",
+        "pre",
+        "owned"
+      ],
+      "dl": 3
+    },
+    "IAB2-6": {
+      "name": "Convertible",
+      "full_path": "Convertible",
+      "tokens": [
+        "convertible"
+      ],
+      "dl": 1
+    },
+    "IAB2-7": {
+      "name": "Coupe",
+      "full_path": "Coupe",
+      "tokens": [
+        "coupe"
+      ],
+      "dl": 1
+    },
+    "IAB2-8": {
+      "name": "Crossover",
+      "full_path": "Crossover",
+      "tokens": [
+        "crossover"
+      ],
+      "dl": 1
+    },
+    "IAB2-9": {
+      "name": "Diesel",
+      "full_path": "Diesel",
+      "tokens": [
+        "diesel"
+      ],
+      "dl": 1
+    },
+    "IAB2-10": {
+      "name": "Electric Vehicle",
+      "full_path": "Electric Vehicle",
+      "tokens": [
+        "electric",
+        "vehicle"
+      ],
+      "dl": 2
+    },
+    "IAB2-11": {
+      "name": "Hatchback",
+      "full_path": "Hatchback",
+      "tokens": [
+        "hatchback"
+      ],
+      "dl": 1
+    },
+    "IAB2-12": {
+      "name": "Hybrid",
+      "full_path": "Hybrid",
+      "tokens": [
+        "hybrid"
+      ],
+      "dl": 1
+    },
+    "IAB2-13": {
+      "name": "Luxury",
+      "full_path": "Luxury",
+      "tokens": [
+        "luxury"
+      ],
+      "dl": 1
+    },
+    "IAB2-14": {
+      "name": "MiniVan",
+      "full_path": "MiniVan",
+      "tokens": [
+        "minivan"
+      ],
+      "dl": 1
+    },
+    "IAB2-15": {
+      "name": "Mororcycles",
+      "full_path": "Mororcycles",
+      "tokens": [
+        "mororcycles"
+      ],
+      "dl": 1
+    },
+    "IAB2-16": {
+      "name": "Off-Road Vehicles",
+      "full_path": "Off-Road Vehicles",
+      "tokens": [
+        "off",
+        "road",
+        "vehicles"
+      ],
+      "dl": 3
+    },
+    "IAB2-17": {
+      "name": "Performance Vehicles",
+      "full_path": "Performance Vehicles",
+      "tokens": [
+        "performance",
+        "vehicles"
+      ],
+      "dl": 2
+    },
+    "IAB2-18": {
+      "name": "Pickup",
+      "full_path": "Pickup",
+      "tokens": [
+        "pickup"
+      ],
+      "dl": 1
+    },
+    "IAB2-19": {
+      "name": "Road-Side Assistance",
+      "full_path": "Road-Side Assistance",
+      "tokens": [
+        "road",
+        "side",
+        "assistance"
+      ],
+      "dl": 3
+    },
+    "IAB2-20": {
+      "name": "Sedan",
+      "full_path": "Sedan",
+      "tokens": [
+        "sedan"
+      ],
+      "dl": 1
+    },
+    "IAB2-21": {
+      "name": "Trucks & Accessories",
+      "full_path": "Trucks & Accessories",
+      "tokens": [
+        "trucks",
+        "accessories"
+      ],
+      "dl": 2
+    },
+    "IAB2-22": {
+      "name": "Vintage Cars",
+      "full_path": "Vintage Cars",
+      "tokens": [
+        "vintage",
+        "cars"
+      ],
+      "dl": 2
+    },
+    "IAB2-23": {
+      "name": "Wagon",
+      "full_path": "Wagon",
+      "tokens": [
+        "wagon"
+      ],
+      "dl": 1
+    },
+    "IAB3": {
+      "name": "Business",
+      "full_path": "Business",
+      "tokens": [
+        "business"
+      ],
+      "dl": 1
+    },
+    "IAB3-1": {
+      "name": "Advertising",
+      "full_path": "Advertising",
+      "tokens": [
+        "advertising"
+      ],
+      "dl": 1
+    },
+    "IAB3-2": {
+      "name": "Agriculture",
+      "full_path": "Agriculture",
+      "tokens": [
+        "agriculture"
+      ],
+      "dl": 1
+    },
+    "IAB3-3": {
+      "name": "Biotech/Biomedical",
+      "full_path": "Biotech/Biomedical",
+      "tokens": [
+        "biotech",
+        "biomedical"
+      ],
+      "dl": 2
+    },
+    "IAB3-4": {
+      "name": "Business Software",
+      "full_path": "Business Software",
+      "tokens": [
+        "business",
+        "software"
+      ],
+      "dl": 2
+    },
+    "IAB3-5": {
+      "name": "Construction",
+      "full_path": "Construction",
+      "tokens": [
+        "construction"
+      ],
+      "dl": 1
+    },
+    "IAB3-6": {
+      "name": "Forestry",
+      "full_path": "Forestry",
+      "tokens": [
+        "forestry"
+      ],
+      "dl": 1
+    },
+    "IAB3-7": {
+      "name": "Government",
+      "full_path": "Government",
+      "tokens": [
+        "government"
+      ],
+      "dl": 1
+    },
+    "IAB3-8": {
+      "name": "Green Solutions",
+      "full_path": "Green Solutions",
+      "tokens": [
+        "green",
+        "solutions"
+      ],
+      "dl": 2
+    },
+    "IAB3-9": {
+      "name": "Human Resources",
+      "full_path": "Human Resources",
+      "tokens": [
+        "human",
+        "resources"
+      ],
+      "dl": 2
+    },
+    "IAB3-10": {
+      "name": "Logistics",
+      "full_path": "Logistics",
+      "tokens": [
+        "logistics"
+      ],
+      "dl": 1
+    },
+    "IAB3-11": {
+      "name": "Marketing",
+      "full_path": "Marketing",
+      "tokens": [
+        "marketing"
+      ],
+      "dl": 1
+    },
+    "IAB3-12": {
+      "name": "Metals",
+      "full_path": "Metals",
+      "tokens": [
+        "metals"
+      ],
+      "dl": 1
+    },
+    "IAB4": {
+      "name": "Careers",
+      "full_path": "Careers",
+      "tokens": [
+        "careers"
+      ],
+      "dl": 1
+    },
+    "IAB4-1": {
+      "name": "Career Planning",
+      "full_path": "Career Planning",
+      "tokens": [
+        "career",
+        "planning"
+      ],
+      "dl": 2
+    },
+    "IAB4-2": {
+      "name": "College",
+      "full_path": "College",
+      "tokens": [
+        "college"
+      ],
+      "dl": 1
+    },
+    "IAB4-3": {
+      "name": "Financial Aid",
+      "full_path": "Financial Aid",
+      "tokens": [
+        "financial",
+        "aid"
+      ],
+      "dl": 2
+    },
+    "IAB4-4": {
+      "name": "Job Fairs",
+      "full_path": "Job Fairs",
+      "tokens": [
+        "job",
+        "fairs"
+      ],
+      "dl": 2
+    },
+    "IAB4-5": {
+      "name": "Job Search",
+      "full_path": "Job Search",
+      "tokens": [
+        "job",
+        "search"
+      ],
+      "dl": 2
+    },
+    "IAB4-6": {
+      "name": "Resume Writing/Advice",
+      "full_path": "Resume Writing/Advice",
+      "tokens": [
+        "resume",
+        "writing",
+        "advice"
+      ],
+      "dl": 3
+    },
+    "IAB4-7": {
+      "name": "Nursing",
+      "full_path": "Nursing",
+      "tokens": [
+        "nursing"
+      ],
+      "dl": 1
+    },
+    "IAB4-8": {
+      "name": "Scholarships",
+      "full_path": "Scholarships",
+      "tokens": [
+        "scholarships"
+      ],
+      "dl": 1
+    },
+    "IAB4-9": {
+      "name": "Telecommuting",
+      "full_path": "Telecommuting",
+      "tokens": [
+        "telecommuting"
+      ],
+      "dl": 1
+    },
+    "IAB4-10": {
+      "name": "U.S. Military",
+      "full_path": "U.S. Military",
+      "tokens": [
+        "military"
+      ],
+      "dl": 1
+    },
+    "IAB4-11": {
+      "name": "Career Advice",
+      "full_path": "Career Advice",
+      "tokens": [
+        "career",
+        "advice"
+      ],
+      "dl": 2
+    },
+    "IAB5": {
+      "name": "Education",
+      "full_path": "Education",
+      "tokens": [
+        "education"
+      ],
+      "dl": 1
+    },
+    "IAB5-1": {
+      "name": "41832 Education",
+      "full_path": "41832 Education",
+      "tokens": [
+        "41832",
+        "education"
+      ],
+      "dl": 2
+    },
+    "IAB5-2": {
+      "name": "Adult Education",
+      "full_path": "Adult Education",
+      "tokens": [
+        "adult",
+        "education"
+      ],
+      "dl": 2
+    },
+    "IAB5-3": {
+      "name": "Art History",
+      "full_path": "Art History",
+      "tokens": [
+        "art",
+        "history"
+      ],
+      "dl": 2
+    },
+    "IAB5-4": {
+      "name": "Colledge Administration",
+      "full_path": "Colledge Administration",
+      "tokens": [
+        "colledge",
+        "administration"
+      ],
+      "dl": 2
+    },
+    "IAB5-5": {
+      "name": "College Life",
+      "full_path": "College Life",
+      "tokens": [
+        "college",
+        "life"
+      ],
+      "dl": 2
+    },
+    "IAB5-6": {
+      "name": "Distance Learning",
+      "full_path": "Distance Learning",
+      "tokens": [
+        "distance",
+        "learning"
+      ],
+      "dl": 2
+    },
+    "IAB5-7": {
+      "name": "English as a 2nd Language",
+      "full_path": "English as a 2nd Language",
+      "tokens": [
+        "english",
+        "as",
+        "2nd",
+        "language"
+      ],
+      "dl": 4
+    },
+    "IAB5-8": {
+      "name": "Language Learning",
+      "full_path": "Language Learning",
+      "tokens": [
+        "language",
+        "learning"
+      ],
+      "dl": 2
+    },
+    "IAB5-9": {
+      "name": "Graduate School",
+      "full_path": "Graduate School",
+      "tokens": [
+        "graduate",
+        "school"
+      ],
+      "dl": 2
+    },
+    "IAB5-10": {
+      "name": "Homeschooling",
+      "full_path": "Homeschooling",
+      "tokens": [
+        "homeschooling"
+      ],
+      "dl": 1
+    },
+    "IAB5-11": {
+      "name": "Homework/Study Tips",
+      "full_path": "Homework/Study Tips",
+      "tokens": [
+        "homework",
+        "study",
+        "tips"
+      ],
+      "dl": 3
+    },
+    "IAB5-12": {
+      "name": "K-6 Educators",
+      "full_path": "K-6 Educators",
+      "tokens": [
+        "educators"
+      ],
+      "dl": 1
+    },
+    "IAB5-13": {
+      "name": "Private School",
+      "full_path": "Private School",
+      "tokens": [
+        "private",
+        "school"
+      ],
+      "dl": 2
+    },
+    "IAB5-14": {
+      "name": "Special Education",
+      "full_path": "Special Education",
+      "tokens": [
+        "special",
+        "education"
+      ],
+      "dl": 2
+    },
+    "IAB5-15": {
+      "name": "Studying Business",
+      "full_path": "Studying Business",
+      "tokens": [
+        "studying",
+        "business"
+      ],
+      "dl": 2
+    },
+    "IAB6": {
+      "name": "Family & Parenting",
+      "full_path": "Family & Parenting",
+      "tokens": [
+        "family",
+        "parenting"
+      ],
+      "dl": 2
+    },
+    "IAB6-1": {
+      "name": "Adoption",
+      "full_path": "Adoption",
+      "tokens": [
+        "adoption"
+      ],
+      "dl": 1
+    },
+    "IAB6-2": {
+      "name": "Babies & Toddlers",
+      "full_path": "Babies & Toddlers",
+      "tokens": [
+        "babies",
+        "toddlers"
+      ],
+      "dl": 2
+    },
+    "IAB6-3": {
+      "name": "Daycare/Pre School",
+      "full_path": "Daycare/Pre School",
+      "tokens": [
+        "daycare",
+        "pre",
+        "school"
+      ],
+      "dl": 3
+    },
+    "IAB6-4": {
+      "name": "Family Internet",
+      "full_path": "Family Internet",
+      "tokens": [
+        "family",
+        "internet"
+      ],
+      "dl": 2
+    },
+    "IAB6-5": {
+      "name": "Parenting - K-6 Kids",
+      "full_path": "Parenting - K-6 Kids",
+      "tokens": [
+        "parenting",
+        "kids"
+      ],
+      "dl": 2
+    },
+    "IAB6-6": {
+      "name": "Parenting teens",
+      "full_path": "Parenting teens",
+      "tokens": [
+        "parenting",
+        "teens"
+      ],
+      "dl": 2
+    },
+    "IAB6-7": {
+      "name": "Pregnancy",
+      "full_path": "Pregnancy",
+      "tokens": [
+        "pregnancy"
+      ],
+      "dl": 1
+    },
+    "IAB6-8": {
+      "name": "Special Needs Kids",
+      "full_path": "Special Needs Kids",
+      "tokens": [
+        "special",
+        "needs",
+        "kids"
+      ],
+      "dl": 3
+    },
+    "IAB6-9": {
+      "name": "Eldercare",
+      "full_path": "Eldercare",
+      "tokens": [
+        "eldercare"
+      ],
+      "dl": 1
+    },
+    "IAB7": {
+      "name": "Health & Fitness",
+      "full_path": "Health & Fitness",
+      "tokens": [
+        "health",
+        "fitness"
+      ],
+      "dl": 2
+    },
+    "IAB7-1": {
+      "name": "Exercise",
+      "full_path": "Exercise",
+      "tokens": [
+        "exercise"
+      ],
+      "dl": 1
+    },
+    "IAB7-2": {
+      "name": "A.D.D.",
+      "full_path": "A.D.D.",
+      "tokens": [],
+      "dl": 0
+    },
+    "IAB7-3": {
+      "name": "AIDS/HIV",
+      "full_path": "AIDS/HIV",
+      "tokens": [
+        "aids",
+        "hiv"
+      ],
+      "dl": 2
+    },
+    "IAB7-4": {
+      "name": "Allergies",
+      "full_path": "Allergies",
+      "tokens": [
+        "allergies"
+      ],
+      "dl": 1
+    },
+    "IAB7-5": {
+      "name": "Alternative Medicine",
+      "full_path": "Alternative Medicine",
+      "tokens": [
+        "alternative",
+        "medicine"
+      ],
+      "dl": 2
+    },
+    "IAB7-6": {
+      "name": "Arthritis",
+      "full_path": "Arthritis",
+      "tokens": [
+        "arthritis"
+      ],
+      "dl": 1
+    },
+    "IAB7-7": {
+      "name": "Asthma",
+      "full_path": "Asthma",
+      "tokens": [
+        "asthma"
+      ],
+      "dl": 1
+    },
+    "IAB7-8": {
+      "name": "Autism/PDD",
+      "full_path": "Autism/PDD",
+      "tokens": [
+        "autism",
+        "pdd"
+      ],
+      "dl": 2
+    },
+    "IAB7-9": {
+      "name": "Bipolar Disorder",
+      "full_path": "Bipolar Disorder",
+      "tokens": [
+        "bipolar",
+        "disorder"
+      ],
+      "dl": 2
+    },
+    "IAB7-10": {
+      "name": "Brain Tumor",
+      "full_path": "Brain Tumor",
+      "tokens": [
+        "brain",
+        "tumor"
+      ],
+      "dl": 2
+    },
+    "IAB7-11": {
+      "name": "Cancer",
+      "full_path": "Cancer",
+      "tokens": [
+        "cancer"
+      ],
+      "dl": 1
+    },
+    "IAB7-12": {
+      "name": "Cholesterol",
+      "full_path": "Cholesterol",
+      "tokens": [
+        "cholesterol"
+      ],
+      "dl": 1
+    },
+    "IAB7-13": {
+      "name": "Chronic Fatigue Syndrome",
+      "full_path": "Chronic Fatigue Syndrome",
+      "tokens": [
+        "chronic",
+        "fatigue",
+        "syndrome"
+      ],
+      "dl": 3
+    },
+    "IAB7-14": {
+      "name": "Chronic Pain",
+      "full_path": "Chronic Pain",
+      "tokens": [
+        "chronic",
+        "pain"
+      ],
+      "dl": 2
+    },
+    "IAB7-15": {
+      "name": "Cold & Flu",
+      "full_path": "Cold & Flu",
+      "tokens": [
+        "cold",
+        "flu"
+      ],
+      "dl": 2
+    },
+    "IAB7-16": {
+      "name": "Deafness",
+      "full_path": "Deafness",
+      "tokens": [
+        "deafness"
+      ],
+      "dl": 1
+    },
+    "IAB7-17": {
+      "name": "Dental Care",
+      "full_path": "Dental Care",
+      "tokens": [
+        "dental",
+        "care"
+      ],
+      "dl": 2
+    },
+    "IAB7-18": {
+      "name": "Depression",
+      "full_path": "Depression",
+      "tokens": [
+        "depression"
+      ],
+      "dl": 1
+    },
+    "IAB7-19": {
+      "name": "Dermatology",
+      "full_path": "Dermatology",
+      "tokens": [
+        "dermatology"
+      ],
+      "dl": 1
+    },
+    "IAB7-20": {
+      "name": "Diabetes",
+      "full_path": "Diabetes",
+      "tokens": [
+        "diabetes"
+      ],
+      "dl": 1
+    },
+    "IAB7-21": {
+      "name": "Epilepsy",
+      "full_path": "Epilepsy",
+      "tokens": [
+        "epilepsy"
+      ],
+      "dl": 1
+    },
+    "IAB7-22": {
+      "name": "GERD/Acid Reflux",
+      "full_path": "GERD/Acid Reflux",
+      "tokens": [
+        "gerd",
+        "acid",
+        "reflux"
+      ],
+      "dl": 3
+    },
+    "IAB7-23": {
+      "name": "Headaches/Migraines",
+      "full_path": "Headaches/Migraines",
+      "tokens": [
+        "headaches",
+        "migraines"
+      ],
+      "dl": 2
+    },
+    "IAB7-24": {
+      "name": "Heart Disease",
+      "full_path": "Heart Disease",
+      "tokens": [
+        "heart",
+        "disease"
+      ],
+      "dl": 2
+    },
+    "IAB7-25": {
+      "name": "Herbs for Health",
+      "full_path": "Herbs for Health",
+      "tokens": [
+        "herbs",
+        "health"
+      ],
+      "dl": 2
+    },
+    "IAB7-26": {
+      "name": "Holistic Healing",
+      "full_path": "Holistic Healing",
+      "tokens": [
+        "holistic",
+        "healing"
+      ],
+      "dl": 2
+    },
+    "IAB7-27": {
+      "name": "IBS/Crohn's Disease",
+      "full_path": "IBS/Crohn's Disease",
+      "tokens": [
+        "ibs",
+        "crohn",
+        "disease"
+      ],
+      "dl": 3
+    },
+    "IAB7-28": {
+      "name": "Incest/Abuse Support",
+      "full_path": "Incest/Abuse Support",
+      "tokens": [
+        "incest",
+        "abuse",
+        "support"
+      ],
+      "dl": 3
+    },
+    "IAB7-29": {
+      "name": "Incontinence",
+      "full_path": "Incontinence",
+      "tokens": [
+        "incontinence"
+      ],
+      "dl": 1
+    },
+    "IAB7-30": {
+      "name": "Infertility",
+      "full_path": "Infertility",
+      "tokens": [
+        "infertility"
+      ],
+      "dl": 1
+    },
+    "IAB7-31": {
+      "name": "Men's Health",
+      "full_path": "Men's Health",
+      "tokens": [
+        "men",
+        "health"
+      ],
+      "dl": 2
+    },
+    "IAB7-32": {
+      "name": "Nutrition",
+      "full_path": "Nutrition",
+      "tokens": [
+        "nutrition"
+      ],
+      "dl": 1
+    },
+    "IAB7-33": {
+      "name": "Orthopedics",
+      "full_path": "Orthopedics",
+      "tokens": [
+        "orthopedics"
+      ],
+      "dl": 1
+    },
+    "IAB7-34": {
+      "name": "Panic/Anxiety Disorders",
+      "full_path": "Panic/Anxiety Disorders",
+      "tokens": [
+        "panic",
+        "anxiety",
+        "disorders"
+      ],
+      "dl": 3
+    },
+    "IAB7-35": {
+      "name": "Pediatrics",
+      "full_path": "Pediatrics",
+      "tokens": [
+        "pediatrics"
+      ],
+      "dl": 1
+    },
+    "IAB7-36": {
+      "name": "Physical Therapy",
+      "full_path": "Physical Therapy",
+      "tokens": [
+        "physical",
+        "therapy"
+      ],
+      "dl": 2
+    },
+    "IAB7-37": {
+      "name": "Psychology/Psychiatry",
+      "full_path": "Psychology/Psychiatry",
+      "tokens": [
+        "psychology",
+        "psychiatry"
+      ],
+      "dl": 2
+    },
+    "IAB7-38": {
+      "name": "Senor Health",
+      "full_path": "Senor Health",
+      "tokens": [
+        "senor",
+        "health"
+      ],
+      "dl": 2
+    },
+    "IAB7-39": {
+      "name": "Sexuality",
+      "full_path": "Sexuality",
+      "tokens": [
+        "sexuality"
+      ],
+      "dl": 1
+    },
+    "IAB7-40": {
+      "name": "Sleep Disorders",
+      "full_path": "Sleep Disorders",
+      "tokens": [
+        "sleep",
+        "disorders"
+      ],
+      "dl": 2
+    },
+    "IAB7-41": {
+      "name": "Smoking Cessation",
+      "full_path": "Smoking Cessation",
+      "tokens": [
+        "smoking",
+        "cessation"
+      ],
+      "dl": 2
+    },
+    "IAB7-42": {
+      "name": "Substance Abuse",
+      "full_path": "Substance Abuse",
+      "tokens": [
+        "substance",
+        "abuse"
+      ],
+      "dl": 2
+    },
+    "IAB7-43": {
+      "name": "Thyroid Disease",
+      "full_path": "Thyroid Disease",
+      "tokens": [
+        "thyroid",
+        "disease"
+      ],
+      "dl": 2
+    },
+    "IAB7-44": {
+      "name": "Weight Loss",
+      "full_path": "Weight Loss",
+      "tokens": [
+        "weight",
+        "loss"
+      ],
+      "dl": 2
+    },
+    "IAB7-45": {
+      "name": "Women's Health",
+      "full_path": "Women's Health",
+      "tokens": [
+        "women",
+        "health"
+      ],
+      "dl": 2
+    },
+    "IAB8": {
+      "name": "Food & Drink",
+      "full_path": "Food & Drink",
+      "tokens": [
+        "food",
+        "drink"
+      ],
+      "dl": 2
+    },
+    "IAB8-1": {
+      "name": "American Cuisine",
+      "full_path": "American Cuisine",
+      "tokens": [
+        "american",
+        "cuisine"
+      ],
+      "dl": 2
+    },
+    "IAB8-2": {
+      "name": "Barbecues & Grilling",
+      "full_path": "Barbecues & Grilling",
+      "tokens": [
+        "barbecues",
+        "grilling"
+      ],
+      "dl": 2
+    },
+    "IAB8-3": {
+      "name": "Cajun/Creole",
+      "full_path": "Cajun/Creole",
+      "tokens": [
+        "cajun",
+        "creole"
+      ],
+      "dl": 2
+    },
+    "IAB8-4": {
+      "name": "Chinese Cuisine",
+      "full_path": "Chinese Cuisine",
+      "tokens": [
+        "chinese",
+        "cuisine"
+      ],
+      "dl": 2
+    },
+    "IAB8-5": {
+      "name": "Cocktails/Beer",
+      "full_path": "Cocktails/Beer",
+      "tokens": [
+        "cocktails",
+        "beer"
+      ],
+      "dl": 2
+    },
+    "IAB8-6": {
+      "name": "Coffee/Tea",
+      "full_path": "Coffee/Tea",
+      "tokens": [
+        "coffee",
+        "tea"
+      ],
+      "dl": 2
+    },
+    "IAB8-7": {
+      "name": "Cuisine-Specific",
+      "full_path": "Cuisine-Specific",
+      "tokens": [
+        "cuisine",
+        "specific"
+      ],
+      "dl": 2
+    },
+    "IAB8-8": {
+      "name": "Desserts & Baking",
+      "full_path": "Desserts & Baking",
+      "tokens": [
+        "desserts",
+        "baking"
+      ],
+      "dl": 2
+    },
+    "IAB8-9": {
+      "name": "Dining Out",
+      "full_path": "Dining Out",
+      "tokens": [
+        "dining",
+        "out"
+      ],
+      "dl": 2
+    },
+    "IAB8-10": {
+      "name": "Food Allergies",
+      "full_path": "Food Allergies",
+      "tokens": [
+        "food",
+        "allergies"
+      ],
+      "dl": 2
+    },
+    "IAB8-11": {
+      "name": "French Cuisine",
+      "full_path": "French Cuisine",
+      "tokens": [
+        "french",
+        "cuisine"
+      ],
+      "dl": 2
+    },
+    "IAB8-12": {
+      "name": "Health/Lowfat Cooking",
+      "full_path": "Health/Lowfat Cooking",
+      "tokens": [
+        "health",
+        "lowfat",
+        "cooking"
+      ],
+      "dl": 3
+    },
+    "IAB8-13": {
+      "name": "Italian Cuisine",
+      "full_path": "Italian Cuisine",
+      "tokens": [
+        "italian",
+        "cuisine"
+      ],
+      "dl": 2
+    },
+    "IAB8-14": {
+      "name": "Japanese Cuisine",
+      "full_path": "Japanese Cuisine",
+      "tokens": [
+        "japanese",
+        "cuisine"
+      ],
+      "dl": 2
+    },
+    "IAB8-15": {
+      "name": "Mexican Cuisine",
+      "full_path": "Mexican Cuisine",
+      "tokens": [
+        "mexican",
+        "cuisine"
+      ],
+      "dl": 2
+    },
+    "IAB8-16": {
+      "name": "Vegan",
+      "full_path": "Vegan",
+      "tokens": [
+        "vegan"
+      ],
+      "dl": 1
+    },
+    "IAB8-17": {
+      "name": "Vegetarian",
+      "full_path": "Vegetarian",
+      "tokens": [
+        "vegetarian"
+      ],
+      "dl": 1
+    },
+    "IAB8-18": {
+      "name": "Wine",
+      "full_path": "Wine",
+      "tokens": [
+        "wine"
+      ],
+      "dl": 1
+    },
+    "IAB9": {
+      "name": "Hobbies & Interests",
+      "full_path": "Hobbies & Interests",
+      "tokens": [
+        "hobbies",
+        "interests"
+      ],
+      "dl": 2
+    },
+    "IAB9-1": {
+      "name": "Art/Technology",
+      "full_path": "Art/Technology",
+      "tokens": [
+        "art",
+        "technology"
+      ],
+      "dl": 2
+    },
+    "IAB9-2": {
+      "name": "Arts & Crafts",
+      "full_path": "Arts & Crafts",
+      "tokens": [
+        "arts",
+        "crafts"
+      ],
+      "dl": 2
+    },
+    "IAB9-3": {
+      "name": "Beadwork",
+      "full_path": "Beadwork",
+      "tokens": [
+        "beadwork"
+      ],
+      "dl": 1
+    },
+    "IAB9-4": {
+      "name": "Birdwatching",
+      "full_path": "Birdwatching",
+      "tokens": [
+        "birdwatching"
+      ],
+      "dl": 1
+    },
+    "IAB9-5": {
+      "name": "Board Games/Puzzles",
+      "full_path": "Board Games/Puzzles",
+      "tokens": [
+        "board",
+        "games",
+        "puzzles"
+      ],
+      "dl": 3
+    },
+    "IAB9-6": {
+      "name": "Candle & Soap Making",
+      "full_path": "Candle & Soap Making",
+      "tokens": [
+        "candle",
+        "soap",
+        "making"
+      ],
+      "dl": 3
+    },
+    "IAB9-7": {
+      "name": "Card Games",
+      "full_path": "Card Games",
+      "tokens": [
+        "card",
+        "games"
+      ],
+      "dl": 2
+    },
+    "IAB9-8": {
+      "name": "Chess",
+      "full_path": "Chess",
+      "tokens": [
+        "chess"
+      ],
+      "dl": 1
+    },
+    "IAB9-9": {
+      "name": "Cigars",
+      "full_path": "Cigars",
+      "tokens": [
+        "cigars"
+      ],
+      "dl": 1
+    },
+    "IAB9-10": {
+      "name": "Collecting",
+      "full_path": "Collecting",
+      "tokens": [
+        "collecting"
+      ],
+      "dl": 1
+    },
+    "IAB9-11": {
+      "name": "Comic Books",
+      "full_path": "Comic Books",
+      "tokens": [
+        "comic",
+        "books"
+      ],
+      "dl": 2
+    },
+    "IAB9-12": {
+      "name": "Drawing/Sketching",
+      "full_path": "Drawing/Sketching",
+      "tokens": [
+        "drawing",
+        "sketching"
+      ],
+      "dl": 2
+    },
+    "IAB9-13": {
+      "name": "Freelance Writing",
+      "full_path": "Freelance Writing",
+      "tokens": [
+        "freelance",
+        "writing"
+      ],
+      "dl": 2
+    },
+    "IAB9-14": {
+      "name": "Genealogy",
+      "full_path": "Genealogy",
+      "tokens": [
+        "genealogy"
+      ],
+      "dl": 1
+    },
+    "IAB9-15": {
+      "name": "Getting Published",
+      "full_path": "Getting Published",
+      "tokens": [
+        "getting",
+        "published"
+      ],
+      "dl": 2
+    },
+    "IAB9-16": {
+      "name": "Guitar",
+      "full_path": "Guitar",
+      "tokens": [
+        "guitar"
+      ],
+      "dl": 1
+    },
+    "IAB9-17": {
+      "name": "Home Recording",
+      "full_path": "Home Recording",
+      "tokens": [
+        "home",
+        "recording"
+      ],
+      "dl": 2
+    },
+    "IAB9-18": {
+      "name": "Investors & Patents",
+      "full_path": "Investors & Patents",
+      "tokens": [
+        "investors",
+        "patents"
+      ],
+      "dl": 2
+    },
+    "IAB9-19": {
+      "name": "Jewelry Making",
+      "full_path": "Jewelry Making",
+      "tokens": [
+        "jewelry",
+        "making"
+      ],
+      "dl": 2
+    },
+    "IAB9-20": {
+      "name": "Magic & Illusion",
+      "full_path": "Magic & Illusion",
+      "tokens": [
+        "magic",
+        "illusion"
+      ],
+      "dl": 2
+    },
+    "IAB9-21": {
+      "name": "Needlework",
+      "full_path": "Needlework",
+      "tokens": [
+        "needlework"
+      ],
+      "dl": 1
+    },
+    "IAB9-22": {
+      "name": "Painting",
+      "full_path": "Painting",
+      "tokens": [
+        "painting"
+      ],
+      "dl": 1
+    },
+    "IAB9-23": {
+      "name": "Photography",
+      "full_path": "Photography",
+      "tokens": [
+        "photography"
+      ],
+      "dl": 1
+    },
+    "IAB9-24": {
+      "name": "Radio",
+      "full_path": "Radio",
+      "tokens": [
+        "radio"
+      ],
+      "dl": 1
+    },
+    "IAB9-25": {
+      "name": "Roleplaying Games",
+      "full_path": "Roleplaying Games",
+      "tokens": [
+        "roleplaying",
+        "games"
+      ],
+      "dl": 2
+    },
+    "IAB9-26": {
+      "name": "Sci-Fi & Fantasy",
+      "full_path": "Sci-Fi & Fantasy",
+      "tokens": [
+        "sci",
+        "fi",
+        "fantasy"
+      ],
+      "dl": 3
+    },
+    "IAB9-27": {
+      "name": "Scrapbooking",
+      "full_path": "Scrapbooking",
+      "tokens": [
+        "scrapbooking"
+      ],
+      "dl": 1
+    },
+    "IAB9-28": {
+      "name": "Screenwriting",
+      "full_path": "Screenwriting",
+      "tokens": [
+        "screenwriting"
+      ],
+      "dl": 1
+    },
+    "IAB9-29": {
+      "name": "Stamps & Coins",
+      "full_path": "Stamps & Coins",
+      "tokens": [
+        "stamps",
+        "coins"
+      ],
+      "dl": 2
+    },
+    "IAB9-30": {
+      "name": "Video & Computer Games",
+      "full_path": "Video & Computer Games",
+      "tokens": [
+        "video",
+        "computer",
+        "games"
+      ],
+      "dl": 3
+    },
+    "IAB9-31": {
+      "name": "Woodworking",
+      "full_path": "Woodworking",
+      "tokens": [
+        "woodworking"
+      ],
+      "dl": 1
+    },
+    "IAB10": {
+      "name": "Home & Garden",
+      "full_path": "Home & Garden",
+      "tokens": [
+        "home",
+        "garden"
+      ],
+      "dl": 2
+    },
+    "IAB10-1": {
+      "name": "Appliances",
+      "full_path": "Appliances",
+      "tokens": [
+        "appliances"
+      ],
+      "dl": 1
+    },
+    "IAB10-2": {
+      "name": "Entertaining",
+      "full_path": "Entertaining",
+      "tokens": [
+        "entertaining"
+      ],
+      "dl": 1
+    },
+    "IAB10-3": {
+      "name": "Environmental Safety",
+      "full_path": "Environmental Safety",
+      "tokens": [
+        "environmental",
+        "safety"
+      ],
+      "dl": 2
+    },
+    "IAB10-4": {
+      "name": "Gardening",
+      "full_path": "Gardening",
+      "tokens": [
+        "gardening"
+      ],
+      "dl": 1
+    },
+    "IAB10-5": {
+      "name": "Home Repair",
+      "full_path": "Home Repair",
+      "tokens": [
+        "home",
+        "repair"
+      ],
+      "dl": 2
+    },
+    "IAB10-6": {
+      "name": "Home Theater",
+      "full_path": "Home Theater",
+      "tokens": [
+        "home",
+        "theater"
+      ],
+      "dl": 2
+    },
+    "IAB10-7": {
+      "name": "Interior Decorating",
+      "full_path": "Interior Decorating",
+      "tokens": [
+        "interior",
+        "decorating"
+      ],
+      "dl": 2
+    },
+    "IAB10-8": {
+      "name": "Landscaping",
+      "full_path": "Landscaping",
+      "tokens": [
+        "landscaping"
+      ],
+      "dl": 1
+    },
+    "IAB10-9": {
+      "name": "Remodeling & Construction",
+      "full_path": "Remodeling & Construction",
+      "tokens": [
+        "remodeling",
+        "construction"
+      ],
+      "dl": 2
+    },
+    "IAB11": {
+      "name": "Law, Gov't & Politics",
+      "full_path": "Law, Gov't & Politics",
+      "tokens": [
+        "law",
+        "gov",
+        "politics"
+      ],
+      "dl": 3
+    },
+    "IAB11-1": {
+      "name": "Immigration",
+      "full_path": "Immigration",
+      "tokens": [
+        "immigration"
+      ],
+      "dl": 1
+    },
+    "IAB11-2": {
+      "name": "Legal Issues",
+      "full_path": "Legal Issues",
+      "tokens": [
+        "legal",
+        "issues"
+      ],
+      "dl": 2
+    },
+    "IAB11-3": {
+      "name": "U.S. Government Resources",
+      "full_path": "U.S. Government Resources",
+      "tokens": [
+        "government",
+        "resources"
+      ],
+      "dl": 2
+    },
+    "IAB11-4": {
+      "name": "Politics",
+      "full_path": "Politics",
+      "tokens": [
+        "politics"
+      ],
+      "dl": 1
+    },
+    "IAB11-5": {
+      "name": "Commentary",
+      "full_path": "Commentary",
+      "tokens": [
+        "commentary"
+      ],
+      "dl": 1
+    },
+    "IAB12": {
+      "name": "News",
+      "full_path": "News",
+      "tokens": [
+        "news"
+      ],
+      "dl": 1
+    },
+    "IAB12-1": {
+      "name": "International News",
+      "full_path": "International News",
+      "tokens": [
+        "international",
+        "news"
+      ],
+      "dl": 2
+    },
+    "IAB12-2": {
+      "name": "National News",
+      "full_path": "National News",
+      "tokens": [
+        "national",
+        "news"
+      ],
+      "dl": 2
+    },
+    "IAB12-3": {
+      "name": "Local News",
+      "full_path": "Local News",
+      "tokens": [
+        "local",
+        "news"
+      ],
+      "dl": 2
+    },
+    "IAB13": {
+      "name": "Personal Finance",
+      "full_path": "Personal Finance",
+      "tokens": [
+        "personal",
+        "finance"
+      ],
+      "dl": 2
+    },
+    "IAB13-1": {
+      "name": "Beginning Investing",
+      "full_path": "Beginning Investing",
+      "tokens": [
+        "beginning",
+        "investing"
+      ],
+      "dl": 2
+    },
+    "IAB13-2": {
+      "name": "Credit/Debt & Loans",
+      "full_path": "Credit/Debt & Loans",
+      "tokens": [
+        "credit",
+        "debt",
+        "loans"
+      ],
+      "dl": 3
+    },
+    "IAB13-3": {
+      "name": "Financial News",
+      "full_path": "Financial News",
+      "tokens": [
+        "financial",
+        "news"
+      ],
+      "dl": 2
+    },
+    "IAB13-4": {
+      "name": "Financial Planning",
+      "full_path": "Financial Planning",
+      "tokens": [
+        "financial",
+        "planning"
+      ],
+      "dl": 2
+    },
+    "IAB13-5": {
+      "name": "Hedge Fund",
+      "full_path": "Hedge Fund",
+      "tokens": [
+        "hedge",
+        "fund"
+      ],
+      "dl": 2
+    },
+    "IAB13-6": {
+      "name": "Insurance",
+      "full_path": "Insurance",
+      "tokens": [
+        "insurance"
+      ],
+      "dl": 1
+    },
+    "IAB13-7": {
+      "name": "Investing",
+      "full_path": "Investing",
+      "tokens": [
+        "investing"
+      ],
+      "dl": 1
+    },
+    "IAB13-8": {
+      "name": "Mutual Funds",
+      "full_path": "Mutual Funds",
+      "tokens": [
+        "mutual",
+        "funds"
+      ],
+      "dl": 2
+    },
+    "IAB13-9": {
+      "name": "Options",
+      "full_path": "Options",
+      "tokens": [
+        "options"
+      ],
+      "dl": 1
+    },
+    "IAB13-10": {
+      "name": "Retirement Planning",
+      "full_path": "Retirement Planning",
+      "tokens": [
+        "retirement",
+        "planning"
+      ],
+      "dl": 2
+    },
+    "IAB13-11": {
+      "name": "Stocks",
+      "full_path": "Stocks",
+      "tokens": [
+        "stocks"
+      ],
+      "dl": 1
+    },
+    "IAB13-12": {
+      "name": "Tax Planning",
+      "full_path": "Tax Planning",
+      "tokens": [
+        "tax",
+        "planning"
+      ],
+      "dl": 2
+    },
+    "IAB14": {
+      "name": "Society",
+      "full_path": "Society",
+      "tokens": [
+        "society"
+      ],
+      "dl": 1
+    },
+    "IAB14-1": {
+      "name": "Dating",
+      "full_path": "Dating",
+      "tokens": [
+        "dating"
+      ],
+      "dl": 1
+    },
+    "IAB14-2": {
+      "name": "Divorce Support",
+      "full_path": "Divorce Support",
+      "tokens": [
+        "divorce",
+        "support"
+      ],
+      "dl": 2
+    },
+    "IAB14-3": {
+      "name": "Gay Life",
+      "full_path": "Gay Life",
+      "tokens": [
+        "gay",
+        "life"
+      ],
+      "dl": 2
+    },
+    "IAB14-4": {
+      "name": "Marriage",
+      "full_path": "Marriage",
+      "tokens": [
+        "marriage"
+      ],
+      "dl": 1
+    },
+    "IAB14-5": {
+      "name": "Senior Living",
+      "full_path": "Senior Living",
+      "tokens": [
+        "senior",
+        "living"
+      ],
+      "dl": 2
+    },
+    "IAB14-6": {
+      "name": "Teens",
+      "full_path": "Teens",
+      "tokens": [
+        "teens"
+      ],
+      "dl": 1
+    },
+    "IAB14-7": {
+      "name": "Weddings",
+      "full_path": "Weddings",
+      "tokens": [
+        "weddings"
+      ],
+      "dl": 1
+    },
+    "IAB14-8": {
+      "name": "Ethnic Specific",
+      "full_path": "Ethnic Specific",
+      "tokens": [
+        "ethnic",
+        "specific"
+      ],
+      "dl": 2
+    },
+    "IAB15": {
+      "name": "Science",
+      "full_path": "Science",
+      "tokens": [
+        "science"
+      ],
+      "dl": 1
+    },
+    "IAB15-1": {
+      "name": "Astrology",
+      "full_path": "Astrology",
+      "tokens": [
+        "astrology"
+      ],
+      "dl": 1
+    },
+    "IAB15-2": {
+      "name": "Biology",
+      "full_path": "Biology",
+      "tokens": [
+        "biology"
+      ],
+      "dl": 1
+    },
+    "IAB15-3": {
+      "name": "Chemistry",
+      "full_path": "Chemistry",
+      "tokens": [
+        "chemistry"
+      ],
+      "dl": 1
+    },
+    "IAB15-4": {
+      "name": "Geology",
+      "full_path": "Geology",
+      "tokens": [
+        "geology"
+      ],
+      "dl": 1
+    },
+    "IAB15-5": {
+      "name": "Paranormal Phenomena",
+      "full_path": "Paranormal Phenomena",
+      "tokens": [
+        "paranormal",
+        "phenomena"
+      ],
+      "dl": 2
+    },
+    "IAB15-6": {
+      "name": "Physics",
+      "full_path": "Physics",
+      "tokens": [
+        "physics"
+      ],
+      "dl": 1
+    },
+    "IAB15-7": {
+      "name": "Space/Astronomy",
+      "full_path": "Space/Astronomy",
+      "tokens": [
+        "space",
+        "astronomy"
+      ],
+      "dl": 2
+    },
+    "IAB15-8": {
+      "name": "Geography",
+      "full_path": "Geography",
+      "tokens": [
+        "geography"
+      ],
+      "dl": 1
+    },
+    "IAB15-9": {
+      "name": "Botany",
+      "full_path": "Botany",
+      "tokens": [
+        "botany"
+      ],
+      "dl": 1
+    },
+    "IAB15-10": {
+      "name": "Weather",
+      "full_path": "Weather",
+      "tokens": [
+        "weather"
+      ],
+      "dl": 1
+    },
+    "IAB16": {
+      "name": "Pets",
+      "full_path": "Pets",
+      "tokens": [
+        "pets"
+      ],
+      "dl": 1
+    },
+    "IAB16-1": {
+      "name": "Aquariums",
+      "full_path": "Aquariums",
+      "tokens": [
+        "aquariums"
+      ],
+      "dl": 1
+    },
+    "IAB16-2": {
+      "name": "Birds",
+      "full_path": "Birds",
+      "tokens": [
+        "birds"
+      ],
+      "dl": 1
+    },
+    "IAB16-3": {
+      "name": "Cats",
+      "full_path": "Cats",
+      "tokens": [
+        "cats"
+      ],
+      "dl": 1
+    },
+    "IAB16-4": {
+      "name": "Dogs",
+      "full_path": "Dogs",
+      "tokens": [
+        "dogs"
+      ],
+      "dl": 1
+    },
+    "IAB16-5": {
+      "name": "Large Animals",
+      "full_path": "Large Animals",
+      "tokens": [
+        "large",
+        "animals"
+      ],
+      "dl": 2
+    },
+    "IAB16-6": {
+      "name": "Reptiles",
+      "full_path": "Reptiles",
+      "tokens": [
+        "reptiles"
+      ],
+      "dl": 1
+    },
+    "IAB16-7": {
+      "name": "Veterinary Medicine",
+      "full_path": "Veterinary Medicine",
+      "tokens": [
+        "veterinary",
+        "medicine"
+      ],
+      "dl": 2
+    },
+    "IAB17": {
+      "name": "Sports",
+      "full_path": "Sports",
+      "tokens": [
+        "sports"
+      ],
+      "dl": 1
+    },
+    "IAB17-1": {
+      "name": "Auto Racing",
+      "full_path": "Auto Racing",
+      "tokens": [
+        "auto",
+        "racing"
+      ],
+      "dl": 2
+    },
+    "IAB17-2": {
+      "name": "Baseball",
+      "full_path": "Baseball",
+      "tokens": [
+        "baseball"
+      ],
+      "dl": 1
+    },
+    "IAB17-3": {
+      "name": "Bicycling",
+      "full_path": "Bicycling",
+      "tokens": [
+        "bicycling"
+      ],
+      "dl": 1
+    },
+    "IAB17-4": {
+      "name": "Bodybuilding",
+      "full_path": "Bodybuilding",
+      "tokens": [
+        "bodybuilding"
+      ],
+      "dl": 1
+    },
+    "IAB17-5": {
+      "name": "Boxing",
+      "full_path": "Boxing",
+      "tokens": [
+        "boxing"
+      ],
+      "dl": 1
+    },
+    "IAB17-6": {
+      "name": "Canoeing/Kayaking",
+      "full_path": "Canoeing/Kayaking",
+      "tokens": [
+        "canoeing",
+        "kayaking"
+      ],
+      "dl": 2
+    },
+    "IAB17-7": {
+      "name": "Cheerleading",
+      "full_path": "Cheerleading",
+      "tokens": [
+        "cheerleading"
+      ],
+      "dl": 1
+    },
+    "IAB17-8": {
+      "name": "Climbing",
+      "full_path": "Climbing",
+      "tokens": [
+        "climbing"
+      ],
+      "dl": 1
+    },
+    "IAB17-9": {
+      "name": "Cricket",
+      "full_path": "Cricket",
+      "tokens": [
+        "cricket"
+      ],
+      "dl": 1
+    },
+    "IAB17-10": {
+      "name": "Figure Skating",
+      "full_path": "Figure Skating",
+      "tokens": [
+        "figure",
+        "skating"
+      ],
+      "dl": 2
+    },
+    "IAB17-11": {
+      "name": "Fly Fishing",
+      "full_path": "Fly Fishing",
+      "tokens": [
+        "fly",
+        "fishing"
+      ],
+      "dl": 2
+    },
+    "IAB17-12": {
+      "name": "Football",
+      "full_path": "Football",
+      "tokens": [
+        "football"
+      ],
+      "dl": 1
+    },
+    "IAB17-13": {
+      "name": "Freshwater Fishing",
+      "full_path": "Freshwater Fishing",
+      "tokens": [
+        "freshwater",
+        "fishing"
+      ],
+      "dl": 2
+    },
+    "IAB17-14": {
+      "name": "Game & Fish",
+      "full_path": "Game & Fish",
+      "tokens": [
+        "game",
+        "fish"
+      ],
+      "dl": 2
+    },
+    "IAB17-15": {
+      "name": "Golf",
+      "full_path": "Golf",
+      "tokens": [
+        "golf"
+      ],
+      "dl": 1
+    },
+    "IAB17-16": {
+      "name": "Horse Racing",
+      "full_path": "Horse Racing",
+      "tokens": [
+        "horse",
+        "racing"
+      ],
+      "dl": 2
+    },
+    "IAB17-17": {
+      "name": "Horses",
+      "full_path": "Horses",
+      "tokens": [
+        "horses"
+      ],
+      "dl": 1
+    },
+    "IAB17-18": {
+      "name": "Hunting/Shooting",
+      "full_path": "Hunting/Shooting",
+      "tokens": [
+        "hunting",
+        "shooting"
+      ],
+      "dl": 2
+    },
+    "IAB17-19": {
+      "name": "Inline Skating",
+      "full_path": "Inline Skating",
+      "tokens": [
+        "inline",
+        "skating"
+      ],
+      "dl": 2
+    },
+    "IAB17-20": {
+      "name": "Martial Arts",
+      "full_path": "Martial Arts",
+      "tokens": [
+        "martial",
+        "arts"
+      ],
+      "dl": 2
+    },
+    "IAB17-21": {
+      "name": "Mountain Biking",
+      "full_path": "Mountain Biking",
+      "tokens": [
+        "mountain",
+        "biking"
+      ],
+      "dl": 2
+    },
+    "IAB17-22": {
+      "name": "NASCAR Racing",
+      "full_path": "NASCAR Racing",
+      "tokens": [
+        "nascar",
+        "racing"
+      ],
+      "dl": 2
+    },
+    "IAB17-23": {
+      "name": "Olympics",
+      "full_path": "Olympics",
+      "tokens": [
+        "olympics"
+      ],
+      "dl": 1
+    },
+    "IAB17-24": {
+      "name": "Paintball",
+      "full_path": "Paintball",
+      "tokens": [
+        "paintball"
+      ],
+      "dl": 1
+    },
+    "IAB17-25": {
+      "name": "Power & Motorcycles",
+      "full_path": "Power & Motorcycles",
+      "tokens": [
+        "power",
+        "motorcycles"
+      ],
+      "dl": 2
+    },
+    "IAB17-26": {
+      "name": "Pro Basketball",
+      "full_path": "Pro Basketball",
+      "tokens": [
+        "pro",
+        "basketball"
+      ],
+      "dl": 2
+    },
+    "IAB17-27": {
+      "name": "Pro Ice Hockey",
+      "full_path": "Pro Ice Hockey",
+      "tokens": [
+        "pro",
+        "ice",
+        "hockey"
+      ],
+      "dl": 3
+    },
+    "IAB17-28": {
+      "name": "Rodeo",
+      "full_path": "Rodeo",
+      "tokens": [
+        "rodeo"
+      ],
+      "dl": 1
+    },
+    "IAB17-29": {
+      "name": "Rugby",
+      "full_path": "Rugby",
+      "tokens": [
+        "rugby"
+      ],
+      "dl": 1
+    },
+    "IAB17-30": {
+      "name": "Running/Jogging",
+      "full_path": "Running/Jogging",
+      "tokens": [
+        "running",
+        "jogging"
+      ],
+      "dl": 2
+    },
+    "IAB17-31": {
+      "name": "Sailing",
+      "full_path": "Sailing",
+      "tokens": [
+        "sailing"
+      ],
+      "dl": 1
+    },
+    "IAB17-32": {
+      "name": "Saltwater Fishing",
+      "full_path": "Saltwater Fishing",
+      "tokens": [
+        "saltwater",
+        "fishing"
+      ],
+      "dl": 2
+    },
+    "IAB17-33": {
+      "name": "Scuba Diving",
+      "full_path": "Scuba Diving",
+      "tokens": [
+        "scuba",
+        "diving"
+      ],
+      "dl": 2
+    },
+    "IAB17-34": {
+      "name": "Skateboarding",
+      "full_path": "Skateboarding",
+      "tokens": [
+        "skateboarding"
+      ],
+      "dl": 1
+    },
+    "IAB17-35": {
+      "name": "Skiing",
+      "full_path": "Skiing",
+      "tokens": [
+        "skiing"
+      ],
+      "dl": 1
+    },
+    "IAB17-36": {
+      "name": "Snowboarding",
+      "full_path": "Snowboarding",
+      "tokens": [
+        "snowboarding"
+      ],
+      "dl": 1
+    },
+    "IAB17-37": {
+      "name": "Surfing/Bodyboarding",
+      "full_path": "Surfing/Bodyboarding",
+      "tokens": [
+        "surfing",
+        "bodyboarding"
+      ],
+      "dl": 2
+    },
+    "IAB17-38": {
+      "name": "Swimming",
+      "full_path": "Swimming",
+      "tokens": [
+        "swimming"
+      ],
+      "dl": 1
+    },
+    "IAB17-39": {
+      "name": "Table Tennis/Ping-Pong",
+      "full_path": "Table Tennis/Ping-Pong",
+      "tokens": [
+        "table",
+        "tennis",
+        "ping",
+        "pong"
+      ],
+      "dl": 4
+    },
+    "IAB17-40": {
+      "name": "Tennis",
+      "full_path": "Tennis",
+      "tokens": [
+        "tennis"
+      ],
+      "dl": 1
+    },
+    "IAB17-41": {
+      "name": "Volleyball",
+      "full_path": "Volleyball",
+      "tokens": [
+        "volleyball"
+      ],
+      "dl": 1
+    },
+    "IAB17-42": {
+      "name": "Walking",
+      "full_path": "Walking",
+      "tokens": [
+        "walking"
+      ],
+      "dl": 1
+    },
+    "IAB17-43": {
+      "name": "Waterski/Wakeboard",
+      "full_path": "Waterski/Wakeboard",
+      "tokens": [
+        "waterski",
+        "wakeboard"
+      ],
+      "dl": 2
+    },
+    "IAB17-44": {
+      "name": "World Soccer",
+      "full_path": "World Soccer",
+      "tokens": [
+        "world",
+        "soccer"
+      ],
+      "dl": 2
+    },
+    "IAB18": {
+      "name": "Style & Fashion",
+      "full_path": "Style & Fashion",
+      "tokens": [
+        "style",
+        "fashion"
+      ],
+      "dl": 2
+    },
+    "IAB18-1": {
+      "name": "Beauty",
+      "full_path": "Beauty",
+      "tokens": [
+        "beauty"
+      ],
+      "dl": 1
+    },
+    "IAB18-2": {
+      "name": "Body Art",
+      "full_path": "Body Art",
+      "tokens": [
+        "body",
+        "art"
+      ],
+      "dl": 2
+    },
+    "IAB18-3": {
+      "name": "Fashion",
+      "full_path": "Fashion",
+      "tokens": [
+        "fashion"
+      ],
+      "dl": 1
+    },
+    "IAB18-4": {
+      "name": "Jewelry",
+      "full_path": "Jewelry",
+      "tokens": [
+        "jewelry"
+      ],
+      "dl": 1
+    },
+    "IAB18-5": {
+      "name": "Clothing",
+      "full_path": "Clothing",
+      "tokens": [
+        "clothing"
+      ],
+      "dl": 1
+    },
+    "IAB18-6": {
+      "name": "Accessories",
+      "full_path": "Accessories",
+      "tokens": [
+        "accessories"
+      ],
+      "dl": 1
+    },
+    "IAB19": {
+      "name": "Technology & Computing",
+      "full_path": "Technology & Computing",
+      "tokens": [
+        "technology",
+        "computing"
+      ],
+      "dl": 2
+    },
+    "IAB19-1": {
+      "name": "3-D Graphics",
+      "full_path": "3-D Graphics",
+      "tokens": [
+        "graphics"
+      ],
+      "dl": 1
+    },
+    "IAB19-2": {
+      "name": "Animation",
+      "full_path": "Animation",
+      "tokens": [
+        "animation"
+      ],
+      "dl": 1
+    },
+    "IAB19-3": {
+      "name": "Antivirus Software",
+      "full_path": "Antivirus Software",
+      "tokens": [
+        "antivirus",
+        "software"
+      ],
+      "dl": 2
+    },
+    "IAB19-4": {
+      "name": "C/C++",
+      "full_path": "C/C++",
+      "tokens": [],
+      "dl": 0
+    },
+    "IAB19-5": {
+      "name": "Cameras & Camcorders",
+      "full_path": "Cameras & Camcorders",
+      "tokens": [
+        "cameras",
+        "camcorders"
+      ],
+      "dl": 2
+    },
+    "IAB19-6": {
+      "name": "Cell Phones",
+      "full_path": "Cell Phones",
+      "tokens": [
+        "cell",
+        "phones"
+      ],
+      "dl": 2
+    },
+    "IAB19-7": {
+      "name": "Computer Certification",
+      "full_path": "Computer Certification",
+      "tokens": [
+        "computer",
+        "certification"
+      ],
+      "dl": 2
+    },
+    "IAB19-8": {
+      "name": "Computer Networking",
+      "full_path": "Computer Networking",
+      "tokens": [
+        "computer",
+        "networking"
+      ],
+      "dl": 2
+    },
+    "IAB19-9": {
+      "name": "Computer Peripherals",
+      "full_path": "Computer Peripherals",
+      "tokens": [
+        "computer",
+        "peripherals"
+      ],
+      "dl": 2
+    },
+    "IAB19-10": {
+      "name": "Computer Reviews",
+      "full_path": "Computer Reviews",
+      "tokens": [
+        "computer",
+        "reviews"
+      ],
+      "dl": 2
+    },
+    "IAB19-11": {
+      "name": "Data Centers",
+      "full_path": "Data Centers",
+      "tokens": [
+        "data",
+        "centers"
+      ],
+      "dl": 2
+    },
+    "IAB19-12": {
+      "name": "Databases",
+      "full_path": "Databases",
+      "tokens": [
+        "databases"
+      ],
+      "dl": 1
+    },
+    "IAB19-13": {
+      "name": "Desktop Publishing",
+      "full_path": "Desktop Publishing",
+      "tokens": [
+        "desktop",
+        "publishing"
+      ],
+      "dl": 2
+    },
+    "IAB19-14": {
+      "name": "Desktop Video",
+      "full_path": "Desktop Video",
+      "tokens": [
+        "desktop",
+        "video"
+      ],
+      "dl": 2
+    },
+    "IAB19-15": {
+      "name": "Email",
+      "full_path": "Email",
+      "tokens": [
+        "email"
+      ],
+      "dl": 1
+    },
+    "IAB19-16": {
+      "name": "Graphics Software",
+      "full_path": "Graphics Software",
+      "tokens": [
+        "graphics",
+        "software"
+      ],
+      "dl": 2
+    },
+    "IAB19-17": {
+      "name": "Home Video/DVD",
+      "full_path": "Home Video/DVD",
+      "tokens": [
+        "home",
+        "video",
+        "dvd"
+      ],
+      "dl": 3
+    },
+    "IAB19-18": {
+      "name": "Internet Technology",
+      "full_path": "Internet Technology",
+      "tokens": [
+        "internet",
+        "technology"
+      ],
+      "dl": 2
+    },
+    "IAB19-19": {
+      "name": "Java",
+      "full_path": "Java",
+      "tokens": [
+        "java"
+      ],
+      "dl": 1
+    },
+    "IAB19-20": {
+      "name": "JavaScript",
+      "full_path": "JavaScript",
+      "tokens": [
+        "javascript"
+      ],
+      "dl": 1
+    },
+    "IAB19-21": {
+      "name": "Mac Support",
+      "full_path": "Mac Support",
+      "tokens": [
+        "mac",
+        "support"
+      ],
+      "dl": 2
+    },
+    "IAB19-22": {
+      "name": "MP3/MIDI",
+      "full_path": "MP3/MIDI",
+      "tokens": [
+        "mp3",
+        "midi"
+      ],
+      "dl": 2
+    },
+    "IAB19-23": {
+      "name": "Net Conferencing",
+      "full_path": "Net Conferencing",
+      "tokens": [
+        "net",
+        "conferencing"
+      ],
+      "dl": 2
+    },
+    "IAB19-24": {
+      "name": "Net for Beginners",
+      "full_path": "Net for Beginners",
+      "tokens": [
+        "net",
+        "beginners"
+      ],
+      "dl": 2
+    },
+    "IAB19-25": {
+      "name": "Network Security",
+      "full_path": "Network Security",
+      "tokens": [
+        "network",
+        "security"
+      ],
+      "dl": 2
+    },
+    "IAB19-26": {
+      "name": "Palmtops/PDAs",
+      "full_path": "Palmtops/PDAs",
+      "tokens": [
+        "palmtops",
+        "pdas"
+      ],
+      "dl": 2
+    },
+    "IAB19-27": {
+      "name": "PC Support",
+      "full_path": "PC Support",
+      "tokens": [
+        "pc",
+        "support"
+      ],
+      "dl": 2
+    },
+    "IAB19-28": {
+      "name": "Portable",
+      "full_path": "Portable",
+      "tokens": [
+        "portable"
+      ],
+      "dl": 1
+    },
+    "IAB19-29": {
+      "name": "Entertainment",
+      "full_path": "Entertainment",
+      "tokens": [
+        "entertainment"
+      ],
+      "dl": 1
+    },
+    "IAB19-30": {
+      "name": "Shareware/Freeware",
+      "full_path": "Shareware/Freeware",
+      "tokens": [
+        "shareware",
+        "freeware"
+      ],
+      "dl": 2
+    },
+    "IAB19-31": {
+      "name": "Unix",
+      "full_path": "Unix",
+      "tokens": [
+        "unix"
+      ],
+      "dl": 1
+    },
+    "IAB19-32": {
+      "name": "Visual Basic",
+      "full_path": "Visual Basic",
+      "tokens": [
+        "visual",
+        "basic"
+      ],
+      "dl": 2
+    },
+    "IAB19-33": {
+      "name": "Web Clip Art",
+      "full_path": "Web Clip Art",
+      "tokens": [
+        "web",
+        "clip",
+        "art"
+      ],
+      "dl": 3
+    },
+    "IAB19-34": {
+      "name": "Web Design/HTML",
+      "full_path": "Web Design/HTML",
+      "tokens": [
+        "web",
+        "design",
+        "html"
+      ],
+      "dl": 3
+    },
+    "IAB19-35": {
+      "name": "Web Search",
+      "full_path": "Web Search",
+      "tokens": [
+        "web",
+        "search"
+      ],
+      "dl": 2
+    },
+    "IAB19-36": {
+      "name": "Windows",
+      "full_path": "Windows",
+      "tokens": [
+        "windows"
+      ],
+      "dl": 1
+    },
+    "IAB20": {
+      "name": "Travel",
+      "full_path": "Travel",
+      "tokens": [
+        "travel"
+      ],
+      "dl": 1
+    },
+    "IAB20-1": {
+      "name": "Adventure Travel",
+      "full_path": "Adventure Travel",
+      "tokens": [
+        "adventure",
+        "travel"
+      ],
+      "dl": 2
+    },
+    "IAB20-2": {
+      "name": "Africa",
+      "full_path": "Africa",
+      "tokens": [
+        "africa"
+      ],
+      "dl": 1
+    },
+    "IAB20-3": {
+      "name": "Air Travel",
+      "full_path": "Air Travel",
+      "tokens": [
+        "air",
+        "travel"
+      ],
+      "dl": 2
+    },
+    "IAB20-4": {
+      "name": "Australia & New Zealand",
+      "full_path": "Australia & New Zealand",
+      "tokens": [
+        "australia",
+        "new",
+        "zealand"
+      ],
+      "dl": 3
+    },
+    "IAB20-5": {
+      "name": "Bed & Breakfasts",
+      "full_path": "Bed & Breakfasts",
+      "tokens": [
+        "bed",
+        "breakfasts"
+      ],
+      "dl": 2
+    },
+    "IAB20-6": {
+      "name": "Budget Travel",
+      "full_path": "Budget Travel",
+      "tokens": [
+        "budget",
+        "travel"
+      ],
+      "dl": 2
+    },
+    "IAB20-7": {
+      "name": "Business Travel",
+      "full_path": "Business Travel",
+      "tokens": [
+        "business",
+        "travel"
+      ],
+      "dl": 2
+    },
+    "IAB20-8": {
+      "name": "By US Locale",
+      "full_path": "By US Locale",
+      "tokens": [
+        "by",
+        "us",
+        "locale"
+      ],
+      "dl": 3
+    },
+    "IAB20-9": {
+      "name": "Camping",
+      "full_path": "Camping",
+      "tokens": [
+        "camping"
+      ],
+      "dl": 1
+    },
+    "IAB20-10": {
+      "name": "Canada",
+      "full_path": "Canada",
+      "tokens": [
+        "canada"
+      ],
+      "dl": 1
+    },
+    "IAB20-11": {
+      "name": "Caribbean",
+      "full_path": "Caribbean",
+      "tokens": [
+        "caribbean"
+      ],
+      "dl": 1
+    },
+    "IAB20-12": {
+      "name": "Cruises",
+      "full_path": "Cruises",
+      "tokens": [
+        "cruises"
+      ],
+      "dl": 1
+    },
+    "IAB20-13": {
+      "name": "Eastern Europe",
+      "full_path": "Eastern Europe",
+      "tokens": [
+        "eastern",
+        "europe"
+      ],
+      "dl": 2
+    },
+    "IAB20-14": {
+      "name": "Europe",
+      "full_path": "Europe",
+      "tokens": [
+        "europe"
+      ],
+      "dl": 1
+    },
+    "IAB20-15": {
+      "name": "France",
+      "full_path": "France",
+      "tokens": [
+        "france"
+      ],
+      "dl": 1
+    },
+    "IAB20-16": {
+      "name": "Greece",
+      "full_path": "Greece",
+      "tokens": [
+        "greece"
+      ],
+      "dl": 1
+    },
+    "IAB20-17": {
+      "name": "Honeymoons/Getaways",
+      "full_path": "Honeymoons/Getaways",
+      "tokens": [
+        "honeymoons",
+        "getaways"
+      ],
+      "dl": 2
+    },
+    "IAB20-18": {
+      "name": "Hotels",
+      "full_path": "Hotels",
+      "tokens": [
+        "hotels"
+      ],
+      "dl": 1
+    },
+    "IAB20-19": {
+      "name": "Italy",
+      "full_path": "Italy",
+      "tokens": [
+        "italy"
+      ],
+      "dl": 1
+    },
+    "IAB20-20": {
+      "name": "Japan",
+      "full_path": "Japan",
+      "tokens": [
+        "japan"
+      ],
+      "dl": 1
+    },
+    "IAB20-21": {
+      "name": "Mexico & Central America",
+      "full_path": "Mexico & Central America",
+      "tokens": [
+        "mexico",
+        "central",
+        "america"
+      ],
+      "dl": 3
+    },
+    "IAB20-22": {
+      "name": "National Parks",
+      "full_path": "National Parks",
+      "tokens": [
+        "national",
+        "parks"
+      ],
+      "dl": 2
+    },
+    "IAB20-23": {
+      "name": "South America",
+      "full_path": "South America",
+      "tokens": [
+        "south",
+        "america"
+      ],
+      "dl": 2
+    },
+    "IAB20-24": {
+      "name": "Spas",
+      "full_path": "Spas",
+      "tokens": [
+        "spas"
+      ],
+      "dl": 1
+    },
+    "IAB20-25": {
+      "name": "Theme Parks",
+      "full_path": "Theme Parks",
+      "tokens": [
+        "theme",
+        "parks"
+      ],
+      "dl": 2
+    },
+    "IAB20-26": {
+      "name": "Traveling with Kids",
+      "full_path": "Traveling with Kids",
+      "tokens": [
+        "traveling",
+        "with",
+        "kids"
+      ],
+      "dl": 3
+    },
+    "IAB20-27": {
+      "name": "United Kingdom",
+      "full_path": "United Kingdom",
+      "tokens": [
+        "united",
+        "kingdom"
+      ],
+      "dl": 2
+    },
+    "IAB21": {
+      "name": "Real Estate",
+      "full_path": "Real Estate",
+      "tokens": [
+        "real",
+        "estate"
+      ],
+      "dl": 2
+    },
+    "IAB21-1": {
+      "name": "Apartments",
+      "full_path": "Apartments",
+      "tokens": [
+        "apartments"
+      ],
+      "dl": 1
+    },
+    "IAB21-2": {
+      "name": "Architects",
+      "full_path": "Architects",
+      "tokens": [
+        "architects"
+      ],
+      "dl": 1
+    },
+    "IAB21-3": {
+      "name": "Buying/Selling Homes",
+      "full_path": "Buying/Selling Homes",
+      "tokens": [
+        "buying",
+        "selling",
+        "homes"
+      ],
+      "dl": 3
+    },
+    "IAB22": {
+      "name": "Shopping",
+      "full_path": "Shopping",
+      "tokens": [
+        "shopping"
+      ],
+      "dl": 1
+    },
+    "IAB22-1": {
+      "name": "Contests & Freebies",
+      "full_path": "Contests & Freebies",
+      "tokens": [
+        "contests",
+        "freebies"
+      ],
+      "dl": 2
+    },
+    "IAB22-2": {
+      "name": "Couponing",
+      "full_path": "Couponing",
+      "tokens": [
+        "couponing"
+      ],
+      "dl": 1
+    },
+    "IAB22-3": {
+      "name": "Comparison",
+      "full_path": "Comparison",
+      "tokens": [
+        "comparison"
+      ],
+      "dl": 1
+    },
+    "IAB22-4": {
+      "name": "Engines",
+      "full_path": "Engines",
+      "tokens": [
+        "engines"
+      ],
+      "dl": 1
+    },
+    "IAB23": {
+      "name": "Religion & Spirituality",
+      "full_path": "Religion & Spirituality",
+      "tokens": [
+        "religion",
+        "spirituality"
+      ],
+      "dl": 2
+    },
+    "IAB23-1": {
+      "name": "Alternative Religions",
+      "full_path": "Alternative Religions",
+      "tokens": [
+        "alternative",
+        "religions"
+      ],
+      "dl": 2
+    },
+    "IAB23-2": {
+      "name": "Atheism/Agnosticism",
+      "full_path": "Atheism/Agnosticism",
+      "tokens": [
+        "atheism",
+        "agnosticism"
+      ],
+      "dl": 2
+    },
+    "IAB23-3": {
+      "name": "Buddhism",
+      "full_path": "Buddhism",
+      "tokens": [
+        "buddhism"
+      ],
+      "dl": 1
+    },
+    "IAB23-4": {
+      "name": "Catholicism",
+      "full_path": "Catholicism",
+      "tokens": [
+        "catholicism"
+      ],
+      "dl": 1
+    },
+    "IAB23-5": {
+      "name": "Christianity",
+      "full_path": "Christianity",
+      "tokens": [
+        "christianity"
+      ],
+      "dl": 1
+    },
+    "IAB23-6": {
+      "name": "Hinduism",
+      "full_path": "Hinduism",
+      "tokens": [
+        "hinduism"
+      ],
+      "dl": 1
+    },
+    "IAB23-7": {
+      "name": "Islam",
+      "full_path": "Islam",
+      "tokens": [
+        "islam"
+      ],
+      "dl": 1
+    },
+    "IAB23-8": {
+      "name": "Judaism",
+      "full_path": "Judaism",
+      "tokens": [
+        "judaism"
+      ],
+      "dl": 1
+    },
+    "IAB23-9": {
+      "name": "Latter-Day Saints",
+      "full_path": "Latter-Day Saints",
+      "tokens": [
+        "latter",
+        "day",
+        "saints"
+      ],
+      "dl": 3
+    },
+    "IAB23-10": {
+      "name": "Pagan/Wiccan",
+      "full_path": "Pagan/Wiccan",
+      "tokens": [
+        "pagan",
+        "wiccan"
+      ],
+      "dl": 2
+    },
+    "IAB24": {
+      "name": "Uncategorized",
+      "full_path": "Uncategorized",
+      "tokens": [
+        "uncategorized"
+      ],
+      "dl": 1
+    },
+    "IAB25": {
+      "name": "Non-Standard Content",
+      "full_path": "Non-Standard Content",
+      "tokens": [
+        "non",
+        "standard",
+        "content"
+      ],
+      "dl": 3
+    },
+    "IAB25-1": {
+      "name": "Unmoderated UGC",
+      "full_path": "Unmoderated UGC",
+      "tokens": [
+        "unmoderated",
+        "ugc"
+      ],
+      "dl": 2
+    },
+    "IAB25-2": {
+      "name": "Extreme Graphic/Explicit Violence",
+      "full_path": "Extreme Graphic/Explicit Violence",
+      "tokens": [
+        "extreme",
+        "graphic",
+        "explicit",
+        "violence"
+      ],
+      "dl": 4
+    },
+    "IAB25-3": {
+      "name": "Pornography",
+      "full_path": "Pornography",
+      "tokens": [
+        "pornography"
+      ],
+      "dl": 1
+    },
+    "IAB25-4": {
+      "name": "Profane Content",
+      "full_path": "Profane Content",
+      "tokens": [
+        "profane",
+        "content"
+      ],
+      "dl": 2
+    },
+    "IAB25-5": {
+      "name": "Hate Content",
+      "full_path": "Hate Content",
+      "tokens": [
+        "hate",
+        "content"
+      ],
+      "dl": 2
+    },
+    "IAB25-6": {
+      "name": "Under Construction",
+      "full_path": "Under Construction",
+      "tokens": [
+        "under",
+        "construction"
+      ],
+      "dl": 2
+    },
+    "IAB25-7": {
+      "name": "Incentivized",
+      "full_path": "Incentivized",
+      "tokens": [
+        "incentivized"
+      ],
+      "dl": 1
+    },
+    "IAB26": {
+      "name": "Illegal Content",
+      "full_path": "Illegal Content",
+      "tokens": [
+        "illegal",
+        "content"
+      ],
+      "dl": 2
+    },
+    "IAB26-1": {
+      "name": "Illegal Content",
+      "full_path": "Illegal Content",
+      "tokens": [
+        "illegal",
+        "content"
+      ],
+      "dl": 2
+    },
+    "IAB26-2": {
+      "name": "Warez",
+      "full_path": "Warez",
+      "tokens": [
+        "warez"
+      ],
+      "dl": 1
+    },
+    "IAB26-3": {
+      "name": "Spyware/Malware",
+      "full_path": "Spyware/Malware",
+      "tokens": [
+        "spyware",
+        "malware"
+      ],
+      "dl": 2
+    },
+    "IAB26-4": {
+      "name": "Copyright Infringement",
+      "full_path": "Copyright Infringement",
+      "tokens": [
+        "copyright",
+        "infringement"
+      ],
+      "dl": 2
+    }
+  }
+}

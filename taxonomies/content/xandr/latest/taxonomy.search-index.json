@@ -1,0 +1,5676 @@
+{
+  "corpus_size": 331,
+  "avgdl": 3.069486404833837,
+  "idf": {
+    "arts": 3.0642949449912877,
+    "entertainment": 3.13098631948996,
+    "industry": 2.648134547766375,
+    "offbeat": 5.3996698608083245,
+    "trivia": 5.3996698608083245,
+    "fun": 5.3996698608083245,
+    "comics": 5.3996698608083245,
+    "animation": 5.3996698608083245,
+    "music": 4.888844237042334,
+    "design": 4.888844237042334,
+    "art": 4.888844237042334,
+    "visual": 5.3996698608083245,
+    "news": 3.279406324608233,
+    "celebrity": 5.3996698608083245,
+    "movies": 5.3996698608083245,
+    "video": 4.3010575721402144,
+    "tv": 4.888844237042334,
+    "humor": 5.3996698608083245,
+    "radio": 4.888844237042334,
+    "events": 5.3996698608083245,
+    "nightlife": 5.3996698608083245,
+    "performing": 5.3996698608083245,
+    "autos": 2.8347205033467873,
+    "vehicles": 2.8347205033467873,
+    "watercraft": 5.3996698608083245,
+    "boats": 5.3996698608083245,
+    "trains": 5.3996698608083245,
+    "locomotives": 5.3996698608083245,
+    "hybrid": 5.3996698608083245,
+    "alternative": 4.888844237042334,
+    "trucks": 5.3996698608083245,
+    "suvs": 5.3996698608083245,
+    "bicycles": 5.3996698608083245,
+    "automotive": 4.888844237042334,
+    "technology": 4.100386876678064,
+    "performance": 5.3996698608083245,
+    "scooters": 5.3996698608083245,
+    "mopeds": 5.3996698608083245,
+    "accessories": 4.552372000421121,
+    "vehicle": 4.552372000421121,
+    "parts": 5.3996698608083245,
+    "commercial": 4.888844237042334,
+    "personal": 3.202445283472105,
+    "aircraft": 5.3996698608083245,
+    "maintenance": 5.3996698608083245,
+    "classic": 4.888844237042334,
+    "road": 5.3996698608083245,
+    "off": 5.3996698608083245,
+    "concept": 5.3996698608083245,
+    "rvs": 5.3996698608083245,
+    "campers": 5.3996698608083245,
+    "motorcycles": 5.3996698608083245,
+    "brands": 5.3996698608083245,
+    "beauty": 3.279406324608233,
+    "care": 3.202445283472105,
+    "skin": 5.3996698608083245,
+    "loss": 5.3996698608083245,
+    "weight": 4.888844237042334,
+    "cosmetology": 5.3996698608083245,
+    "spas": 4.888844237042334,
+    "services": 3.3627879335472843,
+    "cosmetic": 5.3996698608083245,
+    "procedures": 5.3996698608083245,
+    "hair": 5.3996698608083245,
+    "tattoos": 5.3996698608083245,
+    "body": 5.3996698608083245,
+    "fitness": 5.3996698608083245,
+    "pageants": 5.3996698608083245,
+    "fashion": 5.3996698608083245,
+    "style": 5.3996698608083245,
+    "literature": 3.453759711753011,
+    "books": 3.453759711753011,
+    "magazines": 5.3996698608083245,
+    "fan": 5.3996698608083245,
+    "fiction": 5.3996698608083245,
+    "resources": 4.3010575721402144,
+    "writers": 5.3996698608083245,
+    "children": 4.888844237042334,
+    "poetry": 5.3996698608083245,
+    "retailers": 4.888844237042334,
+    "book": 5.3996698608083245,
+    "business": 2.691619659706114,
+    "jobs": 5.3996698608083245,
+    "agriculture": 5.3996698608083245,
+    "forestry": 5.3996698608083245,
+    "small": 5.3996698608083245,
+    "directories": 5.3996698608083245,
+    "international": 5.3996698608083245,
+    "aerospace": 5.3996698608083245,
+    "defense": 5.3996698608083245,
+    "trade": 4.888844237042334,
+    "retail": 4.888844237042334,
+    "opportunities": 5.3996698608083245,
+    "marketing": 5.3996698608083245,
+    "advertising": 5.3996698608083245,
+    "associations": 5.3996698608083245,
+    "professional": 5.3996698608083245,
+    "operations": 5.3996698608083245,
+    "hospitality": 5.3996698608083245,
+    "printing": 5.3996698608083245,
+    "publishing": 5.3996698608083245,
+    "education": 3.790231948374224,
+    "utilities": 5.3996698608083245,
+    "energy": 5.3996698608083245,
+    "biotech": 5.3996698608083245,
+    "pharmaceuticals": 5.3996698608083245,
+    "logistics": 5.3996698608083245,
+    "transportation": 4.888844237042334,
+    "property": 4.3010575721402144,
+    "intellectual": 5.3996698608083245,
+    "computers": 3.001774588009954,
+    "electronics": 3.001774588009954,
+    "networking": 5.3996698608083245,
+    "computer": 4.552372000421121,
+    "security": 5.3996698608083245,
+    "hardware": 5.3996698608083245,
+    "phones": 5.3996698608083245,
+    "cell": 5.3996698608083245,
+    "pdas": 5.3996698608083245,
+    "home": 3.202445283472105,
+    "theater": 5.3996698608083245,
+    "audio": 5.3996698608083245,
+    "players": 5.3996698608083245,
+    "systems": 4.888844237042334,
+    "game": 5.3996698608083245,
+    "software": 5.3996698608083245,
+    "consumer": 4.888844237042334,
+    "cameras": 5.3996698608083245,
+    "camcorders": 5.3996698608083245,
+    "enterprise": 5.3996698608083245,
+    "programming": 5.3996698608083245,
+    "electrical": 5.3996698608083245,
+    "childhood": 5.3996698608083245,
+    "instructional": 5.3996698608083245,
+    "continuing": 5.3996698608083245,
+    "college": 4.888844237042334,
+    "university": 5.3996698608083245,
+    "finance": 3.279406324608233,
+    "credit": 5.3996698608083245,
+    "lending": 5.3996698608083245,
+    "investing": 5.3996698608083245,
+    "banking": 5.3996698608083245,
+    "insurance": 5.3996698608083245,
+    "accounting": 5.3996698608083245,
+    "auditing": 5.3996698608083245,
+    "financial": 4.888844237042334,
+    "assistance": 5.3996698608083245,
+    "grants": 5.3996698608083245,
+    "taxes": 5.3996698608083245,
+    "planning": 5.3996698608083245,
+    "pension": 5.3996698608083245,
+    "retirement": 4.888844237042334,
+    "exchange": 5.3996698608083245,
+    "foreign": 5.3996698608083245,
+    "currencies": 5.3996698608083245,
+    "mortgages": 5.3996698608083245,
+    "loans": 5.3996698608083245,
+    "food": 3.5538431703099933,
+    "drink": 3.5538431703099933,
+    "recipes": 5.3996698608083245,
+    "cooking": 5.3996698608083245,
+    "sweets": 5.3996698608083245,
+    "candy": 5.3996698608083245,
+    "vegetarian": 5.3996698608083245,
+    "vegan": 5.3996698608083245,
+    "alcoholic": 4.888844237042334,
+    "beverages": 4.888844237042334,
+    "restaurants": 5.3996698608083245,
+    "non": 5.3996698608083245,
+    "grocery": 5.3996698608083245,
+    "games": 3.13098631948996,
+    "coin": 5.3996698608083245,
+    "arcade": 5.3996698608083245,
+    "op": 5.3996698608083245,
+    "gambling": 5.3996698608083245,
+    "table": 4.888844237042334,
+    "cheats": 5.3996698608083245,
+    "walkthroughs": 5.3996698608083245,
+    "roleplaying": 5.3996698608083245,
+    "activities": 4.888844237042334,
+    "puzzles": 5.3996698608083245,
+    "brainteasers": 5.3996698608083245,
+    "card": 5.3996698608083245,
+    "party": 5.3996698608083245,
+    "board": 5.3996698608083245,
+    "online": 3.279406324608233,
+    "health": 2.648134547766375,
+    "aging": 5.3996698608083245,
+    "geriatrics": 5.3996698608083245,
+    "reproductive": 5.3996698608083245,
+    "equipment": 5.3996698608083245,
+    "medical": 3.9333327920148973,
+    "devices": 5.3996698608083245,
+    "nursing": 5.3996698608083245,
+    "public": 4.888844237042334,
+    "foundations": 5.3996698608083245,
+    "research": 5.3996698608083245,
+    "mental": 5.3996698608083245,
+    "pharmacy": 5.3996698608083245,
+    "training": 5.3996698608083245,
+    "women": 4.888844237042334,
+    "men": 4.888844237042334,
+    "pediatrics": 5.3996698608083245,
+    "conditions": 5.3996698608083245,
+    "vision": 5.3996698608083245,
+    "dental": 5.3996698608083245,
+    "oral": 5.3996698608083245,
+    "natural": 5.3996698608083245,
+    "medicine": 5.3996698608083245,
+    "substance": 5.3996698608083245,
+    "abuse": 5.3996698608083245,
+    "facilities": 5.3996698608083245,
+    "nutrition": 5.3996698608083245,
+    "garden": 3.279406324608233,
+    "furnishings": 5.3996698608083245,
+    "patio": 5.3996698608083245,
+    "yard": 5.3996698608083245,
+    "appliances": 5.3996698608083245,
+    "pools": 5.3996698608083245,
+    "swimming": 5.3996698608083245,
+    "gardening": 5.3996698608083245,
+    "landscaping": 5.3996698608083245,
+    "pest": 5.3996698608083245,
+    "control": 4.888844237042334,
+    "domestic": 5.3996698608083245,
+    "dining": 5.3996698608083245,
+    "kitchen": 5.3996698608083245,
+    "bath": 5.3996698608083245,
+    "bed": 5.3996698608083245,
+    "improvement": 5.3996698608083245,
+    "internet": 3.3627879335472843,
+    "telecom": 3.3627879335472843,
+    "service": 5.3996698608083245,
+    "providers": 4.888844237042334,
+    "web": 4.552372000421121,
+    "search": 4.888844237042334,
+    "engines": 4.888844237042334,
+    "portals": 4.888844237042334,
+    "wireless": 5.3996698608083245,
+    "mobile": 5.3996698608083245,
+    "apps": 5.3996698608083245,
+    "tools": 5.3996698608083245,
+    "messaging": 5.3996698608083245,
+    "email": 5.3996698608083245,
+    "telephony": 5.3996698608083245,
+    "voip": 5.3996698608083245,
+    "culture": 5.3996698608083245,
+    "teleconferencing": 5.3996698608083245,
+    "law": 4.100386876678064,
+    "government": 4.100386876678064,
+    "military": 5.3996698608083245,
+    "legal": 5.3996698608083245,
+    "social": 4.3010575721402144,
+    "safety": 5.3996698608083245,
+    "lifestyles": 3.202445283472105,
+    "seniors": 5.3996698608083245,
+    "ethnic": 5.3996698608083245,
+    "identity": 5.3996698608083245,
+    "groups": 5.3996698608083245,
+    "belief": 5.3996698608083245,
+    "religion": 5.3996698608083245,
+    "interests": 4.552372000421121,
+    "special": 4.552372000421121,
+    "needs": 5.3996698608083245,
+    "disabled": 5.3996698608083245,
+    "subcultures": 5.3996698608083245,
+    "niche": 5.3996698608083245,
+    "teens": 5.3996698608083245,
+    "kids": 5.3996698608083245,
+    "sciences": 4.552372000421121,
+    "genealogy": 5.3996698608083245,
+    "issues": 5.3996698608083245,
+    "advocacy": 5.3996698608083245,
+    "family": 5.3996698608083245,
+    "relationships": 5.3996698608083245,
+    "world": 3.453759711753011,
+    "local": 5.3996698608083245,
+    "weather": 5.3996698608083245,
+    "network": 5.3996698608083245,
+    "broadcast": 5.3996698608083245,
+    "sports": 2.4552308816418837,
+    "politics": 5.3996698608083245,
+    "journalism": 5.3996698608083245,
+    "communities": 3.453759711753011,
+    "goodies": 5.3996698608083245,
+    "chat": 5.3996698608083245,
+    "forum": 5.3996698608083245,
+    "file": 5.3996698608083245,
+    "sharing": 4.888844237042334,
+    "hosting": 5.3996698608083245,
+    "worlds": 5.3996698608083245,
+    "virtual": 5.3996698608083245,
+    "dating": 5.3996698608083245,
+    "personals": 5.3996698608083245,
+    "networks": 5.3996698608083245,
+    "blogging": 5.3996698608083245,
+    "photo": 4.888844237042334,
+    "journals": 5.3996698608083245,
+    "sites": 5.3996698608083245,
+    "animals": 4.3010575721402144,
+    "pets": 4.3010575721402144,
+    "animal": 5.3996698608083245,
+    "products": 4.888844237042334,
+    "wildlife": 5.3996698608083245,
+    "estate": 3.5538431703099933,
+    "real": 3.5538431703099933,
+    "development": 5.3996698608083245,
+    "properties": 5.3996698608083245,
+    "vacation": 5.3996698608083245,
+    "timeshares": 5.3996698608083245,
+    "investment": 5.3996698608083245,
+    "listings": 5.3996698608083245,
+    "apartments": 5.3996698608083245,
+    "rentals": 5.3996698608083245,
+    "residential": 5.3996698608083245,
+    "agencies": 4.888844237042334,
+    "management": 5.3996698608083245,
+    "inspections": 5.3996698608083245,
+    "appraisals": 5.3996698608083245,
+    "recreation": 3.5538431703099933,
+    "crafts": 5.3996698608083245,
+    "occasions": 5.3996698608083245,
+    "organizations": 5.3996698608083245,
+    "clubs": 5.3996698608083245,
+    "aviation": 5.3996698608083245,
+    "recreational": 5.3996698608083245,
+    "modeling": 5.3996698608083245,
+    "paintball": 5.3996698608083245,
+    "outdoors": 4.888844237042334,
+    "water": 4.888844237042334,
+    "reference": 3.790231948374224,
+    "language": 3.790231948374224,
+    "general": 5.3996698608083245,
+    "technical": 5.3996698608083245,
+    "museums": 4.888844237042334,
+    "libraries": 5.3996698608083245,
+    "humanities": 5.3996698608083245,
+    "geographic": 5.3996698608083245,
+    "science": 3.202445283472105,
+    "scientific": 5.3996698608083245,
+    "institutions": 5.3996698608083245,
+    "earth": 5.3996698608083245,
+    "physics": 5.3996698608083245,
+    "chemistry": 5.3996698608083245,
+    "mathematics": 5.3996698608083245,
+    "biological": 5.3996698608083245,
+    "engineering": 5.3996698608083245,
+    "space": 5.3996698608083245,
+    "astronomy": 5.3996698608083245,
+    "environment": 5.3996698608083245,
+    "ecology": 5.3996698608083245,
+    "shopping": 2.4207447055707143,
+    "free": 5.3996698608083245,
+    "stuff": 5.3996698608083245,
+    "auctions": 5.3996698608083245,
+    "stores": 5.3996698608083245,
+    "gifts": 5.3996698608083245,
+    "items": 5.3996698608083245,
+    "event": 5.3996698608083245,
+    "liquidators": 5.3996698608083245,
+    "wholesalers": 5.3996698608083245,
+    "footwear": 5.3996698608083245,
+    "apparel": 5.3996698608083245,
+    "supplies": 5.3996698608083245,
+    "office": 5.3996698608083245,
+    "customer": 5.3996698608083245,
+    "car": 4.888844237042334,
+    "meets": 5.3996698608083245,
+    "outdoor": 5.3996698608083245,
+    "markets": 5.3996698608083245,
+    "swap": 5.3996698608083245,
+    "antiques": 5.3996698608083245,
+    "collectibles": 5.3996698608083245,
+    "videos": 5.3996698608083245,
+    "offers": 5.3996698608083245,
+    "coupons": 5.3996698608083245,
+    "discount": 5.3996698608083245,
+    "toys": 5.3996698608083245,
+    "reviews": 5.3996698608083245,
+    "product": 5.3996698608083245,
+    "affairs": 5.3996698608083245,
+    "tobacco": 5.3996698608083245,
+    "classifieds": 5.3996698608083245,
+    "sporting": 5.3996698608083245,
+    "goods": 4.888844237042334,
+    "luxury": 5.3996698608083245,
+    "football": 5.3996698608083245,
+    "olympics": 5.3996698608083245,
+    "boxing": 5.3996698608083245,
+    "strength": 5.3996698608083245,
+    "extreme": 5.3996698608083245,
+    "wrestling": 5.3996698608083245,
+    "motor": 5.3996698608083245,
+    "bowling": 5.3996698608083245,
+    "soccer": 5.3996698608083245,
+    "equestrian": 5.3996698608083245,
+    "winter": 5.3996698608083245,
+    "martial": 5.3996698608083245,
+    "boating": 5.3996698608083245,
+    "racquet": 5.3996698608083245,
+    "cycling": 5.3996698608083245,
+    "lifting": 5.3996698608083245,
+    "hockey": 5.3996698608083245,
+    "basketball": 5.3996698608083245,
+    "precision": 5.3996698608083245,
+    "cricket": 5.3996698608083245,
+    "golf": 5.3996698608083245,
+    "baseball": 5.3996698608083245,
+    "travel": 3.202445283472105,
+    "travelogues": 5.3996698608083245,
+    "guides": 5.3996698608083245,
+    "air": 5.3996698608083245,
+    "accommodations": 5.3996698608083245,
+    "hotels": 5.3996698608083245,
+    "cruises": 5.3996698608083245,
+    "charters": 5.3996698608083245,
+    "tourist": 5.3996698608083245,
+    "destinations": 5.3996698608083245,
+    "rental": 5.3996698608083245,
+    "taxi": 5.3996698608083245,
+    "bus": 5.3996698608083245,
+    "rail": 5.3996698608083245,
+    "galleries": 5.3996698608083245,
+    "amusement": 5.3996698608083245,
+    "parks": 5.3996698608083245,
+    "theme": 5.3996698608083245,
+    "luggage": 5.3996698608083245,
+    "localities": 3.5538431703099933,
+    "middle": 5.3996698608083245,
+    "east": 5.3996698608083245,
+    "latin": 5.3996698608083245,
+    "america": 4.888844237042334,
+    "europe": 5.3996698608083245,
+    "polar": 5.3996698608083245,
+    "regions": 5.3996698608083245,
+    "asia": 5.3996698608083245,
+    "oceania": 5.3996698608083245,
+    "africa": 5.3996698608083245,
+    "north": 5.3996698608083245
+  },
+  "inverted": {
+    "arts": [
+      "arts-and-entertainment",
+      "arts-and-entertainment/entertainment-industry",
+      "arts-and-entertainment/offbeat",
+      "arts-and-entertainment/fun-and-trivia",
+      "arts-and-entertainment/comics-and-animation",
+      "arts-and-entertainment/music",
+      "arts-and-entertainment/visual-art-and-design",
+      "arts-and-entertainment/celebrity-news",
+      "arts-and-entertainment/movies",
+      "arts-and-entertainment/tv-and-video",
+      "arts-and-entertainment/humor",
+      "arts-and-entertainment/radio",
+      "arts-and-entertainment/nightlife-events",
+      "arts-and-entertainment/performing-arts",
+      "sports/martial-arts"
+    ],
+    "entertainment": [
+      "arts-and-entertainment",
+      "arts-and-entertainment/entertainment-industry",
+      "arts-and-entertainment/offbeat",
+      "arts-and-entertainment/fun-and-trivia",
+      "arts-and-entertainment/comics-and-animation",
+      "arts-and-entertainment/music",
+      "arts-and-entertainment/visual-art-and-design",
+      "arts-and-entertainment/celebrity-news",
+      "arts-and-entertainment/movies",
+      "arts-and-entertainment/tv-and-video",
+      "arts-and-entertainment/humor",
+      "arts-and-entertainment/radio",
+      "arts-and-entertainment/nightlife-events",
+      "arts-and-entertainment/performing-arts"
+    ],
+    "industry": [
+      "arts-and-entertainment/entertainment-industry",
+      "business-and-industry",
+      "business-and-industry/jobs",
+      "business-and-industry/agriculture-and-forestry",
+      "business-and-industry/small-business",
+      "business-and-industry/directories",
+      "business-and-industry/international-business",
+      "business-and-industry/aerospace-and-defense",
+      "business-and-industry/retail-trade",
+      "business-and-industry/business-services",
+      "business-and-industry/opportunities",
+      "business-and-industry/advertising-and-marketing",
+      "business-and-industry/professional-and-trade-associations",
+      "business-and-industry/business-operations",
+      "business-and-industry/hospitality-industry",
+      "business-and-industry/printing-and-publishing",
+      "business-and-industry/business-education",
+      "business-and-industry/energy-and-utilities",
+      "business-and-industry/pharmaceuticals-and-biotech",
+      "business-and-industry/automotive-industry",
+      "business-and-industry/transportation-and-logistics",
+      "business-and-industry/intellectual-property",
+      "news/journalism-and-news-industry"
+    ],
+    "offbeat": [
+      "arts-and-entertainment/offbeat"
+    ],
+    "trivia": [
+      "arts-and-entertainment/fun-and-trivia"
+    ],
+    "fun": [
+      "arts-and-entertainment/fun-and-trivia"
+    ],
+    "comics": [
+      "arts-and-entertainment/comics-and-animation"
+    ],
+    "animation": [
+      "arts-and-entertainment/comics-and-animation"
+    ],
+    "music": [
+      "arts-and-entertainment/music",
+      "shopping/music"
+    ],
+    "design": [
+      "arts-and-entertainment/visual-art-and-design",
+      "internet-and-telecom/web-design"
+    ],
+    "art": [
+      "arts-and-entertainment/visual-art-and-design",
+      "beauty-and-personal-care/body-art-and-tattoos"
+    ],
+    "visual": [
+      "arts-and-entertainment/visual-art-and-design"
+    ],
+    "news": [
+      "arts-and-entertainment/celebrity-news",
+      "news",
+      "news/world-news",
+      "news/local-news",
+      "news/health-news",
+      "news/weather",
+      "news/business-news",
+      "news/technology-news",
+      "news/broadcast-and-network-news",
+      "news/sports-news",
+      "news/politics",
+      "news/journalism-and-news-industry"
+    ],
+    "celebrity": [
+      "arts-and-entertainment/celebrity-news"
+    ],
+    "movies": [
+      "arts-and-entertainment/movies"
+    ],
+    "video": [
+      "arts-and-entertainment/tv-and-video",
+      "games/computer-and-video-games",
+      "online-communities/photo-and-video-sharing",
+      "shopping/photo-and-video-services"
+    ],
+    "tv": [
+      "arts-and-entertainment/tv-and-video",
+      "computers-and-electronics/tv"
+    ],
+    "humor": [
+      "arts-and-entertainment/humor"
+    ],
+    "radio": [
+      "arts-and-entertainment/radio",
+      "recreation/radio-control-and-modeling"
+    ],
+    "events": [
+      "arts-and-entertainment/nightlife-events"
+    ],
+    "nightlife": [
+      "arts-and-entertainment/nightlife-events"
+    ],
+    "performing": [
+      "arts-and-entertainment/performing-arts"
+    ],
+    "autos": [
+      "autos-and-vehicles",
+      "autos-and-vehicles/boats-and-watercraft",
+      "autos-and-vehicles/locomotives-and-trains",
+      "autos-and-vehicles/hybrid-and-alternative-vehicles",
+      "autos-and-vehicles/trucks-and-suvs",
+      "autos-and-vehicles/bicycles",
+      "autos-and-vehicles/automotive-technology",
+      "autos-and-vehicles/performance-vehicles",
+      "autos-and-vehicles/scooters-and-mopeds",
+      "autos-and-vehicles/vehicle-parts-and-accessories",
+      "autos-and-vehicles/commercial-vehicles",
+      "autos-and-vehicles/personal-aircraft",
+      "autos-and-vehicles/vehicle-maintenance",
+      "autos-and-vehicles/classic-vehicles",
+      "autos-and-vehicles/off-road-vehicles",
+      "autos-and-vehicles/concept-vehicles",
+      "autos-and-vehicles/campers-and-rvs",
+      "autos-and-vehicles/motorcycles",
+      "autos-and-vehicles/vehicle-brands"
+    ],
+    "vehicles": [
+      "autos-and-vehicles",
+      "autos-and-vehicles/boats-and-watercraft",
+      "autos-and-vehicles/locomotives-and-trains",
+      "autos-and-vehicles/hybrid-and-alternative-vehicles",
+      "autos-and-vehicles/trucks-and-suvs",
+      "autos-and-vehicles/bicycles",
+      "autos-and-vehicles/automotive-technology",
+      "autos-and-vehicles/performance-vehicles",
+      "autos-and-vehicles/scooters-and-mopeds",
+      "autos-and-vehicles/vehicle-parts-and-accessories",
+      "autos-and-vehicles/commercial-vehicles",
+      "autos-and-vehicles/personal-aircraft",
+      "autos-and-vehicles/vehicle-maintenance",
+      "autos-and-vehicles/classic-vehicles",
+      "autos-and-vehicles/off-road-vehicles",
+      "autos-and-vehicles/concept-vehicles",
+      "autos-and-vehicles/campers-and-rvs",
+      "autos-and-vehicles/motorcycles",
+      "autos-and-vehicles/vehicle-brands"
+    ],
+    "watercraft": [
+      "autos-and-vehicles/boats-and-watercraft"
+    ],
+    "boats": [
+      "autos-and-vehicles/boats-and-watercraft"
+    ],
+    "trains": [
+      "autos-and-vehicles/locomotives-and-trains"
+    ],
+    "locomotives": [
+      "autos-and-vehicles/locomotives-and-trains"
+    ],
+    "hybrid": [
+      "autos-and-vehicles/hybrid-and-alternative-vehicles"
+    ],
+    "alternative": [
+      "autos-and-vehicles/hybrid-and-alternative-vehicles",
+      "health/alternative-and-natural-medicine"
+    ],
+    "trucks": [
+      "autos-and-vehicles/trucks-and-suvs"
+    ],
+    "suvs": [
+      "autos-and-vehicles/trucks-and-suvs"
+    ],
+    "bicycles": [
+      "autos-and-vehicles/bicycles"
+    ],
+    "automotive": [
+      "autos-and-vehicles/automotive-technology",
+      "business-and-industry/automotive-industry"
+    ],
+    "technology": [
+      "autos-and-vehicles/automotive-technology",
+      "computers-and-electronics/enterprise-technology",
+      "education/instructional-technology",
+      "news/technology-news",
+      "science/engineering-and-technology"
+    ],
+    "performance": [
+      "autos-and-vehicles/performance-vehicles"
+    ],
+    "scooters": [
+      "autos-and-vehicles/scooters-and-mopeds"
+    ],
+    "mopeds": [
+      "autos-and-vehicles/scooters-and-mopeds"
+    ],
+    "accessories": [
+      "autos-and-vehicles/vehicle-parts-and-accessories",
+      "shopping/accessories",
+      "travel/luggage-and-travel-accessories"
+    ],
+    "vehicle": [
+      "autos-and-vehicles/vehicle-parts-and-accessories",
+      "autos-and-vehicles/vehicle-maintenance",
+      "autos-and-vehicles/vehicle-brands"
+    ],
+    "parts": [
+      "autos-and-vehicles/vehicle-parts-and-accessories"
+    ],
+    "commercial": [
+      "autos-and-vehicles/commercial-vehicles",
+      "real-estate/commercial-and-investment-real-estate"
+    ],
+    "personal": [
+      "autos-and-vehicles/personal-aircraft",
+      "beauty-and-personal-care",
+      "beauty-and-personal-care/skin-care",
+      "beauty-and-personal-care/weight-loss",
+      "beauty-and-personal-care/cosmetology",
+      "beauty-and-personal-care/spas-and-beauty-services",
+      "beauty-and-personal-care/cosmetic-procedures",
+      "beauty-and-personal-care/hair-care",
+      "beauty-and-personal-care/body-art-and-tattoos",
+      "beauty-and-personal-care/fitness",
+      "beauty-and-personal-care/beauty-pageants",
+      "beauty-and-personal-care/fashion-and-style",
+      "online-communities/online-journals-and-personal-sites"
+    ],
+    "aircraft": [
+      "autos-and-vehicles/personal-aircraft"
+    ],
+    "maintenance": [
+      "autos-and-vehicles/vehicle-maintenance"
+    ],
+    "classic": [
+      "autos-and-vehicles/classic-vehicles",
+      "books-and-literature/classic-literature"
+    ],
+    "road": [
+      "autos-and-vehicles/off-road-vehicles"
+    ],
+    "off": [
+      "autos-and-vehicles/off-road-vehicles"
+    ],
+    "concept": [
+      "autos-and-vehicles/concept-vehicles"
+    ],
+    "rvs": [
+      "autos-and-vehicles/campers-and-rvs"
+    ],
+    "campers": [
+      "autos-and-vehicles/campers-and-rvs"
+    ],
+    "motorcycles": [
+      "autos-and-vehicles/motorcycles"
+    ],
+    "brands": [
+      "autos-and-vehicles/vehicle-brands"
+    ],
+    "beauty": [
+      "beauty-and-personal-care",
+      "beauty-and-personal-care/skin-care",
+      "beauty-and-personal-care/weight-loss",
+      "beauty-and-personal-care/cosmetology",
+      "beauty-and-personal-care/spas-and-beauty-services",
+      "beauty-and-personal-care/cosmetic-procedures",
+      "beauty-and-personal-care/hair-care",
+      "beauty-and-personal-care/body-art-and-tattoos",
+      "beauty-and-personal-care/fitness",
+      "beauty-and-personal-care/beauty-pageants",
+      "beauty-and-personal-care/fashion-and-style",
+      "shopping/health-and-beauty"
+    ],
+    "care": [
+      "beauty-and-personal-care",
+      "beauty-and-personal-care/skin-care",
+      "beauty-and-personal-care/weight-loss",
+      "beauty-and-personal-care/cosmetology",
+      "beauty-and-personal-care/spas-and-beauty-services",
+      "beauty-and-personal-care/cosmetic-procedures",
+      "beauty-and-personal-care/hair-care",
+      "beauty-and-personal-care/body-art-and-tattoos",
+      "beauty-and-personal-care/fitness",
+      "beauty-and-personal-care/beauty-pageants",
+      "beauty-and-personal-care/fashion-and-style",
+      "health/vision-care",
+      "health/oral-and-dental-care"
+    ],
+    "skin": [
+      "beauty-and-personal-care/skin-care"
+    ],
+    "loss": [
+      "beauty-and-personal-care/weight-loss"
+    ],
+    "weight": [
+      "beauty-and-personal-care/weight-loss",
+      "sports/weight-lifting"
+    ],
+    "cosmetology": [
+      "beauty-and-personal-care/cosmetology"
+    ],
+    "spas": [
+      "beauty-and-personal-care/spas-and-beauty-services",
+      "home-and-garden/swimming-pools-and-spas"
+    ],
+    "services": [
+      "beauty-and-personal-care/spas-and-beauty-services",
+      "business-and-industry/business-services",
+      "health/medical-facilities-and-services",
+      "home-and-garden/domestic-services",
+      "law-and-government/social-services",
+      "online-communities/blogging-resources-and-services",
+      "pets-and-animals/animal-products-and-services",
+      "shopping/customer-services",
+      "shopping/photo-and-video-services",
+      "travel/travel-agencies-and-services",
+      "travel/car-rental-and-taxi-services"
+    ],
+    "cosmetic": [
+      "beauty-and-personal-care/cosmetic-procedures"
+    ],
+    "procedures": [
+      "beauty-and-personal-care/cosmetic-procedures"
+    ],
+    "hair": [
+      "beauty-and-personal-care/hair-care"
+    ],
+    "tattoos": [
+      "beauty-and-personal-care/body-art-and-tattoos"
+    ],
+    "body": [
+      "beauty-and-personal-care/body-art-and-tattoos"
+    ],
+    "fitness": [
+      "beauty-and-personal-care/fitness"
+    ],
+    "pageants": [
+      "beauty-and-personal-care/beauty-pageants"
+    ],
+    "fashion": [
+      "beauty-and-personal-care/fashion-and-style"
+    ],
+    "style": [
+      "beauty-and-personal-care/fashion-and-style"
+    ],
+    "literature": [
+      "books-and-literature",
+      "books-and-literature/magazines",
+      "books-and-literature/classic-literature",
+      "books-and-literature/fan-fiction",
+      "books-and-literature/e-books",
+      "books-and-literature/writers-resources",
+      "books-and-literature/children-s-literature",
+      "books-and-literature/poetry",
+      "books-and-literature/book-retailers",
+      "health/medical-literature-and-resources"
+    ],
+    "books": [
+      "books-and-literature",
+      "books-and-literature/magazines",
+      "books-and-literature/classic-literature",
+      "books-and-literature/fan-fiction",
+      "books-and-literature/e-books",
+      "books-and-literature/writers-resources",
+      "books-and-literature/children-s-literature",
+      "books-and-literature/poetry",
+      "books-and-literature/book-retailers",
+      "shopping/books"
+    ],
+    "magazines": [
+      "books-and-literature/magazines"
+    ],
+    "fan": [
+      "books-and-literature/fan-fiction"
+    ],
+    "fiction": [
+      "books-and-literature/fan-fiction"
+    ],
+    "resources": [
+      "books-and-literature/writers-resources",
+      "health/medical-literature-and-resources",
+      "online-communities/blogging-resources-and-services",
+      "reference-and-language/language-resources"
+    ],
+    "writers": [
+      "books-and-literature/writers-resources"
+    ],
+    "children": [
+      "books-and-literature/children-s-literature",
+      "games/children-s-games-and-activities"
+    ],
+    "poetry": [
+      "books-and-literature/poetry"
+    ],
+    "retailers": [
+      "books-and-literature/book-retailers",
+      "food-and-drink/grocery-and-food-retailers"
+    ],
+    "book": [
+      "books-and-literature/book-retailers"
+    ],
+    "business": [
+      "business-and-industry",
+      "business-and-industry/jobs",
+      "business-and-industry/agriculture-and-forestry",
+      "business-and-industry/small-business",
+      "business-and-industry/directories",
+      "business-and-industry/international-business",
+      "business-and-industry/aerospace-and-defense",
+      "business-and-industry/retail-trade",
+      "business-and-industry/business-services",
+      "business-and-industry/opportunities",
+      "business-and-industry/advertising-and-marketing",
+      "business-and-industry/professional-and-trade-associations",
+      "business-and-industry/business-operations",
+      "business-and-industry/hospitality-industry",
+      "business-and-industry/printing-and-publishing",
+      "business-and-industry/business-education",
+      "business-and-industry/energy-and-utilities",
+      "business-and-industry/pharmaceuticals-and-biotech",
+      "business-and-industry/automotive-industry",
+      "business-and-industry/transportation-and-logistics",
+      "business-and-industry/intellectual-property",
+      "news/business-news"
+    ],
+    "jobs": [
+      "business-and-industry/jobs"
+    ],
+    "agriculture": [
+      "business-and-industry/agriculture-and-forestry"
+    ],
+    "forestry": [
+      "business-and-industry/agriculture-and-forestry"
+    ],
+    "small": [
+      "business-and-industry/small-business"
+    ],
+    "directories": [
+      "business-and-industry/directories"
+    ],
+    "international": [
+      "business-and-industry/international-business"
+    ],
+    "aerospace": [
+      "business-and-industry/aerospace-and-defense"
+    ],
+    "defense": [
+      "business-and-industry/aerospace-and-defense"
+    ],
+    "trade": [
+      "business-and-industry/retail-trade",
+      "business-and-industry/professional-and-trade-associations"
+    ],
+    "retail": [
+      "business-and-industry/retail-trade",
+      "shopping/retail-stores"
+    ],
+    "opportunities": [
+      "business-and-industry/opportunities"
+    ],
+    "marketing": [
+      "business-and-industry/advertising-and-marketing"
+    ],
+    "advertising": [
+      "business-and-industry/advertising-and-marketing"
+    ],
+    "associations": [
+      "business-and-industry/professional-and-trade-associations"
+    ],
+    "professional": [
+      "business-and-industry/professional-and-trade-associations"
+    ],
+    "operations": [
+      "business-and-industry/business-operations"
+    ],
+    "hospitality": [
+      "business-and-industry/hospitality-industry"
+    ],
+    "printing": [
+      "business-and-industry/printing-and-publishing"
+    ],
+    "publishing": [
+      "business-and-industry/printing-and-publishing"
+    ],
+    "education": [
+      "business-and-industry/business-education",
+      "education",
+      "education/childhood-education",
+      "education/instructional-technology",
+      "education/continuing-education",
+      "education/college-and-university",
+      "health/health-education-and-medical-training"
+    ],
+    "utilities": [
+      "business-and-industry/energy-and-utilities"
+    ],
+    "energy": [
+      "business-and-industry/energy-and-utilities"
+    ],
+    "biotech": [
+      "business-and-industry/pharmaceuticals-and-biotech"
+    ],
+    "pharmaceuticals": [
+      "business-and-industry/pharmaceuticals-and-biotech"
+    ],
+    "logistics": [
+      "business-and-industry/transportation-and-logistics"
+    ],
+    "transportation": [
+      "business-and-industry/transportation-and-logistics",
+      "travel/transportation"
+    ],
+    "property": [
+      "business-and-industry/intellectual-property",
+      "real-estate/property-development",
+      "real-estate/property-management",
+      "real-estate/property-inspections-and-appraisals"
+    ],
+    "intellectual": [
+      "business-and-industry/intellectual-property"
+    ],
+    "computers": [
+      "computers-and-electronics",
+      "computers-and-electronics/networking",
+      "computers-and-electronics/computer-security",
+      "computers-and-electronics/hardware",
+      "computers-and-electronics/cell-phones",
+      "computers-and-electronics/pdas",
+      "computers-and-electronics/home-theater",
+      "computers-and-electronics/tv",
+      "computers-and-electronics/audio-players-and-systems",
+      "computers-and-electronics/game-systems",
+      "computers-and-electronics/software",
+      "computers-and-electronics/consumer-electronics",
+      "computers-and-electronics/cameras-and-camcorders",
+      "computers-and-electronics/enterprise-technology",
+      "computers-and-electronics/programming",
+      "computers-and-electronics/electronics-and-electrical"
+    ],
+    "electronics": [
+      "computers-and-electronics",
+      "computers-and-electronics/networking",
+      "computers-and-electronics/computer-security",
+      "computers-and-electronics/hardware",
+      "computers-and-electronics/cell-phones",
+      "computers-and-electronics/pdas",
+      "computers-and-electronics/home-theater",
+      "computers-and-electronics/tv",
+      "computers-and-electronics/audio-players-and-systems",
+      "computers-and-electronics/game-systems",
+      "computers-and-electronics/software",
+      "computers-and-electronics/consumer-electronics",
+      "computers-and-electronics/cameras-and-camcorders",
+      "computers-and-electronics/enterprise-technology",
+      "computers-and-electronics/programming",
+      "computers-and-electronics/electronics-and-electrical"
+    ],
+    "networking": [
+      "computers-and-electronics/networking"
+    ],
+    "computer": [
+      "computers-and-electronics/computer-security",
+      "games/computer-and-video-games",
+      "science/computer-science"
+    ],
+    "security": [
+      "computers-and-electronics/computer-security"
+    ],
+    "hardware": [
+      "computers-and-electronics/hardware"
+    ],
+    "phones": [
+      "computers-and-electronics/cell-phones"
+    ],
+    "cell": [
+      "computers-and-electronics/cell-phones"
+    ],
+    "pdas": [
+      "computers-and-electronics/pdas"
+    ],
+    "home": [
+      "computers-and-electronics/home-theater",
+      "home-and-garden",
+      "home-and-garden/home-furnishings",
+      "home-and-garden/yard-and-patio",
+      "home-and-garden/home-appliances",
+      "home-and-garden/swimming-pools-and-spas",
+      "home-and-garden/gardening-and-landscaping",
+      "home-and-garden/pest-control",
+      "home-and-garden/domestic-services",
+      "home-and-garden/kitchen-and-dining",
+      "home-and-garden/bed-and-bath",
+      "home-and-garden/home-improvement",
+      "shopping/home-and-garden"
+    ],
+    "theater": [
+      "computers-and-electronics/home-theater"
+    ],
+    "audio": [
+      "computers-and-electronics/audio-players-and-systems"
+    ],
+    "players": [
+      "computers-and-electronics/audio-players-and-systems"
+    ],
+    "systems": [
+      "computers-and-electronics/audio-players-and-systems",
+      "computers-and-electronics/game-systems"
+    ],
+    "game": [
+      "computers-and-electronics/game-systems"
+    ],
+    "software": [
+      "computers-and-electronics/software"
+    ],
+    "consumer": [
+      "computers-and-electronics/consumer-electronics",
+      "shopping/consumer-affairs-and-product-reviews"
+    ],
+    "cameras": [
+      "computers-and-electronics/cameras-and-camcorders"
+    ],
+    "camcorders": [
+      "computers-and-electronics/cameras-and-camcorders"
+    ],
+    "enterprise": [
+      "computers-and-electronics/enterprise-technology"
+    ],
+    "programming": [
+      "computers-and-electronics/programming"
+    ],
+    "electrical": [
+      "computers-and-electronics/electronics-and-electrical"
+    ],
+    "childhood": [
+      "education/childhood-education"
+    ],
+    "instructional": [
+      "education/instructional-technology"
+    ],
+    "continuing": [
+      "education/continuing-education"
+    ],
+    "college": [
+      "education/college-and-university",
+      "sports/college"
+    ],
+    "university": [
+      "education/college-and-university"
+    ],
+    "finance": [
+      "finance",
+      "finance/credit-and-lending",
+      "finance/investing",
+      "finance/banking",
+      "finance/insurance",
+      "finance/accounting-and-auditing",
+      "finance/grants-and-financial-assistance",
+      "finance/taxes",
+      "finance/financial-planning",
+      "finance/retirement-and-pension",
+      "finance/currencies-and-foreign-exchange",
+      "finance/mortgages-and-loans"
+    ],
+    "credit": [
+      "finance/credit-and-lending"
+    ],
+    "lending": [
+      "finance/credit-and-lending"
+    ],
+    "investing": [
+      "finance/investing"
+    ],
+    "banking": [
+      "finance/banking"
+    ],
+    "insurance": [
+      "finance/insurance"
+    ],
+    "accounting": [
+      "finance/accounting-and-auditing"
+    ],
+    "auditing": [
+      "finance/accounting-and-auditing"
+    ],
+    "financial": [
+      "finance/grants-and-financial-assistance",
+      "finance/financial-planning"
+    ],
+    "assistance": [
+      "finance/grants-and-financial-assistance"
+    ],
+    "grants": [
+      "finance/grants-and-financial-assistance"
+    ],
+    "taxes": [
+      "finance/taxes"
+    ],
+    "planning": [
+      "finance/financial-planning"
+    ],
+    "pension": [
+      "finance/retirement-and-pension"
+    ],
+    "retirement": [
+      "finance/retirement-and-pension",
+      "lifestyles/seniors-and-retirement"
+    ],
+    "exchange": [
+      "finance/currencies-and-foreign-exchange"
+    ],
+    "foreign": [
+      "finance/currencies-and-foreign-exchange"
+    ],
+    "currencies": [
+      "finance/currencies-and-foreign-exchange"
+    ],
+    "mortgages": [
+      "finance/mortgages-and-loans"
+    ],
+    "loans": [
+      "finance/mortgages-and-loans"
+    ],
+    "food": [
+      "food-and-drink",
+      "food-and-drink/cooking-and-recipes",
+      "food-and-drink/candy-and-sweets",
+      "food-and-drink/vegetarian",
+      "food-and-drink/vegan",
+      "food-and-drink/alcoholic-beverages",
+      "food-and-drink/restaurants",
+      "food-and-drink/non-alcoholic-beverages",
+      "food-and-drink/grocery-and-food-retailers"
+    ],
+    "drink": [
+      "food-and-drink",
+      "food-and-drink/cooking-and-recipes",
+      "food-and-drink/candy-and-sweets",
+      "food-and-drink/vegetarian",
+      "food-and-drink/vegan",
+      "food-and-drink/alcoholic-beverages",
+      "food-and-drink/restaurants",
+      "food-and-drink/non-alcoholic-beverages",
+      "food-and-drink/grocery-and-food-retailers"
+    ],
+    "recipes": [
+      "food-and-drink/cooking-and-recipes"
+    ],
+    "cooking": [
+      "food-and-drink/cooking-and-recipes"
+    ],
+    "sweets": [
+      "food-and-drink/candy-and-sweets"
+    ],
+    "candy": [
+      "food-and-drink/candy-and-sweets"
+    ],
+    "vegetarian": [
+      "food-and-drink/vegetarian"
+    ],
+    "vegan": [
+      "food-and-drink/vegan"
+    ],
+    "alcoholic": [
+      "food-and-drink/alcoholic-beverages",
+      "food-and-drink/non-alcoholic-beverages"
+    ],
+    "beverages": [
+      "food-and-drink/alcoholic-beverages",
+      "food-and-drink/non-alcoholic-beverages"
+    ],
+    "restaurants": [
+      "food-and-drink/restaurants"
+    ],
+    "non": [
+      "food-and-drink/non-alcoholic-beverages"
+    ],
+    "grocery": [
+      "food-and-drink/grocery-and-food-retailers"
+    ],
+    "games": [
+      "games",
+      "games/arcade-and-coin-op-games",
+      "games/gambling",
+      "games/table-games",
+      "games/computer-and-video-games",
+      "games/cheats-and-walkthroughs",
+      "games/roleplaying-games",
+      "games/children-s-games-and-activities",
+      "games/puzzles-and-brainteasers",
+      "games/card-games",
+      "games/party-games",
+      "games/board-games",
+      "games/online-games",
+      "shopping/games"
+    ],
+    "coin": [
+      "games/arcade-and-coin-op-games"
+    ],
+    "arcade": [
+      "games/arcade-and-coin-op-games"
+    ],
+    "op": [
+      "games/arcade-and-coin-op-games"
+    ],
+    "gambling": [
+      "games/gambling"
+    ],
+    "table": [
+      "games/table-games",
+      "sports/table-sports"
+    ],
+    "cheats": [
+      "games/cheats-and-walkthroughs"
+    ],
+    "walkthroughs": [
+      "games/cheats-and-walkthroughs"
+    ],
+    "roleplaying": [
+      "games/roleplaying-games"
+    ],
+    "activities": [
+      "games/children-s-games-and-activities",
+      "recreation/water-activities"
+    ],
+    "puzzles": [
+      "games/puzzles-and-brainteasers"
+    ],
+    "brainteasers": [
+      "games/puzzles-and-brainteasers"
+    ],
+    "card": [
+      "games/card-games"
+    ],
+    "party": [
+      "games/party-games"
+    ],
+    "board": [
+      "games/board-games"
+    ],
+    "online": [
+      "games/online-games",
+      "internet-and-telecom/web-apps-and-online-tools",
+      "online-communities",
+      "online-communities/online-goodies",
+      "online-communities/forum-and-chat-providers",
+      "online-communities/file-sharing-and-hosting",
+      "online-communities/virtual-worlds",
+      "online-communities/dating-and-personals",
+      "online-communities/social-networks",
+      "online-communities/blogging-resources-and-services",
+      "online-communities/photo-and-video-sharing",
+      "online-communities/online-journals-and-personal-sites"
+    ],
+    "health": [
+      "health",
+      "health/aging-and-geriatrics",
+      "health/reproductive-health",
+      "health/medical-devices-and-equipment",
+      "health/nursing",
+      "health/public-health",
+      "health/health-foundations-and-medical-research",
+      "health/mental-health",
+      "health/pharmacy",
+      "health/health-education-and-medical-training",
+      "health/women-s-health",
+      "health/men-s-health",
+      "health/pediatrics",
+      "health/health-conditions",
+      "health/vision-care",
+      "health/medical-literature-and-resources",
+      "health/oral-and-dental-care",
+      "health/alternative-and-natural-medicine",
+      "health/substance-abuse",
+      "health/medical-facilities-and-services",
+      "health/nutrition",
+      "news/health-news",
+      "shopping/health-and-beauty"
+    ],
+    "aging": [
+      "health/aging-and-geriatrics"
+    ],
+    "geriatrics": [
+      "health/aging-and-geriatrics"
+    ],
+    "reproductive": [
+      "health/reproductive-health"
+    ],
+    "equipment": [
+      "health/medical-devices-and-equipment"
+    ],
+    "medical": [
+      "health/medical-devices-and-equipment",
+      "health/health-foundations-and-medical-research",
+      "health/health-education-and-medical-training",
+      "health/medical-literature-and-resources",
+      "health/medical-facilities-and-services",
+      "science/medical-science"
+    ],
+    "devices": [
+      "health/medical-devices-and-equipment"
+    ],
+    "nursing": [
+      "health/nursing"
+    ],
+    "public": [
+      "health/public-health",
+      "law-and-government/public-safety"
+    ],
+    "foundations": [
+      "health/health-foundations-and-medical-research"
+    ],
+    "research": [
+      "health/health-foundations-and-medical-research"
+    ],
+    "mental": [
+      "health/mental-health"
+    ],
+    "pharmacy": [
+      "health/pharmacy"
+    ],
+    "training": [
+      "health/health-education-and-medical-training"
+    ],
+    "women": [
+      "health/women-s-health",
+      "lifestyles/women-s-interests"
+    ],
+    "men": [
+      "health/men-s-health",
+      "lifestyles/men-s-interests"
+    ],
+    "pediatrics": [
+      "health/pediatrics"
+    ],
+    "conditions": [
+      "health/health-conditions"
+    ],
+    "vision": [
+      "health/vision-care"
+    ],
+    "dental": [
+      "health/oral-and-dental-care"
+    ],
+    "oral": [
+      "health/oral-and-dental-care"
+    ],
+    "natural": [
+      "health/alternative-and-natural-medicine"
+    ],
+    "medicine": [
+      "health/alternative-and-natural-medicine"
+    ],
+    "substance": [
+      "health/substance-abuse"
+    ],
+    "abuse": [
+      "health/substance-abuse"
+    ],
+    "facilities": [
+      "health/medical-facilities-and-services"
+    ],
+    "nutrition": [
+      "health/nutrition"
+    ],
+    "garden": [
+      "home-and-garden",
+      "home-and-garden/home-furnishings",
+      "home-and-garden/yard-and-patio",
+      "home-and-garden/home-appliances",
+      "home-and-garden/swimming-pools-and-spas",
+      "home-and-garden/gardening-and-landscaping",
+      "home-and-garden/pest-control",
+      "home-and-garden/domestic-services",
+      "home-and-garden/kitchen-and-dining",
+      "home-and-garden/bed-and-bath",
+      "home-and-garden/home-improvement",
+      "shopping/home-and-garden"
+    ],
+    "furnishings": [
+      "home-and-garden/home-furnishings"
+    ],
+    "patio": [
+      "home-and-garden/yard-and-patio"
+    ],
+    "yard": [
+      "home-and-garden/yard-and-patio"
+    ],
+    "appliances": [
+      "home-and-garden/home-appliances"
+    ],
+    "pools": [
+      "home-and-garden/swimming-pools-and-spas"
+    ],
+    "swimming": [
+      "home-and-garden/swimming-pools-and-spas"
+    ],
+    "gardening": [
+      "home-and-garden/gardening-and-landscaping"
+    ],
+    "landscaping": [
+      "home-and-garden/gardening-and-landscaping"
+    ],
+    "pest": [
+      "home-and-garden/pest-control"
+    ],
+    "control": [
+      "home-and-garden/pest-control",
+      "recreation/radio-control-and-modeling"
+    ],
+    "domestic": [
+      "home-and-garden/domestic-services"
+    ],
+    "dining": [
+      "home-and-garden/kitchen-and-dining"
+    ],
+    "kitchen": [
+      "home-and-garden/kitchen-and-dining"
+    ],
+    "bath": [
+      "home-and-garden/bed-and-bath"
+    ],
+    "bed": [
+      "home-and-garden/bed-and-bath"
+    ],
+    "improvement": [
+      "home-and-garden/home-improvement"
+    ],
+    "internet": [
+      "internet-and-telecom",
+      "internet-and-telecom/service-providers",
+      "internet-and-telecom/web-design",
+      "internet-and-telecom/search-engines",
+      "internet-and-telecom/web-portals",
+      "internet-and-telecom/mobile-and-wireless",
+      "internet-and-telecom/web-apps-and-online-tools",
+      "internet-and-telecom/email-and-messaging",
+      "internet-and-telecom/voip-and-internet-telephony",
+      "internet-and-telecom/culture",
+      "internet-and-telecom/teleconferencing"
+    ],
+    "telecom": [
+      "internet-and-telecom",
+      "internet-and-telecom/service-providers",
+      "internet-and-telecom/web-design",
+      "internet-and-telecom/search-engines",
+      "internet-and-telecom/web-portals",
+      "internet-and-telecom/mobile-and-wireless",
+      "internet-and-telecom/web-apps-and-online-tools",
+      "internet-and-telecom/email-and-messaging",
+      "internet-and-telecom/voip-and-internet-telephony",
+      "internet-and-telecom/culture",
+      "internet-and-telecom/teleconferencing"
+    ],
+    "service": [
+      "internet-and-telecom/service-providers"
+    ],
+    "providers": [
+      "internet-and-telecom/service-providers",
+      "online-communities/forum-and-chat-providers"
+    ],
+    "web": [
+      "internet-and-telecom/web-design",
+      "internet-and-telecom/web-portals",
+      "internet-and-telecom/web-apps-and-online-tools"
+    ],
+    "search": [
+      "internet-and-telecom/search-engines",
+      "shopping/shopping-portals-and-search-engines"
+    ],
+    "engines": [
+      "internet-and-telecom/search-engines",
+      "shopping/shopping-portals-and-search-engines"
+    ],
+    "portals": [
+      "internet-and-telecom/web-portals",
+      "shopping/shopping-portals-and-search-engines"
+    ],
+    "wireless": [
+      "internet-and-telecom/mobile-and-wireless"
+    ],
+    "mobile": [
+      "internet-and-telecom/mobile-and-wireless"
+    ],
+    "apps": [
+      "internet-and-telecom/web-apps-and-online-tools"
+    ],
+    "tools": [
+      "internet-and-telecom/web-apps-and-online-tools"
+    ],
+    "messaging": [
+      "internet-and-telecom/email-and-messaging"
+    ],
+    "email": [
+      "internet-and-telecom/email-and-messaging"
+    ],
+    "telephony": [
+      "internet-and-telecom/voip-and-internet-telephony"
+    ],
+    "voip": [
+      "internet-and-telecom/voip-and-internet-telephony"
+    ],
+    "culture": [
+      "internet-and-telecom/culture"
+    ],
+    "teleconferencing": [
+      "internet-and-telecom/teleconferencing"
+    ],
+    "law": [
+      "law-and-government",
+      "law-and-government/military",
+      "law-and-government/legal",
+      "law-and-government/social-services",
+      "law-and-government/public-safety"
+    ],
+    "government": [
+      "law-and-government",
+      "law-and-government/military",
+      "law-and-government/legal",
+      "law-and-government/social-services",
+      "law-and-government/public-safety"
+    ],
+    "military": [
+      "law-and-government/military"
+    ],
+    "legal": [
+      "law-and-government/legal"
+    ],
+    "social": [
+      "law-and-government/social-services",
+      "lifestyles/social-sciences",
+      "lifestyles/social-issues-and-advocacy",
+      "online-communities/social-networks"
+    ],
+    "safety": [
+      "law-and-government/public-safety"
+    ],
+    "lifestyles": [
+      "lifestyles",
+      "lifestyles/seniors-and-retirement",
+      "lifestyles/ethnic-and-identity-groups",
+      "lifestyles/religion-and-belief",
+      "lifestyles/women-s-interests",
+      "lifestyles/disabled-and-special-needs",
+      "lifestyles/men-s-interests",
+      "lifestyles/subcultures-and-niche-interests",
+      "lifestyles/kids-and-teens",
+      "lifestyles/social-sciences",
+      "lifestyles/genealogy",
+      "lifestyles/social-issues-and-advocacy",
+      "lifestyles/family-and-relationships"
+    ],
+    "seniors": [
+      "lifestyles/seniors-and-retirement"
+    ],
+    "ethnic": [
+      "lifestyles/ethnic-and-identity-groups"
+    ],
+    "identity": [
+      "lifestyles/ethnic-and-identity-groups"
+    ],
+    "groups": [
+      "lifestyles/ethnic-and-identity-groups"
+    ],
+    "belief": [
+      "lifestyles/religion-and-belief"
+    ],
+    "religion": [
+      "lifestyles/religion-and-belief"
+    ],
+    "interests": [
+      "lifestyles/women-s-interests",
+      "lifestyles/men-s-interests",
+      "lifestyles/subcultures-and-niche-interests"
+    ],
+    "special": [
+      "lifestyles/disabled-and-special-needs",
+      "recreation/special-occasions",
+      "shopping/gifts-and-special-event-items"
+    ],
+    "needs": [
+      "lifestyles/disabled-and-special-needs"
+    ],
+    "disabled": [
+      "lifestyles/disabled-and-special-needs"
+    ],
+    "subcultures": [
+      "lifestyles/subcultures-and-niche-interests"
+    ],
+    "niche": [
+      "lifestyles/subcultures-and-niche-interests"
+    ],
+    "teens": [
+      "lifestyles/kids-and-teens"
+    ],
+    "kids": [
+      "lifestyles/kids-and-teens"
+    ],
+    "sciences": [
+      "lifestyles/social-sciences",
+      "science/earth-sciences",
+      "science/biological-sciences"
+    ],
+    "genealogy": [
+      "lifestyles/genealogy"
+    ],
+    "issues": [
+      "lifestyles/social-issues-and-advocacy"
+    ],
+    "advocacy": [
+      "lifestyles/social-issues-and-advocacy"
+    ],
+    "family": [
+      "lifestyles/family-and-relationships"
+    ],
+    "relationships": [
+      "lifestyles/family-and-relationships"
+    ],
+    "world": [
+      "news/world-news",
+      "world-localities",
+      "world-localities/middle-east",
+      "world-localities/latin-america",
+      "world-localities/europe",
+      "world-localities/polar-regions",
+      "world-localities/asia",
+      "world-localities/oceania",
+      "world-localities/africa",
+      "world-localities/north-america"
+    ],
+    "local": [
+      "news/local-news"
+    ],
+    "weather": [
+      "news/weather"
+    ],
+    "network": [
+      "news/broadcast-and-network-news"
+    ],
+    "broadcast": [
+      "news/broadcast-and-network-news"
+    ],
+    "sports": [
+      "news/sports-news",
+      "sports",
+      "sports/college",
+      "sports/table-sports",
+      "sports/football",
+      "sports/olympics",
+      "sports/boxing",
+      "sports/strength-sports",
+      "sports/extreme-sports",
+      "sports/wrestling",
+      "sports/motor-sports",
+      "sports/bowling",
+      "sports/soccer",
+      "sports/equestrian",
+      "sports/winter-sports",
+      "sports/martial-arts",
+      "sports/boating",
+      "sports/racquet-sports",
+      "sports/cycling",
+      "sports/weight-lifting",
+      "sports/hockey",
+      "sports/basketball",
+      "sports/precision-sports",
+      "sports/cricket",
+      "sports/water-sports",
+      "sports/golf",
+      "sports/baseball",
+      "sports/outdoors"
+    ],
+    "politics": [
+      "news/politics"
+    ],
+    "journalism": [
+      "news/journalism-and-news-industry"
+    ],
+    "communities": [
+      "online-communities",
+      "online-communities/online-goodies",
+      "online-communities/forum-and-chat-providers",
+      "online-communities/file-sharing-and-hosting",
+      "online-communities/virtual-worlds",
+      "online-communities/dating-and-personals",
+      "online-communities/social-networks",
+      "online-communities/blogging-resources-and-services",
+      "online-communities/photo-and-video-sharing",
+      "online-communities/online-journals-and-personal-sites"
+    ],
+    "goodies": [
+      "online-communities/online-goodies"
+    ],
+    "chat": [
+      "online-communities/forum-and-chat-providers"
+    ],
+    "forum": [
+      "online-communities/forum-and-chat-providers"
+    ],
+    "file": [
+      "online-communities/file-sharing-and-hosting"
+    ],
+    "sharing": [
+      "online-communities/file-sharing-and-hosting",
+      "online-communities/photo-and-video-sharing"
+    ],
+    "hosting": [
+      "online-communities/file-sharing-and-hosting"
+    ],
+    "worlds": [
+      "online-communities/virtual-worlds"
+    ],
+    "virtual": [
+      "online-communities/virtual-worlds"
+    ],
+    "dating": [
+      "online-communities/dating-and-personals"
+    ],
+    "personals": [
+      "online-communities/dating-and-personals"
+    ],
+    "networks": [
+      "online-communities/social-networks"
+    ],
+    "blogging": [
+      "online-communities/blogging-resources-and-services"
+    ],
+    "photo": [
+      "online-communities/photo-and-video-sharing",
+      "shopping/photo-and-video-services"
+    ],
+    "journals": [
+      "online-communities/online-journals-and-personal-sites"
+    ],
+    "sites": [
+      "online-communities/online-journals-and-personal-sites"
+    ],
+    "animals": [
+      "pets-and-animals",
+      "pets-and-animals/animal-products-and-services",
+      "pets-and-animals/wildlife",
+      "pets-and-animals/pets"
+    ],
+    "pets": [
+      "pets-and-animals",
+      "pets-and-animals/animal-products-and-services",
+      "pets-and-animals/wildlife",
+      "pets-and-animals/pets"
+    ],
+    "animal": [
+      "pets-and-animals/animal-products-and-services"
+    ],
+    "products": [
+      "pets-and-animals/animal-products-and-services",
+      "shopping/tobacco-products"
+    ],
+    "wildlife": [
+      "pets-and-animals/wildlife"
+    ],
+    "estate": [
+      "real-estate",
+      "real-estate/property-development",
+      "real-estate/timeshares-and-vacation-properties",
+      "real-estate/commercial-and-investment-real-estate",
+      "real-estate/real-estate-listings",
+      "real-estate/apartments-and-residential-rentals",
+      "real-estate/real-estate-agencies",
+      "real-estate/property-management",
+      "real-estate/property-inspections-and-appraisals"
+    ],
+    "real": [
+      "real-estate",
+      "real-estate/property-development",
+      "real-estate/timeshares-and-vacation-properties",
+      "real-estate/commercial-and-investment-real-estate",
+      "real-estate/real-estate-listings",
+      "real-estate/apartments-and-residential-rentals",
+      "real-estate/real-estate-agencies",
+      "real-estate/property-management",
+      "real-estate/property-inspections-and-appraisals"
+    ],
+    "development": [
+      "real-estate/property-development"
+    ],
+    "properties": [
+      "real-estate/timeshares-and-vacation-properties"
+    ],
+    "vacation": [
+      "real-estate/timeshares-and-vacation-properties"
+    ],
+    "timeshares": [
+      "real-estate/timeshares-and-vacation-properties"
+    ],
+    "investment": [
+      "real-estate/commercial-and-investment-real-estate"
+    ],
+    "listings": [
+      "real-estate/real-estate-listings"
+    ],
+    "apartments": [
+      "real-estate/apartments-and-residential-rentals"
+    ],
+    "rentals": [
+      "real-estate/apartments-and-residential-rentals"
+    ],
+    "residential": [
+      "real-estate/apartments-and-residential-rentals"
+    ],
+    "agencies": [
+      "real-estate/real-estate-agencies",
+      "travel/travel-agencies-and-services"
+    ],
+    "management": [
+      "real-estate/property-management"
+    ],
+    "inspections": [
+      "real-estate/property-inspections-and-appraisals"
+    ],
+    "appraisals": [
+      "real-estate/property-inspections-and-appraisals"
+    ],
+    "recreation": [
+      "recreation",
+      "recreation/crafts",
+      "recreation/special-occasions",
+      "recreation/clubs-and-organizations",
+      "recreation/recreational-aviation",
+      "recreation/radio-control-and-modeling",
+      "recreation/paintball",
+      "recreation/outdoors",
+      "recreation/water-activities"
+    ],
+    "crafts": [
+      "recreation/crafts"
+    ],
+    "occasions": [
+      "recreation/special-occasions"
+    ],
+    "organizations": [
+      "recreation/clubs-and-organizations"
+    ],
+    "clubs": [
+      "recreation/clubs-and-organizations"
+    ],
+    "aviation": [
+      "recreation/recreational-aviation"
+    ],
+    "recreational": [
+      "recreation/recreational-aviation"
+    ],
+    "modeling": [
+      "recreation/radio-control-and-modeling"
+    ],
+    "paintball": [
+      "recreation/paintball"
+    ],
+    "outdoors": [
+      "recreation/outdoors",
+      "sports/outdoors"
+    ],
+    "water": [
+      "recreation/water-activities",
+      "sports/water-sports"
+    ],
+    "reference": [
+      "reference-and-language",
+      "reference-and-language/general-reference",
+      "reference-and-language/technical-reference",
+      "reference-and-language/libraries-and-museums",
+      "reference-and-language/language-resources",
+      "reference-and-language/humanities",
+      "reference-and-language/geographic-reference"
+    ],
+    "language": [
+      "reference-and-language",
+      "reference-and-language/general-reference",
+      "reference-and-language/technical-reference",
+      "reference-and-language/libraries-and-museums",
+      "reference-and-language/language-resources",
+      "reference-and-language/humanities",
+      "reference-and-language/geographic-reference"
+    ],
+    "general": [
+      "reference-and-language/general-reference"
+    ],
+    "technical": [
+      "reference-and-language/technical-reference"
+    ],
+    "museums": [
+      "reference-and-language/libraries-and-museums",
+      "travel/museums-and-galleries"
+    ],
+    "libraries": [
+      "reference-and-language/libraries-and-museums"
+    ],
+    "humanities": [
+      "reference-and-language/humanities"
+    ],
+    "geographic": [
+      "reference-and-language/geographic-reference"
+    ],
+    "science": [
+      "science",
+      "science/scientific-institutions",
+      "science/earth-sciences",
+      "science/physics",
+      "science/computer-science",
+      "science/medical-science",
+      "science/chemistry",
+      "science/mathematics",
+      "science/biological-sciences",
+      "science/engineering-and-technology",
+      "science/space-science",
+      "science/astronomy",
+      "science/ecology-and-environment"
+    ],
+    "scientific": [
+      "science/scientific-institutions"
+    ],
+    "institutions": [
+      "science/scientific-institutions"
+    ],
+    "earth": [
+      "science/earth-sciences"
+    ],
+    "physics": [
+      "science/physics"
+    ],
+    "chemistry": [
+      "science/chemistry"
+    ],
+    "mathematics": [
+      "science/mathematics"
+    ],
+    "biological": [
+      "science/biological-sciences"
+    ],
+    "engineering": [
+      "science/engineering-and-technology"
+    ],
+    "space": [
+      "science/space-science"
+    ],
+    "astronomy": [
+      "science/astronomy"
+    ],
+    "environment": [
+      "science/ecology-and-environment"
+    ],
+    "ecology": [
+      "science/ecology-and-environment"
+    ],
+    "shopping": [
+      "shopping",
+      "shopping/free-stuff",
+      "shopping/auctions",
+      "shopping/retail-stores",
+      "shopping/gifts-and-special-event-items",
+      "shopping/wholesalers-and-liquidators",
+      "shopping/footwear",
+      "shopping/apparel",
+      "shopping/office-supplies",
+      "shopping/customer-services",
+      "shopping/car-shopping",
+      "shopping/swap-meets-and-outdoor-markets",
+      "shopping/antiques-and-collectibles",
+      "shopping/music",
+      "shopping/books",
+      "shopping/videos",
+      "shopping/games",
+      "shopping/coupons-and-discount-offers",
+      "shopping/toys",
+      "shopping/shopping-portals-and-search-engines",
+      "shopping/accessories",
+      "shopping/home-and-garden",
+      "shopping/consumer-affairs-and-product-reviews",
+      "shopping/tobacco-products",
+      "shopping/photo-and-video-services",
+      "shopping/health-and-beauty",
+      "shopping/classifieds",
+      "shopping/sporting-goods",
+      "shopping/luxury-goods"
+    ],
+    "free": [
+      "shopping/free-stuff"
+    ],
+    "stuff": [
+      "shopping/free-stuff"
+    ],
+    "auctions": [
+      "shopping/auctions"
+    ],
+    "stores": [
+      "shopping/retail-stores"
+    ],
+    "gifts": [
+      "shopping/gifts-and-special-event-items"
+    ],
+    "items": [
+      "shopping/gifts-and-special-event-items"
+    ],
+    "event": [
+      "shopping/gifts-and-special-event-items"
+    ],
+    "liquidators": [
+      "shopping/wholesalers-and-liquidators"
+    ],
+    "wholesalers": [
+      "shopping/wholesalers-and-liquidators"
+    ],
+    "footwear": [
+      "shopping/footwear"
+    ],
+    "apparel": [
+      "shopping/apparel"
+    ],
+    "supplies": [
+      "shopping/office-supplies"
+    ],
+    "office": [
+      "shopping/office-supplies"
+    ],
+    "customer": [
+      "shopping/customer-services"
+    ],
+    "car": [
+      "shopping/car-shopping",
+      "travel/car-rental-and-taxi-services"
+    ],
+    "meets": [
+      "shopping/swap-meets-and-outdoor-markets"
+    ],
+    "outdoor": [
+      "shopping/swap-meets-and-outdoor-markets"
+    ],
+    "markets": [
+      "shopping/swap-meets-and-outdoor-markets"
+    ],
+    "swap": [
+      "shopping/swap-meets-and-outdoor-markets"
+    ],
+    "antiques": [
+      "shopping/antiques-and-collectibles"
+    ],
+    "collectibles": [
+      "shopping/antiques-and-collectibles"
+    ],
+    "videos": [
+      "shopping/videos"
+    ],
+    "offers": [
+      "shopping/coupons-and-discount-offers"
+    ],
+    "coupons": [
+      "shopping/coupons-and-discount-offers"
+    ],
+    "discount": [
+      "shopping/coupons-and-discount-offers"
+    ],
+    "toys": [
+      "shopping/toys"
+    ],
+    "reviews": [
+      "shopping/consumer-affairs-and-product-reviews"
+    ],
+    "product": [
+      "shopping/consumer-affairs-and-product-reviews"
+    ],
+    "affairs": [
+      "shopping/consumer-affairs-and-product-reviews"
+    ],
+    "tobacco": [
+      "shopping/tobacco-products"
+    ],
+    "classifieds": [
+      "shopping/classifieds"
+    ],
+    "sporting": [
+      "shopping/sporting-goods"
+    ],
+    "goods": [
+      "shopping/sporting-goods",
+      "shopping/luxury-goods"
+    ],
+    "luxury": [
+      "shopping/luxury-goods"
+    ],
+    "football": [
+      "sports/football"
+    ],
+    "olympics": [
+      "sports/olympics"
+    ],
+    "boxing": [
+      "sports/boxing"
+    ],
+    "strength": [
+      "sports/strength-sports"
+    ],
+    "extreme": [
+      "sports/extreme-sports"
+    ],
+    "wrestling": [
+      "sports/wrestling"
+    ],
+    "motor": [
+      "sports/motor-sports"
+    ],
+    "bowling": [
+      "sports/bowling"
+    ],
+    "soccer": [
+      "sports/soccer"
+    ],
+    "equestrian": [
+      "sports/equestrian"
+    ],
+    "winter": [
+      "sports/winter-sports"
+    ],
+    "martial": [
+      "sports/martial-arts"
+    ],
+    "boating": [
+      "sports/boating"
+    ],
+    "racquet": [
+      "sports/racquet-sports"
+    ],
+    "cycling": [
+      "sports/cycling"
+    ],
+    "lifting": [
+      "sports/weight-lifting"
+    ],
+    "hockey": [
+      "sports/hockey"
+    ],
+    "basketball": [
+      "sports/basketball"
+    ],
+    "precision": [
+      "sports/precision-sports"
+    ],
+    "cricket": [
+      "sports/cricket"
+    ],
+    "golf": [
+      "sports/golf"
+    ],
+    "baseball": [
+      "sports/baseball"
+    ],
+    "travel": [
+      "travel",
+      "travel/travel-guides-and-travelogues",
+      "travel/air-travel",
+      "travel/hotels-and-accommodations",
+      "travel/travel-agencies-and-services",
+      "travel/cruises-and-charters",
+      "travel/tourist-destinations",
+      "travel/car-rental-and-taxi-services",
+      "travel/transportation",
+      "travel/bus-and-rail",
+      "travel/museums-and-galleries",
+      "travel/amusement-and-theme-parks",
+      "travel/luggage-and-travel-accessories"
+    ],
+    "travelogues": [
+      "travel/travel-guides-and-travelogues"
+    ],
+    "guides": [
+      "travel/travel-guides-and-travelogues"
+    ],
+    "air": [
+      "travel/air-travel"
+    ],
+    "accommodations": [
+      "travel/hotels-and-accommodations"
+    ],
+    "hotels": [
+      "travel/hotels-and-accommodations"
+    ],
+    "cruises": [
+      "travel/cruises-and-charters"
+    ],
+    "charters": [
+      "travel/cruises-and-charters"
+    ],
+    "tourist": [
+      "travel/tourist-destinations"
+    ],
+    "destinations": [
+      "travel/tourist-destinations"
+    ],
+    "rental": [
+      "travel/car-rental-and-taxi-services"
+    ],
+    "taxi": [
+      "travel/car-rental-and-taxi-services"
+    ],
+    "bus": [
+      "travel/bus-and-rail"
+    ],
+    "rail": [
+      "travel/bus-and-rail"
+    ],
+    "galleries": [
+      "travel/museums-and-galleries"
+    ],
+    "amusement": [
+      "travel/amusement-and-theme-parks"
+    ],
+    "parks": [
+      "travel/amusement-and-theme-parks"
+    ],
+    "theme": [
+      "travel/amusement-and-theme-parks"
+    ],
+    "luggage": [
+      "travel/luggage-and-travel-accessories"
+    ],
+    "localities": [
+      "world-localities",
+      "world-localities/middle-east",
+      "world-localities/latin-america",
+      "world-localities/europe",
+      "world-localities/polar-regions",
+      "world-localities/asia",
+      "world-localities/oceania",
+      "world-localities/africa",
+      "world-localities/north-america"
+    ],
+    "middle": [
+      "world-localities/middle-east"
+    ],
+    "east": [
+      "world-localities/middle-east"
+    ],
+    "latin": [
+      "world-localities/latin-america"
+    ],
+    "america": [
+      "world-localities/latin-america",
+      "world-localities/north-america"
+    ],
+    "europe": [
+      "world-localities/europe"
+    ],
+    "polar": [
+      "world-localities/polar-regions"
+    ],
+    "regions": [
+      "world-localities/polar-regions"
+    ],
+    "asia": [
+      "world-localities/asia"
+    ],
+    "oceania": [
+      "world-localities/oceania"
+    ],
+    "africa": [
+      "world-localities/africa"
+    ],
+    "north": [
+      "world-localities/north-america"
+    ]
+  },
+  "documents": {
+    "arts-and-entertainment": {
+      "name": "Arts & Entertainment",
+      "full_path": "Arts & Entertainment",
+      "tokens": [
+        "arts",
+        "entertainment"
+      ],
+      "dl": 2
+    },
+    "arts-and-entertainment/entertainment-industry": {
+      "name": "Entertainment Industry",
+      "full_path": "Arts & Entertainment > Entertainment Industry",
+      "tokens": [
+        "entertainment",
+        "industry",
+        "arts"
+      ],
+      "dl": 3
+    },
+    "arts-and-entertainment/offbeat": {
+      "name": "Offbeat",
+      "full_path": "Arts & Entertainment > Offbeat",
+      "tokens": [
+        "offbeat",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 3
+    },
+    "arts-and-entertainment/fun-and-trivia": {
+      "name": "Fun & Trivia",
+      "full_path": "Arts & Entertainment > Fun & Trivia",
+      "tokens": [
+        "fun",
+        "trivia",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 4
+    },
+    "arts-and-entertainment/comics-and-animation": {
+      "name": "Comics & Animation",
+      "full_path": "Arts & Entertainment > Comics & Animation",
+      "tokens": [
+        "comics",
+        "animation",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 4
+    },
+    "arts-and-entertainment/music": {
+      "name": "Music",
+      "full_path": "Arts & Entertainment > Music",
+      "tokens": [
+        "music",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 3
+    },
+    "arts-and-entertainment/visual-art-and-design": {
+      "name": "Visual Art & Design",
+      "full_path": "Arts & Entertainment > Visual Art & Design",
+      "tokens": [
+        "visual",
+        "art",
+        "design",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 5
+    },
+    "arts-and-entertainment/celebrity-news": {
+      "name": "Celebrity News",
+      "full_path": "Arts & Entertainment > Celebrity News",
+      "tokens": [
+        "celebrity",
+        "news",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 4
+    },
+    "arts-and-entertainment/movies": {
+      "name": "Movies",
+      "full_path": "Arts & Entertainment > Movies",
+      "tokens": [
+        "movies",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 3
+    },
+    "arts-and-entertainment/tv-and-video": {
+      "name": "TV & Video",
+      "full_path": "Arts & Entertainment > TV & Video",
+      "tokens": [
+        "tv",
+        "video",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 4
+    },
+    "arts-and-entertainment/humor": {
+      "name": "Humor",
+      "full_path": "Arts & Entertainment > Humor",
+      "tokens": [
+        "humor",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 3
+    },
+    "arts-and-entertainment/radio": {
+      "name": "Radio",
+      "full_path": "Arts & Entertainment > Radio",
+      "tokens": [
+        "radio",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 3
+    },
+    "arts-and-entertainment/nightlife-events": {
+      "name": "Nightlife Events",
+      "full_path": "Arts & Entertainment > Nightlife Events",
+      "tokens": [
+        "nightlife",
+        "events",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 4
+    },
+    "arts-and-entertainment/performing-arts": {
+      "name": "Performing Arts",
+      "full_path": "Arts & Entertainment > Performing Arts",
+      "tokens": [
+        "performing",
+        "arts",
+        "entertainment"
+      ],
+      "dl": 3
+    },
+    "autos-and-vehicles": {
+      "name": "Autos & Vehicles",
+      "full_path": "Autos & Vehicles",
+      "tokens": [
+        "autos",
+        "vehicles"
+      ],
+      "dl": 2
+    },
+    "autos-and-vehicles/boats-and-watercraft": {
+      "name": "Boats & Watercraft",
+      "full_path": "Autos & Vehicles > Boats & Watercraft",
+      "tokens": [
+        "boats",
+        "watercraft",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 4
+    },
+    "autos-and-vehicles/locomotives-and-trains": {
+      "name": "Locomotives and Trains",
+      "full_path": "Autos & Vehicles > Locomotives and Trains",
+      "tokens": [
+        "locomotives",
+        "trains",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 4
+    },
+    "autos-and-vehicles/hybrid-and-alternative-vehicles": {
+      "name": "Hybrid & Alternative Vehicles",
+      "full_path": "Autos & Vehicles > Hybrid & Alternative Vehicles",
+      "tokens": [
+        "hybrid",
+        "alternative",
+        "vehicles",
+        "autos"
+      ],
+      "dl": 4
+    },
+    "autos-and-vehicles/trucks-and-suvs": {
+      "name": "Trucks & SUVs",
+      "full_path": "Autos & Vehicles > Trucks & SUVs",
+      "tokens": [
+        "trucks",
+        "suvs",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 4
+    },
+    "autos-and-vehicles/bicycles": {
+      "name": "Bicycles",
+      "full_path": "Autos & Vehicles > Bicycles",
+      "tokens": [
+        "bicycles",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 3
+    },
+    "autos-and-vehicles/automotive-technology": {
+      "name": "Automotive Technology",
+      "full_path": "Autos & Vehicles > Automotive Technology",
+      "tokens": [
+        "automotive",
+        "technology",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 4
+    },
+    "autos-and-vehicles/performance-vehicles": {
+      "name": "Performance Vehicles",
+      "full_path": "Autos & Vehicles > Performance Vehicles",
+      "tokens": [
+        "performance",
+        "vehicles",
+        "autos"
+      ],
+      "dl": 3
+    },
+    "autos-and-vehicles/scooters-and-mopeds": {
+      "name": "Scooters & Mopeds",
+      "full_path": "Autos & Vehicles > Scooters & Mopeds",
+      "tokens": [
+        "scooters",
+        "mopeds",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 4
+    },
+    "autos-and-vehicles/vehicle-parts-and-accessories": {
+      "name": "Vehicle Parts & Accessories",
+      "full_path": "Autos & Vehicles > Vehicle Parts & Accessories",
+      "tokens": [
+        "vehicle",
+        "parts",
+        "accessories",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 5
+    },
+    "autos-and-vehicles/commercial-vehicles": {
+      "name": "Commercial Vehicles",
+      "full_path": "Autos & Vehicles > Commercial Vehicles",
+      "tokens": [
+        "commercial",
+        "vehicles",
+        "autos"
+      ],
+      "dl": 3
+    },
+    "autos-and-vehicles/personal-aircraft": {
+      "name": "Personal Aircraft",
+      "full_path": "Autos & Vehicles > Personal Aircraft",
+      "tokens": [
+        "personal",
+        "aircraft",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 4
+    },
+    "autos-and-vehicles/vehicle-maintenance": {
+      "name": "Vehicle Maintenance",
+      "full_path": "Autos & Vehicles > Vehicle Maintenance",
+      "tokens": [
+        "vehicle",
+        "maintenance",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 4
+    },
+    "autos-and-vehicles/classic-vehicles": {
+      "name": "Classic Vehicles",
+      "full_path": "Autos & Vehicles > Classic Vehicles",
+      "tokens": [
+        "classic",
+        "vehicles",
+        "autos"
+      ],
+      "dl": 3
+    },
+    "autos-and-vehicles/off-road-vehicles": {
+      "name": "Off-Road Vehicles",
+      "full_path": "Autos & Vehicles > Off-Road Vehicles",
+      "tokens": [
+        "off",
+        "road",
+        "vehicles",
+        "autos"
+      ],
+      "dl": 4
+    },
+    "autos-and-vehicles/concept-vehicles": {
+      "name": "Concept Vehicles",
+      "full_path": "Autos & Vehicles > Concept Vehicles",
+      "tokens": [
+        "concept",
+        "vehicles",
+        "autos"
+      ],
+      "dl": 3
+    },
+    "autos-and-vehicles/campers-and-rvs": {
+      "name": "Campers & RVs",
+      "full_path": "Autos & Vehicles > Campers & RVs",
+      "tokens": [
+        "campers",
+        "rvs",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 4
+    },
+    "autos-and-vehicles/motorcycles": {
+      "name": "Motorcycles",
+      "full_path": "Autos & Vehicles > Motorcycles",
+      "tokens": [
+        "motorcycles",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 3
+    },
+    "autos-and-vehicles/vehicle-brands": {
+      "name": "Vehicle Brands",
+      "full_path": "Autos & Vehicles > Vehicle Brands",
+      "tokens": [
+        "vehicle",
+        "brands",
+        "autos",
+        "vehicles"
+      ],
+      "dl": 4
+    },
+    "beauty-and-personal-care": {
+      "name": "Beauty & Personal Care",
+      "full_path": "Beauty & Personal Care",
+      "tokens": [
+        "beauty",
+        "personal",
+        "care"
+      ],
+      "dl": 3
+    },
+    "beauty-and-personal-care/skin-care": {
+      "name": "Skin Care",
+      "full_path": "Beauty & Personal Care > Skin Care",
+      "tokens": [
+        "skin",
+        "care",
+        "beauty",
+        "personal"
+      ],
+      "dl": 4
+    },
+    "beauty-and-personal-care/weight-loss": {
+      "name": "Weight Loss",
+      "full_path": "Beauty & Personal Care > Weight Loss",
+      "tokens": [
+        "weight",
+        "loss",
+        "beauty",
+        "personal",
+        "care"
+      ],
+      "dl": 5
+    },
+    "beauty-and-personal-care/cosmetology": {
+      "name": "Cosmetology",
+      "full_path": "Beauty & Personal Care > Cosmetology",
+      "tokens": [
+        "cosmetology",
+        "beauty",
+        "personal",
+        "care"
+      ],
+      "dl": 4
+    },
+    "beauty-and-personal-care/spas-and-beauty-services": {
+      "name": "Spas & Beauty Services",
+      "full_path": "Beauty & Personal Care > Spas & Beauty Services",
+      "tokens": [
+        "spas",
+        "beauty",
+        "services",
+        "personal",
+        "care"
+      ],
+      "dl": 5
+    },
+    "beauty-and-personal-care/cosmetic-procedures": {
+      "name": "Cosmetic Procedures",
+      "full_path": "Beauty & Personal Care > Cosmetic Procedures",
+      "tokens": [
+        "cosmetic",
+        "procedures",
+        "beauty",
+        "personal",
+        "care"
+      ],
+      "dl": 5
+    },
+    "beauty-and-personal-care/hair-care": {
+      "name": "Hair Care",
+      "full_path": "Beauty & Personal Care > Hair Care",
+      "tokens": [
+        "hair",
+        "care",
+        "beauty",
+        "personal"
+      ],
+      "dl": 4
+    },
+    "beauty-and-personal-care/body-art-and-tattoos": {
+      "name": "Body Art & Tattoos",
+      "full_path": "Beauty & Personal Care > Body Art & Tattoos",
+      "tokens": [
+        "body",
+        "art",
+        "tattoos",
+        "beauty",
+        "personal",
+        "care"
+      ],
+      "dl": 6
+    },
+    "beauty-and-personal-care/fitness": {
+      "name": "Fitness",
+      "full_path": "Beauty & Personal Care > Fitness",
+      "tokens": [
+        "fitness",
+        "beauty",
+        "personal",
+        "care"
+      ],
+      "dl": 4
+    },
+    "beauty-and-personal-care/beauty-pageants": {
+      "name": "Beauty Pageants",
+      "full_path": "Beauty & Personal Care > Beauty Pageants",
+      "tokens": [
+        "beauty",
+        "pageants",
+        "personal",
+        "care"
+      ],
+      "dl": 4
+    },
+    "beauty-and-personal-care/fashion-and-style": {
+      "name": "Fashion & Style",
+      "full_path": "Beauty & Personal Care > Fashion & Style",
+      "tokens": [
+        "fashion",
+        "style",
+        "beauty",
+        "personal",
+        "care"
+      ],
+      "dl": 5
+    },
+    "books-and-literature": {
+      "name": "Books & Literature",
+      "full_path": "Books & Literature",
+      "tokens": [
+        "books",
+        "literature"
+      ],
+      "dl": 2
+    },
+    "books-and-literature/magazines": {
+      "name": "Magazines",
+      "full_path": "Books & Literature > Magazines",
+      "tokens": [
+        "magazines",
+        "books",
+        "literature"
+      ],
+      "dl": 3
+    },
+    "books-and-literature/classic-literature": {
+      "name": "Classic Literature",
+      "full_path": "Books & Literature > Classic Literature",
+      "tokens": [
+        "classic",
+        "literature",
+        "books"
+      ],
+      "dl": 3
+    },
+    "books-and-literature/fan-fiction": {
+      "name": "Fan Fiction",
+      "full_path": "Books & Literature > Fan Fiction",
+      "tokens": [
+        "fan",
+        "fiction",
+        "books",
+        "literature"
+      ],
+      "dl": 4
+    },
+    "books-and-literature/e-books": {
+      "name": "E-Books",
+      "full_path": "Books & Literature > E-Books",
+      "tokens": [
+        "books",
+        "literature"
+      ],
+      "dl": 2
+    },
+    "books-and-literature/writers-resources": {
+      "name": "Writers Resources",
+      "full_path": "Books & Literature > Writers Resources",
+      "tokens": [
+        "writers",
+        "resources",
+        "books",
+        "literature"
+      ],
+      "dl": 4
+    },
+    "books-and-literature/children-s-literature": {
+      "name": "Children's Literature",
+      "full_path": "Books & Literature > Children's Literature",
+      "tokens": [
+        "children",
+        "literature",
+        "books"
+      ],
+      "dl": 3
+    },
+    "books-and-literature/poetry": {
+      "name": "Poetry",
+      "full_path": "Books & Literature > Poetry",
+      "tokens": [
+        "poetry",
+        "books",
+        "literature"
+      ],
+      "dl": 3
+    },
+    "books-and-literature/book-retailers": {
+      "name": "Book Retailers",
+      "full_path": "Books & Literature > Book Retailers",
+      "tokens": [
+        "book",
+        "retailers",
+        "books",
+        "literature"
+      ],
+      "dl": 4
+    },
+    "business-and-industry": {
+      "name": "Business & Industry",
+      "full_path": "Business & Industry",
+      "tokens": [
+        "business",
+        "industry"
+      ],
+      "dl": 2
+    },
+    "business-and-industry/jobs": {
+      "name": "Jobs",
+      "full_path": "Business & Industry > Jobs",
+      "tokens": [
+        "jobs",
+        "business",
+        "industry"
+      ],
+      "dl": 3
+    },
+    "business-and-industry/agriculture-and-forestry": {
+      "name": "Agriculture & Forestry",
+      "full_path": "Business & Industry > Agriculture & Forestry",
+      "tokens": [
+        "agriculture",
+        "forestry",
+        "business",
+        "industry"
+      ],
+      "dl": 4
+    },
+    "business-and-industry/small-business": {
+      "name": "Small Business",
+      "full_path": "Business & Industry > Small Business",
+      "tokens": [
+        "small",
+        "business",
+        "industry"
+      ],
+      "dl": 3
+    },
+    "business-and-industry/directories": {
+      "name": "Directories",
+      "full_path": "Business & Industry > Directories",
+      "tokens": [
+        "directories",
+        "business",
+        "industry"
+      ],
+      "dl": 3
+    },
+    "business-and-industry/international-business": {
+      "name": "International Business",
+      "full_path": "Business & Industry > International Business",
+      "tokens": [
+        "international",
+        "business",
+        "industry"
+      ],
+      "dl": 3
+    },
+    "business-and-industry/aerospace-and-defense": {
+      "name": "Aerospace & Defense",
+      "full_path": "Business & Industry > Aerospace & Defense",
+      "tokens": [
+        "aerospace",
+        "defense",
+        "business",
+        "industry"
+      ],
+      "dl": 4
+    },
+    "business-and-industry/retail-trade": {
+      "name": "Retail Trade",
+      "full_path": "Business & Industry > Retail Trade",
+      "tokens": [
+        "retail",
+        "trade",
+        "business",
+        "industry"
+      ],
+      "dl": 4
+    },
+    "business-and-industry/business-services": {
+      "name": "Business Services",
+      "full_path": "Business & Industry > Business Services",
+      "tokens": [
+        "business",
+        "services",
+        "industry"
+      ],
+      "dl": 3
+    },
+    "business-and-industry/opportunities": {
+      "name": "Opportunities",
+      "full_path": "Business & Industry > Opportunities",
+      "tokens": [
+        "opportunities",
+        "business",
+        "industry"
+      ],
+      "dl": 3
+    },
+    "business-and-industry/advertising-and-marketing": {
+      "name": "Advertising & Marketing",
+      "full_path": "Business & Industry > Advertising & Marketing",
+      "tokens": [
+        "advertising",
+        "marketing",
+        "business",
+        "industry"
+      ],
+      "dl": 4
+    },
+    "business-and-industry/professional-and-trade-associations": {
+      "name": "Professional & Trade Associations",
+      "full_path": "Business & Industry > Professional & Trade Associations",
+      "tokens": [
+        "professional",
+        "trade",
+        "associations",
+        "business",
+        "industry"
+      ],
+      "dl": 5
+    },
+    "business-and-industry/business-operations": {
+      "name": "Business Operations",
+      "full_path": "Business & Industry > Business Operations",
+      "tokens": [
+        "business",
+        "operations",
+        "industry"
+      ],
+      "dl": 3
+    },
+    "business-and-industry/hospitality-industry": {
+      "name": "Hospitality Industry",
+      "full_path": "Business & Industry > Hospitality Industry",
+      "tokens": [
+        "hospitality",
+        "industry",
+        "business"
+      ],
+      "dl": 3
+    },
+    "business-and-industry/printing-and-publishing": {
+      "name": "Printing & Publishing",
+      "full_path": "Business & Industry > Printing & Publishing",
+      "tokens": [
+        "printing",
+        "publishing",
+        "business",
+        "industry"
+      ],
+      "dl": 4
+    },
+    "business-and-industry/business-education": {
+      "name": "Business Education",
+      "full_path": "Business & Industry > Business Education",
+      "tokens": [
+        "business",
+        "education",
+        "industry"
+      ],
+      "dl": 3
+    },
+    "business-and-industry/energy-and-utilities": {
+      "name": "Energy & Utilities",
+      "full_path": "Business & Industry > Energy & Utilities",
+      "tokens": [
+        "energy",
+        "utilities",
+        "business",
+        "industry"
+      ],
+      "dl": 4
+    },
+    "business-and-industry/pharmaceuticals-and-biotech": {
+      "name": "Pharmaceuticals & Biotech",
+      "full_path": "Business & Industry > Pharmaceuticals & Biotech",
+      "tokens": [
+        "pharmaceuticals",
+        "biotech",
+        "business",
+        "industry"
+      ],
+      "dl": 4
+    },
+    "business-and-industry/automotive-industry": {
+      "name": "Automotive Industry",
+      "full_path": "Business & Industry > Automotive Industry",
+      "tokens": [
+        "automotive",
+        "industry",
+        "business"
+      ],
+      "dl": 3
+    },
+    "business-and-industry/transportation-and-logistics": {
+      "name": "Transportation & Logistics",
+      "full_path": "Business & Industry > Transportation & Logistics",
+      "tokens": [
+        "transportation",
+        "logistics",
+        "business",
+        "industry"
+      ],
+      "dl": 4
+    },
+    "business-and-industry/intellectual-property": {
+      "name": "Intellectual Property",
+      "full_path": "Business & Industry > Intellectual Property",
+      "tokens": [
+        "intellectual",
+        "property",
+        "business",
+        "industry"
+      ],
+      "dl": 4
+    },
+    "computers-and-electronics": {
+      "name": "Computers & Electronics",
+      "full_path": "Computers & Electronics",
+      "tokens": [
+        "computers",
+        "electronics"
+      ],
+      "dl": 2
+    },
+    "computers-and-electronics/networking": {
+      "name": "Networking",
+      "full_path": "Computers & Electronics > Networking",
+      "tokens": [
+        "networking",
+        "computers",
+        "electronics"
+      ],
+      "dl": 3
+    },
+    "computers-and-electronics/computer-security": {
+      "name": "Computer Security",
+      "full_path": "Computers & Electronics > Computer Security",
+      "tokens": [
+        "computer",
+        "security",
+        "computers",
+        "electronics"
+      ],
+      "dl": 4
+    },
+    "computers-and-electronics/hardware": {
+      "name": "Hardware",
+      "full_path": "Computers & Electronics > Hardware",
+      "tokens": [
+        "hardware",
+        "computers",
+        "electronics"
+      ],
+      "dl": 3
+    },
+    "computers-and-electronics/cell-phones": {
+      "name": "Cell Phones",
+      "full_path": "Computers & Electronics > Cell Phones",
+      "tokens": [
+        "cell",
+        "phones",
+        "computers",
+        "electronics"
+      ],
+      "dl": 4
+    },
+    "computers-and-electronics/pdas": {
+      "name": "PDAs",
+      "full_path": "Computers & Electronics > PDAs",
+      "tokens": [
+        "pdas",
+        "computers",
+        "electronics"
+      ],
+      "dl": 3
+    },
+    "computers-and-electronics/home-theater": {
+      "name": "Home Theater",
+      "full_path": "Computers & Electronics > Home Theater",
+      "tokens": [
+        "home",
+        "theater",
+        "computers",
+        "electronics"
+      ],
+      "dl": 4
+    },
+    "computers-and-electronics/tv": {
+      "name": "TV",
+      "full_path": "Computers & Electronics > TV",
+      "tokens": [
+        "tv",
+        "computers",
+        "electronics"
+      ],
+      "dl": 3
+    },
+    "computers-and-electronics/audio-players-and-systems": {
+      "name": "Audio Players and Systems",
+      "full_path": "Computers & Electronics > Audio Players and Systems",
+      "tokens": [
+        "audio",
+        "players",
+        "systems",
+        "computers",
+        "electronics"
+      ],
+      "dl": 5
+    },
+    "computers-and-electronics/game-systems": {
+      "name": "Game Systems",
+      "full_path": "Computers & Electronics > Game Systems",
+      "tokens": [
+        "game",
+        "systems",
+        "computers",
+        "electronics"
+      ],
+      "dl": 4
+    },
+    "computers-and-electronics/software": {
+      "name": "Software",
+      "full_path": "Computers & Electronics > Software",
+      "tokens": [
+        "software",
+        "computers",
+        "electronics"
+      ],
+      "dl": 3
+    },
+    "computers-and-electronics/consumer-electronics": {
+      "name": "Consumer Electronics",
+      "full_path": "Computers & Electronics > Consumer Electronics",
+      "tokens": [
+        "consumer",
+        "electronics",
+        "computers"
+      ],
+      "dl": 3
+    },
+    "computers-and-electronics/cameras-and-camcorders": {
+      "name": "Cameras and Camcorders",
+      "full_path": "Computers & Electronics > Cameras and Camcorders",
+      "tokens": [
+        "cameras",
+        "camcorders",
+        "computers",
+        "electronics"
+      ],
+      "dl": 4
+    },
+    "computers-and-electronics/enterprise-technology": {
+      "name": "Enterprise Technology",
+      "full_path": "Computers & Electronics > Enterprise Technology",
+      "tokens": [
+        "enterprise",
+        "technology",
+        "computers",
+        "electronics"
+      ],
+      "dl": 4
+    },
+    "computers-and-electronics/programming": {
+      "name": "Programming",
+      "full_path": "Computers & Electronics > Programming",
+      "tokens": [
+        "programming",
+        "computers",
+        "electronics"
+      ],
+      "dl": 3
+    },
+    "computers-and-electronics/electronics-and-electrical": {
+      "name": "Electronics & Electrical",
+      "full_path": "Computers & Electronics > Electronics & Electrical",
+      "tokens": [
+        "electronics",
+        "electrical",
+        "computers"
+      ],
+      "dl": 3
+    },
+    "education": {
+      "name": "Education",
+      "full_path": "Education",
+      "tokens": [
+        "education"
+      ],
+      "dl": 1
+    },
+    "education/childhood-education": {
+      "name": "Childhood Education",
+      "full_path": "Education > Childhood Education",
+      "tokens": [
+        "childhood",
+        "education"
+      ],
+      "dl": 2
+    },
+    "education/instructional-technology": {
+      "name": "Instructional Technology",
+      "full_path": "Education > Instructional Technology",
+      "tokens": [
+        "instructional",
+        "technology",
+        "education"
+      ],
+      "dl": 3
+    },
+    "education/continuing-education": {
+      "name": "Continuing Education",
+      "full_path": "Education > Continuing Education",
+      "tokens": [
+        "continuing",
+        "education"
+      ],
+      "dl": 2
+    },
+    "education/college-and-university": {
+      "name": "College and University",
+      "full_path": "Education > College and University",
+      "tokens": [
+        "college",
+        "university",
+        "education"
+      ],
+      "dl": 3
+    },
+    "finance": {
+      "name": "Finance",
+      "full_path": "Finance",
+      "tokens": [
+        "finance"
+      ],
+      "dl": 1
+    },
+    "finance/credit-and-lending": {
+      "name": "Credit & Lending",
+      "full_path": "Finance > Credit & Lending",
+      "tokens": [
+        "credit",
+        "lending",
+        "finance"
+      ],
+      "dl": 3
+    },
+    "finance/investing": {
+      "name": "Investing",
+      "full_path": "Finance > Investing",
+      "tokens": [
+        "investing",
+        "finance"
+      ],
+      "dl": 2
+    },
+    "finance/banking": {
+      "name": "Banking",
+      "full_path": "Finance > Banking",
+      "tokens": [
+        "banking",
+        "finance"
+      ],
+      "dl": 2
+    },
+    "finance/insurance": {
+      "name": "Insurance",
+      "full_path": "Finance > Insurance",
+      "tokens": [
+        "insurance",
+        "finance"
+      ],
+      "dl": 2
+    },
+    "finance/accounting-and-auditing": {
+      "name": "Accounting & Auditing",
+      "full_path": "Finance > Accounting & Auditing",
+      "tokens": [
+        "accounting",
+        "auditing",
+        "finance"
+      ],
+      "dl": 3
+    },
+    "finance/grants-and-financial-assistance": {
+      "name": "Grants & Financial Assistance",
+      "full_path": "Finance > Grants & Financial Assistance",
+      "tokens": [
+        "grants",
+        "financial",
+        "assistance",
+        "finance"
+      ],
+      "dl": 4
+    },
+    "finance/taxes": {
+      "name": "Taxes",
+      "full_path": "Finance > Taxes",
+      "tokens": [
+        "taxes",
+        "finance"
+      ],
+      "dl": 2
+    },
+    "finance/financial-planning": {
+      "name": "Financial Planning",
+      "full_path": "Finance > Financial Planning",
+      "tokens": [
+        "financial",
+        "planning",
+        "finance"
+      ],
+      "dl": 3
+    },
+    "finance/retirement-and-pension": {
+      "name": "Retirement & Pension",
+      "full_path": "Finance > Retirement & Pension",
+      "tokens": [
+        "retirement",
+        "pension",
+        "finance"
+      ],
+      "dl": 3
+    },
+    "finance/currencies-and-foreign-exchange": {
+      "name": "Currencies & Foreign Exchange",
+      "full_path": "Finance > Currencies & Foreign Exchange",
+      "tokens": [
+        "currencies",
+        "foreign",
+        "exchange",
+        "finance"
+      ],
+      "dl": 4
+    },
+    "finance/mortgages-and-loans": {
+      "name": "Mortgages and Loans",
+      "full_path": "Finance > Mortgages and Loans",
+      "tokens": [
+        "mortgages",
+        "loans",
+        "finance"
+      ],
+      "dl": 3
+    },
+    "food-and-drink": {
+      "name": "Food & Drink",
+      "full_path": "Food & Drink",
+      "tokens": [
+        "food",
+        "drink"
+      ],
+      "dl": 2
+    },
+    "food-and-drink/cooking-and-recipes": {
+      "name": "Cooking & Recipes",
+      "full_path": "Food & Drink > Cooking & Recipes",
+      "tokens": [
+        "cooking",
+        "recipes",
+        "food",
+        "drink"
+      ],
+      "dl": 4
+    },
+    "food-and-drink/candy-and-sweets": {
+      "name": "Candy & Sweets",
+      "full_path": "Food & Drink > Candy & Sweets",
+      "tokens": [
+        "candy",
+        "sweets",
+        "food",
+        "drink"
+      ],
+      "dl": 4
+    },
+    "food-and-drink/vegetarian": {
+      "name": "Vegetarian",
+      "full_path": "Food & Drink > Vegetarian",
+      "tokens": [
+        "vegetarian",
+        "food",
+        "drink"
+      ],
+      "dl": 3
+    },
+    "food-and-drink/vegan": {
+      "name": "Vegan",
+      "full_path": "Food & Drink > Vegan",
+      "tokens": [
+        "vegan",
+        "food",
+        "drink"
+      ],
+      "dl": 3
+    },
+    "food-and-drink/alcoholic-beverages": {
+      "name": "Alcoholic Beverages",
+      "full_path": "Food & Drink > Alcoholic Beverages",
+      "tokens": [
+        "alcoholic",
+        "beverages",
+        "food",
+        "drink"
+      ],
+      "dl": 4
+    },
+    "food-and-drink/restaurants": {
+      "name": "Restaurants",
+      "full_path": "Food & Drink > Restaurants",
+      "tokens": [
+        "restaurants",
+        "food",
+        "drink"
+      ],
+      "dl": 3
+    },
+    "food-and-drink/non-alcoholic-beverages": {
+      "name": "Non-Alcoholic Beverages",
+      "full_path": "Food & Drink > Non-Alcoholic Beverages",
+      "tokens": [
+        "non",
+        "alcoholic",
+        "beverages",
+        "food",
+        "drink"
+      ],
+      "dl": 5
+    },
+    "food-and-drink/grocery-and-food-retailers": {
+      "name": "Grocery & Food Retailers",
+      "full_path": "Food & Drink > Grocery & Food Retailers",
+      "tokens": [
+        "grocery",
+        "food",
+        "retailers",
+        "drink"
+      ],
+      "dl": 4
+    },
+    "games": {
+      "name": "Games",
+      "full_path": "Games",
+      "tokens": [
+        "games"
+      ],
+      "dl": 1
+    },
+    "games/arcade-and-coin-op-games": {
+      "name": "Arcade & Coin-Op Games",
+      "full_path": "Games > Arcade & Coin-Op Games",
+      "tokens": [
+        "arcade",
+        "coin",
+        "op",
+        "games"
+      ],
+      "dl": 4
+    },
+    "games/gambling": {
+      "name": "Gambling",
+      "full_path": "Games > Gambling",
+      "tokens": [
+        "gambling",
+        "games"
+      ],
+      "dl": 2
+    },
+    "games/table-games": {
+      "name": "Table Games",
+      "full_path": "Games > Table Games",
+      "tokens": [
+        "table",
+        "games"
+      ],
+      "dl": 2
+    },
+    "games/computer-and-video-games": {
+      "name": "Computer & Video Games",
+      "full_path": "Games > Computer & Video Games",
+      "tokens": [
+        "computer",
+        "video",
+        "games"
+      ],
+      "dl": 3
+    },
+    "games/cheats-and-walkthroughs": {
+      "name": "Cheats & Walkthroughs",
+      "full_path": "Games > Cheats & Walkthroughs",
+      "tokens": [
+        "cheats",
+        "walkthroughs",
+        "games"
+      ],
+      "dl": 3
+    },
+    "games/roleplaying-games": {
+      "name": "Roleplaying Games",
+      "full_path": "Games > Roleplaying Games",
+      "tokens": [
+        "roleplaying",
+        "games"
+      ],
+      "dl": 2
+    },
+    "games/children-s-games-and-activities": {
+      "name": "Children's Games & Activities",
+      "full_path": "Games > Children's Games & Activities",
+      "tokens": [
+        "children",
+        "games",
+        "activities"
+      ],
+      "dl": 3
+    },
+    "games/puzzles-and-brainteasers": {
+      "name": "Puzzles & Brainteasers",
+      "full_path": "Games > Puzzles & Brainteasers",
+      "tokens": [
+        "puzzles",
+        "brainteasers",
+        "games"
+      ],
+      "dl": 3
+    },
+    "games/card-games": {
+      "name": "Card Games",
+      "full_path": "Games > Card Games",
+      "tokens": [
+        "card",
+        "games"
+      ],
+      "dl": 2
+    },
+    "games/party-games": {
+      "name": "Party Games",
+      "full_path": "Games > Party Games",
+      "tokens": [
+        "party",
+        "games"
+      ],
+      "dl": 2
+    },
+    "games/board-games": {
+      "name": "Board Games",
+      "full_path": "Games > Board Games",
+      "tokens": [
+        "board",
+        "games"
+      ],
+      "dl": 2
+    },
+    "games/online-games": {
+      "name": "Online Games",
+      "full_path": "Games > Online Games",
+      "tokens": [
+        "online",
+        "games"
+      ],
+      "dl": 2
+    },
+    "health": {
+      "name": "Health",
+      "full_path": "Health",
+      "tokens": [
+        "health"
+      ],
+      "dl": 1
+    },
+    "health/aging-and-geriatrics": {
+      "name": "Aging & Geriatrics",
+      "full_path": "Health > Aging & Geriatrics",
+      "tokens": [
+        "aging",
+        "geriatrics",
+        "health"
+      ],
+      "dl": 3
+    },
+    "health/reproductive-health": {
+      "name": "Reproductive Health",
+      "full_path": "Health > Reproductive Health",
+      "tokens": [
+        "reproductive",
+        "health"
+      ],
+      "dl": 2
+    },
+    "health/medical-devices-and-equipment": {
+      "name": "Medical Devices & Equipment",
+      "full_path": "Health > Medical Devices & Equipment",
+      "tokens": [
+        "medical",
+        "devices",
+        "equipment",
+        "health"
+      ],
+      "dl": 4
+    },
+    "health/nursing": {
+      "name": "Nursing",
+      "full_path": "Health > Nursing",
+      "tokens": [
+        "nursing",
+        "health"
+      ],
+      "dl": 2
+    },
+    "health/public-health": {
+      "name": "Public Health",
+      "full_path": "Health > Public Health",
+      "tokens": [
+        "public",
+        "health"
+      ],
+      "dl": 2
+    },
+    "health/health-foundations-and-medical-research": {
+      "name": "Health Foundations & Medical Research",
+      "full_path": "Health > Health Foundations & Medical Research",
+      "tokens": [
+        "health",
+        "foundations",
+        "medical",
+        "research"
+      ],
+      "dl": 4
+    },
+    "health/mental-health": {
+      "name": "Mental Health",
+      "full_path": "Health > Mental Health",
+      "tokens": [
+        "mental",
+        "health"
+      ],
+      "dl": 2
+    },
+    "health/pharmacy": {
+      "name": "Pharmacy",
+      "full_path": "Health > Pharmacy",
+      "tokens": [
+        "pharmacy",
+        "health"
+      ],
+      "dl": 2
+    },
+    "health/health-education-and-medical-training": {
+      "name": "Health Education & Medical Training",
+      "full_path": "Health > Health Education & Medical Training",
+      "tokens": [
+        "health",
+        "education",
+        "medical",
+        "training"
+      ],
+      "dl": 4
+    },
+    "health/women-s-health": {
+      "name": "Women's Health",
+      "full_path": "Health > Women's Health",
+      "tokens": [
+        "women",
+        "health"
+      ],
+      "dl": 2
+    },
+    "health/men-s-health": {
+      "name": "Men's Health",
+      "full_path": "Health > Men's Health",
+      "tokens": [
+        "men",
+        "health"
+      ],
+      "dl": 2
+    },
+    "health/pediatrics": {
+      "name": "Pediatrics",
+      "full_path": "Health > Pediatrics",
+      "tokens": [
+        "pediatrics",
+        "health"
+      ],
+      "dl": 2
+    },
+    "health/health-conditions": {
+      "name": "Health Conditions",
+      "full_path": "Health > Health Conditions",
+      "tokens": [
+        "health",
+        "conditions"
+      ],
+      "dl": 2
+    },
+    "health/vision-care": {
+      "name": "Vision Care",
+      "full_path": "Health > Vision Care",
+      "tokens": [
+        "vision",
+        "care",
+        "health"
+      ],
+      "dl": 3
+    },
+    "health/medical-literature-and-resources": {
+      "name": "Medical Literature & Resources",
+      "full_path": "Health > Medical Literature & Resources",
+      "tokens": [
+        "medical",
+        "literature",
+        "resources",
+        "health"
+      ],
+      "dl": 4
+    },
+    "health/oral-and-dental-care": {
+      "name": "Oral & Dental Care",
+      "full_path": "Health > Oral & Dental Care",
+      "tokens": [
+        "oral",
+        "dental",
+        "care",
+        "health"
+      ],
+      "dl": 4
+    },
+    "health/alternative-and-natural-medicine": {
+      "name": "Alternative & Natural Medicine",
+      "full_path": "Health > Alternative & Natural Medicine",
+      "tokens": [
+        "alternative",
+        "natural",
+        "medicine",
+        "health"
+      ],
+      "dl": 4
+    },
+    "health/substance-abuse": {
+      "name": "Substance Abuse",
+      "full_path": "Health > Substance Abuse",
+      "tokens": [
+        "substance",
+        "abuse",
+        "health"
+      ],
+      "dl": 3
+    },
+    "health/medical-facilities-and-services": {
+      "name": "Medical Facilities & Services",
+      "full_path": "Health > Medical Facilities & Services",
+      "tokens": [
+        "medical",
+        "facilities",
+        "services",
+        "health"
+      ],
+      "dl": 4
+    },
+    "health/nutrition": {
+      "name": "Nutrition",
+      "full_path": "Health > Nutrition",
+      "tokens": [
+        "nutrition",
+        "health"
+      ],
+      "dl": 2
+    },
+    "home-and-garden": {
+      "name": "Home & Garden",
+      "full_path": "Home & Garden",
+      "tokens": [
+        "home",
+        "garden"
+      ],
+      "dl": 2
+    },
+    "home-and-garden/home-furnishings": {
+      "name": "Home Furnishings",
+      "full_path": "Home & Garden > Home Furnishings",
+      "tokens": [
+        "home",
+        "furnishings",
+        "garden"
+      ],
+      "dl": 3
+    },
+    "home-and-garden/yard-and-patio": {
+      "name": "Yard & Patio",
+      "full_path": "Home & Garden > Yard & Patio",
+      "tokens": [
+        "yard",
+        "patio",
+        "home",
+        "garden"
+      ],
+      "dl": 4
+    },
+    "home-and-garden/home-appliances": {
+      "name": "Home Appliances",
+      "full_path": "Home & Garden > Home Appliances",
+      "tokens": [
+        "home",
+        "appliances",
+        "garden"
+      ],
+      "dl": 3
+    },
+    "home-and-garden/swimming-pools-and-spas": {
+      "name": "Swimming Pools & Spas",
+      "full_path": "Home & Garden > Swimming Pools & Spas",
+      "tokens": [
+        "swimming",
+        "pools",
+        "spas",
+        "home",
+        "garden"
+      ],
+      "dl": 5
+    },
+    "home-and-garden/gardening-and-landscaping": {
+      "name": "Gardening & Landscaping",
+      "full_path": "Home & Garden > Gardening & Landscaping",
+      "tokens": [
+        "gardening",
+        "landscaping",
+        "home",
+        "garden"
+      ],
+      "dl": 4
+    },
+    "home-and-garden/pest-control": {
+      "name": "Pest Control",
+      "full_path": "Home & Garden > Pest Control",
+      "tokens": [
+        "pest",
+        "control",
+        "home",
+        "garden"
+      ],
+      "dl": 4
+    },
+    "home-and-garden/domestic-services": {
+      "name": "Domestic Services",
+      "full_path": "Home & Garden > Domestic Services",
+      "tokens": [
+        "domestic",
+        "services",
+        "home",
+        "garden"
+      ],
+      "dl": 4
+    },
+    "home-and-garden/kitchen-and-dining": {
+      "name": "Kitchen & Dining",
+      "full_path": "Home & Garden > Kitchen & Dining",
+      "tokens": [
+        "kitchen",
+        "dining",
+        "home",
+        "garden"
+      ],
+      "dl": 4
+    },
+    "home-and-garden/bed-and-bath": {
+      "name": "Bed & Bath",
+      "full_path": "Home & Garden > Bed & Bath",
+      "tokens": [
+        "bed",
+        "bath",
+        "home",
+        "garden"
+      ],
+      "dl": 4
+    },
+    "home-and-garden/home-improvement": {
+      "name": "Home Improvement",
+      "full_path": "Home & Garden > Home Improvement",
+      "tokens": [
+        "home",
+        "improvement",
+        "garden"
+      ],
+      "dl": 3
+    },
+    "internet-and-telecom": {
+      "name": "Internet & Telecom",
+      "full_path": "Internet & Telecom",
+      "tokens": [
+        "internet",
+        "telecom"
+      ],
+      "dl": 2
+    },
+    "internet-and-telecom/service-providers": {
+      "name": "Service Providers",
+      "full_path": "Internet & Telecom > Service Providers",
+      "tokens": [
+        "service",
+        "providers",
+        "internet",
+        "telecom"
+      ],
+      "dl": 4
+    },
+    "internet-and-telecom/web-design": {
+      "name": "Web Design",
+      "full_path": "Internet & Telecom > Web Design",
+      "tokens": [
+        "web",
+        "design",
+        "internet",
+        "telecom"
+      ],
+      "dl": 4
+    },
+    "internet-and-telecom/search-engines": {
+      "name": "Search Engines",
+      "full_path": "Internet & Telecom > Search Engines",
+      "tokens": [
+        "search",
+        "engines",
+        "internet",
+        "telecom"
+      ],
+      "dl": 4
+    },
+    "internet-and-telecom/web-portals": {
+      "name": "Web Portals",
+      "full_path": "Internet & Telecom > Web Portals",
+      "tokens": [
+        "web",
+        "portals",
+        "internet",
+        "telecom"
+      ],
+      "dl": 4
+    },
+    "internet-and-telecom/mobile-and-wireless": {
+      "name": "Mobile & Wireless",
+      "full_path": "Internet & Telecom > Mobile & Wireless",
+      "tokens": [
+        "mobile",
+        "wireless",
+        "internet",
+        "telecom"
+      ],
+      "dl": 4
+    },
+    "internet-and-telecom/web-apps-and-online-tools": {
+      "name": "Web Apps & Online Tools",
+      "full_path": "Internet & Telecom > Web Apps & Online Tools",
+      "tokens": [
+        "web",
+        "apps",
+        "online",
+        "tools",
+        "internet",
+        "telecom"
+      ],
+      "dl": 6
+    },
+    "internet-and-telecom/email-and-messaging": {
+      "name": "Email & Messaging",
+      "full_path": "Internet & Telecom > Email & Messaging",
+      "tokens": [
+        "email",
+        "messaging",
+        "internet",
+        "telecom"
+      ],
+      "dl": 4
+    },
+    "internet-and-telecom/voip-and-internet-telephony": {
+      "name": "VOIP & Internet Telephony",
+      "full_path": "Internet & Telecom > VOIP & Internet Telephony",
+      "tokens": [
+        "voip",
+        "internet",
+        "telephony",
+        "telecom"
+      ],
+      "dl": 4
+    },
+    "internet-and-telecom/culture": {
+      "name": "Culture",
+      "full_path": "Internet & Telecom > Culture",
+      "tokens": [
+        "culture",
+        "internet",
+        "telecom"
+      ],
+      "dl": 3
+    },
+    "internet-and-telecom/teleconferencing": {
+      "name": "Teleconferencing",
+      "full_path": "Internet & Telecom > Teleconferencing",
+      "tokens": [
+        "teleconferencing",
+        "internet",
+        "telecom"
+      ],
+      "dl": 3
+    },
+    "law-and-government": {
+      "name": "Law & Government",
+      "full_path": "Law & Government",
+      "tokens": [
+        "law",
+        "government"
+      ],
+      "dl": 2
+    },
+    "law-and-government/military": {
+      "name": "Military",
+      "full_path": "Law & Government > Military",
+      "tokens": [
+        "military",
+        "law",
+        "government"
+      ],
+      "dl": 3
+    },
+    "law-and-government/legal": {
+      "name": "Legal",
+      "full_path": "Law & Government > Legal",
+      "tokens": [
+        "legal",
+        "law",
+        "government"
+      ],
+      "dl": 3
+    },
+    "law-and-government/social-services": {
+      "name": "Social Services",
+      "full_path": "Law & Government > Social Services",
+      "tokens": [
+        "social",
+        "services",
+        "law",
+        "government"
+      ],
+      "dl": 4
+    },
+    "law-and-government/public-safety": {
+      "name": "Public Safety",
+      "full_path": "Law & Government > Public Safety",
+      "tokens": [
+        "public",
+        "safety",
+        "law",
+        "government"
+      ],
+      "dl": 4
+    },
+    "lifestyles": {
+      "name": "Lifestyles",
+      "full_path": "Lifestyles",
+      "tokens": [
+        "lifestyles"
+      ],
+      "dl": 1
+    },
+    "lifestyles/seniors-and-retirement": {
+      "name": "Seniors & Retirement",
+      "full_path": "Lifestyles > Seniors & Retirement",
+      "tokens": [
+        "seniors",
+        "retirement",
+        "lifestyles"
+      ],
+      "dl": 3
+    },
+    "lifestyles/ethnic-and-identity-groups": {
+      "name": "Ethnic & Identity Groups",
+      "full_path": "Lifestyles > Ethnic & Identity Groups",
+      "tokens": [
+        "ethnic",
+        "identity",
+        "groups",
+        "lifestyles"
+      ],
+      "dl": 4
+    },
+    "lifestyles/religion-and-belief": {
+      "name": "Religion & Belief",
+      "full_path": "Lifestyles > Religion & Belief",
+      "tokens": [
+        "religion",
+        "belief",
+        "lifestyles"
+      ],
+      "dl": 3
+    },
+    "lifestyles/women-s-interests": {
+      "name": "Women's Interests",
+      "full_path": "Lifestyles > Women's Interests",
+      "tokens": [
+        "women",
+        "interests",
+        "lifestyles"
+      ],
+      "dl": 3
+    },
+    "lifestyles/disabled-and-special-needs": {
+      "name": "Disabled & Special Needs",
+      "full_path": "Lifestyles > Disabled & Special Needs",
+      "tokens": [
+        "disabled",
+        "special",
+        "needs",
+        "lifestyles"
+      ],
+      "dl": 4
+    },
+    "lifestyles/men-s-interests": {
+      "name": "Men's Interests",
+      "full_path": "Lifestyles > Men's Interests",
+      "tokens": [
+        "men",
+        "interests",
+        "lifestyles"
+      ],
+      "dl": 3
+    },
+    "lifestyles/subcultures-and-niche-interests": {
+      "name": "Subcultures & Niche Interests",
+      "full_path": "Lifestyles > Subcultures & Niche Interests",
+      "tokens": [
+        "subcultures",
+        "niche",
+        "interests",
+        "lifestyles"
+      ],
+      "dl": 4
+    },
+    "lifestyles/kids-and-teens": {
+      "name": "Kids & Teens",
+      "full_path": "Lifestyles > Kids & Teens",
+      "tokens": [
+        "kids",
+        "teens",
+        "lifestyles"
+      ],
+      "dl": 3
+    },
+    "lifestyles/social-sciences": {
+      "name": "Social Sciences",
+      "full_path": "Lifestyles > Social Sciences",
+      "tokens": [
+        "social",
+        "sciences",
+        "lifestyles"
+      ],
+      "dl": 3
+    },
+    "lifestyles/genealogy": {
+      "name": "Genealogy",
+      "full_path": "Lifestyles > Genealogy",
+      "tokens": [
+        "genealogy",
+        "lifestyles"
+      ],
+      "dl": 2
+    },
+    "lifestyles/social-issues-and-advocacy": {
+      "name": "Social Issues & Advocacy",
+      "full_path": "Lifestyles > Social Issues & Advocacy",
+      "tokens": [
+        "social",
+        "issues",
+        "advocacy",
+        "lifestyles"
+      ],
+      "dl": 4
+    },
+    "lifestyles/family-and-relationships": {
+      "name": "Family & Relationships",
+      "full_path": "Lifestyles > Family & Relationships",
+      "tokens": [
+        "family",
+        "relationships",
+        "lifestyles"
+      ],
+      "dl": 3
+    },
+    "news": {
+      "name": "News",
+      "full_path": "News",
+      "tokens": [
+        "news"
+      ],
+      "dl": 1
+    },
+    "news/world-news": {
+      "name": "World News",
+      "full_path": "News > World News",
+      "tokens": [
+        "world",
+        "news"
+      ],
+      "dl": 2
+    },
+    "news/local-news": {
+      "name": "Local News",
+      "full_path": "News > Local News",
+      "tokens": [
+        "local",
+        "news"
+      ],
+      "dl": 2
+    },
+    "news/health-news": {
+      "name": "Health News",
+      "full_path": "News > Health News",
+      "tokens": [
+        "health",
+        "news"
+      ],
+      "dl": 2
+    },
+    "news/weather": {
+      "name": "Weather",
+      "full_path": "News > Weather",
+      "tokens": [
+        "weather",
+        "news"
+      ],
+      "dl": 2
+    },
+    "news/business-news": {
+      "name": "Business News",
+      "full_path": "News > Business News",
+      "tokens": [
+        "business",
+        "news"
+      ],
+      "dl": 2
+    },
+    "news/technology-news": {
+      "name": "Technology News",
+      "full_path": "News > Technology News",
+      "tokens": [
+        "technology",
+        "news"
+      ],
+      "dl": 2
+    },
+    "news/broadcast-and-network-news": {
+      "name": "Broadcast & Network News",
+      "full_path": "News > Broadcast & Network News",
+      "tokens": [
+        "broadcast",
+        "network",
+        "news"
+      ],
+      "dl": 3
+    },
+    "news/sports-news": {
+      "name": "Sports News",
+      "full_path": "News > Sports News",
+      "tokens": [
+        "sports",
+        "news"
+      ],
+      "dl": 2
+    },
+    "news/politics": {
+      "name": "Politics",
+      "full_path": "News > Politics",
+      "tokens": [
+        "politics",
+        "news"
+      ],
+      "dl": 2
+    },
+    "news/journalism-and-news-industry": {
+      "name": "Journalism & News Industry",
+      "full_path": "News > Journalism & News Industry",
+      "tokens": [
+        "journalism",
+        "news",
+        "industry"
+      ],
+      "dl": 3
+    },
+    "online-communities": {
+      "name": "Online Communities",
+      "full_path": "Online Communities",
+      "tokens": [
+        "online",
+        "communities"
+      ],
+      "dl": 2
+    },
+    "online-communities/online-goodies": {
+      "name": "Online Goodies",
+      "full_path": "Online Communities > Online Goodies",
+      "tokens": [
+        "online",
+        "goodies",
+        "communities"
+      ],
+      "dl": 3
+    },
+    "online-communities/forum-and-chat-providers": {
+      "name": "Forum & Chat Providers",
+      "full_path": "Online Communities > Forum & Chat Providers",
+      "tokens": [
+        "forum",
+        "chat",
+        "providers",
+        "online",
+        "communities"
+      ],
+      "dl": 5
+    },
+    "online-communities/file-sharing-and-hosting": {
+      "name": "File Sharing & Hosting",
+      "full_path": "Online Communities > File Sharing & Hosting",
+      "tokens": [
+        "file",
+        "sharing",
+        "hosting",
+        "online",
+        "communities"
+      ],
+      "dl": 5
+    },
+    "online-communities/virtual-worlds": {
+      "name": "Virtual Worlds",
+      "full_path": "Online Communities > Virtual Worlds",
+      "tokens": [
+        "virtual",
+        "worlds",
+        "online",
+        "communities"
+      ],
+      "dl": 4
+    },
+    "online-communities/dating-and-personals": {
+      "name": "Dating & Personals",
+      "full_path": "Online Communities > Dating & Personals",
+      "tokens": [
+        "dating",
+        "personals",
+        "online",
+        "communities"
+      ],
+      "dl": 4
+    },
+    "online-communities/social-networks": {
+      "name": "Social Networks",
+      "full_path": "Online Communities > Social Networks",
+      "tokens": [
+        "social",
+        "networks",
+        "online",
+        "communities"
+      ],
+      "dl": 4
+    },
+    "online-communities/blogging-resources-and-services": {
+      "name": "Blogging Resources & Services",
+      "full_path": "Online Communities > Blogging Resources & Services",
+      "tokens": [
+        "blogging",
+        "resources",
+        "services",
+        "online",
+        "communities"
+      ],
+      "dl": 5
+    },
+    "online-communities/photo-and-video-sharing": {
+      "name": "Photo & Video Sharing",
+      "full_path": "Online Communities > Photo & Video Sharing",
+      "tokens": [
+        "photo",
+        "video",
+        "sharing",
+        "online",
+        "communities"
+      ],
+      "dl": 5
+    },
+    "online-communities/online-journals-and-personal-sites": {
+      "name": "Online Journals & Personal Sites",
+      "full_path": "Online Communities > Online Journals & Personal Sites",
+      "tokens": [
+        "online",
+        "journals",
+        "personal",
+        "sites",
+        "communities"
+      ],
+      "dl": 5
+    },
+    "pets-and-animals": {
+      "name": "Pets & Animals",
+      "full_path": "Pets & Animals",
+      "tokens": [
+        "pets",
+        "animals"
+      ],
+      "dl": 2
+    },
+    "pets-and-animals/animal-products-and-services": {
+      "name": "Animal Products & Services",
+      "full_path": "Pets & Animals > Animal Products & Services",
+      "tokens": [
+        "animal",
+        "products",
+        "services",
+        "pets",
+        "animals"
+      ],
+      "dl": 5
+    },
+    "pets-and-animals/wildlife": {
+      "name": "Wildlife",
+      "full_path": "Pets & Animals > Wildlife",
+      "tokens": [
+        "wildlife",
+        "pets",
+        "animals"
+      ],
+      "dl": 3
+    },
+    "pets-and-animals/pets": {
+      "name": "Pets",
+      "full_path": "Pets & Animals > Pets",
+      "tokens": [
+        "pets",
+        "animals"
+      ],
+      "dl": 2
+    },
+    "real-estate": {
+      "name": "Real Estate",
+      "full_path": "Real Estate",
+      "tokens": [
+        "real",
+        "estate"
+      ],
+      "dl": 2
+    },
+    "real-estate/property-development": {
+      "name": "Property Development",
+      "full_path": "Real Estate > Property Development",
+      "tokens": [
+        "property",
+        "development",
+        "real",
+        "estate"
+      ],
+      "dl": 4
+    },
+    "real-estate/timeshares-and-vacation-properties": {
+      "name": "Timeshares & Vacation Properties",
+      "full_path": "Real Estate > Timeshares & Vacation Properties",
+      "tokens": [
+        "timeshares",
+        "vacation",
+        "properties",
+        "real",
+        "estate"
+      ],
+      "dl": 5
+    },
+    "real-estate/commercial-and-investment-real-estate": {
+      "name": "Commercial & Investment Real Estate",
+      "full_path": "Real Estate > Commercial & Investment Real Estate",
+      "tokens": [
+        "commercial",
+        "investment",
+        "real",
+        "estate"
+      ],
+      "dl": 4
+    },
+    "real-estate/real-estate-listings": {
+      "name": "Real Estate Listings",
+      "full_path": "Real Estate > Real Estate Listings",
+      "tokens": [
+        "real",
+        "estate",
+        "listings"
+      ],
+      "dl": 3
+    },
+    "real-estate/apartments-and-residential-rentals": {
+      "name": "Apartments & Residential Rentals",
+      "full_path": "Real Estate > Apartments & Residential Rentals",
+      "tokens": [
+        "apartments",
+        "residential",
+        "rentals",
+        "real",
+        "estate"
+      ],
+      "dl": 5
+    },
+    "real-estate/real-estate-agencies": {
+      "name": "Real Estate Agencies",
+      "full_path": "Real Estate > Real Estate Agencies",
+      "tokens": [
+        "real",
+        "estate",
+        "agencies"
+      ],
+      "dl": 3
+    },
+    "real-estate/property-management": {
+      "name": "Property Management",
+      "full_path": "Real Estate > Property Management",
+      "tokens": [
+        "property",
+        "management",
+        "real",
+        "estate"
+      ],
+      "dl": 4
+    },
+    "real-estate/property-inspections-and-appraisals": {
+      "name": "Property Inspections & Appraisals",
+      "full_path": "Real Estate > Property Inspections & Appraisals",
+      "tokens": [
+        "property",
+        "inspections",
+        "appraisals",
+        "real",
+        "estate"
+      ],
+      "dl": 5
+    },
+    "recreation": {
+      "name": "Recreation",
+      "full_path": "Recreation",
+      "tokens": [
+        "recreation"
+      ],
+      "dl": 1
+    },
+    "recreation/crafts": {
+      "name": "Crafts",
+      "full_path": "Recreation > Crafts",
+      "tokens": [
+        "crafts",
+        "recreation"
+      ],
+      "dl": 2
+    },
+    "recreation/special-occasions": {
+      "name": "Special Occasions",
+      "full_path": "Recreation > Special Occasions",
+      "tokens": [
+        "special",
+        "occasions",
+        "recreation"
+      ],
+      "dl": 3
+    },
+    "recreation/clubs-and-organizations": {
+      "name": "Clubs & Organizations",
+      "full_path": "Recreation > Clubs & Organizations",
+      "tokens": [
+        "clubs",
+        "organizations",
+        "recreation"
+      ],
+      "dl": 3
+    },
+    "recreation/recreational-aviation": {
+      "name": "Recreational Aviation",
+      "full_path": "Recreation > Recreational Aviation",
+      "tokens": [
+        "recreational",
+        "aviation",
+        "recreation"
+      ],
+      "dl": 3
+    },
+    "recreation/radio-control-and-modeling": {
+      "name": "Radio Control & Modeling",
+      "full_path": "Recreation > Radio Control & Modeling",
+      "tokens": [
+        "radio",
+        "control",
+        "modeling",
+        "recreation"
+      ],
+      "dl": 4
+    },
+    "recreation/paintball": {
+      "name": "Paintball",
+      "full_path": "Recreation > Paintball",
+      "tokens": [
+        "paintball",
+        "recreation"
+      ],
+      "dl": 2
+    },
+    "recreation/outdoors": {
+      "name": "Outdoors",
+      "full_path": "Recreation > Outdoors",
+      "tokens": [
+        "outdoors",
+        "recreation"
+      ],
+      "dl": 2
+    },
+    "recreation/water-activities": {
+      "name": "Water Activities",
+      "full_path": "Recreation > Water Activities",
+      "tokens": [
+        "water",
+        "activities",
+        "recreation"
+      ],
+      "dl": 3
+    },
+    "reference-and-language": {
+      "name": "Reference & Language",
+      "full_path": "Reference & Language",
+      "tokens": [
+        "reference",
+        "language"
+      ],
+      "dl": 2
+    },
+    "reference-and-language/general-reference": {
+      "name": "General Reference",
+      "full_path": "Reference & Language > General Reference",
+      "tokens": [
+        "general",
+        "reference",
+        "language"
+      ],
+      "dl": 3
+    },
+    "reference-and-language/technical-reference": {
+      "name": "Technical Reference",
+      "full_path": "Reference & Language > Technical Reference",
+      "tokens": [
+        "technical",
+        "reference",
+        "language"
+      ],
+      "dl": 3
+    },
+    "reference-and-language/libraries-and-museums": {
+      "name": "Libraries & Museums",
+      "full_path": "Reference & Language > Libraries & Museums",
+      "tokens": [
+        "libraries",
+        "museums",
+        "reference",
+        "language"
+      ],
+      "dl": 4
+    },
+    "reference-and-language/language-resources": {
+      "name": "Language Resources",
+      "full_path": "Reference & Language > Language Resources",
+      "tokens": [
+        "language",
+        "resources",
+        "reference"
+      ],
+      "dl": 3
+    },
+    "reference-and-language/humanities": {
+      "name": "Humanities",
+      "full_path": "Reference & Language > Humanities",
+      "tokens": [
+        "humanities",
+        "reference",
+        "language"
+      ],
+      "dl": 3
+    },
+    "reference-and-language/geographic-reference": {
+      "name": "Geographic Reference",
+      "full_path": "Reference & Language > Geographic Reference",
+      "tokens": [
+        "geographic",
+        "reference",
+        "language"
+      ],
+      "dl": 3
+    },
+    "science": {
+      "name": "Science",
+      "full_path": "Science",
+      "tokens": [
+        "science"
+      ],
+      "dl": 1
+    },
+    "science/scientific-institutions": {
+      "name": "Scientific Institutions",
+      "full_path": "Science > Scientific Institutions",
+      "tokens": [
+        "scientific",
+        "institutions",
+        "science"
+      ],
+      "dl": 3
+    },
+    "science/earth-sciences": {
+      "name": "Earth Sciences",
+      "full_path": "Science > Earth Sciences",
+      "tokens": [
+        "earth",
+        "sciences",
+        "science"
+      ],
+      "dl": 3
+    },
+    "science/physics": {
+      "name": "Physics",
+      "full_path": "Science > Physics",
+      "tokens": [
+        "physics",
+        "science"
+      ],
+      "dl": 2
+    },
+    "science/computer-science": {
+      "name": "Computer Science",
+      "full_path": "Science > Computer Science",
+      "tokens": [
+        "computer",
+        "science"
+      ],
+      "dl": 2
+    },
+    "science/medical-science": {
+      "name": "Medical Science",
+      "full_path": "Science > Medical Science",
+      "tokens": [
+        "medical",
+        "science"
+      ],
+      "dl": 2
+    },
+    "science/chemistry": {
+      "name": "Chemistry",
+      "full_path": "Science > Chemistry",
+      "tokens": [
+        "chemistry",
+        "science"
+      ],
+      "dl": 2
+    },
+    "science/mathematics": {
+      "name": "Mathematics",
+      "full_path": "Science > Mathematics",
+      "tokens": [
+        "mathematics",
+        "science"
+      ],
+      "dl": 2
+    },
+    "science/biological-sciences": {
+      "name": "Biological Sciences",
+      "full_path": "Science > Biological Sciences",
+      "tokens": [
+        "biological",
+        "sciences",
+        "science"
+      ],
+      "dl": 3
+    },
+    "science/engineering-and-technology": {
+      "name": "Engineering & Technology",
+      "full_path": "Science > Engineering & Technology",
+      "tokens": [
+        "engineering",
+        "technology",
+        "science"
+      ],
+      "dl": 3
+    },
+    "science/space-science": {
+      "name": "Space Science",
+      "full_path": "Science > Space Science",
+      "tokens": [
+        "space",
+        "science"
+      ],
+      "dl": 2
+    },
+    "science/astronomy": {
+      "name": "Astronomy",
+      "full_path": "Science > Astronomy",
+      "tokens": [
+        "astronomy",
+        "science"
+      ],
+      "dl": 2
+    },
+    "science/ecology-and-environment": {
+      "name": "Ecology & Environment",
+      "full_path": "Science > Ecology & Environment",
+      "tokens": [
+        "ecology",
+        "environment",
+        "science"
+      ],
+      "dl": 3
+    },
+    "shopping": {
+      "name": "Shopping",
+      "full_path": "Shopping",
+      "tokens": [
+        "shopping"
+      ],
+      "dl": 1
+    },
+    "shopping/free-stuff": {
+      "name": "Free Stuff",
+      "full_path": "Shopping > Free Stuff",
+      "tokens": [
+        "free",
+        "stuff",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "shopping/auctions": {
+      "name": "Auctions",
+      "full_path": "Shopping > Auctions",
+      "tokens": [
+        "auctions",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/retail-stores": {
+      "name": "Retail Stores",
+      "full_path": "Shopping > Retail Stores",
+      "tokens": [
+        "retail",
+        "stores",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "shopping/gifts-and-special-event-items": {
+      "name": "Gifts & Special Event Items",
+      "full_path": "Shopping > Gifts & Special Event Items",
+      "tokens": [
+        "gifts",
+        "special",
+        "event",
+        "items",
+        "shopping"
+      ],
+      "dl": 5
+    },
+    "shopping/wholesalers-and-liquidators": {
+      "name": "Wholesalers & Liquidators",
+      "full_path": "Shopping > Wholesalers & Liquidators",
+      "tokens": [
+        "wholesalers",
+        "liquidators",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "shopping/footwear": {
+      "name": "Footwear",
+      "full_path": "Shopping > Footwear",
+      "tokens": [
+        "footwear",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/apparel": {
+      "name": "Apparel",
+      "full_path": "Shopping > Apparel",
+      "tokens": [
+        "apparel",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/office-supplies": {
+      "name": "Office Supplies",
+      "full_path": "Shopping > Office Supplies",
+      "tokens": [
+        "office",
+        "supplies",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "shopping/customer-services": {
+      "name": "Customer Services",
+      "full_path": "Shopping > Customer Services",
+      "tokens": [
+        "customer",
+        "services",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "shopping/car-shopping": {
+      "name": "Car Shopping",
+      "full_path": "Shopping > Car Shopping",
+      "tokens": [
+        "car",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/swap-meets-and-outdoor-markets": {
+      "name": "Swap Meets & Outdoor Markets",
+      "full_path": "Shopping > Swap Meets & Outdoor Markets",
+      "tokens": [
+        "swap",
+        "meets",
+        "outdoor",
+        "markets",
+        "shopping"
+      ],
+      "dl": 5
+    },
+    "shopping/antiques-and-collectibles": {
+      "name": "Antiques & Collectibles",
+      "full_path": "Shopping > Antiques & Collectibles",
+      "tokens": [
+        "antiques",
+        "collectibles",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "shopping/music": {
+      "name": "Music",
+      "full_path": "Shopping > Music",
+      "tokens": [
+        "music",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/books": {
+      "name": "Books",
+      "full_path": "Shopping > Books",
+      "tokens": [
+        "books",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/videos": {
+      "name": "Videos",
+      "full_path": "Shopping > Videos",
+      "tokens": [
+        "videos",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/games": {
+      "name": "Games",
+      "full_path": "Shopping > Games",
+      "tokens": [
+        "games",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/coupons-and-discount-offers": {
+      "name": "Coupons & Discount Offers",
+      "full_path": "Shopping > Coupons & Discount Offers",
+      "tokens": [
+        "coupons",
+        "discount",
+        "offers",
+        "shopping"
+      ],
+      "dl": 4
+    },
+    "shopping/toys": {
+      "name": "Toys",
+      "full_path": "Shopping > Toys",
+      "tokens": [
+        "toys",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/shopping-portals-and-search-engines": {
+      "name": "Shopping Portals & Search Engines",
+      "full_path": "Shopping > Shopping Portals & Search Engines",
+      "tokens": [
+        "shopping",
+        "portals",
+        "search",
+        "engines"
+      ],
+      "dl": 4
+    },
+    "shopping/accessories": {
+      "name": "Accessories",
+      "full_path": "Shopping > Accessories",
+      "tokens": [
+        "accessories",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/home-and-garden": {
+      "name": "Home and Garden",
+      "full_path": "Shopping > Home and Garden",
+      "tokens": [
+        "home",
+        "garden",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "shopping/consumer-affairs-and-product-reviews": {
+      "name": "Consumer Affairs & Product Reviews",
+      "full_path": "Shopping > Consumer Affairs & Product Reviews",
+      "tokens": [
+        "consumer",
+        "affairs",
+        "product",
+        "reviews",
+        "shopping"
+      ],
+      "dl": 5
+    },
+    "shopping/tobacco-products": {
+      "name": "Tobacco Products",
+      "full_path": "Shopping > Tobacco Products",
+      "tokens": [
+        "tobacco",
+        "products",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "shopping/photo-and-video-services": {
+      "name": "Photo & Video Services",
+      "full_path": "Shopping > Photo & Video Services",
+      "tokens": [
+        "photo",
+        "video",
+        "services",
+        "shopping"
+      ],
+      "dl": 4
+    },
+    "shopping/health-and-beauty": {
+      "name": "Health and Beauty",
+      "full_path": "Shopping > Health and Beauty",
+      "tokens": [
+        "health",
+        "beauty",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "shopping/classifieds": {
+      "name": "Classifieds",
+      "full_path": "Shopping > Classifieds",
+      "tokens": [
+        "classifieds",
+        "shopping"
+      ],
+      "dl": 2
+    },
+    "shopping/sporting-goods": {
+      "name": "Sporting Goods",
+      "full_path": "Shopping > Sporting Goods",
+      "tokens": [
+        "sporting",
+        "goods",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "shopping/luxury-goods": {
+      "name": "Luxury Goods",
+      "full_path": "Shopping > Luxury Goods",
+      "tokens": [
+        "luxury",
+        "goods",
+        "shopping"
+      ],
+      "dl": 3
+    },
+    "sports": {
+      "name": "Sports",
+      "full_path": "Sports",
+      "tokens": [
+        "sports"
+      ],
+      "dl": 1
+    },
+    "sports/college": {
+      "name": "College",
+      "full_path": "Sports > College",
+      "tokens": [
+        "college",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/table-sports": {
+      "name": "Table Sports",
+      "full_path": "Sports > Table Sports",
+      "tokens": [
+        "table",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/football": {
+      "name": "Football",
+      "full_path": "Sports > Football",
+      "tokens": [
+        "football",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/olympics": {
+      "name": "Olympics",
+      "full_path": "Sports > Olympics",
+      "tokens": [
+        "olympics",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/boxing": {
+      "name": "Boxing",
+      "full_path": "Sports > Boxing",
+      "tokens": [
+        "boxing",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/strength-sports": {
+      "name": "Strength Sports",
+      "full_path": "Sports > Strength Sports",
+      "tokens": [
+        "strength",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/extreme-sports": {
+      "name": "Extreme Sports",
+      "full_path": "Sports > Extreme Sports",
+      "tokens": [
+        "extreme",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/wrestling": {
+      "name": "Wrestling",
+      "full_path": "Sports > Wrestling",
+      "tokens": [
+        "wrestling",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/motor-sports": {
+      "name": "Motor Sports",
+      "full_path": "Sports > Motor Sports",
+      "tokens": [
+        "motor",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/bowling": {
+      "name": "Bowling",
+      "full_path": "Sports > Bowling",
+      "tokens": [
+        "bowling",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/soccer": {
+      "name": "Soccer",
+      "full_path": "Sports > Soccer",
+      "tokens": [
+        "soccer",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/equestrian": {
+      "name": "Equestrian",
+      "full_path": "Sports > Equestrian",
+      "tokens": [
+        "equestrian",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/winter-sports": {
+      "name": "Winter Sports",
+      "full_path": "Sports > Winter Sports",
+      "tokens": [
+        "winter",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/martial-arts": {
+      "name": "Martial Arts",
+      "full_path": "Sports > Martial Arts",
+      "tokens": [
+        "martial",
+        "arts",
+        "sports"
+      ],
+      "dl": 3
+    },
+    "sports/boating": {
+      "name": "Boating",
+      "full_path": "Sports > Boating",
+      "tokens": [
+        "boating",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/racquet-sports": {
+      "name": "Racquet Sports",
+      "full_path": "Sports > Racquet Sports",
+      "tokens": [
+        "racquet",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/cycling": {
+      "name": "Cycling",
+      "full_path": "Sports > Cycling",
+      "tokens": [
+        "cycling",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/weight-lifting": {
+      "name": "Weight Lifting",
+      "full_path": "Sports > Weight Lifting",
+      "tokens": [
+        "weight",
+        "lifting",
+        "sports"
+      ],
+      "dl": 3
+    },
+    "sports/hockey": {
+      "name": "Hockey",
+      "full_path": "Sports > Hockey",
+      "tokens": [
+        "hockey",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/basketball": {
+      "name": "Basketball",
+      "full_path": "Sports > Basketball",
+      "tokens": [
+        "basketball",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/precision-sports": {
+      "name": "Precision Sports",
+      "full_path": "Sports > Precision Sports",
+      "tokens": [
+        "precision",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/cricket": {
+      "name": "Cricket",
+      "full_path": "Sports > Cricket",
+      "tokens": [
+        "cricket",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/water-sports": {
+      "name": "Water Sports",
+      "full_path": "Sports > Water Sports",
+      "tokens": [
+        "water",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/golf": {
+      "name": "Golf",
+      "full_path": "Sports > Golf",
+      "tokens": [
+        "golf",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/baseball": {
+      "name": "Baseball",
+      "full_path": "Sports > Baseball",
+      "tokens": [
+        "baseball",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "sports/outdoors": {
+      "name": "Outdoors",
+      "full_path": "Sports > Outdoors",
+      "tokens": [
+        "outdoors",
+        "sports"
+      ],
+      "dl": 2
+    },
+    "travel": {
+      "name": "Travel",
+      "full_path": "Travel",
+      "tokens": [
+        "travel"
+      ],
+      "dl": 1
+    },
+    "travel/travel-guides-and-travelogues": {
+      "name": "Travel Guides & Travelogues",
+      "full_path": "Travel > Travel Guides & Travelogues",
+      "tokens": [
+        "travel",
+        "guides",
+        "travelogues"
+      ],
+      "dl": 3
+    },
+    "travel/air-travel": {
+      "name": "Air Travel",
+      "full_path": "Travel > Air Travel",
+      "tokens": [
+        "air",
+        "travel"
+      ],
+      "dl": 2
+    },
+    "travel/hotels-and-accommodations": {
+      "name": "Hotels & Accommodations",
+      "full_path": "Travel > Hotels & Accommodations",
+      "tokens": [
+        "hotels",
+        "accommodations",
+        "travel"
+      ],
+      "dl": 3
+    },
+    "travel/travel-agencies-and-services": {
+      "name": "Travel Agencies & Services",
+      "full_path": "Travel > Travel Agencies & Services",
+      "tokens": [
+        "travel",
+        "agencies",
+        "services"
+      ],
+      "dl": 3
+    },
+    "travel/cruises-and-charters": {
+      "name": "Cruises & Charters",
+      "full_path": "Travel > Cruises & Charters",
+      "tokens": [
+        "cruises",
+        "charters",
+        "travel"
+      ],
+      "dl": 3
+    },
+    "travel/tourist-destinations": {
+      "name": "Tourist Destinations",
+      "full_path": "Travel > Tourist Destinations",
+      "tokens": [
+        "tourist",
+        "destinations",
+        "travel"
+      ],
+      "dl": 3
+    },
+    "travel/car-rental-and-taxi-services": {
+      "name": "Car Rental & Taxi Services",
+      "full_path": "Travel > Car Rental & Taxi Services",
+      "tokens": [
+        "car",
+        "rental",
+        "taxi",
+        "services",
+        "travel"
+      ],
+      "dl": 5
+    },
+    "travel/transportation": {
+      "name": "Transportation",
+      "full_path": "Travel > Transportation",
+      "tokens": [
+        "transportation",
+        "travel"
+      ],
+      "dl": 2
+    },
+    "travel/bus-and-rail": {
+      "name": "Bus & Rail",
+      "full_path": "Travel > Bus & Rail",
+      "tokens": [
+        "bus",
+        "rail",
+        "travel"
+      ],
+      "dl": 3
+    },
+    "travel/museums-and-galleries": {
+      "name": "Museums and Galleries",
+      "full_path": "Travel > Museums and Galleries",
+      "tokens": [
+        "museums",
+        "galleries",
+        "travel"
+      ],
+      "dl": 3
+    },
+    "travel/amusement-and-theme-parks": {
+      "name": "Amusement and Theme Parks",
+      "full_path": "Travel > Amusement and Theme Parks",
+      "tokens": [
+        "amusement",
+        "theme",
+        "parks",
+        "travel"
+      ],
+      "dl": 4
+    },
+    "travel/luggage-and-travel-accessories": {
+      "name": "Luggage & Travel Accessories",
+      "full_path": "Travel > Luggage & Travel Accessories",
+      "tokens": [
+        "luggage",
+        "travel",
+        "accessories"
+      ],
+      "dl": 3
+    },
+    "world-localities": {
+      "name": "World Localities",
+      "full_path": "World Localities",
+      "tokens": [
+        "world",
+        "localities"
+      ],
+      "dl": 2
+    },
+    "world-localities/middle-east": {
+      "name": "Middle East",
+      "full_path": "World Localities > Middle East",
+      "tokens": [
+        "middle",
+        "east",
+        "world",
+        "localities"
+      ],
+      "dl": 4
+    },
+    "world-localities/latin-america": {
+      "name": "Latin America",
+      "full_path": "World Localities > Latin America",
+      "tokens": [
+        "latin",
+        "america",
+        "world",
+        "localities"
+      ],
+      "dl": 4
+    },
+    "world-localities/europe": {
+      "name": "Europe",
+      "full_path": "World Localities > Europe",
+      "tokens": [
+        "europe",
+        "world",
+        "localities"
+      ],
+      "dl": 3
+    },
+    "world-localities/polar-regions": {
+      "name": "Polar Regions",
+      "full_path": "World Localities > Polar Regions",
+      "tokens": [
+        "polar",
+        "regions",
+        "world",
+        "localities"
+      ],
+      "dl": 4
+    },
+    "world-localities/asia": {
+      "name": "Asia",
+      "full_path": "World Localities > Asia",
+      "tokens": [
+        "asia",
+        "world",
+        "localities"
+      ],
+      "dl": 3
+    },
+    "world-localities/oceania": {
+      "name": "Oceania",
+      "full_path": "World Localities > Oceania",
+      "tokens": [
+        "oceania",
+        "world",
+        "localities"
+      ],
+      "dl": 3
+    },
+    "world-localities/africa": {
+      "name": "Africa",
+      "full_path": "World Localities > Africa",
+      "tokens": [
+        "africa",
+        "world",
+        "localities"
+      ],
+      "dl": 3
+    },
+    "world-localities/north-america": {
+      "name": "North America",
+      "full_path": "World Localities > North America",
+      "tokens": [
+        "north",
+        "america",
+        "world",
+        "localities"
+      ],
+      "dl": 4
+    }
+  }
+}

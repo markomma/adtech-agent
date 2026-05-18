@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T17:28:54Z",
+  "generated_at": "2026-05-18T02:39:59Z",
   "taxonomies": [
     {
       "provider": "iab",
@@ -21,6 +21,76 @@
       "version": "latest",
       "path": "taxonomies/ad_product/google/latest/taxonomy.json",
       "entry_count": 5595
+    },
+    {
+      "provider": "iab",
+      "taxonomy_type": "ad_product",
+      "version": "v1.1",
+      "path": "taxonomies/ad_product/iab/v1.1/taxonomy.json",
+      "entry_count": 864
+    },
+    {
+      "provider": "iab",
+      "taxonomy_type": "content",
+      "version": "v1.0",
+      "path": "taxonomies/content/iab/v1.0/taxonomy.json",
+      "entry_count": 392
+    },
+    {
+      "provider": "iab",
+      "taxonomy_type": "audience",
+      "version": "v1.0",
+      "path": "taxonomies/audience/iab/v1.0/taxonomy.json",
+      "entry_count": 1679
+    },
+    {
+      "provider": "iab",
+      "taxonomy_type": "audience",
+      "version": "v1.1",
+      "path": "taxonomies/audience/iab/v1.1/taxonomy.json",
+      "entry_count": 1558
+    },
+    {
+      "provider": "iab",
+      "taxonomy_type": "content",
+      "version": "v2.0",
+      "path": "taxonomies/content/iab/v2.0/taxonomy.json",
+      "entry_count": 1179
+    },
+    {
+      "provider": "iab",
+      "taxonomy_type": "content",
+      "version": "v3.0",
+      "path": "taxonomies/content/iab/v3.0/taxonomy.json",
+      "entry_count": 703
+    },
+    {
+      "provider": "freewheel",
+      "taxonomy_type": "ad_product",
+      "version": "latest",
+      "path": "taxonomies/ad_product/freewheel/latest/taxonomy.json",
+      "entry_count": 44
+    },
+    {
+      "provider": "freewheel",
+      "taxonomy_type": "content",
+      "version": "latest",
+      "path": "taxonomies/content/freewheel/latest/taxonomy.json",
+      "entry_count": 1062
+    },
+    {
+      "provider": "xandr",
+      "taxonomy_type": "ad_product",
+      "version": "latest",
+      "path": "taxonomies/ad_product/xandr/latest/taxonomy.json",
+      "entry_count": 167
+    },
+    {
+      "provider": "xandr",
+      "taxonomy_type": "content",
+      "version": "latest",
+      "path": "taxonomies/content/xandr/latest/taxonomy.json",
+      "entry_count": 331
     }
   ],
   "mappings": [

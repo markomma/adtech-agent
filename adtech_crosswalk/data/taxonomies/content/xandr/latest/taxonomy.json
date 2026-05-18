@@ -1,0 +1,1998 @@
+{
+  "metadata": {
+    "provider": "xandr",
+    "taxonomy_type": "content",
+    "version": "latest",
+    "snapshot_date": "2026-05-18",
+    "source_url": "https://raw.githubusercontent.com/MicrosoftDocs/xandr-docs/main/xandr-docs/monetize/content-categories.md",
+    "fetched_at": "2026-05-18T02:39:59Z"
+  },
+  "entries": [
+    {
+      "id": "arts-and-entertainment",
+      "parent_id": null,
+      "name": "Arts & Entertainment",
+      "full_path": "Arts & Entertainment"
+    },
+    {
+      "id": "arts-and-entertainment/entertainment-industry",
+      "parent_id": "arts-and-entertainment",
+      "name": "Entertainment Industry",
+      "full_path": "Arts & Entertainment > Entertainment Industry"
+    },
+    {
+      "id": "arts-and-entertainment/offbeat",
+      "parent_id": "arts-and-entertainment",
+      "name": "Offbeat",
+      "full_path": "Arts & Entertainment > Offbeat"
+    },
+    {
+      "id": "arts-and-entertainment/fun-and-trivia",
+      "parent_id": "arts-and-entertainment",
+      "name": "Fun & Trivia",
+      "full_path": "Arts & Entertainment > Fun & Trivia"
+    },
+    {
+      "id": "arts-and-entertainment/comics-and-animation",
+      "parent_id": "arts-and-entertainment",
+      "name": "Comics & Animation",
+      "full_path": "Arts & Entertainment > Comics & Animation"
+    },
+    {
+      "id": "arts-and-entertainment/music",
+      "parent_id": "arts-and-entertainment",
+      "name": "Music",
+      "full_path": "Arts & Entertainment > Music"
+    },
+    {
+      "id": "arts-and-entertainment/visual-art-and-design",
+      "parent_id": "arts-and-entertainment",
+      "name": "Visual Art & Design",
+      "full_path": "Arts & Entertainment > Visual Art & Design"
+    },
+    {
+      "id": "arts-and-entertainment/celebrity-news",
+      "parent_id": "arts-and-entertainment",
+      "name": "Celebrity News",
+      "full_path": "Arts & Entertainment > Celebrity News"
+    },
+    {
+      "id": "arts-and-entertainment/movies",
+      "parent_id": "arts-and-entertainment",
+      "name": "Movies",
+      "full_path": "Arts & Entertainment > Movies"
+    },
+    {
+      "id": "arts-and-entertainment/tv-and-video",
+      "parent_id": "arts-and-entertainment",
+      "name": "TV & Video",
+      "full_path": "Arts & Entertainment > TV & Video"
+    },
+    {
+      "id": "arts-and-entertainment/humor",
+      "parent_id": "arts-and-entertainment",
+      "name": "Humor",
+      "full_path": "Arts & Entertainment > Humor"
+    },
+    {
+      "id": "arts-and-entertainment/radio",
+      "parent_id": "arts-and-entertainment",
+      "name": "Radio",
+      "full_path": "Arts & Entertainment > Radio"
+    },
+    {
+      "id": "arts-and-entertainment/nightlife-events",
+      "parent_id": "arts-and-entertainment",
+      "name": "Nightlife Events",
+      "full_path": "Arts & Entertainment > Nightlife Events"
+    },
+    {
+      "id": "arts-and-entertainment/performing-arts",
+      "parent_id": "arts-and-entertainment",
+      "name": "Performing Arts",
+      "full_path": "Arts & Entertainment > Performing Arts"
+    },
+    {
+      "id": "autos-and-vehicles",
+      "parent_id": null,
+      "name": "Autos & Vehicles",
+      "full_path": "Autos & Vehicles"
+    },
+    {
+      "id": "autos-and-vehicles/boats-and-watercraft",
+      "parent_id": "autos-and-vehicles",
+      "name": "Boats & Watercraft",
+      "full_path": "Autos & Vehicles > Boats & Watercraft"
+    },
+    {
+      "id": "autos-and-vehicles/locomotives-and-trains",
+      "parent_id": "autos-and-vehicles",
+      "name": "Locomotives and Trains",
+      "full_path": "Autos & Vehicles > Locomotives and Trains"
+    },
+    {
+      "id": "autos-and-vehicles/hybrid-and-alternative-vehicles",
+      "parent_id": "autos-and-vehicles",
+      "name": "Hybrid & Alternative Vehicles",
+      "full_path": "Autos & Vehicles > Hybrid & Alternative Vehicles"
+    },
+    {
+      "id": "autos-and-vehicles/trucks-and-suvs",
+      "parent_id": "autos-and-vehicles",
+      "name": "Trucks & SUVs",
+      "full_path": "Autos & Vehicles > Trucks & SUVs"
+    },
+    {
+      "id": "autos-and-vehicles/bicycles",
+      "parent_id": "autos-and-vehicles",
+      "name": "Bicycles",
+      "full_path": "Autos & Vehicles > Bicycles"
+    },
+    {
+      "id": "autos-and-vehicles/automotive-technology",
+      "parent_id": "autos-and-vehicles",
+      "name": "Automotive Technology",
+      "full_path": "Autos & Vehicles > Automotive Technology"
+    },
+    {
+      "id": "autos-and-vehicles/performance-vehicles",
+      "parent_id": "autos-and-vehicles",
+      "name": "Performance Vehicles",
+      "full_path": "Autos & Vehicles > Performance Vehicles"
+    },
+    {
+      "id": "autos-and-vehicles/scooters-and-mopeds",
+      "parent_id": "autos-and-vehicles",
+      "name": "Scooters & Mopeds",
+      "full_path": "Autos & Vehicles > Scooters & Mopeds"
+    },
+    {
+      "id": "autos-and-vehicles/vehicle-parts-and-accessories",
+      "parent_id": "autos-and-vehicles",
+      "name": "Vehicle Parts & Accessories",
+      "full_path": "Autos & Vehicles > Vehicle Parts & Accessories"
+    },
+    {
+      "id": "autos-and-vehicles/commercial-vehicles",
+      "parent_id": "autos-and-vehicles",
+      "name": "Commercial Vehicles",
+      "full_path": "Autos & Vehicles > Commercial Vehicles"
+    },
+    {
+      "id": "autos-and-vehicles/personal-aircraft",
+      "parent_id": "autos-and-vehicles",
+      "name": "Personal Aircraft",
+      "full_path": "Autos & Vehicles > Personal Aircraft"
+    },
+    {
+      "id": "autos-and-vehicles/vehicle-maintenance",
+      "parent_id": "autos-and-vehicles",
+      "name": "Vehicle Maintenance",
+      "full_path": "Autos & Vehicles > Vehicle Maintenance"
+    },
+    {
+      "id": "autos-and-vehicles/classic-vehicles",
+      "parent_id": "autos-and-vehicles",
+      "name": "Classic Vehicles",
+      "full_path": "Autos & Vehicles > Classic Vehicles"
+    },
+    {
+      "id": "autos-and-vehicles/off-road-vehicles",
+      "parent_id": "autos-and-vehicles",
+      "name": "Off-Road Vehicles",
+      "full_path": "Autos & Vehicles > Off-Road Vehicles"
+    },
+    {
+      "id": "autos-and-vehicles/concept-vehicles",
+      "parent_id": "autos-and-vehicles",
+      "name": "Concept Vehicles",
+      "full_path": "Autos & Vehicles > Concept Vehicles"
+    },
+    {
+      "id": "autos-and-vehicles/campers-and-rvs",
+      "parent_id": "autos-and-vehicles",
+      "name": "Campers & RVs",
+      "full_path": "Autos & Vehicles > Campers & RVs"
+    },
+    {
+      "id": "autos-and-vehicles/motorcycles",
+      "parent_id": "autos-and-vehicles",
+      "name": "Motorcycles",
+      "full_path": "Autos & Vehicles > Motorcycles"
+    },
+    {
+      "id": "autos-and-vehicles/vehicle-brands",
+      "parent_id": "autos-and-vehicles",
+      "name": "Vehicle Brands",
+      "full_path": "Autos & Vehicles > Vehicle Brands"
+    },
+    {
+      "id": "beauty-and-personal-care",
+      "parent_id": null,
+      "name": "Beauty & Personal Care",
+      "full_path": "Beauty & Personal Care"
+    },
+    {
+      "id": "beauty-and-personal-care/skin-care",
+      "parent_id": "beauty-and-personal-care",
+      "name": "Skin Care",
+      "full_path": "Beauty & Personal Care > Skin Care"
+    },
+    {
+      "id": "beauty-and-personal-care/weight-loss",
+      "parent_id": "beauty-and-personal-care",
+      "name": "Weight Loss",
+      "full_path": "Beauty & Personal Care > Weight Loss"
+    },
+    {
+      "id": "beauty-and-personal-care/cosmetology",
+      "parent_id": "beauty-and-personal-care",
+      "name": "Cosmetology",
+      "full_path": "Beauty & Personal Care > Cosmetology"
+    },
+    {
+      "id": "beauty-and-personal-care/spas-and-beauty-services",
+      "parent_id": "beauty-and-personal-care",
+      "name": "Spas & Beauty Services",
+      "full_path": "Beauty & Personal Care > Spas & Beauty Services"
+    },
+    {
+      "id": "beauty-and-personal-care/cosmetic-procedures",
+      "parent_id": "beauty-and-personal-care",
+      "name": "Cosmetic Procedures",
+      "full_path": "Beauty & Personal Care > Cosmetic Procedures"
+    },
+    {
+      "id": "beauty-and-personal-care/hair-care",
+      "parent_id": "beauty-and-personal-care",
+      "name": "Hair Care",
+      "full_path": "Beauty & Personal Care > Hair Care"
+    },
+    {
+      "id": "beauty-and-personal-care/body-art-and-tattoos",
+      "parent_id": "beauty-and-personal-care",
+      "name": "Body Art & Tattoos",
+      "full_path": "Beauty & Personal Care > Body Art & Tattoos"
+    },
+    {
+      "id": "beauty-and-personal-care/fitness",
+      "parent_id": "beauty-and-personal-care",
+      "name": "Fitness",
+      "full_path": "Beauty & Personal Care > Fitness"
+    },
+    {
+      "id": "beauty-and-personal-care/beauty-pageants",
+      "parent_id": "beauty-and-personal-care",
+      "name": "Beauty Pageants",
+      "full_path": "Beauty & Personal Care > Beauty Pageants"
+    },
+    {
+      "id": "beauty-and-personal-care/fashion-and-style",
+      "parent_id": "beauty-and-personal-care",
+      "name": "Fashion & Style",
+      "full_path": "Beauty & Personal Care > Fashion & Style"
+    },
+    {
+      "id": "books-and-literature",
+      "parent_id": null,
+      "name": "Books & Literature",
+      "full_path": "Books & Literature"
+    },
+    {
+      "id": "books-and-literature/magazines",
+      "parent_id": "books-and-literature",
+      "name": "Magazines",
+      "full_path": "Books & Literature > Magazines"
+    },
+    {
+      "id": "books-and-literature/classic-literature",
+      "parent_id": "books-and-literature",
+      "name": "Classic Literature",
+      "full_path": "Books & Literature > Classic Literature"
+    },
+    {
+      "id": "books-and-literature/fan-fiction",
+      "parent_id": "books-and-literature",
+      "name": "Fan Fiction",
+      "full_path": "Books & Literature > Fan Fiction"
+    },
+    {
+      "id": "books-and-literature/e-books",
+      "parent_id": "books-and-literature",
+      "name": "E-Books",
+      "full_path": "Books & Literature > E-Books"
+    },
+    {
+      "id": "books-and-literature/writers-resources",
+      "parent_id": "books-and-literature",
+      "name": "Writers Resources",
+      "full_path": "Books & Literature > Writers Resources"
+    },
+    {
+      "id": "books-and-literature/children-s-literature",
+      "parent_id": "books-and-literature",
+      "name": "Children's Literature",
+      "full_path": "Books & Literature > Children's Literature"
+    },
+    {
+      "id": "books-and-literature/poetry",
+      "parent_id": "books-and-literature",
+      "name": "Poetry",
+      "full_path": "Books & Literature > Poetry"
+    },
+    {
+      "id": "books-and-literature/book-retailers",
+      "parent_id": "books-and-literature",
+      "name": "Book Retailers",
+      "full_path": "Books & Literature > Book Retailers"
+    },
+    {
+      "id": "business-and-industry",
+      "parent_id": null,
+      "name": "Business & Industry",
+      "full_path": "Business & Industry"
+    },
+    {
+      "id": "business-and-industry/jobs",
+      "parent_id": "business-and-industry",
+      "name": "Jobs",
+      "full_path": "Business & Industry > Jobs"
+    },
+    {
+      "id": "business-and-industry/agriculture-and-forestry",
+      "parent_id": "business-and-industry",
+      "name": "Agriculture & Forestry",
+      "full_path": "Business & Industry > Agriculture & Forestry"
+    },
+    {
+      "id": "business-and-industry/small-business",
+      "parent_id": "business-and-industry",
+      "name": "Small Business",
+      "full_path": "Business & Industry > Small Business"
+    },
+    {
+      "id": "business-and-industry/directories",
+      "parent_id": "business-and-industry",
+      "name": "Directories",
+      "full_path": "Business & Industry > Directories"
+    },
+    {
+      "id": "business-and-industry/international-business",
+      "parent_id": "business-and-industry",
+      "name": "International Business",
+      "full_path": "Business & Industry > International Business"
+    },
+    {
+      "id": "business-and-industry/aerospace-and-defense",
+      "parent_id": "business-and-industry",
+      "name": "Aerospace & Defense",
+      "full_path": "Business & Industry > Aerospace & Defense"
+    },
+    {
+      "id": "business-and-industry/retail-trade",
+      "parent_id": "business-and-industry",
+      "name": "Retail Trade",
+      "full_path": "Business & Industry > Retail Trade"
+    },
+    {
+      "id": "business-and-industry/business-services",
+      "parent_id": "business-and-industry",
+      "name": "Business Services",
+      "full_path": "Business & Industry > Business Services"
+    },
+    {
+      "id": "business-and-industry/opportunities",
+      "parent_id": "business-and-industry",
+      "name": "Opportunities",
+      "full_path": "Business & Industry > Opportunities"
+    },
+    {
+      "id": "business-and-industry/advertising-and-marketing",
+      "parent_id": "business-and-industry",
+      "name": "Advertising & Marketing",
+      "full_path": "Business & Industry > Advertising & Marketing"
+    },
+    {
+      "id": "business-and-industry/professional-and-trade-associations",
+      "parent_id": "business-and-industry",
+      "name": "Professional & Trade Associations",
+      "full_path": "Business & Industry > Professional & Trade Associations"
+    },
+    {
+      "id": "business-and-industry/business-operations",
+      "parent_id": "business-and-industry",
+      "name": "Business Operations",
+      "full_path": "Business & Industry > Business Operations"
+    },
+    {
+      "id": "business-and-industry/hospitality-industry",
+      "parent_id": "business-and-industry",
+      "name": "Hospitality Industry",
+      "full_path": "Business & Industry > Hospitality Industry"
+    },
+    {
+      "id": "business-and-industry/printing-and-publishing",
+      "parent_id": "business-and-industry",
+      "name": "Printing & Publishing",
+      "full_path": "Business & Industry > Printing & Publishing"
+    },
+    {
+      "id": "business-and-industry/business-education",
+      "parent_id": "business-and-industry",
+      "name": "Business Education",
+      "full_path": "Business & Industry > Business Education"
+    },
+    {
+      "id": "business-and-industry/energy-and-utilities",
+      "parent_id": "business-and-industry",
+      "name": "Energy & Utilities",
+      "full_path": "Business & Industry > Energy & Utilities"
+    },
+    {
+      "id": "business-and-industry/pharmaceuticals-and-biotech",
+      "parent_id": "business-and-industry",
+      "name": "Pharmaceuticals & Biotech",
+      "full_path": "Business & Industry > Pharmaceuticals & Biotech"
+    },
+    {
+      "id": "business-and-industry/automotive-industry",
+      "parent_id": "business-and-industry",
+      "name": "Automotive Industry",
+      "full_path": "Business & Industry > Automotive Industry"
+    },
+    {
+      "id": "business-and-industry/transportation-and-logistics",
+      "parent_id": "business-and-industry",
+      "name": "Transportation & Logistics",
+      "full_path": "Business & Industry > Transportation & Logistics"
+    },
+    {
+      "id": "business-and-industry/intellectual-property",
+      "parent_id": "business-and-industry",
+      "name": "Intellectual Property",
+      "full_path": "Business & Industry > Intellectual Property"
+    },
+    {
+      "id": "computers-and-electronics",
+      "parent_id": null,
+      "name": "Computers & Electronics",
+      "full_path": "Computers & Electronics"
+    },
+    {
+      "id": "computers-and-electronics/networking",
+      "parent_id": "computers-and-electronics",
+      "name": "Networking",
+      "full_path": "Computers & Electronics > Networking"
+    },
+    {
+      "id": "computers-and-electronics/computer-security",
+      "parent_id": "computers-and-electronics",
+      "name": "Computer Security",
+      "full_path": "Computers & Electronics > Computer Security"
+    },
+    {
+      "id": "computers-and-electronics/hardware",
+      "parent_id": "computers-and-electronics",
+      "name": "Hardware",
+      "full_path": "Computers & Electronics > Hardware"
+    },
+    {
+      "id": "computers-and-electronics/cell-phones",
+      "parent_id": "computers-and-electronics",
+      "name": "Cell Phones",
+      "full_path": "Computers & Electronics > Cell Phones"
+    },
+    {
+      "id": "computers-and-electronics/pdas",
+      "parent_id": "computers-and-electronics",
+      "name": "PDAs",
+      "full_path": "Computers & Electronics > PDAs"
+    },
+    {
+      "id": "computers-and-electronics/home-theater",
+      "parent_id": "computers-and-electronics",
+      "name": "Home Theater",
+      "full_path": "Computers & Electronics > Home Theater"
+    },
+    {
+      "id": "computers-and-electronics/tv",
+      "parent_id": "computers-and-electronics",
+      "name": "TV",
+      "full_path": "Computers & Electronics > TV"
+    },
+    {
+      "id": "computers-and-electronics/audio-players-and-systems",
+      "parent_id": "computers-and-electronics",
+      "name": "Audio Players and Systems",
+      "full_path": "Computers & Electronics > Audio Players and Systems"
+    },
+    {
+      "id": "computers-and-electronics/game-systems",
+      "parent_id": "computers-and-electronics",
+      "name": "Game Systems",
+      "full_path": "Computers & Electronics > Game Systems"
+    },
+    {
+      "id": "computers-and-electronics/software",
+      "parent_id": "computers-and-electronics",
+      "name": "Software",
+      "full_path": "Computers & Electronics > Software"
+    },
+    {
+      "id": "computers-and-electronics/consumer-electronics",
+      "parent_id": "computers-and-electronics",
+      "name": "Consumer Electronics",
+      "full_path": "Computers & Electronics > Consumer Electronics"
+    },
+    {
+      "id": "computers-and-electronics/cameras-and-camcorders",
+      "parent_id": "computers-and-electronics",
+      "name": "Cameras and Camcorders",
+      "full_path": "Computers & Electronics > Cameras and Camcorders"
+    },
+    {
+      "id": "computers-and-electronics/enterprise-technology",
+      "parent_id": "computers-and-electronics",
+      "name": "Enterprise Technology",
+      "full_path": "Computers & Electronics > Enterprise Technology"
+    },
+    {
+      "id": "computers-and-electronics/programming",
+      "parent_id": "computers-and-electronics",
+      "name": "Programming",
+      "full_path": "Computers & Electronics > Programming"
+    },
+    {
+      "id": "computers-and-electronics/electronics-and-electrical",
+      "parent_id": "computers-and-electronics",
+      "name": "Electronics & Electrical",
+      "full_path": "Computers & Electronics > Electronics & Electrical"
+    },
+    {
+      "id": "education",
+      "parent_id": null,
+      "name": "Education",
+      "full_path": "Education"
+    },
+    {
+      "id": "education/childhood-education",
+      "parent_id": "education",
+      "name": "Childhood Education",
+      "full_path": "Education > Childhood Education"
+    },
+    {
+      "id": "education/instructional-technology",
+      "parent_id": "education",
+      "name": "Instructional Technology",
+      "full_path": "Education > Instructional Technology"
+    },
+    {
+      "id": "education/continuing-education",
+      "parent_id": "education",
+      "name": "Continuing Education",
+      "full_path": "Education > Continuing Education"
+    },
+    {
+      "id": "education/college-and-university",
+      "parent_id": "education",
+      "name": "College and University",
+      "full_path": "Education > College and University"
+    },
+    {
+      "id": "finance",
+      "parent_id": null,
+      "name": "Finance",
+      "full_path": "Finance"
+    },
+    {
+      "id": "finance/credit-and-lending",
+      "parent_id": "finance",
+      "name": "Credit & Lending",
+      "full_path": "Finance > Credit & Lending"
+    },
+    {
+      "id": "finance/investing",
+      "parent_id": "finance",
+      "name": "Investing",
+      "full_path": "Finance > Investing"
+    },
+    {
+      "id": "finance/banking",
+      "parent_id": "finance",
+      "name": "Banking",
+      "full_path": "Finance > Banking"
+    },
+    {
+      "id": "finance/insurance",
+      "parent_id": "finance",
+      "name": "Insurance",
+      "full_path": "Finance > Insurance"
+    },
+    {
+      "id": "finance/accounting-and-auditing",
+      "parent_id": "finance",
+      "name": "Accounting & Auditing",
+      "full_path": "Finance > Accounting & Auditing"
+    },
+    {
+      "id": "finance/grants-and-financial-assistance",
+      "parent_id": "finance",
+      "name": "Grants & Financial Assistance",
+      "full_path": "Finance > Grants & Financial Assistance"
+    },
+    {
+      "id": "finance/taxes",
+      "parent_id": "finance",
+      "name": "Taxes",
+      "full_path": "Finance > Taxes"
+    },
+    {
+      "id": "finance/financial-planning",
+      "parent_id": "finance",
+      "name": "Financial Planning",
+      "full_path": "Finance > Financial Planning"
+    },
+    {
+      "id": "finance/retirement-and-pension",
+      "parent_id": "finance",
+      "name": "Retirement & Pension",
+      "full_path": "Finance > Retirement & Pension"
+    },
+    {
+      "id": "finance/currencies-and-foreign-exchange",
+      "parent_id": "finance",
+      "name": "Currencies & Foreign Exchange",
+      "full_path": "Finance > Currencies & Foreign Exchange"
+    },
+    {
+      "id": "finance/mortgages-and-loans",
+      "parent_id": "finance",
+      "name": "Mortgages and Loans",
+      "full_path": "Finance > Mortgages and Loans"
+    },
+    {
+      "id": "food-and-drink",
+      "parent_id": null,
+      "name": "Food & Drink",
+      "full_path": "Food & Drink"
+    },
+    {
+      "id": "food-and-drink/cooking-and-recipes",
+      "parent_id": "food-and-drink",
+      "name": "Cooking & Recipes",
+      "full_path": "Food & Drink > Cooking & Recipes"
+    },
+    {
+      "id": "food-and-drink/candy-and-sweets",
+      "parent_id": "food-and-drink",
+      "name": "Candy & Sweets",
+      "full_path": "Food & Drink > Candy & Sweets"
+    },
+    {
+      "id": "food-and-drink/vegetarian",
+      "parent_id": "food-and-drink",
+      "name": "Vegetarian",
+      "full_path": "Food & Drink > Vegetarian"
+    },
+    {
+      "id": "food-and-drink/vegan",
+      "parent_id": "food-and-drink",
+      "name": "Vegan",
+      "full_path": "Food & Drink > Vegan"
+    },
+    {
+      "id": "food-and-drink/alcoholic-beverages",
+      "parent_id": "food-and-drink",
+      "name": "Alcoholic Beverages",
+      "full_path": "Food & Drink > Alcoholic Beverages"
+    },
+    {
+      "id": "food-and-drink/restaurants",
+      "parent_id": "food-and-drink",
+      "name": "Restaurants",
+      "full_path": "Food & Drink > Restaurants"
+    },
+    {
+      "id": "food-and-drink/non-alcoholic-beverages",
+      "parent_id": "food-and-drink",
+      "name": "Non-Alcoholic Beverages",
+      "full_path": "Food & Drink > Non-Alcoholic Beverages"
+    },
+    {
+      "id": "food-and-drink/grocery-and-food-retailers",
+      "parent_id": "food-and-drink",
+      "name": "Grocery & Food Retailers",
+      "full_path": "Food & Drink > Grocery & Food Retailers"
+    },
+    {
+      "id": "games",
+      "parent_id": null,
+      "name": "Games",
+      "full_path": "Games"
+    },
+    {
+      "id": "games/arcade-and-coin-op-games",
+      "parent_id": "games",
+      "name": "Arcade & Coin-Op Games",
+      "full_path": "Games > Arcade & Coin-Op Games"
+    },
+    {
+      "id": "games/gambling",
+      "parent_id": "games",
+      "name": "Gambling",
+      "full_path": "Games > Gambling"
+    },
+    {
+      "id": "games/table-games",
+      "parent_id": "games",
+      "name": "Table Games",
+      "full_path": "Games > Table Games"
+    },
+    {
+      "id": "games/computer-and-video-games",
+      "parent_id": "games",
+      "name": "Computer & Video Games",
+      "full_path": "Games > Computer & Video Games"
+    },
+    {
+      "id": "games/cheats-and-walkthroughs",
+      "parent_id": "games",
+      "name": "Cheats & Walkthroughs",
+      "full_path": "Games > Cheats & Walkthroughs"
+    },
+    {
+      "id": "games/roleplaying-games",
+      "parent_id": "games",
+      "name": "Roleplaying Games",
+      "full_path": "Games > Roleplaying Games"
+    },
+    {
+      "id": "games/children-s-games-and-activities",
+      "parent_id": "games",
+      "name": "Children's Games & Activities",
+      "full_path": "Games > Children's Games & Activities"
+    },
+    {
+      "id": "games/puzzles-and-brainteasers",
+      "parent_id": "games",
+      "name": "Puzzles & Brainteasers",
+      "full_path": "Games > Puzzles & Brainteasers"
+    },
+    {
+      "id": "games/card-games",
+      "parent_id": "games",
+      "name": "Card Games",
+      "full_path": "Games > Card Games"
+    },
+    {
+      "id": "games/party-games",
+      "parent_id": "games",
+      "name": "Party Games",
+      "full_path": "Games > Party Games"
+    },
+    {
+      "id": "games/board-games",
+      "parent_id": "games",
+      "name": "Board Games",
+      "full_path": "Games > Board Games"
+    },
+    {
+      "id": "games/online-games",
+      "parent_id": "games",
+      "name": "Online Games",
+      "full_path": "Games > Online Games"
+    },
+    {
+      "id": "health",
+      "parent_id": null,
+      "name": "Health",
+      "full_path": "Health"
+    },
+    {
+      "id": "health/aging-and-geriatrics",
+      "parent_id": "health",
+      "name": "Aging & Geriatrics",
+      "full_path": "Health > Aging & Geriatrics"
+    },
+    {
+      "id": "health/reproductive-health",
+      "parent_id": "health",
+      "name": "Reproductive Health",
+      "full_path": "Health > Reproductive Health"
+    },
+    {
+      "id": "health/medical-devices-and-equipment",
+      "parent_id": "health",
+      "name": "Medical Devices & Equipment",
+      "full_path": "Health > Medical Devices & Equipment"
+    },
+    {
+      "id": "health/nursing",
+      "parent_id": "health",
+      "name": "Nursing",
+      "full_path": "Health > Nursing"
+    },
+    {
+      "id": "health/public-health",
+      "parent_id": "health",
+      "name": "Public Health",
+      "full_path": "Health > Public Health"
+    },
+    {
+      "id": "health/health-foundations-and-medical-research",
+      "parent_id": "health",
+      "name": "Health Foundations & Medical Research",
+      "full_path": "Health > Health Foundations & Medical Research"
+    },
+    {
+      "id": "health/mental-health",
+      "parent_id": "health",
+      "name": "Mental Health",
+      "full_path": "Health > Mental Health"
+    },
+    {
+      "id": "health/pharmacy",
+      "parent_id": "health",
+      "name": "Pharmacy",
+      "full_path": "Health > Pharmacy"
+    },
+    {
+      "id": "health/health-education-and-medical-training",
+      "parent_id": "health",
+      "name": "Health Education & Medical Training",
+      "full_path": "Health > Health Education & Medical Training"
+    },
+    {
+      "id": "health/women-s-health",
+      "parent_id": "health",
+      "name": "Women's Health",
+      "full_path": "Health > Women's Health"
+    },
+    {
+      "id": "health/men-s-health",
+      "parent_id": "health",
+      "name": "Men's Health",
+      "full_path": "Health > Men's Health"
+    },
+    {
+      "id": "health/pediatrics",
+      "parent_id": "health",
+      "name": "Pediatrics",
+      "full_path": "Health > Pediatrics"
+    },
+    {
+      "id": "health/health-conditions",
+      "parent_id": "health",
+      "name": "Health Conditions",
+      "full_path": "Health > Health Conditions"
+    },
+    {
+      "id": "health/vision-care",
+      "parent_id": "health",
+      "name": "Vision Care",
+      "full_path": "Health > Vision Care"
+    },
+    {
+      "id": "health/medical-literature-and-resources",
+      "parent_id": "health",
+      "name": "Medical Literature & Resources",
+      "full_path": "Health > Medical Literature & Resources"
+    },
+    {
+      "id": "health/oral-and-dental-care",
+      "parent_id": "health",
+      "name": "Oral & Dental Care",
+      "full_path": "Health > Oral & Dental Care"
+    },
+    {
+      "id": "health/alternative-and-natural-medicine",
+      "parent_id": "health",
+      "name": "Alternative & Natural Medicine",
+      "full_path": "Health > Alternative & Natural Medicine"
+    },
+    {
+      "id": "health/substance-abuse",
+      "parent_id": "health",
+      "name": "Substance Abuse",
+      "full_path": "Health > Substance Abuse"
+    },
+    {
+      "id": "health/medical-facilities-and-services",
+      "parent_id": "health",
+      "name": "Medical Facilities & Services",
+      "full_path": "Health > Medical Facilities & Services"
+    },
+    {
+      "id": "health/nutrition",
+      "parent_id": "health",
+      "name": "Nutrition",
+      "full_path": "Health > Nutrition"
+    },
+    {
+      "id": "home-and-garden",
+      "parent_id": null,
+      "name": "Home & Garden",
+      "full_path": "Home & Garden"
+    },
+    {
+      "id": "home-and-garden/home-furnishings",
+      "parent_id": "home-and-garden",
+      "name": "Home Furnishings",
+      "full_path": "Home & Garden > Home Furnishings"
+    },
+    {
+      "id": "home-and-garden/yard-and-patio",
+      "parent_id": "home-and-garden",
+      "name": "Yard & Patio",
+      "full_path": "Home & Garden > Yard & Patio"
+    },
+    {
+      "id": "home-and-garden/home-appliances",
+      "parent_id": "home-and-garden",
+      "name": "Home Appliances",
+      "full_path": "Home & Garden > Home Appliances"
+    },
+    {
+      "id": "home-and-garden/swimming-pools-and-spas",
+      "parent_id": "home-and-garden",
+      "name": "Swimming Pools & Spas",
+      "full_path": "Home & Garden > Swimming Pools & Spas"
+    },
+    {
+      "id": "home-and-garden/gardening-and-landscaping",
+      "parent_id": "home-and-garden",
+      "name": "Gardening & Landscaping",
+      "full_path": "Home & Garden > Gardening & Landscaping"
+    },
+    {
+      "id": "home-and-garden/pest-control",
+      "parent_id": "home-and-garden",
+      "name": "Pest Control",
+      "full_path": "Home & Garden > Pest Control"
+    },
+    {
+      "id": "home-and-garden/domestic-services",
+      "parent_id": "home-and-garden",
+      "name": "Domestic Services",
+      "full_path": "Home & Garden > Domestic Services"
+    },
+    {
+      "id": "home-and-garden/kitchen-and-dining",
+      "parent_id": "home-and-garden",
+      "name": "Kitchen & Dining",
+      "full_path": "Home & Garden > Kitchen & Dining"
+    },
+    {
+      "id": "home-and-garden/bed-and-bath",
+      "parent_id": "home-and-garden",
+      "name": "Bed & Bath",
+      "full_path": "Home & Garden > Bed & Bath"
+    },
+    {
+      "id": "home-and-garden/home-improvement",
+      "parent_id": "home-and-garden",
+      "name": "Home Improvement",
+      "full_path": "Home & Garden > Home Improvement"
+    },
+    {
+      "id": "internet-and-telecom",
+      "parent_id": null,
+      "name": "Internet & Telecom",
+      "full_path": "Internet & Telecom"
+    },
+    {
+      "id": "internet-and-telecom/service-providers",
+      "parent_id": "internet-and-telecom",
+      "name": "Service Providers",
+      "full_path": "Internet & Telecom > Service Providers"
+    },
+    {
+      "id": "internet-and-telecom/web-design",
+      "parent_id": "internet-and-telecom",
+      "name": "Web Design",
+      "full_path": "Internet & Telecom > Web Design"
+    },
+    {
+      "id": "internet-and-telecom/search-engines",
+      "parent_id": "internet-and-telecom",
+      "name": "Search Engines",
+      "full_path": "Internet & Telecom > Search Engines"
+    },
+    {
+      "id": "internet-and-telecom/web-portals",
+      "parent_id": "internet-and-telecom",
+      "name": "Web Portals",
+      "full_path": "Internet & Telecom > Web Portals"
+    },
+    {
+      "id": "internet-and-telecom/mobile-and-wireless",
+      "parent_id": "internet-and-telecom",
+      "name": "Mobile & Wireless",
+      "full_path": "Internet & Telecom > Mobile & Wireless"
+    },
+    {
+      "id": "internet-and-telecom/web-apps-and-online-tools",
+      "parent_id": "internet-and-telecom",
+      "name": "Web Apps & Online Tools",
+      "full_path": "Internet & Telecom > Web Apps & Online Tools"
+    },
+    {
+      "id": "internet-and-telecom/email-and-messaging",
+      "parent_id": "internet-and-telecom",
+      "name": "Email & Messaging",
+      "full_path": "Internet & Telecom > Email & Messaging"
+    },
+    {
+      "id": "internet-and-telecom/voip-and-internet-telephony",
+      "parent_id": "internet-and-telecom",
+      "name": "VOIP & Internet Telephony",
+      "full_path": "Internet & Telecom > VOIP & Internet Telephony"
+    },
+    {
+      "id": "internet-and-telecom/culture",
+      "parent_id": "internet-and-telecom",
+      "name": "Culture",
+      "full_path": "Internet & Telecom > Culture"
+    },
+    {
+      "id": "internet-and-telecom/teleconferencing",
+      "parent_id": "internet-and-telecom",
+      "name": "Teleconferencing",
+      "full_path": "Internet & Telecom > Teleconferencing"
+    },
+    {
+      "id": "law-and-government",
+      "parent_id": null,
+      "name": "Law & Government",
+      "full_path": "Law & Government"
+    },
+    {
+      "id": "law-and-government/military",
+      "parent_id": "law-and-government",
+      "name": "Military",
+      "full_path": "Law & Government > Military"
+    },
+    {
+      "id": "law-and-government/legal",
+      "parent_id": "law-and-government",
+      "name": "Legal",
+      "full_path": "Law & Government > Legal"
+    },
+    {
+      "id": "law-and-government/social-services",
+      "parent_id": "law-and-government",
+      "name": "Social Services",
+      "full_path": "Law & Government > Social Services"
+    },
+    {
+      "id": "law-and-government/public-safety",
+      "parent_id": "law-and-government",
+      "name": "Public Safety",
+      "full_path": "Law & Government > Public Safety"
+    },
+    {
+      "id": "lifestyles",
+      "parent_id": null,
+      "name": "Lifestyles",
+      "full_path": "Lifestyles"
+    },
+    {
+      "id": "lifestyles/seniors-and-retirement",
+      "parent_id": "lifestyles",
+      "name": "Seniors & Retirement",
+      "full_path": "Lifestyles > Seniors & Retirement"
+    },
+    {
+      "id": "lifestyles/ethnic-and-identity-groups",
+      "parent_id": "lifestyles",
+      "name": "Ethnic & Identity Groups",
+      "full_path": "Lifestyles > Ethnic & Identity Groups"
+    },
+    {
+      "id": "lifestyles/religion-and-belief",
+      "parent_id": "lifestyles",
+      "name": "Religion & Belief",
+      "full_path": "Lifestyles > Religion & Belief"
+    },
+    {
+      "id": "lifestyles/women-s-interests",
+      "parent_id": "lifestyles",
+      "name": "Women's Interests",
+      "full_path": "Lifestyles > Women's Interests"
+    },
+    {
+      "id": "lifestyles/disabled-and-special-needs",
+      "parent_id": "lifestyles",
+      "name": "Disabled & Special Needs",
+      "full_path": "Lifestyles > Disabled & Special Needs"
+    },
+    {
+      "id": "lifestyles/men-s-interests",
+      "parent_id": "lifestyles",
+      "name": "Men's Interests",
+      "full_path": "Lifestyles > Men's Interests"
+    },
+    {
+      "id": "lifestyles/subcultures-and-niche-interests",
+      "parent_id": "lifestyles",
+      "name": "Subcultures & Niche Interests",
+      "full_path": "Lifestyles > Subcultures & Niche Interests"
+    },
+    {
+      "id": "lifestyles/kids-and-teens",
+      "parent_id": "lifestyles",
+      "name": "Kids & Teens",
+      "full_path": "Lifestyles > Kids & Teens"
+    },
+    {
+      "id": "lifestyles/social-sciences",
+      "parent_id": "lifestyles",
+      "name": "Social Sciences",
+      "full_path": "Lifestyles > Social Sciences"
+    },
+    {
+      "id": "lifestyles/genealogy",
+      "parent_id": "lifestyles",
+      "name": "Genealogy",
+      "full_path": "Lifestyles > Genealogy"
+    },
+    {
+      "id": "lifestyles/social-issues-and-advocacy",
+      "parent_id": "lifestyles",
+      "name": "Social Issues & Advocacy",
+      "full_path": "Lifestyles > Social Issues & Advocacy"
+    },
+    {
+      "id": "lifestyles/family-and-relationships",
+      "parent_id": "lifestyles",
+      "name": "Family & Relationships",
+      "full_path": "Lifestyles > Family & Relationships"
+    },
+    {
+      "id": "news",
+      "parent_id": null,
+      "name": "News",
+      "full_path": "News"
+    },
+    {
+      "id": "news/world-news",
+      "parent_id": "news",
+      "name": "World News",
+      "full_path": "News > World News"
+    },
+    {
+      "id": "news/local-news",
+      "parent_id": "news",
+      "name": "Local News",
+      "full_path": "News > Local News"
+    },
+    {
+      "id": "news/health-news",
+      "parent_id": "news",
+      "name": "Health News",
+      "full_path": "News > Health News"
+    },
+    {
+      "id": "news/weather",
+      "parent_id": "news",
+      "name": "Weather",
+      "full_path": "News > Weather"
+    },
+    {
+      "id": "news/business-news",
+      "parent_id": "news",
+      "name": "Business News",
+      "full_path": "News > Business News"
+    },
+    {
+      "id": "news/technology-news",
+      "parent_id": "news",
+      "name": "Technology News",
+      "full_path": "News > Technology News"
+    },
+    {
+      "id": "news/broadcast-and-network-news",
+      "parent_id": "news",
+      "name": "Broadcast & Network News",
+      "full_path": "News > Broadcast & Network News"
+    },
+    {
+      "id": "news/sports-news",
+      "parent_id": "news",
+      "name": "Sports News",
+      "full_path": "News > Sports News"
+    },
+    {
+      "id": "news/politics",
+      "parent_id": "news",
+      "name": "Politics",
+      "full_path": "News > Politics"
+    },
+    {
+      "id": "news/journalism-and-news-industry",
+      "parent_id": "news",
+      "name": "Journalism & News Industry",
+      "full_path": "News > Journalism & News Industry"
+    },
+    {
+      "id": "online-communities",
+      "parent_id": null,
+      "name": "Online Communities",
+      "full_path": "Online Communities"
+    },
+    {
+      "id": "online-communities/online-goodies",
+      "parent_id": "online-communities",
+      "name": "Online Goodies",
+      "full_path": "Online Communities > Online Goodies"
+    },
+    {
+      "id": "online-communities/forum-and-chat-providers",
+      "parent_id": "online-communities",
+      "name": "Forum & Chat Providers",
+      "full_path": "Online Communities > Forum & Chat Providers"
+    },
+    {
+      "id": "online-communities/file-sharing-and-hosting",
+      "parent_id": "online-communities",
+      "name": "File Sharing & Hosting",
+      "full_path": "Online Communities > File Sharing & Hosting"
+    },
+    {
+      "id": "online-communities/virtual-worlds",
+      "parent_id": "online-communities",
+      "name": "Virtual Worlds",
+      "full_path": "Online Communities > Virtual Worlds"
+    },
+    {
+      "id": "online-communities/dating-and-personals",
+      "parent_id": "online-communities",
+      "name": "Dating & Personals",
+      "full_path": "Online Communities > Dating & Personals"
+    },
+    {
+      "id": "online-communities/social-networks",
+      "parent_id": "online-communities",
+      "name": "Social Networks",
+      "full_path": "Online Communities > Social Networks"
+    },
+    {
+      "id": "online-communities/blogging-resources-and-services",
+      "parent_id": "online-communities",
+      "name": "Blogging Resources & Services",
+      "full_path": "Online Communities > Blogging Resources & Services"
+    },
+    {
+      "id": "online-communities/photo-and-video-sharing",
+      "parent_id": "online-communities",
+      "name": "Photo & Video Sharing",
+      "full_path": "Online Communities > Photo & Video Sharing"
+    },
+    {
+      "id": "online-communities/online-journals-and-personal-sites",
+      "parent_id": "online-communities",
+      "name": "Online Journals & Personal Sites",
+      "full_path": "Online Communities > Online Journals & Personal Sites"
+    },
+    {
+      "id": "pets-and-animals",
+      "parent_id": null,
+      "name": "Pets & Animals",
+      "full_path": "Pets & Animals"
+    },
+    {
+      "id": "pets-and-animals/animal-products-and-services",
+      "parent_id": "pets-and-animals",
+      "name": "Animal Products & Services",
+      "full_path": "Pets & Animals > Animal Products & Services"
+    },
+    {
+      "id": "pets-and-animals/wildlife",
+      "parent_id": "pets-and-animals",
+      "name": "Wildlife",
+      "full_path": "Pets & Animals > Wildlife"
+    },
+    {
+      "id": "pets-and-animals/pets",
+      "parent_id": "pets-and-animals",
+      "name": "Pets",
+      "full_path": "Pets & Animals > Pets"
+    },
+    {
+      "id": "real-estate",
+      "parent_id": null,
+      "name": "Real Estate",
+      "full_path": "Real Estate"
+    },
+    {
+      "id": "real-estate/property-development",
+      "parent_id": "real-estate",
+      "name": "Property Development",
+      "full_path": "Real Estate > Property Development"
+    },
+    {
+      "id": "real-estate/timeshares-and-vacation-properties",
+      "parent_id": "real-estate",
+      "name": "Timeshares & Vacation Properties",
+      "full_path": "Real Estate > Timeshares & Vacation Properties"
+    },
+    {
+      "id": "real-estate/commercial-and-investment-real-estate",
+      "parent_id": "real-estate",
+      "name": "Commercial & Investment Real Estate",
+      "full_path": "Real Estate > Commercial & Investment Real Estate"
+    },
+    {
+      "id": "real-estate/real-estate-listings",
+      "parent_id": "real-estate",
+      "name": "Real Estate Listings",
+      "full_path": "Real Estate > Real Estate Listings"
+    },
+    {
+      "id": "real-estate/apartments-and-residential-rentals",
+      "parent_id": "real-estate",
+      "name": "Apartments & Residential Rentals",
+      "full_path": "Real Estate > Apartments & Residential Rentals"
+    },
+    {
+      "id": "real-estate/real-estate-agencies",
+      "parent_id": "real-estate",
+      "name": "Real Estate Agencies",
+      "full_path": "Real Estate > Real Estate Agencies"
+    },
+    {
+      "id": "real-estate/property-management",
+      "parent_id": "real-estate",
+      "name": "Property Management",
+      "full_path": "Real Estate > Property Management"
+    },
+    {
+      "id": "real-estate/property-inspections-and-appraisals",
+      "parent_id": "real-estate",
+      "name": "Property Inspections & Appraisals",
+      "full_path": "Real Estate > Property Inspections & Appraisals"
+    },
+    {
+      "id": "recreation",
+      "parent_id": null,
+      "name": "Recreation",
+      "full_path": "Recreation"
+    },
+    {
+      "id": "recreation/crafts",
+      "parent_id": "recreation",
+      "name": "Crafts",
+      "full_path": "Recreation > Crafts"
+    },
+    {
+      "id": "recreation/special-occasions",
+      "parent_id": "recreation",
+      "name": "Special Occasions",
+      "full_path": "Recreation > Special Occasions"
+    },
+    {
+      "id": "recreation/clubs-and-organizations",
+      "parent_id": "recreation",
+      "name": "Clubs & Organizations",
+      "full_path": "Recreation > Clubs & Organizations"
+    },
+    {
+      "id": "recreation/recreational-aviation",
+      "parent_id": "recreation",
+      "name": "Recreational Aviation",
+      "full_path": "Recreation > Recreational Aviation"
+    },
+    {
+      "id": "recreation/radio-control-and-modeling",
+      "parent_id": "recreation",
+      "name": "Radio Control & Modeling",
+      "full_path": "Recreation > Radio Control & Modeling"
+    },
+    {
+      "id": "recreation/paintball",
+      "parent_id": "recreation",
+      "name": "Paintball",
+      "full_path": "Recreation > Paintball"
+    },
+    {
+      "id": "recreation/outdoors",
+      "parent_id": "recreation",
+      "name": "Outdoors",
+      "full_path": "Recreation > Outdoors"
+    },
+    {
+      "id": "recreation/water-activities",
+      "parent_id": "recreation",
+      "name": "Water Activities",
+      "full_path": "Recreation > Water Activities"
+    },
+    {
+      "id": "reference-and-language",
+      "parent_id": null,
+      "name": "Reference & Language",
+      "full_path": "Reference & Language"
+    },
+    {
+      "id": "reference-and-language/general-reference",
+      "parent_id": "reference-and-language",
+      "name": "General Reference",
+      "full_path": "Reference & Language > General Reference"
+    },
+    {
+      "id": "reference-and-language/technical-reference",
+      "parent_id": "reference-and-language",
+      "name": "Technical Reference",
+      "full_path": "Reference & Language > Technical Reference"
+    },
+    {
+      "id": "reference-and-language/libraries-and-museums",
+      "parent_id": "reference-and-language",
+      "name": "Libraries & Museums",
+      "full_path": "Reference & Language > Libraries & Museums"
+    },
+    {
+      "id": "reference-and-language/language-resources",
+      "parent_id": "reference-and-language",
+      "name": "Language Resources",
+      "full_path": "Reference & Language > Language Resources"
+    },
+    {
+      "id": "reference-and-language/humanities",
+      "parent_id": "reference-and-language",
+      "name": "Humanities",
+      "full_path": "Reference & Language > Humanities"
+    },
+    {
+      "id": "reference-and-language/geographic-reference",
+      "parent_id": "reference-and-language",
+      "name": "Geographic Reference",
+      "full_path": "Reference & Language > Geographic Reference"
+    },
+    {
+      "id": "science",
+      "parent_id": null,
+      "name": "Science",
+      "full_path": "Science"
+    },
+    {
+      "id": "science/scientific-institutions",
+      "parent_id": "science",
+      "name": "Scientific Institutions",
+      "full_path": "Science > Scientific Institutions"
+    },
+    {
+      "id": "science/earth-sciences",
+      "parent_id": "science",
+      "name": "Earth Sciences",
+      "full_path": "Science > Earth Sciences"
+    },
+    {
+      "id": "science/physics",
+      "parent_id": "science",
+      "name": "Physics",
+      "full_path": "Science > Physics"
+    },
+    {
+      "id": "science/computer-science",
+      "parent_id": "science",
+      "name": "Computer Science",
+      "full_path": "Science > Computer Science"
+    },
+    {
+      "id": "science/medical-science",
+      "parent_id": "science",
+      "name": "Medical Science",
+      "full_path": "Science > Medical Science"
+    },
+    {
+      "id": "science/chemistry",
+      "parent_id": "science",
+      "name": "Chemistry",
+      "full_path": "Science > Chemistry"
+    },
+    {
+      "id": "science/mathematics",
+      "parent_id": "science",
+      "name": "Mathematics",
+      "full_path": "Science > Mathematics"
+    },
+    {
+      "id": "science/biological-sciences",
+      "parent_id": "science",
+      "name": "Biological Sciences",
+      "full_path": "Science > Biological Sciences"
+    },
+    {
+      "id": "science/engineering-and-technology",
+      "parent_id": "science",
+      "name": "Engineering & Technology",
+      "full_path": "Science > Engineering & Technology"
+    },
+    {
+      "id": "science/space-science",
+      "parent_id": "science",
+      "name": "Space Science",
+      "full_path": "Science > Space Science"
+    },
+    {
+      "id": "science/astronomy",
+      "parent_id": "science",
+      "name": "Astronomy",
+      "full_path": "Science > Astronomy"
+    },
+    {
+      "id": "science/ecology-and-environment",
+      "parent_id": "science",
+      "name": "Ecology & Environment",
+      "full_path": "Science > Ecology & Environment"
+    },
+    {
+      "id": "shopping",
+      "parent_id": null,
+      "name": "Shopping",
+      "full_path": "Shopping"
+    },
+    {
+      "id": "shopping/free-stuff",
+      "parent_id": "shopping",
+      "name": "Free Stuff",
+      "full_path": "Shopping > Free Stuff"
+    },
+    {
+      "id": "shopping/auctions",
+      "parent_id": "shopping",
+      "name": "Auctions",
+      "full_path": "Shopping > Auctions"
+    },
+    {
+      "id": "shopping/retail-stores",
+      "parent_id": "shopping",
+      "name": "Retail Stores",
+      "full_path": "Shopping > Retail Stores"
+    },
+    {
+      "id": "shopping/gifts-and-special-event-items",
+      "parent_id": "shopping",
+      "name": "Gifts & Special Event Items",
+      "full_path": "Shopping > Gifts & Special Event Items"
+    },
+    {
+      "id": "shopping/wholesalers-and-liquidators",
+      "parent_id": "shopping",
+      "name": "Wholesalers & Liquidators",
+      "full_path": "Shopping > Wholesalers & Liquidators"
+    },
+    {
+      "id": "shopping/footwear",
+      "parent_id": "shopping",
+      "name": "Footwear",
+      "full_path": "Shopping > Footwear"
+    },
+    {
+      "id": "shopping/apparel",
+      "parent_id": "shopping",
+      "name": "Apparel",
+      "full_path": "Shopping > Apparel"
+    },
+    {
+      "id": "shopping/office-supplies",
+      "parent_id": "shopping",
+      "name": "Office Supplies",
+      "full_path": "Shopping > Office Supplies"
+    },
+    {
+      "id": "shopping/customer-services",
+      "parent_id": "shopping",
+      "name": "Customer Services",
+      "full_path": "Shopping > Customer Services"
+    },
+    {
+      "id": "shopping/car-shopping",
+      "parent_id": "shopping",
+      "name": "Car Shopping",
+      "full_path": "Shopping > Car Shopping"
+    },
+    {
+      "id": "shopping/swap-meets-and-outdoor-markets",
+      "parent_id": "shopping",
+      "name": "Swap Meets & Outdoor Markets",
+      "full_path": "Shopping > Swap Meets & Outdoor Markets"
+    },
+    {
+      "id": "shopping/antiques-and-collectibles",
+      "parent_id": "shopping",
+      "name": "Antiques & Collectibles",
+      "full_path": "Shopping > Antiques & Collectibles"
+    },
+    {
+      "id": "shopping/music",
+      "parent_id": "shopping",
+      "name": "Music",
+      "full_path": "Shopping > Music"
+    },
+    {
+      "id": "shopping/books",
+      "parent_id": "shopping",
+      "name": "Books",
+      "full_path": "Shopping > Books"
+    },
+    {
+      "id": "shopping/videos",
+      "parent_id": "shopping",
+      "name": "Videos",
+      "full_path": "Shopping > Videos"
+    },
+    {
+      "id": "shopping/games",
+      "parent_id": "shopping",
+      "name": "Games",
+      "full_path": "Shopping > Games"
+    },
+    {
+      "id": "shopping/coupons-and-discount-offers",
+      "parent_id": "shopping",
+      "name": "Coupons & Discount Offers",
+      "full_path": "Shopping > Coupons & Discount Offers"
+    },
+    {
+      "id": "shopping/toys",
+      "parent_id": "shopping",
+      "name": "Toys",
+      "full_path": "Shopping > Toys"
+    },
+    {
+      "id": "shopping/shopping-portals-and-search-engines",
+      "parent_id": "shopping",
+      "name": "Shopping Portals & Search Engines",
+      "full_path": "Shopping > Shopping Portals & Search Engines"
+    },
+    {
+      "id": "shopping/accessories",
+      "parent_id": "shopping",
+      "name": "Accessories",
+      "full_path": "Shopping > Accessories"
+    },
+    {
+      "id": "shopping/home-and-garden",
+      "parent_id": "shopping",
+      "name": "Home and Garden",
+      "full_path": "Shopping > Home and Garden"
+    },
+    {
+      "id": "shopping/consumer-affairs-and-product-reviews",
+      "parent_id": "shopping",
+      "name": "Consumer Affairs & Product Reviews",
+      "full_path": "Shopping > Consumer Affairs & Product Reviews"
+    },
+    {
+      "id": "shopping/tobacco-products",
+      "parent_id": "shopping",
+      "name": "Tobacco Products",
+      "full_path": "Shopping > Tobacco Products"
+    },
+    {
+      "id": "shopping/photo-and-video-services",
+      "parent_id": "shopping",
+      "name": "Photo & Video Services",
+      "full_path": "Shopping > Photo & Video Services"
+    },
+    {
+      "id": "shopping/health-and-beauty",
+      "parent_id": "shopping",
+      "name": "Health and Beauty",
+      "full_path": "Shopping > Health and Beauty"
+    },
+    {
+      "id": "shopping/classifieds",
+      "parent_id": "shopping",
+      "name": "Classifieds",
+      "full_path": "Shopping > Classifieds"
+    },
+    {
+      "id": "shopping/sporting-goods",
+      "parent_id": "shopping",
+      "name": "Sporting Goods",
+      "full_path": "Shopping > Sporting Goods"
+    },
+    {
+      "id": "shopping/luxury-goods",
+      "parent_id": "shopping",
+      "name": "Luxury Goods",
+      "full_path": "Shopping > Luxury Goods"
+    },
+    {
+      "id": "sports",
+      "parent_id": null,
+      "name": "Sports",
+      "full_path": "Sports"
+    },
+    {
+      "id": "sports/college",
+      "parent_id": "sports",
+      "name": "College",
+      "full_path": "Sports > College"
+    },
+    {
+      "id": "sports/table-sports",
+      "parent_id": "sports",
+      "name": "Table Sports",
+      "full_path": "Sports > Table Sports"
+    },
+    {
+      "id": "sports/football",
+      "parent_id": "sports",
+      "name": "Football",
+      "full_path": "Sports > Football"
+    },
+    {
+      "id": "sports/olympics",
+      "parent_id": "sports",
+      "name": "Olympics",
+      "full_path": "Sports > Olympics"
+    },
+    {
+      "id": "sports/boxing",
+      "parent_id": "sports",
+      "name": "Boxing",
+      "full_path": "Sports > Boxing"
+    },
+    {
+      "id": "sports/strength-sports",
+      "parent_id": "sports",
+      "name": "Strength Sports",
+      "full_path": "Sports > Strength Sports"
+    },
+    {
+      "id": "sports/extreme-sports",
+      "parent_id": "sports",
+      "name": "Extreme Sports",
+      "full_path": "Sports > Extreme Sports"
+    },
+    {
+      "id": "sports/wrestling",
+      "parent_id": "sports",
+      "name": "Wrestling",
+      "full_path": "Sports > Wrestling"
+    },
+    {
+      "id": "sports/motor-sports",
+      "parent_id": "sports",
+      "name": "Motor Sports",
+      "full_path": "Sports > Motor Sports"
+    },
+    {
+      "id": "sports/bowling",
+      "parent_id": "sports",
+      "name": "Bowling",
+      "full_path": "Sports > Bowling"
+    },
+    {
+      "id": "sports/soccer",
+      "parent_id": "sports",
+      "name": "Soccer",
+      "full_path": "Sports > Soccer"
+    },
+    {
+      "id": "sports/equestrian",
+      "parent_id": "sports",
+      "name": "Equestrian",
+      "full_path": "Sports > Equestrian"
+    },
+    {
+      "id": "sports/winter-sports",
+      "parent_id": "sports",
+      "name": "Winter Sports",
+      "full_path": "Sports > Winter Sports"
+    },
+    {
+      "id": "sports/martial-arts",
+      "parent_id": "sports",
+      "name": "Martial Arts",
+      "full_path": "Sports > Martial Arts"
+    },
+    {
+      "id": "sports/boating",
+      "parent_id": "sports",
+      "name": "Boating",
+      "full_path": "Sports > Boating"
+    },
+    {
+      "id": "sports/racquet-sports",
+      "parent_id": "sports",
+      "name": "Racquet Sports",
+      "full_path": "Sports > Racquet Sports"
+    },
+    {
+      "id": "sports/cycling",
+      "parent_id": "sports",
+      "name": "Cycling",
+      "full_path": "Sports > Cycling"
+    },
+    {
+      "id": "sports/weight-lifting",
+      "parent_id": "sports",
+      "name": "Weight Lifting",
+      "full_path": "Sports > Weight Lifting"
+    },
+    {
+      "id": "sports/hockey",
+      "parent_id": "sports",
+      "name": "Hockey",
+      "full_path": "Sports > Hockey"
+    },
+    {
+      "id": "sports/basketball",
+      "parent_id": "sports",
+      "name": "Basketball",
+      "full_path": "Sports > Basketball"
+    },
+    {
+      "id": "sports/precision-sports",
+      "parent_id": "sports",
+      "name": "Precision Sports",
+      "full_path": "Sports > Precision Sports"
+    },
+    {
+      "id": "sports/cricket",
+      "parent_id": "sports",
+      "name": "Cricket",
+      "full_path": "Sports > Cricket"
+    },
+    {
+      "id": "sports/water-sports",
+      "parent_id": "sports",
+      "name": "Water Sports",
+      "full_path": "Sports > Water Sports"
+    },
+    {
+      "id": "sports/golf",
+      "parent_id": "sports",
+      "name": "Golf",
+      "full_path": "Sports > Golf"
+    },
+    {
+      "id": "sports/baseball",
+      "parent_id": "sports",
+      "name": "Baseball",
+      "full_path": "Sports > Baseball"
+    },
+    {
+      "id": "sports/outdoors",
+      "parent_id": "sports",
+      "name": "Outdoors",
+      "full_path": "Sports > Outdoors"
+    },
+    {
+      "id": "travel",
+      "parent_id": null,
+      "name": "Travel",
+      "full_path": "Travel"
+    },
+    {
+      "id": "travel/travel-guides-and-travelogues",
+      "parent_id": "travel",
+      "name": "Travel Guides & Travelogues",
+      "full_path": "Travel > Travel Guides & Travelogues"
+    },
+    {
+      "id": "travel/air-travel",
+      "parent_id": "travel",
+      "name": "Air Travel",
+      "full_path": "Travel > Air Travel"
+    },
+    {
+      "id": "travel/hotels-and-accommodations",
+      "parent_id": "travel",
+      "name": "Hotels & Accommodations",
+      "full_path": "Travel > Hotels & Accommodations"
+    },
+    {
+      "id": "travel/travel-agencies-and-services",
+      "parent_id": "travel",
+      "name": "Travel Agencies & Services",
+      "full_path": "Travel > Travel Agencies & Services"
+    },
+    {
+      "id": "travel/cruises-and-charters",
+      "parent_id": "travel",
+      "name": "Cruises & Charters",
+      "full_path": "Travel > Cruises & Charters"
+    },
+    {
+      "id": "travel/tourist-destinations",
+      "parent_id": "travel",
+      "name": "Tourist Destinations",
+      "full_path": "Travel > Tourist Destinations"
+    },
+    {
+      "id": "travel/car-rental-and-taxi-services",
+      "parent_id": "travel",
+      "name": "Car Rental & Taxi Services",
+      "full_path": "Travel > Car Rental & Taxi Services"
+    },
+    {
+      "id": "travel/transportation",
+      "parent_id": "travel",
+      "name": "Transportation",
+      "full_path": "Travel > Transportation"
+    },
+    {
+      "id": "travel/bus-and-rail",
+      "parent_id": "travel",
+      "name": "Bus & Rail",
+      "full_path": "Travel > Bus & Rail"
+    },
+    {
+      "id": "travel/museums-and-galleries",
+      "parent_id": "travel",
+      "name": "Museums and Galleries",
+      "full_path": "Travel > Museums and Galleries"
+    },
+    {
+      "id": "travel/amusement-and-theme-parks",
+      "parent_id": "travel",
+      "name": "Amusement and Theme Parks",
+      "full_path": "Travel > Amusement and Theme Parks"
+    },
+    {
+      "id": "travel/luggage-and-travel-accessories",
+      "parent_id": "travel",
+      "name": "Luggage & Travel Accessories",
+      "full_path": "Travel > Luggage & Travel Accessories"
+    },
+    {
+      "id": "world-localities",
+      "parent_id": null,
+      "name": "World Localities",
+      "full_path": "World Localities"
+    },
+    {
+      "id": "world-localities/middle-east",
+      "parent_id": "world-localities",
+      "name": "Middle East",
+      "full_path": "World Localities > Middle East"
+    },
+    {
+      "id": "world-localities/latin-america",
+      "parent_id": "world-localities",
+      "name": "Latin America",
+      "full_path": "World Localities > Latin America"
+    },
+    {
+      "id": "world-localities/europe",
+      "parent_id": "world-localities",
+      "name": "Europe",
+      "full_path": "World Localities > Europe"
+    },
+    {
+      "id": "world-localities/polar-regions",
+      "parent_id": "world-localities",
+      "name": "Polar Regions",
+      "full_path": "World Localities > Polar Regions"
+    },
+    {
+      "id": "world-localities/asia",
+      "parent_id": "world-localities",
+      "name": "Asia",
+      "full_path": "World Localities > Asia"
+    },
+    {
+      "id": "world-localities/oceania",
+      "parent_id": "world-localities",
+      "name": "Oceania",
+      "full_path": "World Localities > Oceania"
+    },
+    {
+      "id": "world-localities/africa",
+      "parent_id": "world-localities",
+      "name": "Africa",
+      "full_path": "World Localities > Africa"
+    },
+    {
+      "id": "world-localities/north-america",
+      "parent_id": "world-localities",
+      "name": "North America",
+      "full_path": "World Localities > North America"
+    }
+  ]
+}

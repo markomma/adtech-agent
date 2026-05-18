@@ -1,0 +1,1014 @@
+{
+  "metadata": {
+    "provider": "xandr",
+    "taxonomy_type": "ad_product",
+    "version": "latest",
+    "snapshot_date": "2026-05-18",
+    "source_url": "https://raw.githubusercontent.com/MicrosoftDocs/xandr-docs/main/xandr-docs/bidders/iab-content-taxonomy-support.md",
+    "fetched_at": "2026-05-18T02:38:07Z"
+  },
+  "entries": [
+    {
+      "id": "1",
+      "parent_id": null,
+      "name": "Airlines",
+      "full_path": "Airlines"
+    },
+    {
+      "id": "2",
+      "parent_id": null,
+      "name": "Apparel",
+      "full_path": "Apparel"
+    },
+    {
+      "id": "3",
+      "parent_id": null,
+      "name": "Appliances",
+      "full_path": "Appliances"
+    },
+    {
+      "id": "4",
+      "parent_id": null,
+      "name": "Automotive and Vehicles",
+      "full_path": "Automotive and Vehicles"
+    },
+    {
+      "id": "5",
+      "parent_id": null,
+      "name": "Computers and Electronics",
+      "full_path": "Computers and Electronics"
+    },
+    {
+      "id": "6",
+      "parent_id": null,
+      "name": "Context Link Providers",
+      "full_path": "Context Link Providers"
+    },
+    {
+      "id": "7",
+      "parent_id": null,
+      "name": "Cosmetics and Hygiene",
+      "full_path": "Cosmetics and Hygiene"
+    },
+    {
+      "id": "8",
+      "parent_id": null,
+      "name": "Dating",
+      "full_path": "Dating"
+    },
+    {
+      "id": "9",
+      "parent_id": null,
+      "name": "Education",
+      "full_path": "Education"
+    },
+    {
+      "id": "10",
+      "parent_id": null,
+      "name": "Employment",
+      "full_path": "Employment"
+    },
+    {
+      "id": "11",
+      "parent_id": null,
+      "name": "Financial",
+      "full_path": "Financial"
+    },
+    {
+      "id": "12",
+      "parent_id": null,
+      "name": "Food and Drink",
+      "full_path": "Food and Drink"
+    },
+    {
+      "id": "13",
+      "parent_id": null,
+      "name": "Online Games",
+      "full_path": "Online Games"
+    },
+    {
+      "id": "14",
+      "parent_id": null,
+      "name": "Health-care",
+      "full_path": "Health-care"
+    },
+    {
+      "id": "15",
+      "parent_id": null,
+      "name": "Hotels",
+      "full_path": "Hotels"
+    },
+    {
+      "id": "16",
+      "parent_id": null,
+      "name": "Home and Decor",
+      "full_path": "Home and Decor"
+    },
+    {
+      "id": "17",
+      "parent_id": null,
+      "name": "Internet Properties",
+      "full_path": "Internet Properties"
+    },
+    {
+      "id": "18",
+      "parent_id": null,
+      "name": "Insurance",
+      "full_path": "Insurance"
+    },
+    {
+      "id": "19",
+      "parent_id": null,
+      "name": "Jewelry",
+      "full_path": "Jewelry"
+    },
+    {
+      "id": "20",
+      "parent_id": null,
+      "name": "Movies",
+      "full_path": "Movies"
+    },
+    {
+      "id": "21",
+      "parent_id": null,
+      "name": "Music",
+      "full_path": "Music"
+    },
+    {
+      "id": "22",
+      "parent_id": null,
+      "name": "Office Supplies",
+      "full_path": "Office Supplies"
+    },
+    {
+      "id": "23",
+      "parent_id": null,
+      "name": "Print and Publications",
+      "full_path": "Print and Publications"
+    },
+    {
+      "id": "37",
+      "parent_id": null,
+      "name": "Political",
+      "full_path": "Political"
+    },
+    {
+      "id": "24",
+      "parent_id": null,
+      "name": "Retail",
+      "full_path": "Retail"
+    },
+    {
+      "id": "25",
+      "parent_id": null,
+      "name": "Premium Services",
+      "full_path": "Premium Services"
+    },
+    {
+      "id": "26",
+      "parent_id": null,
+      "name": "Sporting Goods",
+      "full_path": "Sporting Goods"
+    },
+    {
+      "id": "27",
+      "parent_id": null,
+      "name": "Telecommunications",
+      "full_path": "Telecommunications"
+    },
+    {
+      "id": "28",
+      "parent_id": null,
+      "name": "Television",
+      "full_path": "Television"
+    },
+    {
+      "id": "29",
+      "parent_id": null,
+      "name": "Toys/Games",
+      "full_path": "Toys/Games"
+    },
+    {
+      "id": "30",
+      "parent_id": null,
+      "name": "Travel Services",
+      "full_path": "Travel Services"
+    },
+    {
+      "id": "31",
+      "parent_id": null,
+      "name": "Travel Destinations",
+      "full_path": "Travel Destinations"
+    },
+    {
+      "id": "32",
+      "parent_id": null,
+      "name": "Pharmaceuticals and Supplements",
+      "full_path": "Pharmaceuticals and Supplements"
+    },
+    {
+      "id": "33",
+      "parent_id": null,
+      "name": "Pets",
+      "full_path": "Pets"
+    },
+    {
+      "id": "34",
+      "parent_id": null,
+      "name": "Software and Web Apps",
+      "full_path": "Software and Web Apps"
+    },
+    {
+      "id": "35",
+      "parent_id": null,
+      "name": "Non Profit",
+      "full_path": "Non Profit"
+    },
+    {
+      "id": "36",
+      "parent_id": null,
+      "name": "Misc. Other",
+      "full_path": "Misc. Other"
+    },
+    {
+      "id": "38",
+      "parent_id": null,
+      "name": "Religion",
+      "full_path": "Religion"
+    },
+    {
+      "id": "39",
+      "parent_id": null,
+      "name": "Video Games",
+      "full_path": "Video Games"
+    },
+    {
+      "id": "41",
+      "parent_id": null,
+      "name": "Weight Loss",
+      "full_path": "Weight Loss"
+    },
+    {
+      "id": "42",
+      "parent_id": null,
+      "name": "Cosmetic Procedures",
+      "full_path": "Cosmetic Procedures"
+    },
+    {
+      "id": "43",
+      "parent_id": null,
+      "name": "Sexual Health",
+      "full_path": "Sexual Health"
+    },
+    {
+      "id": "50",
+      "parent_id": null,
+      "name": "Ringtones/Mobile Subscriptions",
+      "full_path": "Ringtones/Mobile Subscriptions"
+    },
+    {
+      "id": "51",
+      "parent_id": null,
+      "name": "Sports and Events",
+      "full_path": "Sports and Events"
+    },
+    {
+      "id": "52",
+      "parent_id": null,
+      "name": "Affiliate Offers",
+      "full_path": "Affiliate Offers"
+    },
+    {
+      "id": "53",
+      "parent_id": null,
+      "name": "Online Advertising Companies",
+      "full_path": "Online Advertising Companies"
+    },
+    {
+      "id": "54",
+      "parent_id": null,
+      "name": "Tier 2 Services",
+      "full_path": "Tier 2 Services"
+    },
+    {
+      "id": "55",
+      "parent_id": null,
+      "name": "Consumer Loans",
+      "full_path": "Consumer Loans"
+    },
+    {
+      "id": "56",
+      "parent_id": null,
+      "name": "Free Giveaways",
+      "full_path": "Free Giveaways"
+    },
+    {
+      "id": "57",
+      "parent_id": null,
+      "name": "Misleading Claims",
+      "full_path": "Misleading Claims"
+    },
+    {
+      "id": "58",
+      "parent_id": null,
+      "name": "Sexual References",
+      "full_path": "Sexual References"
+    },
+    {
+      "id": "59",
+      "parent_id": null,
+      "name": "Get Rich Quick",
+      "full_path": "Get Rich Quick"
+    },
+    {
+      "id": "60",
+      "parent_id": null,
+      "name": "Sexually Suggestive",
+      "full_path": "Sexually Suggestive"
+    },
+    {
+      "id": "61",
+      "parent_id": null,
+      "name": "Real Estate",
+      "full_path": "Real Estate"
+    },
+    {
+      "id": "62",
+      "parent_id": null,
+      "name": "Family and Parenting",
+      "full_path": "Family and Parenting"
+    },
+    {
+      "id": "63",
+      "parent_id": null,
+      "name": "Weather",
+      "full_path": "Weather"
+    },
+    {
+      "id": "64",
+      "parent_id": null,
+      "name": "Holidays",
+      "full_path": "Holidays"
+    },
+    {
+      "id": "65",
+      "parent_id": null,
+      "name": "Legal",
+      "full_path": "Legal"
+    },
+    {
+      "id": "66",
+      "parent_id": null,
+      "name": "Firearms and Weapons",
+      "full_path": "Firearms and Weapons"
+    },
+    {
+      "id": "67",
+      "parent_id": null,
+      "name": "Tobacco and Smoking Products",
+      "full_path": "Tobacco and Smoking Products"
+    },
+    {
+      "id": "68",
+      "parent_id": null,
+      "name": "Gambling - Other",
+      "full_path": "Gambling - Other"
+    },
+    {
+      "id": "69",
+      "parent_id": null,
+      "name": "Fitness and Health",
+      "full_path": "Fitness and Health"
+    },
+    {
+      "id": "71",
+      "parent_id": null,
+      "name": "Deals and Coupons",
+      "full_path": "Deals and Coupons"
+    },
+    {
+      "id": "73",
+      "parent_id": null,
+      "name": "Toolbars",
+      "full_path": "Toolbars"
+    },
+    {
+      "id": "74",
+      "parent_id": null,
+      "name": "Alcoholic Beverages and References",
+      "full_path": "Alcoholic Beverages and References"
+    },
+    {
+      "id": "75",
+      "parent_id": null,
+      "name": "is behaviorally targeted",
+      "full_path": "is behaviorally targeted"
+    },
+    {
+      "id": "76",
+      "parent_id": null,
+      "name": "is remarketing",
+      "full_path": "is remarketing"
+    },
+    {
+      "id": "77",
+      "parent_id": null,
+      "name": "is cookie targeted",
+      "full_path": "is cookie targeted"
+    },
+    {
+      "id": "78",
+      "parent_id": null,
+      "name": "Quizzes and Surveys",
+      "full_path": "Quizzes and Surveys"
+    },
+    {
+      "id": "79",
+      "parent_id": null,
+      "name": "Flashing and Strobing",
+      "full_path": "Flashing and Strobing"
+    },
+    {
+      "id": "80",
+      "parent_id": null,
+      "name": "Fake Closing Action",
+      "full_path": "Fake Closing Action"
+    },
+    {
+      "id": "81",
+      "parent_id": null,
+      "name": "survey popup",
+      "full_path": "survey popup"
+    },
+    {
+      "id": "82",
+      "parent_id": null,
+      "name": "Creative is a game",
+      "full_path": "Creative is a game"
+    },
+    {
+      "id": "83",
+      "parent_id": null,
+      "name": "Generic Creative (creative content does not match landing page)",
+      "full_path": "Generic Creative (creative content does not match landing page)"
+    },
+    {
+      "id": "84",
+      "parent_id": null,
+      "name": "Blood/Gore",
+      "full_path": "Blood/Gore"
+    },
+    {
+      "id": "85",
+      "parent_id": null,
+      "name": "News",
+      "full_path": "News"
+    },
+    {
+      "id": "86",
+      "parent_id": null,
+      "name": "Flowers and Gifts",
+      "full_path": "Flowers and Gifts"
+    },
+    {
+      "id": "87",
+      "parent_id": null,
+      "name": "Government",
+      "full_path": "Government"
+    },
+    {
+      "id": "108",
+      "parent_id": null,
+      "name": "Misleading personalization",
+      "full_path": "Misleading personalization"
+    },
+    {
+      "id": "109",
+      "parent_id": null,
+      "name": "Political: \"Hot button\" issue for commercial use",
+      "full_path": "Political: \"Hot button\" issue for commercial use"
+    },
+    {
+      "id": "110",
+      "parent_id": null,
+      "name": "No privacy policy",
+      "full_path": "No privacy policy"
+    },
+    {
+      "id": "111",
+      "parent_id": null,
+      "name": "Implies personal characteristics of user",
+      "full_path": "Implies personal characteristics of user"
+    },
+    {
+      "id": "112",
+      "parent_id": null,
+      "name": "Pharmaceuticals - Prescription",
+      "full_path": "Pharmaceuticals - Prescription"
+    },
+    {
+      "id": "113",
+      "parent_id": null,
+      "name": "Pharmaceuticals - Non-prescription",
+      "full_path": "Pharmaceuticals - Non-prescription"
+    },
+    {
+      "id": "114",
+      "parent_id": null,
+      "name": "Pharmaceuticals - Herbal supplements",
+      "full_path": "Pharmaceuticals - Herbal supplements"
+    },
+    {
+      "id": "115",
+      "parent_id": null,
+      "name": "Pharmaceuticals - Steroid-like supplements",
+      "full_path": "Pharmaceuticals - Steroid-like supplements"
+    },
+    {
+      "id": "116",
+      "parent_id": null,
+      "name": "Un-disclosed subscription services",
+      "full_path": "Un-disclosed subscription services"
+    },
+    {
+      "id": "117",
+      "parent_id": null,
+      "name": "Mimics Facebook Interface",
+      "full_path": "Mimics Facebook Interface"
+    },
+    {
+      "id": "118",
+      "parent_id": null,
+      "name": "Gambling - Online gambling",
+      "full_path": "Gambling - Online gambling"
+    },
+    {
+      "id": "119",
+      "parent_id": null,
+      "name": "Gambling - Sports betting",
+      "full_path": "Gambling - Sports betting"
+    },
+    {
+      "id": "120",
+      "parent_id": null,
+      "name": "Gambling - Scratch card site",
+      "full_path": "Gambling - Scratch card site"
+    },
+    {
+      "id": "121",
+      "parent_id": null,
+      "name": "Gambling - Casino advertising resort",
+      "full_path": "Gambling - Casino advertising resort"
+    },
+    {
+      "id": "122",
+      "parent_id": null,
+      "name": "Gambling - Casino advertising gambling",
+      "full_path": "Gambling - Casino advertising gambling"
+    },
+    {
+      "id": "123",
+      "parent_id": null,
+      "name": "Gambling - Government-run lottery",
+      "full_path": "Gambling - Government-run lottery"
+    },
+    {
+      "id": "124",
+      "parent_id": null,
+      "name": "Gambling - Non-government lottery",
+      "full_path": "Gambling - Non-government lottery"
+    },
+    {
+      "id": "125",
+      "parent_id": null,
+      "name": "Gambling - Penny auctions",
+      "full_path": "Gambling - Penny auctions"
+    },
+    {
+      "id": "126",
+      "parent_id": null,
+      "name": "Gambling - Educational or tools",
+      "full_path": "Gambling - Educational or tools"
+    },
+    {
+      "id": "127",
+      "parent_id": null,
+      "name": "Sweepstakes",
+      "full_path": "Sweepstakes"
+    },
+    {
+      "id": "128",
+      "parent_id": null,
+      "name": "Mild or Suggestive Profanity",
+      "full_path": "Mild or Suggestive Profanity"
+    },
+    {
+      "id": "129",
+      "parent_id": null,
+      "name": "Undefined Borders",
+      "full_path": "Undefined Borders"
+    },
+    {
+      "id": "130",
+      "parent_id": null,
+      "name": "Rotating creative",
+      "full_path": "Rotating creative"
+    },
+    {
+      "id": "131",
+      "parent_id": null,
+      "name": "Download/Watch/Play Button",
+      "full_path": "Download/Watch/Play Button"
+    },
+    {
+      "id": "132",
+      "parent_id": null,
+      "name": "Horoscope or Astrology",
+      "full_path": "Horoscope or Astrology"
+    },
+    {
+      "id": "133",
+      "parent_id": null,
+      "name": "Mobile App Downloads",
+      "full_path": "Mobile App Downloads"
+    },
+    {
+      "id": "135",
+      "parent_id": null,
+      "name": "Unbranded Creative",
+      "full_path": "Unbranded Creative"
+    },
+    {
+      "id": "136",
+      "parent_id": null,
+      "name": "Contextual Nudity",
+      "full_path": "Contextual Nudity"
+    },
+    {
+      "id": "137",
+      "parent_id": null,
+      "name": "Arrest Records",
+      "full_path": "Arrest Records"
+    },
+    {
+      "id": "138",
+      "parent_id": null,
+      "name": "Software or System update",
+      "full_path": "Software or System update"
+    },
+    {
+      "id": "139",
+      "parent_id": null,
+      "name": "Auto: Manufacturers",
+      "full_path": "Auto: Manufacturers"
+    },
+    {
+      "id": "140",
+      "parent_id": null,
+      "name": "Auto: Dealerships",
+      "full_path": "Auto: Dealerships"
+    },
+    {
+      "id": "141",
+      "parent_id": null,
+      "name": "Auto: Parts and Services",
+      "full_path": "Auto: Parts and Services"
+    },
+    {
+      "id": "142",
+      "parent_id": null,
+      "name": "Auto: Classifieds",
+      "full_path": "Auto: Classifieds"
+    },
+    {
+      "id": "143",
+      "parent_id": null,
+      "name": "Boats and Watercraft",
+      "full_path": "Boats and Watercraft"
+    },
+    {
+      "id": "144",
+      "parent_id": null,
+      "name": "Gambling - Mahjong",
+      "full_path": "Gambling - Mahjong"
+    },
+    {
+      "id": "145",
+      "parent_id": null,
+      "name": "Gambling - Online Cash Games",
+      "full_path": "Gambling - Online Cash Games"
+    },
+    {
+      "id": "146",
+      "parent_id": null,
+      "name": "Gambling - Country approved operator",
+      "full_path": "Gambling - Country approved operator"
+    },
+    {
+      "id": "147",
+      "parent_id": null,
+      "name": "Dating - Sexually Explicit",
+      "full_path": "Dating - Sexually Explicit"
+    },
+    {
+      "id": "148",
+      "parent_id": null,
+      "name": "Medical Devices",
+      "full_path": "Medical Devices"
+    },
+    {
+      "id": "149",
+      "parent_id": null,
+      "name": "Clinical Trial Recruitment",
+      "full_path": "Clinical Trial Recruitment"
+    },
+    {
+      "id": "150",
+      "parent_id": null,
+      "name": "HIV home tests",
+      "full_path": "HIV home tests"
+    },
+    {
+      "id": "151",
+      "parent_id": null,
+      "name": "Paternity Test",
+      "full_path": "Paternity Test"
+    },
+    {
+      "id": "152",
+      "parent_id": null,
+      "name": "Abortion",
+      "full_path": "Abortion"
+    },
+    {
+      "id": "153",
+      "parent_id": null,
+      "name": "Birth Control or Fertility Products",
+      "full_path": "Birth Control or Fertility Products"
+    },
+    {
+      "id": "154",
+      "parent_id": null,
+      "name": "Cosmetic Procedures",
+      "full_path": "Cosmetic Procedures"
+    },
+    {
+      "id": "155",
+      "parent_id": null,
+      "name": "Plastic Surgery",
+      "full_path": "Plastic Surgery"
+    },
+    {
+      "id": "156",
+      "parent_id": null,
+      "name": "Moderate Nudity",
+      "full_path": "Moderate Nudity"
+    },
+    {
+      "id": "157",
+      "parent_id": null,
+      "name": "Cosmetic Procedure Nudity",
+      "full_path": "Cosmetic Procedure Nudity"
+    },
+    {
+      "id": "158",
+      "parent_id": null,
+      "name": "Alcohol - Online Sales",
+      "full_path": "Alcohol - Online Sales"
+    },
+    {
+      "id": "159",
+      "parent_id": null,
+      "name": "Alcohol - Prohibited Content",
+      "full_path": "Alcohol - Prohibited Content"
+    },
+    {
+      "id": "160",
+      "parent_id": null,
+      "name": "Pharm: Lipostabil",
+      "full_path": "Pharm: Lipostabil"
+    },
+    {
+      "id": "161",
+      "parent_id": null,
+      "name": "Pharmaceuticals - Graphic Imagery",
+      "full_path": "Pharmaceuticals - Graphic Imagery"
+    },
+    {
+      "id": "162",
+      "parent_id": null,
+      "name": "Online Games - Weapons / Violence",
+      "full_path": "Online Games - Weapons / Violence"
+    },
+    {
+      "id": "163",
+      "parent_id": null,
+      "name": "Firearms and Weapons: Sporting Goods Stores",
+      "full_path": "Firearms and Weapons: Sporting Goods Stores"
+    },
+    {
+      "id": "164",
+      "parent_id": null,
+      "name": "Firearms and Weapons: Gun Accessories",
+      "full_path": "Firearms and Weapons: Gun Accessories"
+    },
+    {
+      "id": "165",
+      "parent_id": null,
+      "name": "Firearms and Weapons: Services and Education",
+      "full_path": "Firearms and Weapons: Services and Education"
+    },
+    {
+      "id": "166",
+      "parent_id": null,
+      "name": "Political: Negative Attack Ads",
+      "full_path": "Political: Negative Attack Ads"
+    },
+    {
+      "id": "167",
+      "parent_id": null,
+      "name": "Sexual Toys and Accessories",
+      "full_path": "Sexual Toys and Accessories"
+    },
+    {
+      "id": "168",
+      "parent_id": null,
+      "name": "Misleading Claims - Beauty and Cosmetics",
+      "full_path": "Misleading Claims - Beauty and Cosmetics"
+    },
+    {
+      "id": "169",
+      "parent_id": null,
+      "name": "Offer Not Actionable on Landing Page",
+      "full_path": "Offer Not Actionable on Landing Page"
+    },
+    {
+      "id": "170",
+      "parent_id": null,
+      "name": "Creative has non-functional elements",
+      "full_path": "Creative has non-functional elements"
+    },
+    {
+      "id": "171",
+      "parent_id": null,
+      "name": "Tabloid / Advertorial",
+      "full_path": "Tabloid / Advertorial"
+    },
+    {
+      "id": "172",
+      "parent_id": null,
+      "name": "Strip Club / Gentlemans Club",
+      "full_path": "Strip Club / Gentlemans Club"
+    },
+    {
+      "id": "173",
+      "parent_id": null,
+      "name": "Unaccredited Online Universities",
+      "full_path": "Unaccredited Online Universities"
+    },
+    {
+      "id": "174",
+      "parent_id": null,
+      "name": "Underwear / Lingerie",
+      "full_path": "Underwear / Lingerie"
+    },
+    {
+      "id": "175",
+      "parent_id": null,
+      "name": "GDN Remarketing",
+      "full_path": "GDN Remarketing"
+    },
+    {
+      "id": "176",
+      "parent_id": null,
+      "name": "Financial: Forex",
+      "full_path": "Financial: Forex"
+    },
+    {
+      "id": "177",
+      "parent_id": null,
+      "name": "Unsubstantiated Rate",
+      "full_path": "Unsubstantiated Rate"
+    },
+    {
+      "id": "178",
+      "parent_id": null,
+      "name": "Travel Deterrent",
+      "full_path": "Travel Deterrent"
+    },
+    {
+      "id": "179",
+      "parent_id": null,
+      "name": "Price Match Guarantee",
+      "full_path": "Price Match Guarantee"
+    },
+    {
+      "id": "180",
+      "parent_id": null,
+      "name": "YDN",
+      "full_path": "YDN"
+    },
+    {
+      "id": "181",
+      "parent_id": null,
+      "name": "State of Emergency Profiteering",
+      "full_path": "State of Emergency Profiteering"
+    },
+    {
+      "id": "182",
+      "parent_id": null,
+      "name": "Food and Drink: Restaurants/Delivery Services",
+      "full_path": "Food and Drink: Restaurants/Delivery Services"
+    },
+    {
+      "id": "183",
+      "parent_id": null,
+      "name": "Premium Services: Power Utilities",
+      "full_path": "Premium Services: Power Utilities"
+    },
+    {
+      "id": "185",
+      "parent_id": null,
+      "name": "Pharmaceuticals and Supplements: Topical",
+      "full_path": "Pharmaceuticals and Supplements: Topical"
+    },
+    {
+      "id": "186",
+      "parent_id": null,
+      "name": "Pharmaceuticals and Supplements: Ingestible",
+      "full_path": "Pharmaceuticals and Supplements: Ingestible"
+    },
+    {
+      "id": "190",
+      "parent_id": null,
+      "name": "Lawsuits",
+      "full_path": "Lawsuits"
+    },
+    {
+      "id": "192",
+      "parent_id": null,
+      "name": "Gambling: Education",
+      "full_path": "Gambling: Education"
+    },
+    {
+      "id": "205",
+      "parent_id": null,
+      "name": "Pharmacy",
+      "full_path": "Pharmacy"
+    },
+    {
+      "id": "207",
+      "parent_id": null,
+      "name": "Addiction Treatment Center",
+      "full_path": "Addiction Treatment Center"
+    },
+    {
+      "id": "208",
+      "parent_id": null,
+      "name": "Beer",
+      "full_path": "Beer"
+    },
+    {
+      "id": "209",
+      "parent_id": null,
+      "name": "Wine",
+      "full_path": "Wine"
+    },
+    {
+      "id": "210",
+      "parent_id": null,
+      "name": "Liquor",
+      "full_path": "Liquor"
+    },
+    {
+      "id": "699",
+      "parent_id": null,
+      "name": "Pregnancy Test",
+      "full_path": "Pregnancy Test"
+    },
+    {
+      "id": "700",
+      "parent_id": null,
+      "name": "Prenatal Sex Determination",
+      "full_path": "Prenatal Sex Determination"
+    },
+    {
+      "id": "701",
+      "parent_id": null,
+      "name": "Morning After Pills",
+      "full_path": "Morning After Pills"
+    },
+    {
+      "id": "694",
+      "parent_id": null,
+      "name": "Clickbait",
+      "full_path": "Clickbait"
+    },
+    {
+      "id": "695",
+      "parent_id": null,
+      "name": "Image Defect: General",
+      "full_path": "Image Defect: General"
+    }
+  ]
+}

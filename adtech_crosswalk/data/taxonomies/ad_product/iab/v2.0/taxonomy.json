@@ -3,9 +3,9 @@
     "provider": "iab",
     "taxonomy_type": "ad_product",
     "version": "v2.0",
-    "snapshot_date": "2026-05-16",
+    "snapshot_date": "2026-05-18",
     "source_url": "https://raw.githubusercontent.com/InteractiveAdvertisingBureau/Taxonomies/main/Ad%20Product%20Taxonomies/Ad%20Product%20Taxonomy%202.0.tsv",
-    "fetched_at": "2026-05-16T12:29:07Z"
+    "fetched_at": "2026-05-18T02:33:17Z"
   },
   "entries": [
     {

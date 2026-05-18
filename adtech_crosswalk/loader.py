@@ -38,7 +38,9 @@ class Loader:
             for t in self._index["taxonomies"]
             if t["provider"] == provider and t["taxonomy_type"] == taxonomy_type
         ]
-        return versions[-1] if versions else None
+        if not versions:
+            return None
+        return sorted(versions, key=_version_sort_key)[-1]
 
     def get_taxonomy(self, provider: str, version: str, taxonomy_type: str = "ad_product") -> dict | None:
         key = f"{taxonomy_type}/{provider}/{version}"
@@ -86,3 +88,13 @@ class Loader:
             full_path = self._data_dir / path
             self._mappings[path] = json.loads(full_path.read_text()) if full_path.exists() else None
         return self._mappings[path]
+
+
+def _version_sort_key(version: str) -> tuple[int, ...] | tuple[int, str]:
+    if version == "latest":
+        return (999999,)
+    if version.startswith("v"):
+        parts = version[1:].split(".")
+        if all(part.isdigit() for part in parts):
+            return tuple(int(part) for part in parts)
+    return (-1, version)

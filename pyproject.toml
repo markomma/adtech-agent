@@ -22,6 +22,9 @@ adtech-crosswalk-build-index = "adtech_crosswalk.build_index:main"
 dev = [
     "pytest>=8.0",
 ]
+ingest = [
+    "beautifulsoup4>=4.12",
+]
 
 [tool.hatch.build.targets.wheel]
 packages = ["adtech_crosswalk"]

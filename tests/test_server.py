@@ -86,7 +86,7 @@ def test_resolve_defaults_to_iab_provider():
 def test_resolve_unavailable_taxonomy_type():
     result = _resolve_category(
         raw_category="beer",
-        taxonomy_type="audience",
+        taxonomy_type="nonexistent_type",
         providers=["iab"],
         version=None,
         min_confidence=0.75,

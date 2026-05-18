@@ -15,7 +15,7 @@ AD_PRODUCT_MD_URL = (
 )
 CONTENT_MD_URL = (
     "https://raw.githubusercontent.com/MicrosoftDocs/xandr-docs/main"
-    "/xandr-docs/digital-platform-api/content-category-service.md"
+    "/xandr-docs/monetize/content-categories.md"
 )
 MIN_AD_PRODUCT = 50
 MIN_CONTENT = 20
@@ -84,27 +84,36 @@ def ingest_content(repo_root: Path = REPO_ROOT) -> bool:
     markdown = fetch_url(CONTENT_MD_URL)
     rows = parse_markdown_table(markdown)
     columns = rows[0] if rows else {}
-    id_col = next((key for key in columns if "id" in key.lower() and "parent" not in key.lower()), None)
-    name_col = next((key for key in columns if "name" in key.lower() or "category" in key.lower()), None)
-    parent_col = next((key for key in columns if "parent" in key.lower()), None)
-    if not id_col or not name_col:
+    top_col = next((key for key in columns if "top-level" in key.lower()), None)
+    second_col = next((key for key in columns if "second-level" in key.lower()), None)
+    if not top_col or not second_col:
         raise ValueError(f"Could not identify columns in Xandr content markdown. Columns: {list(columns)}")
 
     entries = []
+    seen_ids: set[str] = set()
     for row in rows:
-        category_id = row.get(id_col, "").strip()
-        name = row.get(name_col, "").strip()
-        parent_id = row.get(parent_col, "").strip() or None if parent_col else None
-        if not category_id or not name:
+        top_name = row.get(top_col, "").strip()
+        if not top_name:
             continue
-        entries.append(
-            {
-                "id": category_id,
-                "parent_id": parent_id,
-                "name": name,
-                "full_path": name,
-            }
-        )
+        top_id = _slugify(top_name)
+        if top_id not in seen_ids:
+            entries.append({"id": top_id, "parent_id": None, "name": top_name, "full_path": top_name})
+            seen_ids.add(top_id)
+
+        second_level = row.get(second_col, "")
+        for child_name in [name.strip() for name in second_level.split(",") if name.strip()]:
+            child_id = f"{top_id}/{_slugify(child_name)}"
+            if child_id in seen_ids:
+                continue
+            entries.append(
+                {
+                    "id": child_id,
+                    "parent_id": top_id,
+                    "name": child_name,
+                    "full_path": f"{top_name} > {child_name}",
+                }
+            )
+            seen_ids.add(child_id)
 
     if len(entries) < MIN_CONTENT:
         raise ValueError(f"Expected >= {MIN_CONTENT} Xandr content category entries, got {len(entries)}")
@@ -138,6 +147,12 @@ def ingest_content(repo_root: Path = REPO_ROOT) -> bool:
         )
 
     return changed
+
+
+def _slugify(value: str) -> str:
+    normalized = value.lower().replace("&", "and")
+    chars = [char if char.isalnum() else "-" for char in normalized]
+    return "-".join(part for part in "".join(chars).split("-") if part)
 
 
 def main() -> None:

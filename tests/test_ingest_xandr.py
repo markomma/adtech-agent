@@ -75,34 +75,16 @@ Some intro text.
 """
 
 CONTENT_MD = """
-# Content Category Service
+# Content categories
 
-| Category Name | ID | Parent ID |
-|---|---|---|
-| Arts | 1 | |
-| Entertainment | 2 | 1 |
-| Music | 3 | 1 |
-| Sports | 4 | |
-| Football | 5 | 4 |
-| Basketball | 6 | 4 |
-| Technology | 7 | |
-| Mobile | 8 | 7 |
-| Gaming | 9 | 7 |
-| News | 10 | |
-| World News | 11 | 10 |
-| Local News | 12 | 10 |
-| Finance | 13 | |
-| Stocks | 14 | 13 |
-| Real Estate | 15 | 13 |
-| Health | 16 | |
-| Fitness | 17 | 16 |
-| Nutrition | 18 | 16 |
-| Travel | 19 | |
-| Destinations | 20 | 19 |
-| Hotels | 21 | 19 |
-| Food | 22 | |
-| Restaurants | 23 | 22 |
-| Recipes | 24 | 22 |
+| Top-level category | Second-level category |
+|--|--|
+| Arts & Entertainment | Entertainment Industry, Music, Movies, TV & Video |
+| Autos & Vehicles | Boats & Watercraft, Trucks & SUVs, Motorcycles, Vehicle Brands |
+| Business & Industry | Jobs, Agriculture & Forestry, Small Business, Advertising & Marketing |
+| Food & Drink | Cooking & Recipes, Restaurants, Non-Alcoholic Beverages, Grocery & Food Retailers |
+| News | World News, Local News, Business News, Technology News |
+| Sports | College, Football, Soccer, Basketball |
 """
 
 
@@ -138,12 +120,14 @@ def test_ingest_content_writes_taxonomy(mock_fetch, tmp_path):
     out = tmp_path / "taxonomies" / "content" / "xandr" / "latest" / "taxonomy.json"
     assert out.exists()
     data = json.loads(out.read_text())
-    assert len(data["entries"]) == 24
+    assert len(data["entries"]) == 30
+    assert data["entries"][0]["id"] == "arts-and-entertainment"
+    assert data["entries"][1]["parent_id"] == "arts-and-entertainment"
 
 
 @patch("ingest_xandr.fetch_url")
 def test_ingest_content_raises_below_floor(mock_fetch, tmp_path):
-    tiny_md = "| Category Name | ID | Parent ID |\n|---|---|---|\n| Sports | 1 | |\n"
+    tiny_md = "| Top-level category | Second-level category |\n|---|---|\n| Sports | Football |\n"
     mock_fetch.return_value = tiny_md
     with pytest.raises(ValueError, match="Expected"):
         ingest_xandr.ingest_content(repo_root=tmp_path)

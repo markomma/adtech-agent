@@ -45,10 +45,16 @@ Each mapping pair has a **canonical** file (source of truth, indexed by the prov
 | `scripts/validate.py` | Validate taxonomy.json and mapping.json schemas |
 | `scripts/invert_mapping.py` | Generate reverse mapping from canonical |
 
-## Sources
+## Data Sources
 
-- IAB Tech Lab Taxonomies: https://github.com/InteractiveAdvertisingBureau/Taxonomies
-- Google Product Type Taxonomy: https://www.google.com/basepages/producttype/taxonomy.en-US.txt
+Taxonomy and mapping data is sourced from the following open repositories and public taxonomy files:
+
+| Provider | Source | License |
+|---|---|---|
+| IAB Tech Lab (Ad Product, Content, Audience) | [InteractiveAdvertisingBureau/Taxonomies](https://github.com/InteractiveAdvertisingBureau/Taxonomies) | Apache 2.0 |
+| Google Product Type Taxonomy | [Google Product Taxonomy](https://www.google.com/basepages/producttype/taxonomy.en-US.txt) | Public taxonomy file |
+| FreeWheel MRM Industry IDs | [prebid/category-mapping-file](https://github.com/prebid/category-mapping-file) | Apache 2.0 |
+| Xandr / Microsoft Brand and Content Categories | [MicrosoftDocs/xandr-docs](https://github.com/MicrosoftDocs/xandr-docs) | CC BY 4.0 |
 
 ## MCP Server
 
